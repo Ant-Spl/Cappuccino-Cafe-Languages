@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cafe>
+	<achievement>
+		<text id="Basic_Achievement_Boughtdeco" name="Appetitligt lokale" />
+		<text id="Basic_Achievement_Boughtingredients" name="Zaren af ingredienserne" />
+		<text id="Basic_Achievement_Cookingcount" name="Flittig friture" />
+		<text id="Basic_Achievement_Coopcount" name="Multitask muffin" />
+		<text id="Basic_Achievement_Coopgoldcount" name="Emsig henkoger" />
+		<text id="Basic_Achievement_Curiercount" name="Eksklusiv sammenkogt ret" />
+		<text id="Basic_Achievement_Differentdishes" name="Smagende virtuos" />
+		<text id="Basic_Achievement_Earnedchips" name="Snu glaserer" />
+		<text id="Basic_Achievement_Fancycount" name="Velsmagende kollega" />
+		<text id="Basic_Achievement_Firenpc" name="Rasende rister" />
+		<text id="Basic_Achievement_Instantcount" name="Utålmodig omplanter" />
+		<text id="Basic_Achievement_Jobclean" name="Rasende afrydder" />
+		<text id="Basic_Achievement_Jobserve" name="Rasende uddeler" />
+		<text id="Basic_Achievement_Masteies" name="Hurtig snitter" />
+		<text id="Basic_Achievement_Masteriesgold" name="Gylden snitter" />
+		<text id="Basic_Achievement_Muffinmancash" name="Spendabel muffin" />
+		<text id="Basic_Achievement_Muffinmangold" name="Sød muffin" />
+		<text id="Basic_Achievement_Overcookedfoods" name="Kongen af fordærvet" />
+		<text id="Basic_Achievement_Servingcountmeals" name="Deftige dampnudler" />
+		<text id="Basic_Achievement_Servingcountsalads" name="Frisk tilsmager" />
+		<text id="Basic_Achievement_Servingcountsnacks" name="Grisk gørende pindemadsstykke" />
+		<text id="Basic_Achievement_Servingcountsoups" name="Slubrende suppekok" />
+		<text id="Basic_Achievement_Servingcountsweets" name="Beskæftiget bager" />
+		<text id="Basic_Achievement_Servingcountvegans" name="Blomstret blomkål" />
+		<text id="Basic_Achievement_Servingscount" name="Familieforsörger" />
+		<text id="Basic_Achievement_Solditems" name="Trancherende klunser" />
+		<text id="Basic_Achievement_Spentchips" name="Spendabel saucier" />
+		<text id="Basic_Achievement_Spentgold" name="Sød gastronom" />
+		<text id="Basic_Achievement_Wheeloffortune" name="Drejende delikatesse" />
+		<text id="Social_Achievement_Friendscount" name="Fællesgrill" />
+	</achievement>
+	<alerts>
+		<text id="alert_addcash_copy" name="Her kan du købe Guld/Cafédollar" />
+		<text id="alert_addcash_title" name="Paymentshop" />
+		<text id="alert_addFriend_copy" name="Ønsker du at tilføje {0} som ven?" />
+		<text id="alert_addFriend_denied_copy" name="{0} har desværre afvist din forespørgsel." />
+		<text id="alert_addFriend_denied_title" name="Forespørgsel afvist!" />
+		<text id="alert_addFriend_title" name="Venskabsforespørgsel" />
+		<text id="alert_addgold_copy" name="Du skal først registreres for at kunne købe ind her!" />
+		<text id="alert_addgold_title" name="Registrer" />
+		<text id="alert_avatarcustom_copy" name="Du kan ikke klæde dig om mens du arbejder!" />
+		<text id="alert_buytiles_copy" name="1. Udvælg en flise\n\n2. Vælg det ønskede område i din Café med aktiveret musetast.\n\n3. Slip musetasten" />
+		<text id="alert_buytiles_title" name="Pladser fliserne?" />
+		<text id="alert_changePasswordFaild_copy" name="Dit nye password skal indeholde mere end 2 tegn og det gamle password skal være indtastet korrekt!" />
+		<text id="alert_changePasswordFaild_title" name="Passwordindlæsning" />
+		<text id="alert_clearstove_cancelButton" name="Behold" />
+		<text id="alert_clearstove_okButton" name="Giv væk" />
+		<text id="alert_clearstove_title" name="Fra denne disk bliver der lige uddelt en ret. Vil du gerne beholde retten?" />
+		<text id="alert_counter_outofreach_copy" name="Disken kan ikke nås. Prøv at stil noget om!" />
+		<text id="alert_counter_outofreach_title" name="Attention!" />
+		<text id="alert_dekoshop_humanwaiter_copy" name="Så længe andre spillere arbejder som tjenere i din café, så kan du ikke skifte over i ombygningsmodussen." />
+		<text id="alert_dekoshop_humanwaiter_title" name="Går ikke!" />
+		<text id="alert_dekoshop_kickplayer_copy" name="Der er stadig spillere hos dig i caféen.  Når du vil bygge om nu, så smider du spillerne ud af din Café." />
+		<text id="alert_dekoshop_kickplayer_title" name="Attention!" />
+		<text id="alert_FancyCooking_copy" name="Ønsker du at krydre retten med dette fancy tilbehør og dermed få {0} XP og {1} portioner ekstra?" />
+		<text id="alert_FancyCooking_title" name="Fancy ingredienser" />
+		<text id="alert_fancyinfo_copy" name="Såfremt du krydrer en ret med det tilsvarende fancy tilbehør, så kan du få op til 20% mere XP og flere portioner! Fancyingredienserne indtager heller ikke nogen plads i dit køleskab!" />
+		<text id="alert_fancyinfo_title" name="Fancy ingredienser!" />
+		<text id="alert_giftboxfull_copy" name="Din gaveboks er fuld! Du kan ikke modtage nye gaver fra dine venner!" />
+		<text id="alert_giftboxfull_title" name="Ingen plads mere!" />
+		<text id="alert_guestchangepassword_copy" name="Du kan kun som registreret spiller ændre dit password!" />
+		<text id="alert_guestchangepassword_title" name="Registrer først" />
+		<text id="alert_guestcoop_copy" name="Du skal først registreres for at kunne spille Co-Ops!" />
+		<text id="alert_guestinvitefriend_copy" name="Kun som registreret spiller kan du invitere andre spillere." />
+		<text id="alert_guestinvitefriend_title" name="Registrer først" />
+		<text id="alert_guestlogout_copy" name="Registrer dig for at lagre din spillestand!" />
+		<text id="alert_guestlogout_title" name="Registrer" />
+		<text id="alert_help_copy" name="Du skal først hjælpe dig selv..." />
+		<text id="alert_help_title" name="Hjælp" />
+		<text id="alert_invitefriend_confirmed_copy" name="Din invitation til {0} blev sendt!" />
+		<text id="alert_invitefriend_confirmed_title" name="Invitation er sendt!" />
+		<text id="alert_invitefriend_copy" name="Indtast din vens navn og dennes e-mailadresse for at invitere ham." />
+		<text id="alert_invitefriend_mail" name="Vennens e-mailadresse:" />
+		<text id="alert_invitefriend_myname" name="Dit navn:" />
+		<text id="alert_invitefriend_name" name="Vennens navn:" />
+		<text id="alert_invitefriend_title" name="Inviter ven" />
+		<text id="alert_jobhelp_copy1" name="1. Afhentning af maden fra disken \n2. Betjen ventende gæster" />
+		<text id="alert_jobhelp_copy2" name="1. Afhentning af tallerkener fra bordet (også flere) \n2. Bring til disken" />
+		<text id="alert_jobhelp_header1" name="Betjen gæsterne" />
+		<text id="alert_jobhelp_header2" name="Afrydning af tallerkener" />
+		<text id="alert_jobhelp_title" name="Dine opgaver" />
+		<text id="alert_jobrefill_copy" name="Du skal først registreres for at kunne arbejde." />
+		<text id="alert_jobrefill_title" name="Registrer" />
+		<text id="alert_lostpassword_copy" name="Indtast din e-mailadresse og du vil få tilsendt et password." />
+		<text id="alert_lostpassword_title" name="Glemt password" />
+		<text id="alert_marketplace_jobcancled_copy" name="{0} har desværre afvist dit jobtilbud." />
+		<text id="alert_marketplace_jobcancled_title" name="Job afvist" />
+		<text id="alert_marketplace_jobempty_copy" name="Dine Arbejdstilladelser er opbrugt for i dag." />
+		<text id="alert_marketplace_jobempty_title" name="arbejdstilladelser opbrugt!" />
+		<text id="alert_marketplace_jobhired_copy" name="{0} har godtaget dit jobtilbud!" />
+		<text id="alert_marketplace_jobhired_title" name="Job taget" />
+		<text id="alert_marketplace_job_copy" name="Du fik tilbudt et tjenerjob fra {0} (Level {1}. Vil du tage dette?" />
+		<text id="alert_marketplace_job_title" name="Jobtilbud!" />
+		<text id="alert_marketplace_noticeboard_copy" name="Meld dig som arbejdssøgende her, såfremt du allerede har været flittig, kan du udfylde dine arbejdstilladelser her." />
+		<text id="alert_marketplace_noticeboard_title" name="Arbejdstilladelser" />
+		<text id="alert_marketplace_playerjobempty_copy" name="Spilleren har allerede arbejdet nok for dag." />
+		<text id="alert_marketplace_playerjobempty_title" name="Job afvist" />
+		<text id="alert_marketplace_playerleaved_copy" name="Spilleren har desværre forladt markedspladsen" />
+		<text id="alert_marketplace_playerleaved_title" name="Oooops" />
+		<text id="alert_nofreecounter_copy" name="Du har ikke nogen ledig disk." />
+		<text id="alert_nofreecounter_title" name="Oops!" />
+		<text id="alert_nofridge_copy" name="Du har jo slet ikke noget køleskab i din café. Kig engang efter i ombygningmodussen og træk et køleskab ind i caféen." />
+		<text id="alert_nofridge_title" name="Ikke noget køleskab?!" />
+		<text id="alert_nojobpermission_copy" name="For at melde dig som arbejdssøgende har du brug for en jobberetiggelse!" />
+		<text id="alert_nojobpermission_title" name="Attention!" />
+		<text id="alert_register_agb_copy" name="Uden AGB går det ikke. Bare læs igennem og bekræft med knap til højre, så kan det gå løs!" />
+		<text id="alert_register_email_copy" name="E-mailadressen må ikke være tom eller indeholde særtegn." />
+		<text id="alert_register_password_copy" name="Dit password må ikke være tomt eller indeholde særtegn." />
+		<text id="alert_register_title" name="Registreringsfejl" />
+		<text id="alert_seekingjob_copy" name="Du skal først registreres for at kunne arbejde." />
+		<text id="alert_seekingjob_title" name="Registrer" />
+		<text id="alert_selldeco_copy" name="Vil du virkelig sælge artiklen for {0}?" />
+		<text id="alert_selldeco_title" name="Sælge?" />
+		<text id="alert_sellitem_copy" name="Vil du virkelig sælge artiklen for {0} hver især?" />
+		<text id="alert_sellitem_title" name="Sælg?" />
+		<text id="alert_smoothiemaker_full_copy" name="I din Frosty befinder der sig stadig drikkevarer! Server disse til dine gæster, så kan du mikse noget nyt!" />
+		<text id="alert_smoothiemaker_outofreach_copy" name="Din frosty kan ikke nås. Prøv engang at omstil noget!" />
+		<text id="alert_smoothiemaker_storage_copy" name="I din Frosty befinder der sig stadig drikkevarer! Når du indlagrer denne går de øvrige portioner tabt!" />
+		<text id="alert_stafffire_copy" name="Ønsker du virkelig at fyre din trofaste tjener?" />
+		<text id="alert_stafffire_title" name="Fyring af tjeneren?" />
+		<text id="alert_staffhire_copy" name="Giv din nye tjener et navn." />
+		<text id="alert_staffhire_title" name="Ansæt ny" />
+		<text id="alert_storefull_copy" name="Dit køleskab er fuldt! Du skal sælge ingredienser for igen at kunne skaffe plads!" />
+		<text id="alert_storefull_title" name="Køleskab fyldt!" />
+		<text id="alert_stove_outofreach_copy" name="Komfuret kan ikke nås. Prøv at stil noget om!" />
+		<text id="alert_stove_outofreach_title" name="Attention!" />
+		<text id="alert_unlockitem_copy" name="Lad tilbehøret blive bragt af en kurer! Eksklusiviteten har dog sin pris." />
+		<text id="alert_unlockitem_title" name="Kurerforsendelse?" />
+		<text id="alert_userkicked_copy" name="Du blev smidt ud af caféen." />
+		<text id="alert_userkicked_title" name="Smidt ud!" />
+		<text id="alert_workinghero_copy" name="Kokken skal stadig arbejde!" />
+		<text id="alert_workinghero_title" name="Vent!" />
+	</alerts>
+	<commons>
+		<text id="addgold" name="mere guld" />
+		<text id="buy" name="Køb" />
+		<text id="cash" name="Cafédollar" />
+		<text id="comingsoon" name="Kommer snart" />
+		<text id="day" name="Dag" />
+		<text id="days" name="Dage" />
+		<text id="friends" name="{0} Venner" />
+		<text id="gold" name="Guld" />
+		<text id="hour" name="Time" />
+		<text id="hours" name="Timer" />
+		<text id="level" name="Level" />
+		<text id="logout" name="log af" />
+		<text id="mastery" name="Stjerne-Niveau" />
+		<text id="minute" name="Minut" />
+		<text id="minutes" name="Minutter" />
+		<text id="new" name="Ny!" />
+		<text id="second" name="Sekund" />
+		<text id="seconds" name="Sekunder" />
+		<text id="sell" name="Sælg" />
+		<text id="usable_character" name="usable character" />
+		<text id="XofY" name="{0} af {1}" />
+		<text id="xp" name="XP" />
+	</commons>
+	<cookstep>
+		<text id="cookstep_bananasplit1" name="Køl iscreme" />
+		<text id="cookstep_bananasplit2" name="Skær banan" />
+		<text id="cookstep_brigadeiro1" name="Melting chocolate" />
+		<text id="cookstep_brigadeiro2" name="Shaping brigadeiros" />
+		<text id="cookstep_blackforestcherrycake1" name="Bland ingredienserne" />
+		<text id="cookstep_blackforestcherrycake2" name="Kagebagning" />
+		<text id="cookstep_pizzasalad1" name="Making pizzas" />
+		<text id="cookstep_pizzasalad2" name="Making salads" />
+		<text id="cookstep_tripleomelette1" name="Mixing eggs strongly" />
+		<text id="cookstep_tripleomelette2" name="Folding everything" />
+		<text id="cookstep_chocolatewaffles1" name="Melting chocolate" />
+		<text id="cookstep_chocolatewaffles2" name="Covering waffles" />
+		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
+		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
+		<text id="cookstep_sausagepasta1" name="Boiling pasta" />
+		<text id="cookstep_sausagepasta2" name="Frying sausages" />
+		<text id="cookstep_applepie1" name="Building pies" />
+		<text id="cookstep_applepie2" name="Baking pies" />
+		<text id="cookstep_ramen1" name="Boiling pasta" />
+		<text id="cookstep_ramen2" name="Adding spices" />
+		<text id="cookstep_corncake1" name="Mixing ingredients" />
+		<text id="cookstep_corncake2" name="Baking cakes" />
+		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
+		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
+		<text id="cookstep_cheeseburger1" name="Brun hakkekød" />
+		<text id="cookstep_cheeseburger2" name="Belæg burger" />
+		<text id="cookstep_cheesedish1" name="Anret osten" />
+		<text id="cookstep_cheesedish2" name="Lad osten modne" />
+		<text id="cookstep_cheesefondue1" name="Bag brød" />
+		<text id="cookstep_cheesefondue2" name="Opvarm ost" />
+		<text id="cookstep_cherriecake1" name="Bland ingredienserne" />
+		<text id="cookstep_cherriecake2" name="Kagebagning" />
+		<text id="cookstep_cherrycompote1" name="Kog kirsebær" />
+		<text id="cookstep_cherrycompote2" name="Lad afkøle" />
+		<text id="cookstep_chickenburger1" name="Svits høne" />
+		<text id="cookstep_chickenburger2" name="Belæg burger" />
+		<text id="cookstep_chickensalad1" name="Brun kylling" />
+		<text id="cookstep_chickensalad2" name="Anret salat" />
+		<text id="cookstep_chickensoup1" name="Flæsk brunes" />
+		<text id="cookstep_chickensoup2" name="Kog suppe" />
+		<text id="cookstep_chiliconcarne1" name="Svits hakket kød" />
+		<text id="cookstep_chiliconcarne2" name="Kog chili" />
+		<text id="cookstep_chocmousse1" name="Bland ingredienserne" />
+		<text id="cookstep_chocmousse2" name="Afkøl mousseen" />
+		<text id="cookstep_chocolatecake1" name="Bland ingredienserne" />
+		<text id="cookstep_chocolatecake2" name="Bag" />
+		<text id="cookstep_chocolatecheesecake1" name="Smelt chokolade" />
+		<text id="cookstep_chocolatecheesecake2" name="Kagebagning" />
+		<text id="cookstep_chocolatefondue1" name="Smelt chokolade" />
+		<text id="cookstep_chocolatefondue2" name="Rør fløden i" />
+		<text id="cookstep_christmasturkey1" name="Dampkog grøntsager" />
+		<text id="cookstep_christmasturkey2" name="Steg kalkun" />
+		<text id="cookstep_cookieplate1" name="Stik dejen ud" />
+		<text id="cookstep_cookieplate2" name="Bag kiksene" />
+		<text id="cookstep_cornonthecob1" name="Kog majs" />
+		<text id="cookstep_cornonthecob2" name="Anret salat" />
+		<text id="cookstep_curry1" name="Brun ingredienserne" />
+		<text id="cookstep_curry2" name="Tilføj kokosnød" />
+		<text id="cookstep_duckalorange1" name="Fyld anden" />
+		<text id="cookstep_duckalorange2" name="Steg anden" />
+		<text id="cookstep_easterdish1" name="Smelt chokolade" />
+		<text id="cookstep_easterdish2" name="Kog æg" />
+		<text id="cookstep_englishbreakfast1" name="Kog bønner" />
+		<text id="cookstep_englishbreakfast2" name="Steg pølser" />
+		<text id="cookstep_fishandchips1" name="Frituresteg" />
+		<text id="cookstep_fishandchips2" name="Mos ærterne" />
+		<text id="cookstep_friedpotatoes1" name="Kog kartofler" />
+		<text id="cookstep_friedpotatoes2" name="Bras kartofler" />
+		<text id="cookstep_fruitpudding1" name="Lad dejen hvile" />
+		<text id="cookstep_fruitpudding2" name="Bag" />
+		<text id="cookstep_fruitsalad1" name="Skær frugt" />
+		<text id="cookstep_fruitsalad2" name="Bland dressingen forsigtigt" />
+		<text id="cookstep_greensalad1" name="Rør dressing" />
+		<text id="cookstep_greensalad2" name="Lad salaten trække" />
+		<text id="cookstep_gumbo1" name="Dampkog ingredienserne" />
+		<text id="cookstep_gumbo2" name="Bland risen forsigtigt" />
+		<text id="cookstep_hamburger1" name="Brun burgeren" />
+		<text id="cookstep_hamburger2" name="Anret burgeren" />
+		<text id="cookstep_hotcherrywaffles1" name="Kog kirsebær" />
+		<text id="cookstep_hotcherrywaffles2" name="Bag vafler" />
+		<text id="cookstep_jamspongepudding1" name="Bland ingredienserne" />
+		<text id="cookstep_jamspongepudding2" name="Bag" />
+		<text id="cookstep_lasagne1" name="Brun hakkekød" />
+		<text id="cookstep_lasagne2" name="Bag lasagne" />
+		<text id="cookstep_macncheese1" name="Fyld gratinformen" />
+		<text id="cookstep_macncheese2" name="Bag" />
+		<text id="cookstep_maplepancakes1" name="Bland dejen" />
+		<text id="cookstep_maplepancakes2" name="Bag pandekager" />
+		<text id="cookstep_marblecake1" name="Fyld formen" />
+		<text id="cookstep_marblecake2" name="Bag" />
+		<text id="cookstep_mexicansalad1" name="Kog bønnerne" />
+		<text id="cookstep_mexicansalad2" name="Bland ingredienserne" />
+		<text id="cookstep_minestrone1" name="Dampkog grønsagerne" />
+		<text id="cookstep_minestrone2" name="Tilføj nudlerne" />
+		<text id="cookstep_mixedsalad1" name="Rør dressingen" />
+		<text id="cookstep_mixedsalad2" name="Lad salaten trække" />
+		<text id="cookstep_nasigoreng1" name="Kog hønen" />
+		<text id="cookstep_nasigoreng2" name="Dampkog grønsager" />
+		<text id="cookstep_newyorkcheesecake1" name="Rør fyldet" />
+		<text id="cookstep_newyorkcheesecake2" name="Bag kagen" />
+		<text id="cookstep_noodlesalad1" name="Rør majonæse" />
+		<text id="cookstep_noodlesalad2" name="Bland ingredienserne" />
+		<text id="cookstep_omelette1" name="Krydder æg" />
+		<text id="cookstep_omelette2" name="Klap æg sammen" />
+		<text id="cookstep_onionsoup1" name="Dampkog løg" />
+		<text id="cookstep_onionsoup2" name="Overbag ost" />
+		<text id="cookstep_peasoup1" name="Brun løgene" />
+		<text id="cookstep_peasoup2" name="Kog suppe" />
+		<text id="cookstep_pizza1" name="Belæg pizzaen" />
+		<text id="cookstep_pizza2" name="Bag pizzaen" />
+		<text id="cookstep_pizzahawaii1" name="Belæg pizzaen" />
+		<text id="cookstep_pizzahawaii2" name="Bag pizza" />
+		<text id="cookstep_pizzatonno1" name="Belæg pizzaen" />
+		<text id="cookstep_pizzatonno2" name="Bag pizza" />
+		<text id="cookstep_porkroastwithcrackling1" name="Krydder kødet" />
+		<text id="cookstep_porkroastwithcrackling2" name="Steg" />
+		<text id="cookstep_potatosalad1" name="Kog kartofler" />
+		<text id="cookstep_potatosalad2" name="Rør majonæse" />
+		<text id="cookstep_redberrycompote1" name="Kog frugt" />
+		<text id="cookstep_redberrycompote2" name="Sødes" />
+		<text id="cookstep_ricepudding1" name="Kog risengrød" />
+		<text id="cookstep_ricepudding2" name="Kog æblemos" />
+		<text id="cookstep_roastchicken1" name="Fyld hønen" />
+		<text id="cookstep_roastchicken2" name="Steg" />
+		<text id="cookstep_sandwich1" name="Smør brød" />
+		<text id="cookstep_sandwich2" name="Toast belægges" />
+		<text id="cookstep_scouse1" name="Kog kødet" />
+		<text id="cookstep_scouse2" name="Tilføj rødbeder" />
+		<text id="cookstep_spagetti1" name="Brun hakkekød" />
+		<text id="cookstep_spagetti2" name="Kog sovsen" />
+		<text id="cookstep_spareribs1" name="Sylt kød" />
+		<text id="cookstep_spareribs2" name="Brun kød" />
+		<text id="cookstep_steak1" name="Brun kød" />
+		<text id="cookstep_steak2" name="Anret salat" />
+		<text id="cookstep_steakkidneypie1" name="Kog fyldet" />
+		<text id="cookstep_steakkidneypie2" name="Bag" />
+		<text id="cookstep_stew1" name="Brun kød" />
+		<text id="cookstep_stew2" name="Steg i gryde" />
+		<text id="cookstep_stewedrhubarb1" name="Kog rabarber" />
+		<text id="cookstep_stewedrhubarb2" name="Lad afkøle" />
+		<text id="cookstep_strawberrycake1" name="Bag bunden" />
+		<text id="cookstep_strawberrycake2" name="Belæg kagen" />
+		<text id="cookstep_strawberrymousse1" name="Purer jordbær" />
+		<text id="cookstep_strawberrymousse2" name="Pisk mousse" />
+		<text id="cookstep_stuffedpeppers1" name="Fyld paprika" />
+		<text id="cookstep_stuffedpeppers2" name="Bag paprika" />
+		<text id="cookstep_sundayfeast1" name="Sylt kød" />
+		<text id="cookstep_sundayfeast2" name="Steg kød" />
+		<text id="cookstep_sushi1" name="Fordel ingredienserne" />
+		<text id="cookstep_sushi2" name="Rul op" />
+		<text id="cookstep_toadinhole1" name="Bland dejen" />
+		<text id="cookstep_toadinhole2" name="Bag" />
+		<text id="cookstep_toast1" name="Belæg toasten" />
+		<text id="cookstep_toast2" name="Steg toasten" />
+		<text id="cookstep_tofuburger1" name="Tofuburger brunes" />
+		<text id="cookstep_tofuburger2" name="Belæg burger" />
+		<text id="cookstep_tomatosoup1" name="Brun løgene" />
+		<text id="cookstep_tomatosoup2" name="Kog tomaterne" />
+		<text id="cookstep_trifle1" name="Kog buddingen" />
+		<text id="cookstep_trifle2" name="Læg trifle i lag" />
+		<text id="cookstep_veganstirfry1" name="Dampkog grønsager" />
+		<text id="cookstep_veganstirfry2" name="Kog ris" />
+		<text id="cookstep_vegetablesoup1" name="Brun løgene" />
+		<text id="cookstep_vegetablesoup2" name="Kog suppen" />
+		<text id="cookstep_veggiecurry1" name="Kog ris" />
+		<text id="cookstep_veggiecurry2" name="Lad karry stege i gryde" />
+		<text id="cookstep_veggielasagne1" name="Læg lasagnen i lag" />
+		<text id="cookstep_veggielasagne2" name="Bag lasagne" />
+		<text id="cookstep_whitechoccheesecake1" name="Bland indgredienserne" />
+		<text id="cookstep_whitechoccheesecake2" name="Kagebagning" />
+		<text id="cookstep_whitechocmousse1" name="Smelt chokolade" />
+		<text id="cookstep_whitechocmousse2" name="Afkøl mousse" />
+		<text id="cookstep_coxinha1" name="Mixing ingredients" />
+		<text id="cookstep_coxinha2" name="Frying coxinhas" />
+	</cookstep>
+	<coopmission>
+		<text id="coop_desc_long_1" name="Vi laver et kogekursus, for at perfektionere nogle retter. Ønsker du at deltage?" />
+		<text id="coop_desc_long_10" name="Din familie kommer på besøg og du har den ærefulde opgave, at tilberede julemaden. Lad jer det smage!" />
+		<text id="coop_desc_long_11" name="Der er planlagt et kageslag og vi har brug for kager uden ende! Bag venligst så mange kager til os som muligt..." />
+		<text id="coop_desc_long_12" name="Til byens suppekøkken har vi brug for et udvalg af supper. Kunne du måske koge et par som virkelig smager enhver?" />
+		<text id="coop_desc_long_13" name="Til en asiatisk temaaften har vi stadig brug for et par typiske asiatiske retter. Har du et par opskrifter på lager?" />
+		<text id="coop_desc_long_14" name="Til den nationale konference for bygningsarbejdere har vi stadig brug for et par rigtig kraftige retter. Kunne du der have noget parat til et par rigtige mandfolk?" />
+		<text id="coop_desc_long_15" name="Der kommer besøg fra London forbi og man ønsker sig et par skønne normale historier fra hjemlandet. Kan du fremtrylle noget der?" />
+		<text id="coop_desc_long_2" name="Jeg planlægger en fest i Tex Mex stil og mangler dertil endnu den tilsvarende mad. Kan du hjælpe mig videre her?" />
+		<text id="coop_desc_long_3" name="Jeg får besøg af en sportsforening fra Hamborg og ønsker at de føler sig rigtig hjemme. Til det har jeg brug for en der kan koge efter Hamborgart. Har du lyst dertil?" />
+		<text id="coop_desc_long_4" name="Jeg laver et kæmpe haveparty og mangler dertil endnu en stor mængde mad, for også at tilfredsstille mine gæster. Jeg har hørt at du er en mester i catering. Kan du hjælpe mig?" />
+		<text id="coop_desc_long_5" name="Skiparken i byen foranstalter et Aprés Ski Party og har dertil stadig brug for mange lækkerier. Kunne du være behjælpelig dermed?" />
+		<text id="coop_desc_long_6" name="Min chef kommer forbi aften til spisning og jeg vil gøre indtryk på ham med en fire-retters-menu... Er det noget du kan tage dig af?" />
+		<text id="coop_desc_long_7" name="I skolekøkkenet har der været brand og børnene har ikke noget at spise! Kan du være os behjælpelig og koge lækre ting?" />
+		<text id="coop_desc_long_8" name="Min bedste ven fejrer sin fødselsdag og har ikke tænkt på at tage sig af maden. Der kommer mange folk med en stor sult...Kunne du hjælpe os?" />
+		<text id="coop_desc_long_9" name="En landsbyfest med mottoet Italien står an. Det eneste hvad der stadig mangler er maden. Hvordan ser det ud med din kogekunst?" />
+		<text id="coop_desc_short_1" name="Bliv mester i Spaghetti Bolognese" />
+		<text id="coop_desc_short_10" name="Spis indtil bukserne sprækker!" />
+		<text id="coop_desc_short_11" name="Ethvert pletskud tæller!" />
+		<text id="coop_desc_short_12" name="Der findes ikke noget der er bedre end suppe!" />
+		<text id="coop_desc_short_13" name="Der er altid ris med til!" />
+		<text id="coop_desc_short_14" name="Vi kan godt lide kød og kartofler!" />
+		<text id="coop_desc_short_15" name="Alt for den engelske verdensmand!" />
+		<text id="coop_desc_short_2" name="Fiesta Mexicana med alt hvad der dertil hører!" />
+		<text id="coop_desc_short_3" name="Labskovs til gæsterne fra Hamborg!" />
+		<text id="coop_desc_short_4" name="Toast Hawaii til havefesten!" />
+		<text id="coop_desc_short_5" name="Med chokolade på ostetoppen!" />
+		<text id="coop_desc_short_6" name="Mousse au Chocolat af det allerfineste!" />
+		<text id="coop_desc_short_7" name="Dannelse går gennem maven!" />
+		<text id="coop_desc_short_8" name="Bag pizza og Co. til en fødselsdagsfest!" />
+		<text id="coop_desc_short_9" name="Pizza! Pasta! Basta!" />
+		<text id="coop_title_1" name="KOGEKURSUS" />
+		<text id="coop_title_10" name="DET ER JUL!" />
+		<text id="coop_title_11" name="KAGESLAG!" />
+		<text id="coop_title_12" name="SUPPEKASPER" />
+		<text id="coop_title_13" name="ALT ASIATISK" />
+		<text id="coop_title_14" name="DET BLIVER HÅRDT!" />
+		<text id="coop_title_15" name="MEGET BRITISK!" />
+		<text id="coop_title_2" name="TEX MEX AFTEN" />
+		<text id="coop_title_3" name="HANSEATISK AFTEN" />
+		<text id="coop_title_4" name="HAVEPARTY" />
+		<text id="coop_title_5" name="APRÉS SKI" />
+		<text id="coop_title_6" name="DINNER PARTY" />
+		<text id="coop_title_7" name="SKOLEMAD UDGÅET" />
+		<text id="coop_title_8" name="FØDSELSDAGSPARTY" />
+		<text id="coop_title_9" name="ITALIENSK BUFFET" />
+	</coopmission>
+	<dialogs>
+		<text id="dialogwin_achievement_title" name="Udmærkelser" />
+		<text id="dialogwin_avatarcreate_man" />
+		<text id="dialogwin_avatarcreate_random" name="Ændring af udseende" />
+		<text id="dialogwin_avatarcreate_txt_avatar_name" name="Navn:" />
+		<text id="dialogwin_avatarcreate_txt_avatar_title" name="Udarbejd din karakter" />
+		<text id="dialogwin_avatarcreate_woman" />
+		<text id="dialogwin_avatarnameselect_copy" name="Navnet findes allerede. Navneforslag:" />
+		<text id="dialogwin_avatarnameselect_title" name="Oops!" />
+		<text id="dialogwin_avatar_btn_random" name="Tilfælde" />
+		<text id="dialogwin_bonus_copy_achievement" name="Du har nået trin {0} af denne udmærkelse! Hjerteligt tillykke!" />
+		<text id="dialogwin_bonus_copy_counter" name="Du kan nu købe dig en yderligere disk." />
+		<text id="dialogwin_bonus_copy_dish" name="Der blev åbnet nye opskrifter til dig:" />
+		<text id="dialogwin_bonus_copy_expand" name="Du har ekspanderet! Nu har du mere plads til dine gæster, dekorationer og meget mere!" />
+		<text id="dialogwin_bonus_copy_fridge" name="Du kan nu købe dig et yderligere køleskab." />
+		<text id="dialogwin_bonus_copy_instant" name="Endnu engang mere hurtig kogning. Et tryk og maden er klar til servering." />
+		<text id="dialogwin_bonus_copy_level2" name="Har du allerede set? Du kan også udvide din café og har dermed mere plads til dine gæster!" />
+		<text id="dialogwin_bonus_copy_login" name="Dette er sket i Caféen mens du var væk:" />
+		<text id="dialogwin_bonus_copy_newwaiter" name="Du har nu en ny medarbejder i din café! Gæsterne kan komme!" />
+		<text id="dialogwin_bonus_copy_stove" name="Du kan nu købe dig et nyt komfur." />
+		<text id="dialogwin_bonus_copy_waiter" name="Du kan ansætte yderligere en tjener." />
+		<text id="dialogwin_bonus_title_achievement" name="Ny udmærkelse" />
+		<text id="dialogwin_bonus_title_counter" name="Ny disk" />
+		<text id="dialogwin_bonus_title_dish" name="Nye opskrifter" />
+		<text id="dialogwin_bonus_title_expand" name="Hurra!" />
+		<text id="dialogwin_bonus_title_fridge" name="Nyt køleskab" />
+		<text id="dialogwin_bonus_title_instant" name="Hyppig instantcooking" />
+		<text id="dialogwin_bonus_title_level2" name="Ekspander!" />
+		<text id="dialogwin_bonus_title_login" name="Er tilstede igen!" />
+		<text id="dialogwin_bonus_title_newwaiter" name="Tillykke" />
+		<text id="dialogwin_bonus_title_stove" name="Nyt komfur" />
+		<text id="dialogwin_bonus_title_waiter" name="Mere personale" />
+		<text id="dialogwin_buytile_copy" name="Ønsker du at købe {0} fliser for {1}?" />
+		<text id="dialogwin_buytile_title" name="Køb fliser?" />
+		<text id="dialogwin_changepassword_copy_newpass" name="Nyt password:" />
+		<text id="dialogwin_changepassword_copy_oldpass" name="Gammelt password:" />
+		<text id="dialogwin_changepassword_title" name="Ændring af password" />
+		<text id="dialogwin_clearcounter_cancelButton" name="Behold" />
+		<text id="dialogwin_clearcounter_okButton" name="Smid væk" />
+		<text id="dialogwin_clearcounter_title" name="Fra denne disk bliver der lige uddelt en ret. Hvad vil du gøre med denne?" />
+		<text id="dialogwin_clearstove_btn_cancel" name="Behold" />
+		<text id="dialogwin_clearstove_btn_ok" name="Smid væk" />
+		<text id="dialogwin_clearstove_copy" name="Da har lov til {0} gange &apos;Kog færdigt med det samme&apos; i dag." />
+		<text id="dialogwin_clearstove_title" name="På dette komfur bliver der lige kogt. Hvad vil du gøre med det?" />
+		<text id="dialogwin_cookbook_income" name="{0} per portion" />
+		<text id="dialogwin_cookbook_readyin" name="Færdig i: {0}" />
+		<text id="dialogwin_cookbook_servings" name="Portioner: {0}" />
+		<text id="dialogwin_coopextend_nomoney" name="Du har ikke nok guld, til at kunne forlænge Co-Open!" />
+		<text id="dialogwin_coopreward_finish_0" name="Guld" />
+		<text id="dialogwin_coopreward_finish_1" name="Sølv" />
+		<text id="dialogwin_coopreward_finish_2" name="Bronze" />
+		<text id="dialogwin_coopreward_title_fail" name="Co-Op ikke klaret!" />
+		<text id="dialogwin_coopreward_title_success" name="Klaret Co-Op med {0}" />
+		<text id="dialogwin_coopshelp_copy" name="Her kan du, sammen med dine venner, opfylde kogeordre og dermed optjene ekstra XP og cafédollar.\nDesto hurtigere ordren klares, desto større er belønningen!\n\nHvis tiden engang skulle blive knap, kan du også forlænge til enhver tid!\n\nMen tænk på at du kun får belønningen, når du også bidrager med noget!" />
+		<text id="dialogwin_coopshelp_title" name="Hvad er Co-Ops?" />
+		<text id="dialogwin_coop_btn_action" name="Detaljer" />
+		<text id="dialogwin_coop_btn_activecoops" name="AKTIVER" />
+		<text id="dialogwin_coop_btn_join" name="Deltag" />
+		<text id="dialogwin_coop_btn_newcoop" name="START CO-OP" />
+		<text id="dialogwin_coop_btn_quit" name="Forlad" />
+		<text id="dialogwin_coop_extendtime_copy" name="Ønsker du at forlænge Co-Op´en for {0} guld? Guldtid: {1} time Sølvtid: {2} timer Broncetid: {3} timer" />
+		<text id="dialogwin_coop_extendtime_title" name="Mere tid?" />
+		<text id="dialogwin_coop_maxdone" name="Du har allerede startet en Co-Op i dag! Først i morgen kan du begynde på en ny!" />
+		<text id="dialogwin_coop_maxuser" name="Maksimalt deltagerantal: {0}" />
+		<text id="dialogwin_coop_member" name="Co-Opdeltager" />
+		<text id="dialogwin_coop_minlevel" name="Minimalt deltagerlevel: {0}" />
+		<text id="dialogwin_coop_quit_copy" name="Ønsker du virkelig at forlade denne Co-Op?" />
+		<text id="dialogwin_coop_subtitle" name="Dette skal I koge:" />
+		<text id="dialogwin_coop_timeInfo" name="Klaret i:" />
+		<text id="dialogwin_coop_timeleft" name="Øvrig tid:" />
+		<text id="dialogwin_coop_txt_noactive" name="Momentan findes der ikke nogen aktive Co-=ps.\nStart dog bare en!" />
+		<text id="dialogwin_coop_txt_title" name="CO-OPS" />
+		<text id="dialogwin_decoshophelp_copy" name="Når du trækker dine møbler eller dekorationer ind på dette adressefelt og IKKE ind på kassen, så bliver disse lagret.\nNår du trækker disse ind i din café påny, så koster det dig ikke penge.\nAntallet for de pågældende genstande ser du via det røde mærkat." />
+		<text id="dialogwin_decoshophelp_copy_1" name="Møblerne og dekorationerne har en luksusværdi, som, når man lægger disse sammen,bestemmer luksusværdien af din Café! Hvor luksoriøs er din Café?" />
+		<text id="dialogwin_decoshophelp_title" name="Indlagring af møbler/dekorationer?" />
+		<text id="dialogwin_decoshophelp_title_1" name="Luksusværdi?" />
+		<text id="dialogwin_dishmastery_copy_0" name="Du har fortjent dig en stjerne for {0}!" />
+		<text id="dialogwin_dishmastery_copy_1" name="Giv dine venner dog et par ekstra portioner!" />
+		<text id="dialogwin_dishmastery_info" name="Med hver stjerne bliver din ret til stadighed mere gevinstbringende!" />
+		<text id="dialogwin_dishmastery_title" name="En ny stjerne!" />
+		<text id="dialogwin_fancycooking_title" name="Ønsker du at krydre retten med {0}" />
+		<text id="dialogwin_featureUnlocked_coop" name="Start en Co-Op sammen med dine venner!" />
+		<text id="dialogwin_featureUnlocked_decoration" name="Nye dekorationer blev åbnet for dig!" />
+		<text id="dialogwin_featureUnlocked_fancy" name="Tilføj dine retter ekstra kryddersmag med fancyingredienser!" />
+		<text id="dialogwin_featureUnlocked_frosty" name="Opdag Frostien og sluk tørsten hos dine gæster!" />
+		<text id="dialogwin_featureUnlocked_marketplace" name="Find nye venner på markedspladsen!" />
+		<text id="dialogwin_featureUnlocked_muffinman" name="Prøv dit held ved Muffin Man!" />
+		<text id="dialogwin_featureUnlocked_ranking" name="Besøg andre spillere over ranglisten!" />
+		<text id="dialogwin_featureUnlocked_staff" name="Ansæt en ny tjener, til at kunne betjene dine mange gæster!" />
+		<text id="dialogwin_featureUnlocked_wheeloffortune" name="Prøv dit held ved lykkehjulet!" />
+		<text id="dialogwin_FriendShop_copy" name="Du har stadig brug for {0} netværksvenner, som hjælper dig med udbygningen af din café!\nMen du kan også bestille en håndværker for {1} guld!" />
+		<text id="dialogwin_FriendShop_title" name="Nye venner" />
+		<text id="dialogwin_giftbox_close" name="luk" />
+		<text id="dialogwin_giftbox_friendlist_empty" name="Du kan kun sende enhver netværksven en gave pr. dag." />
+		<text id="dialogwin_giftbox_friendlist_notavailable" name="Først fra i morgen af må du sende gaver til dine venner!" />
+		<text id="dialogwin_giftbox_ggsgifts_empty" name="Ingen gaver! Med Loginbonussen får du nye gaver!" />
+		<text id="dialogwin_giftbox_mygifts_empty" name="Du har ikke fået nogen gaver. Send dine venner nogle. Måske forærer de dig noget tilbage." />
+		<text id="dialogwin_giftbox_remove" name="gi væk" />
+		<text id="dialogwin_giftbox_send" name="forær" />
+		<text id="dialogwin_giftbox_sendablegifts_empty" name="I dag er der desværre ikke nogen gaver." />
+		<text id="dialogwin_giftbox_title" name="Gaver!" />
+		<text id="dialogwin_giftbox_use" name="brug" />
+		<text id="dialogwin_highscore_luxury" name="Luksus" />
+		<text id="dialogwin_highscore_name" name="Navn" />
+		<text id="dialogwin_highscore_rank" name="Rang" />
+		<text id="dialogwin_highscore_searchtext" name="Søg efter navn/rang" />
+		<text id="dialogwin_highscore_title" name="Rangliste" />
+		<text id="dialogwin_ingamehelp_1_1" name="Hvordan koger jeg en ret?" />
+		<text id="dialogwin_ingamehelp_1_2" name="På komfurene tilbereder du retterne til dine gæster. Til det skal du udvælge en opskrift og tilberede denne med flere klik." />
+		<text id="dialogwin_ingamehelp_1_3" name="I kogebogen finder du en oversigt over alle opskrifter og de har brug for ingredienser." />
+		<text id="dialogwin_ingamehelp_1_4" name="De nødvendige ingredienser til en opskrift finder du ingrediensshoppen." />
+		<text id="dialogwin_ingamehelp_1_5" name="Når du har samlet alle ingredienser, så kan du klikke på &quot;kog&quot; og tilberede en ret." />
+		<text id="dialogwin_ingamehelp_1_6" name="Er en ret færdig efter fastlagt tid, så kan du stille den på disken for at servere det." />
+		<text id="dialogwin_ingamehelp_1_7" name="Et brugt komfur er snavset og skal gøres rent inden næste ibrugtagning." />
+		<text id="dialogwin_ingamehelp_2_1" name="Hvad skal jeg vide omkring ingredienser?" />
+		<text id="dialogwin_ingamehelp_2_2" name="Her lagrer du dine købte ingredienser. Ethvert køleskab har en begrænset kapacitet. Men det kan heller aldrig skade af købe ind til forråd." />
+		<text id="dialogwin_ingamehelp_2_3" name="Fancyingredienser tjener som krydderi til din mad. Når du benytter dem, får du flere portioner og XP. De optager desuden ikke nogen plads i køleskabet." />
+		<text id="dialogwin_ingamehelp_2_4" name="Nogle ingredienser er af og til ikke til rådighed. Men her kan kureren hjælpe dig. Mod en lille præmie har du altid alt i huset." />
+		<text id="dialogwin_ingamehelp_2_5" name="Disse ingredienser er altid til rådighed:" />
+		<text id="dialogwin_ingamehelp_3_1" name="Værdier og Co." />
+		<text id="dialogwin_ingamehelp_3_2" name="Erfaringspoint får du gennem serveringen af retter. Yderligere muligheder er: Betjeningen i andre cafeer, det succesrige beståen af Co-Ops, udmærkelser eller serveringen af drikkevarer." />
+		<text id="dialogwin_ingamehelp_3_3" name="Din popularitet bestemmer hvor mange gæster der besøger dig. Din popularitet stiger når dine gæster forlader din café tilfredse. Men den kan også synke når gæster er utilfredse. Gæster er tilfredse når de får noget at spise." />
+		<text id="dialogwin_ingamehelp_3_4" name="Cafédollar tjener du gennem køb af måltider. Yderligere muligheder er: at arbejde som tjener, succesrige Co-Ops eller udmærkelser." />
+		<text id="dialogwin_ingamehelp_3_5" name="Enhver genstand i ombygningsmenuen har en luksusværdi. Denne har betydning for din popularitet. Desto luksioriøser desto mere populær..." />
+		<text id="dialogwin_ingamehelp_3_6" name="I ombygningsmenu finder du komfurer, diske, borde og mange yderligere indretningsgenstande. Vær kreativ!" />
+		<text id="dialogwin_ingamehelp_3_7" name="Skulle din Café blive dig for lille, har du mulighed for at udbygge for at skaffe mere plads til dine gæster." />
+		<text id="dialogwin_ingamehelp_4_1" name="Hvad skal jeg mere vide?" />
+		<text id="dialogwin_ingamehelp_4_2" name="På markedspladsen lærer du andre spillere at kende, kan du søge efter arbejde eller også chatte med andre spillere." />
+		<text id="dialogwin_ingamehelp_4_3" name="Udmærkelse får du for alle mulige aktioner og er en yderligere kilde til XP og Cafédollar." />
+		<text id="dialogwin_ingamehelp_4_4" name="Over markedspladsen kan du ansætte andre spillere i din Café eller selv lade dig hyre som tjener." />
+		<text id="dialogwin_ingamehelp_4_5" name="En Co-Op er et fælles kogeprojekt, som du kan spille med andre spillere. Ved succes fås også en belønning." />
+		<text id="dialogwin_ingamehelp_4_6" name="Dine tjenere serverer de færdige retter til dine ventende gæster og rydder også det beskidte service fra bordene." />
+		<text id="dialogwin_ingamehelp_4_7" name="Kogte retter, som ikke bliver stillet rettidigt på disken, bliver fordærvet." />
+		<text id="dialogwin_ingamehelp_ingredients" name="Ingredienser" />
+		<text id="dialogwin_ingredient_all" name="Alt" />
+		<text id="dialogwin_ingredient_emptyfridge" name="Dit køleskab er tomt. Sikke en skam! For at kunne koge noget nyt, så skal du skaffe dig ingredienser i ingrediensershoppen." />
+		<text id="dialogwin_ingredient_fancy" name="Specialtilbehør" />
+		<text id="dialogwin_ingredient_fruits" name="Frugt" />
+		<text id="dialogwin_ingredient_instore" name="x lager" />
+		<text id="dialogwin_ingredient_meat" name="Kød" />
+		<text id="dialogwin_ingredient_notinstock" name="Ikke tilstede!" />
+		<text id="dialogwin_ingredient_shoplayer" name="Tilbehørsshop" />
+		<text id="dialogwin_ingredient_storecapacity" name="Kapacitet:" />
+		<text id="dialogwin_ingredient_storeinused" name="I køleskabet:" />
+		<text id="dialogwin_ingredient_storelayer" name="Køleskab" />
+		<text id="dialogwin_ingredient_vegatable" name="Vegetarisk" />
+		<text id="dialogwin_instantcooking_copy" name="Ønsker du at koge færdigt med det samme? Endnu {0} gange muligt!" />
+		<text id="dialogwin_instantcooking_title" name="Ønsker du\n&apos;Kog færdig med det samme&apos;?" />
+		<text id="dialogwin_jobpaycheck_copy" name="Flittige tjenere bliver belønnet! Ud over drikkepenge kunne du også samle erfaring." />
+		<text id="dialogwin_jobpaycheck_title" name="Afregning" />
+		<text id="dialogwin_levelup_copy" name="Du har nået level {0}!" />
+		<text id="dialogwin_levelup_copy_1" name="Din belønning:" />
+		<text id="dialogwin_levelup_copy_2" name="Åbnet for dig:" />
+		<text id="dialogwin_levelup_title" name="LEVEL UP" />
+		<text id="dialogwin_lonelyingredient_copy" name="Din tjener har fundet en kasse med hemmlighedsfulde ingredienser!\n\nGiv den til dine venner!" />
+		<text id="dialogwin_lonelyingredient_title" name="Overraskelse!" />
+		<text id="dialogwin_lonelytip_copy" name="En gæst har givet dig en enorm stor sum drikkepenge! Aflever nogle af disse til dine venner!" />
+		<text id="dialogwin_lonelytip_title" name="Hurra!" />
+		<text id="dialogwin_muffinman_beforebet" name="Vælg din indsats. Når du vinder får du det doppelte tilbage!" />
+		<text id="dialogwin_muffinman_btn_again" name="Endnu engang!" />
+		<text id="dialogwin_muffinman_btn_go" name="Igang!" />
+		<text id="dialogwin_muffinman_header" name="Find fyldet!" />
+		<text id="dialogwin_muffinman_lostbet" name="Sådan en skam. Man kan jo heller ikke vinde altid! Måske ved den næste gang..." />
+		<text id="dialogwin_muffinman_nomoney" name="Du har ikke nok cafédollar/guld til din indsats!" />
+		<text id="dialogwin_muffinman_nopayment" name="Nå du vil spille om guld, må du mindst have nået level 10!" />
+		<text id="dialogwin_muffinman_noregister" name="Kun som registreret spiller må du spille &quot;Find fyldet&quot;!" />
+		<text id="dialogwin_muffinman_nosale" name="Du må ikke sælge muffinbageren!" />
+		<text id="dialogwin_muffinman_onlyonebuy" name="Du må kun pladsere en muffinbager in din Café!" />
+		<text id="dialogwin_muffinman_placedbet" name="Meget godt! I hvilken muffin er fyldet gemt?" />
+		<text id="dialogwin_muffinman_toohighbet" name="Så meget må du ikke sætte! Maksimumsindsatsen er {0} guld og {1} cafédollar!" />
+		<text id="dialogwin_muffinman_wonbet" name="Mmh, lækker! Du har fundet fyldet! Forsøg dog igen lige straks." />
+		<text id="dialogwin_nomoney_avatarchange" name="Du har ikke nok guld til at kunne klæde dig om!" />
+		<text id="dialogwin_nomoney_clean_copy" name="Du har ikke nok Cafédollar til at kunne pudse dit komfur." />
+		<text id="dialogwin_nomoney_copy" name="Oops, du har desværre ikke nok Cafédollar/Guld til at købe denne Artikel!" />
+		<text id="dialogwin_nomoney_courier" name="Du har ikke nok Cafédollar/Guld til at kunne betale kureren!" />
+		<text id="dialogwin_nomoney_instantcook_copy" name="Du har ikke nok cafédollar til at kunne koge færdig med det samme." />
+		<text id="dialogwin_nomoney_moregold" name="Køb af Cafédollar/Guld" />
+		<text id="dialogwin_nomoney_npchire" name="Du har ikke nok guld til at kunne ansætte en ny tjener!" />
+		<text id="dialogwin_nomoney_ok" name="OK" />
+		<text id="dialogwin_nomoney_title" name="Ikke nok Cafédollar/Guld" />
+		<text id="dialogwin_noreward_copy" name="Belønningen er desværre blevet hentet af en anden spiller!" />
+		<text id="dialogwin_noreward_title" name="Desværre!" />
+		<text id="dialogwin_perfectdish_copy" name="I dag har du {0} kogt perfekt!\nGiv dine venner dog et par ekstra portioner!" />
+		<text id="dialogwin_perfectdish_title" name="Perfekt!" />
+		<text id="dialogwin_presentreceived_copy" name="Din velkomstgave på {0} guld blev føjet til din konto." />
+		<text id="dialogwin_presentreceived_title" name="Fået gave!" />
+		<text id="dialogwin_presentreminder_btn_send" name="Afsend" />
+		<text id="dialogwin_presentreminder_copy1" name="Klik bare på guld-linket i e-mailen og kasser {0} guld!" />
+		<text id="dialogwin_presentreminder_copy2" name="Ja, send {0} guld til min e-mailadresse nu:" />
+		<text id="dialogwin_presentreminder_title" name="{0} guld til dig!" />
+		<text id="dialogwin_receiveitem_copy" name="Din belønning befinder sig i din gaveboks!" />
+		<text id="dialogwin_receiveitem_title" name="Hurra!" />
+		<text id="dialogwin_receivemoney_copy" name="Din belønning har du allerede fået tilgodeskrevet!" />
+		<text id="dialogwin_receivemoney_title" name="Tillykke!" />
+		<text id="dialogwin_refreshfood_btn_clean" name="Gøre rent" />
+		<text id="dialogwin_refreshfood_btn_refresh" name="Red maden" />
+		<text id="dialogwin_refreshfood_title" name="Ønsker du at\n\redde din mad?" />
+		<text id="dialogwin_register_agbs" name="Accepter AGB" />
+		<text id="dialogwin_register_mail" name="E-Mail" />
+		<text id="dialogwin_register_password" name="Password" />
+		<text id="dialogwin_register_title" name="Registrer" />
+		<text id="dialogwin_sendgift_send" name="forær" />
+		<text id="dialogwin_sendgift_titel" name="foræres til..." />
+		<text id="dialogwin_settings_email" name="Bloker e-mailmodtagelse" />
+		<text id="dialogwin_settings_general" name="Generelt" />
+		<text id="dialogwin_settings_high" name="Op" />
+		<text id="dialogwin_settings_low" name="Lille" />
+		<text id="dialogwin_settings_medium" name="Middel" />
+		<text id="dialogwin_settings_quality" name="Kvalitet" />
+		<text id="dialogwin_shippingconfirmation_copy1" name="Klik på linket i e-mailen, for at afhente guldet." />
+		<text id="dialogwin_shippingconfirmation_copy2" name="E-mail ikke ankommet endnu? Nogel minutter kan det tage. Hvis der så ikke er noget i spam-postkassen, så hjælper dig vores support gerne videre." />
+		<text id="dialogwin_shippingconfirmation_title" name="Guld-e-mail undervejs!" />
+		<text id="dialogwin_smoothiemakerhelp_copy" name="Her kan du blande dine drinks og servere disse for dine gæster. Vælg en drik dertil og klik på &quot;Bland&quot;.  For at servere en drik til en gæst klik bare på de &quot;tørstige&quot; gæster inden de har taget plads. De &quot;tørstige&quot; gæster genkender du på ikonet over deres hoved." />
+		<text id="dialogwin_smoothiemakerhelp_title" name="Hvordan sælger jeg drikkevarer?" />
+		<text id="dialogwin_smoothiemaker_allserved_copy" name="Du har serveret alle portioner! Vent indtil frostien er tom for at producere nye drikkevarer!" />
+		<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="Til shoppen" />
+		<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Du skal først købe dig en Frosty, for at servere drikkevarer!" />
+		<text id="dialogwin_smoothiemaker_nomoney_copy" name="Du har ikke nok Cafédollar/Guld til denne drik!" />
+		<text id="dialogwin_smoothiemaker_noservings_copy" name="Du har ikke flere drikkevarer! Bland da noget nyt!" />
+		<text id="dialogwin_smoothiemaker_onlyonebuy" name="Du må kun anbringe en Frosty in din Café!" />
+		<text id="dialogwin_smoothiemaker_txt_title" name="FROSTY" />
+		<text id="dialogwin_staffmanagement_btn_fire" name="Fyrer" />
+		<text id="dialogwin_staffmanagement_favorite" name="Beskæftigelse?" />
+		<text id="dialogwin_staffmanagement_favorite0" name="Ryd af" />
+		<text id="dialogwin_staffmanagement_favorite100" name="Server" />
+		<text id="dialogwin_staffmanagement_fire" name="Afskedig?" />
+		<text id="dialogwin_staffmanagement_renamecopy" name="Giv din tjener et nyt navn:" />
+		<text id="dialogwin_staffmanagement_renametitle" name="Omdøbes?" />
+		<text id="dialogwin_staff_hire" name="Ansætte" />
+		<text id="dialogwin_staff_management" name="Forvalt" />
+		<text id="dialogwin_staff_new" name="Ny tjener" />
+		<text id="dialogwin_staff_title" name="Dine tjenere" />
+		<text id="dialogwin_welcomeback_text" name="Som gave får du: {0} guld" />
+		<text id="dialogwin_welcomeback_text2" name="Som gave får du: {0} Guld og 3 coole fancy ingredienser." />
+		<text id="dialogwin_welcomeback_text3" name="" />
+		<text id="dialogwin_welcomeback_title" name="Velkommen tilbage {0}!" />
+		<text id="dialogwin_wheeloffortune_beforespin" name="Drej lykkehjulet og vind flotte priser!" />
+		<text id="dialogwin_wheeloffortune_btn_go" name="Drej!" />
+		<text id="dialogwin_wheeloffortune_btn_towheel" name="Til lykkehjulet" />
+		<text id="dialogwin_wheeloffortune_copy1" name="Allerede drejet lykkehjulet idag?" />
+		<text id="dialogwin_wheeloffortune_header" name="LYKKEHJULET!" />
+		<text id="dialogwin_wheeloffortune_info" name="Den første drejerunde er gratis!" />
+		<text id="dialogwin_wheeloffortune_info1" name="Hvert drej koster et stykke guld!" />
+		<text id="dialogwin_wheeloffortune_nomoney" name="Du har ikke nok guld, til at kunne dreje lykkehjulet!" />
+		<text id="dialogwin_wheeloffortune_noregister" name="Du må kun dreje lykkehjulet som registreret spiller!" />
+		<text id="dialogwin_wheeloffortune_nospace" name="Du har ikke nogen plads i din gaveboks til dine gevinster! Skab plads, så kan du dreje lykkehjulet!" />
+		<text id="dialogwin_wheeloffortune_title" name="Lykkehjulet!" />
+		<text id="dialogwin_wheeloffortune_tryagain" name="Forsøg dog straks lige engang mere!" />
+		<text id="dialogwin_wheeloffortune_wonbet" name="Hjertelig tillykke! Din pris:" />
+		<text id="dialogwin_wheeloffortune_woncash" name="Hjertelig tillykke! Din pris har du allerede fået tilgodeskrevet!" />
+		<text id="dialogwin_wheeloffortune_wonfood" name="Hjertelig tillykke! Din pris befinder sig i din gaveboks!" />
+		<text id="dialogwin_wheeloffortune_wongold" name="Du har vundet guldpotten!" />
+		<text id="dialogwin_wheeloffortune_wonitem" name="Hjertelig tillykke! Din pris befinder sig på dit lager!" />
+	</dialogs>
+	<error_codes>
+		<text id="achievement_error" name="Udmærkelse" />
+		<text id="achievement_errorcode_1" name="Fejl" />
+		<text id="cafechat_errorcode_23" name="Din chatfunktion blev midlertidigt deaktiveret af administrator." />
+		<text id="cafechat_errorcode_24" name="Fyld venligst ikke chatten med spam!" />
+		<text id="cafewalk_errorcode_1" name="Attention!" />
+		<text id="cafewalk_errorcode_23" name="På dette sted kan du ikke løbe." />
+		<text id="cafe_error" name="Attention!" />
+		<text id="changepassword_error" name="Ændring af password" />
+		<text id="changepassword_errorcode_0" name="Ændring af password lykkedes succesfuldt!" />
+		<text id="changepassword_errorcode_1" name="Fejl" />
+		<text id="changepassword_errorcode_10" name="Sorry, men det er ikke dit gamle password." />
+		<text id="coop_errorcode_3" name="Dit level er for lavt til at kunne deltage i dette Co-Op.\n Du skal mindst have åbnet en ret." />
+		<text id="coop_errorcode_7" name="Du kan kun deltage op til level {0} hos denne Co-Op." />
+		<text id="coop_errorcode_85" name="Denne Co-Op er allerede fuldt besat." />
+		<text id="courier_error" name="Leveringsproblemer" />
+		<text id="courier_errorcode_40" name="Din lagerkapacitet er ikke stor nok!" />
+		<text id="courier_errorcode_42" name="I mellemtiden kan ingrediensen også fås i den normale shop. Kig hurtigt efter!" />
+		<text id="courier_errorcode_43" name="Kureren er overbelastet og kan ikke levere din vare." />
+		<text id="createavatar_error" name="Attention!" />
+		<text id="createavatar_errorcode_12" name="Navnet findes allerede." />
+		<text id="createavatar_errorcode_15" name="Brugeren har allerede en Avatar." />
+		<text id="createavatar_errorcode_18" name="Det indtastede navn er ugyldigt." />
+		<text id="createavatar_error_invalide" name="Dit brugernavn må ikke stå tomt eller indeholde specialtegn." />
+		<text id="createavatar_error_nogender" name="Vælg venligst en karakter!" />
+		<text id="editbuy_errorcode_1" name="Attention!" />
+		<text id="editbuy_errorcode_3" name="Du har ikke nået det mindste level endnu for at kunne købe denne artikel!" />
+		<text id="editbuy_errorcode_38" name="Du kan kun ændre din café i ombygningsmodus." />
+		<text id="editbuy_errorcode_39" name="Positionen er ugyldig. Træk objektet til en fri plads i din café." />
+		<text id="editextend_errorcode_1" name="Attention!" />
+		<text id="editextend_errorcode_38" name="Du kan kun ændre din café i ombygningsmodus." />
+		<text id="editextend_errorcode_53" name="Denne udvidelse har du allerede." />
+		<text id="editextend_errorcode_54" name="Denne udvidelse må du ikke købe endnu." />
+		<text id="editmode_errorcode_1" name="Attention!" />
+		<text id="editmoveobj_errorcode_1" name="Attention!" />
+		<text id="editmoveobj_errorcode_38" name="Du kan kun ændre din café i ombygningsmodus." />
+		<text id="editmoveobj_errorcode_39" name="Positionen er ugyldig. Træk objektet til en fri plads i din café." />
+		<text id="editrotateobj_errorcode_1" name="Attention!" />
+		<text id="editrotateobj_errorcode_38" name="Du kan kun ændre din Café i ombygningsmodus." />
+		<text id="editrotateobj_errorcode_39" name="Positionen er ugyldig. Træk objektet til en fri plads i din café." />
+		<text id="editsell_errorcode_1" name="Attention!" />
+		<text id="editsell_errorcode_32" name="Artiklen haves ikke på lager." />
+		<text id="editsell_errorcode_38" name="Du kan kun ændre din Café i en ombygningsmodus." />
+		<text id="editsell_errorcode_39" name="Positionen er ugyldig. Træk objektet til en fri plads i din Café." />
+		<text id="editstoreobj_errorcode_1" name="Attention!" />
+		<text id="editstoreobj_errorcode_37" name="På denne artikel befinder der sig endnu en ret!" />
+		<text id="editstoreobj_errorcode_38" name="Du kan kun ændre din café i ombyningsmodus." />
+		<text id="editstoreobj_errorcode_39" name="Positionen er ugyldig. Træk objektet til en fri plads i din café." />
+		<text id="editstoreobj_errorcode_51" name="Feltet er tomt. Her findes ikke noget til salg." />
+		<text id="editstoreobj_removefailmin_counter" name="Du skal have mindst en disk." />
+		<text id="editstoreobj_removefailmin_fridge" name="Du skal have mindst et køleskab." />
+		<text id="editstoreobj_removefailmin_stove" name="Du skal have mindst et komfur." />
+		<text id="editstoreobj_removefailmin_title" name="Attention!" />
+		<text id="editstoreobj_removefail_counter" name="Disken skal være tom." />
+		<text id="editstoreobj_removefail_door" name="Du skal beholde din dør." />
+		<text id="editstoreobj_removefail_fridge" name="Du har for mange ingredienser." />
+		<text id="editstoreobj_removefail_stove" name="Komfuret skal være tomt." />
+		<text id="editstoreobj_removefail_title" name="Attention!" />
+		<text id="edit_error" name="Giv agt!" />
+		<text id="error" name="Error" />
+		<text id="fullscreenerror_msg_copy" name="Fuld billedmodus ikke mulig" />
+		<text id="fullscreenerror_msg_title" name="Fuldt billed:" />
+		<text id="gift_error" name="Går ikke!" />
+		<text id="gift_errorcode_20" name="Du har ikke nogen disk fri, til at kunne servere denne ret." />
+		<text id="gift_errorcode_40" name="Du har ikke plads i dit køleskab til at kunne opbevare dette ingrediens." />
+		<text id="gift_errorcode_5" name="Aktionen kan ikke gennemføres. Gave er ukendt" />
+		<text id="invitefriend_error" name="Fejl ved invitation af ven." />
+		<text id="invitefriend_errorcode_13" name="Denne spiller er allerede registreret!" />
+		<text id="invitefriend_errorcode_14" name="Ugyldig e-mailadresse!" />
+		<text id="jobrefill_error" name="Går ikke!" />
+		<text id="jobrefill_errorcode_1" name="Arbejdstilladelser er for tiden udsolgt." />
+		<text id="jobrefill_errorcode_61" name="Du kan kun engang per dag udfylde din arbejdstilladelser." />
+		<text id="joincafe_error" name="Går ikke" />
+		<text id="joincafe_errorcode_20" name="Lukket selskab. Der er desværre ikke plads til flere." />
+		<text id="joincafe_errorcode_21" name="Du er da allerede i denne café!" />
+		<text id="joincafe_errorcode_22" name="Denne Café findes desværre slet ikke!" />
+		<text id="level_error" name="Caféen er fejlbehæftet. Informer venligst Supporten." />
+		<text id="level_errorcode_1" name="Din café kunne ikke åbnes. Informer venligst Goodgame Studios-Support." />
+		<text id="login_error" name="Attention!" />
+		<text id="login_errorcode_1" name="Fejl" />
+		<text id="login_errorcode_12" name="Bruger er allerede tilmeldt." />
+		<text id="login_errorcode_13" name="Bruger er allerede tilmeldt." />
+		<text id="login_errorcode_14" name="Forkert brugernavn eller password!" />
+		<text id="login_errorcode_15" name="Du er allerede logget på" />
+		<text id="login_errorcode_16" name="Fejl i din Avatar. Informer venligst support." />
+		<text id="login_errorcode_wronglogin" name="Forkert brugernavn eller password!" />
+		<text id="lostpassword_error" name="Attention!" />
+		<text id="lostpassword_errorcode_1" name="Fejl" />
+		<text id="lostpassword_errorcode_11" name="På denne adresse er der ikke registreret nogen bruger!" />
+		<text id="marketplace_error" name="Markedsplads" />
+		<text id="marketplace_errorcode_20" name="Markedspladsen er desværre fuld. Prøv senere igen." />
+		<text id="marketplace_errorcode_21" name="Du befinder dig allerede på markedspladsen." />
+		<text id="npcfire_errorcode_1" name="Din tjener kunne ikke blive fyret." />
+		<text id="npchire_errorcode_1" name="Den nye tjener kunne ikke blive ansat." />
+		<text id="npcrename_errorcode_12" name="Navnet er ugyldigt!" />
+		<text id="npc_error" name="Attention!" />
+		<text id="register_error" name="Fejlregistrering" />
+		<text id="register_errorcode_1" name="Fejl" />
+		<text id="register_errorcode_10" name="Det password som du har indtastet, er ikke korrekt." />
+		<text id="register_errorcode_13" name="På denne e-mailadresse er der allerede tilmeldt en spiller, sorry." />
+		<text id="register_errorcode_14" name="E-maildressen du har indtastet er ikke korrekt." />
+		<text id="server_msg_10" name="Serveren bliver genstartet. Fortsætter om et øjeblik. Log dig venligst ud." />
+		<text id="server_msg_title" name="Server Message:" />
+		<text id="shopbuy_error" name="Ingen plads!" />
+		<text id="shopbuy_errorcode_40" name="Dit køleskab er allerede fuldt!" />
+		<text id="shopdelete_errorcode_41" name="Artikel haves ikke" />
+		<text id="smoothiemaker_error_alreadyserved" name="Denne gæst blev allerede betjent af dig!" />
+		<text id="useraction_error" name="Attention!" />
+		<text id="useraction_errorcode_2" name="Fyraften! I første omgang har du arbejdet nok!" />
+		<text id="useraction_errorcode_62" name="Du skal først hente en ret fra disken." />
+		<text id="useraction_errorcode_63" name="Inden du går og rydder af, så bring retten til en gæst eller tilbage til disken." />
+		<text id="versioncheck_error" name="Gammel version!" />
+		<text id="versioncheck_errorcode_1" name="Aktualiser siden" />
+		<text id="waiter_name_invalide" name="Dette tjenernavn er ikke tilladt." />
+	</error_codes>
+	<feature>
+		<text id="featureDialog_0_text_0" name="Nye dekorationer til at forskønne din café!" />
+		<text id="featureDialog_0_text_0_sozial" name="Lad dit arbejde blive belønnet i caféen!" />
+		<text id="featureDialog_0_text_1" name="Lad dit arbejde blive belønnet med ekstra Cafédollar, XP eller guld!" />
+		<text id="featureDialog_0_text_1_sozial" name="Nye dekorationer i shoppen!" />
+		<text id="featureDialog_0_text_2" name="Find ud af hvem der stadig spiller i caféen!" />
+		<text id="featureDialog_0_text_2_sozial" name="Find ud af hvem der stadig spiller i caféen" />
+		<text id="featureDialog_10_text_0" name="Har du brug for mere plads til dine gæster eller dekorationen? Så skaf dig de nye udvidelser nu!" />
+		<text id="featureDialog_11_text_0" name="Nye og spændende Co-Ops til dig og dine venner!" />
+		<text id="featureDialog_16_text_0" name="Sådan en nydelse for øret! Oplev din Café nu med lyd!" />
+		<text id="featureDialog_16_text_1" name="Bliv kagebager med det nye kagebageris dekoration!" />
+		<text id="featureDialog_17_text_0" name="Glæææædelig jul! Hent nordpolen ind i din café med den skønne festlige juledekoration!" />
+		<text id="featureDialog_18_text_0" name="Juleånden bevæger sig omkring med nye juleretter og nye Co-Ops!" />
+		<text id="featureDialog_19_text_0" name="Øg din cafés popularitet og gør den til den ædelste vidt og bredt med den nye luksusværdi af dine møbler og dekorationer!" />
+		<text id="featureDialog_1_text_0" name="Lad dit arbejde blive belønnet i caféen!" />
+		<text id="featureDialog_1_text_1" name="Nye dekorationer i shoppen" />
+		<text id="featureDialog_1_text_2" name="Find ud af hvem der stadig spiller i caféen!" />
+		<text id="featureDialog_20_text_0" name="Lav en stjerne-menu ud af dine retter!" />
+		<text id="featureDialog_20_text_1" name="Sidste chance for juleretter og vinterdekorationer!\nKun en uge endnu!" />
+		<text id="featureDialog_21_text_0" name="Begejster dine gæster med nye og lækre retter!" />
+		<text id="featureDialog_22_text_0" name="Nye udmærkelser venter på dig og hjælper dig med at bliver endnu mere succesrig!" />
+		<text id="featureDialog_23_text_0" name="Nu endnu mere fælles kogning! De nye Co-Ops venter allerede på dig!" />
+		<text id="featureDialog_24_text_0" name="Påskeharen var flittig!\nDe nye påskedekorationer er der!" />
+		<text id="featureDialog_24_text_1" name="Fjerkræ har aldrig lønnet sig endnu!\nOpdag And á l&apos;Orange!" />
+		<text id="featureDialog_25_text_0" name="Er du en heldig kartoffel? Prøv din lykke hos den nye muffinbager!" />
+		<text id="featureDialog_26_text_0" name="Står heldet dig bi? Find ud af det ved det nye lykkehjul på markedspladsen!" />
+		<text id="featureDialog_27_text_0" name="Øg din popularitet med candyflossmaskinen! Kan fås hos lykkehjulet!" />
+		<text id="featureDialog_28_text_0" name="Candyflossmaskinen er kun til rådighed hos lykkehjulet endnu I DAG!" />
+		<text id="featureDialog_29_text_0" name="Fra nu af kan du skifte din karakter til enhver tid!" />
+		<text id="featureDialog_2_text_0" name="Mød hinanden og chat med andre spillere!" />
+		<text id="featureDialog_2_text_1" name="Ny diner-temaudstyr!" />
+		<text id="featureDialog_2_text_2" name="Udbyg din café endnu mere!" />
+		<text id="featureDialog_30_text_0" name="Mere plads i dit køleskab! Fra nu af bliver fancyingredienserne ikke mere talt til kapaciteten i dit køleskab. Du kan lagre så mange som du har lyst til." />
+		<text id="featureDialog_30_text_1" name="Fra nu af kan du købe også købe dine udvidelser for Cafédollar!" />
+		<text id="featureDialog_31_text_0" name="Mere plads i dit køleskab! Fra nu af bliver fancyingredienserne ikke talt til kapaciteten i dit køleskab. Du kan lagre så mange du har lyst til." />
+		<text id="featureDialog_31_text_1" name="Fra nu af er dine udvidelser gratis, når du har nok venner!" />
+		<text id="featureDialog_32_text_0" name="Er dine gæster tørstige? Så hent dig hurtigt en Frosty og forfrisk dine gæster!" />
+		<text id="featureDialog_33_text_0" name="Opdag omeletten! Den nye og superkorte ret i din kogebog!" />
+		<text id="featureDialog_3_text_0" name="Tjen ekstra cafédollar og XP med tjenerjobs i andre caféer!" />
+		<text id="featureDialog_3_text_1" name="Nye lækre retter, som vil begejstre dine gæster!" />
+		<text id="featureDialog_4_text_0" name="Lær nye venner at kende på markedspladsen!" />
+		<text id="featureDialog_4_text_1" name="Nue diner-dekorationer, for at kunne kreere din café endnu mere individuelt!" />
+		<text id="featureDialog_5_text_0" name="Øg din gevinst og XP´en hos dine retter med det nye fancy tilbehør!" />
+		<text id="featureDialog_6_text_0" name="Modtag og forsend gaver via den nye gaveboks!" />
+		<text id="featureDialog_6_text_1" name="Øg din gevinst og XP´en hos dine retter med det nye fancy tilbehør!" />
+		<text id="featureDialog_7_text_0" name="Bring det vilde vesten ind i din café, med det nye saloonudstyr!" />
+		<text id="featureDialog_8_text_0" name="Nye forrygende retter som vil begejstre dine gæster!" />
+		<text id="featureDialog_9_text_0" name="Find ud af hvor du står henne, i den nye rangliste!" />
+		<text id="featureDialog_9_text_1" name="Som team er I stærke! Test det med de Co-Op´er!" />
+		<text id="featureDialog_9_text_2" name="Forbered dig på et rigtigt gys med det nye halloweenudstyr!" />
+		<text id="featureDialog_title" name="Nye features" />
+		<text id="limitedfeatureDialog_12_copy_0" name="Køb Halloweendekorationer nu!\nHaves kun i begrænset tid!" />
+		<text id="limitedfeatureDialog_12_copy_1" name="4 DAGE ENDNU!" />
+		<text id="limitedfeatureDialog_13_copy_0" name="Køb Halloweendekorationer nu!\nHaves kun i begrænset tid!" />
+		<text id="limitedfeatureDialog_13_copy_1" name="3 DAGE ENDNU!" />
+		<text id="limitedfeatureDialog_14_copy_0" name="Køb Halloweendekorationer nu!\nHaves kun i begrænset tid!" />
+		<text id="limitedfeatureDialog_14_copy_1" name="2 DAGE ENDNU!" />
+		<text id="limitedfeatureDialog_15_copy_0" name="Køb Halloweendekorationer nu!\nHaves kun i begrænset tid!" />
+		<text id="limitedfeatureDialog_15_copy_1" name="KUN I DAG!" />
+		<text id="limitedfeatureDialog_2_copy_0" name="Køb Halloweendekorationer nu!\nKun til rådighed i begrænset tid endnu!" />
+		<text id="limitedfeatureDialog_3_copy_0" name="Vinteren går mod enden! Vinterdekorationerne er kun til rådighed i kort tid endnu!" />
+		<text id="limitedfeatureDialog_5_copy_0" name="Køb påskedekorationer nu! Kun til rådighed i begrænset periode!" />
+		<text id="limitedfeatureDialog_time" name="ENDNU {0} DAGE!" />
+		<text id="limitedfeatureDialog_time_single" name="KUN I DAG ENDNU!" />
+		<text id="limitedfeatureDialog_title" name="ATTENTION!" />
+	</feature>
+	<feeds>
+		<text id="descriptionfeedcafe" name="Jeg har lige installeret Goodgame Café. Vil du også åbne dit eget restaurant og koge lækre retter? Så kig da lige ind!" />
+		<text id="descriptionlongcafe" name="Goodgame Café er Goodgame Studios brandnye spillenavn. Åben din egen café og begejstre dine talrige kunder med din kogekunst. Afgør selv, hvilke retter der står på dit spisekort og køb friske ingredienser til dine opskrifter. Ansæt dine venner som tjenere og gør din café til byens mest moderne mødested." />
+	</feeds>
+	<ingame_tooltips>
+		<text id="fridgetooltip_line1" name="Køleskab" />
+		<text id="fridgetooltip_line2" name="Klik for at åbne" />
+		<text id="muffinmantooltip_line1" name="Muffin-bager" />
+		<text id="muffinmantooltip_line2" name="Klik til spil!" />
+		<text id="player_action" name="Aktioner:" />
+		<text id="player_working" name="Arbejdstid" />
+		<text id="preparestep_cleaning" name="Rengør komfur" />
+		<text id="preparestep_serving" name="Tilbered retten" />
+		<text id="smoothiemaker_line1" name="Frosty" />
+		<text id="smoothiemaker_line2" name="Klik for at blande!" />
+		<text id="stovetooltip_clean1" name="Snavset komfur" />
+		<text id="stovetooltip_clean2" name="Klik for rengøring" />
+		<text id="stovetooltip_empty1" name="Tom disk" />
+		<text id="stovetooltip_empty2" name="Kog noget" />
+		<text id="stovetooltip_free" name="Klik på kog" />
+		<text id="stovetooltip_full1" name="Serveringsklar nu:" />
+		<text id="stovetooltip_full2" name="Portioner" />
+		<text id="stovetooltip_prepare1" name="Klik for kogning" />
+		<text id="stovetooltip_ready1" name="fordærvet indtil måltid" />
+		<text id="stovetooltip_ready2" name="Klik for servering" />
+		<text id="stovetooltip_spoiled1" name="Fordærvet" />
+		<text id="stovetooltip_spoiled2" name="Klik for rengøring" />
+		<text id="wheeloffortunetooltip_line1" name="Lykkehjulet!" />
+		<text id="wheeloffortunetooltip_line2" name="Klik til spillet!" />
+		<text id="wheeloffortunetooltip_line3" name="Et spil gratis" />
+	</ingame_tooltips>
+	<ingredients>
+		<text id="ingredient_cookfest" name="Event Ingredients" />
+		<text id="ingredient_apple" name="Æbler" />
+		<text id="ingredient_bacon" name="Flæsk" />
+		<text id="ingredient_bakingmix" name="Bageblanding" />
+		<text id="ingredient_ballpepper" name="Paprika" />
+		<text id="ingredient_banana" name="Bananer" />
+		<text id="ingredient_basil" name="Basilikum" />
+		<text id="ingredient_beans" name="Bønner" />
+		<text id="ingredient_beetroot" name="Rødbeder" />
+		<text id="ingredient_butter" name="Smør" />
+		<text id="ingredient_carrots" name="Gulerødder" />
+		<text id="ingredient_cheese" name="Ost" />
+		<text id="ingredient_cherries" name="Kirsebær" />
+		<text id="ingredient_chicken" name="Høne" />
+		<text id="ingredient_chili" name="Chili" />
+		<text id="ingredient_chocolate" name="Chokolade" />
+		<text id="ingredient_cinnamon" name="Kanel" />
+		<text id="ingredient_cocktailcherry" name="Cocktailkirsebær" />
+		<text id="ingredient_coconut" name="Kokosnødder" />
+		<text id="ingredient_cookies" name="Kiks" />
+		<text id="ingredient_coriander" name="Koriander" />
+		<text id="ingredient_cream" name="Fløde" />
+		<text id="ingredient_cucumber" name="Agurker" />
+		<text id="ingredient_curryspice" name="Karry" />
+		<text id="ingredient_duck" name="And" />
+		<text id="ingredient_eggplant" name="Aubergine" />
+		<text id="ingredient_eggs" name="Æg" />
+		<text id="ingredient_fish" name="Fisk" />
+		<text id="ingredient_flour" name="Mel" />
+		<text id="ingredient_garlic" name="Hvidløg" />
+		<text id="ingredient_horseradish" name="Peberrod" />
+		<text id="ingredient_kidney" name="Nyrer" />
+		<text id="ingredient_lettuce" name="Salat" />
+		<text id="ingredient_maplesyrup" name="Ahornsirup" />
+		<text id="ingredient_meat" name="Kød" />
+		<text id="ingredient_milk" name="Mælk" />
+		<text id="ingredient_mincemeat" name="Hakkekød" />
+		<text id="ingredient_nutmeg" name="Muskatnød" />
+		<text id="ingredient_oil" name="Olie" />
+		<text id="ingredient_onion" name="Løg" />
+		<text id="ingredient_orange" name="Appelsiner" />
+		<text id="ingredient_parsley" name="Persille" />
+		<text id="ingredient_pasta" name="Nudler" />
+		<text id="ingredient_peas" name="Ærter" />
+		<text id="ingredient_pinapple" name="Ananas" />
+		<text id="ingredient_potato" name="Kartofler" />
+		<text id="ingredient_quark" name="Kvark" />
+		<text id="ingredient_rhubarb" name="Rabarber" />
+		<text id="ingredient_rice" name="Ris" />
+		<text id="ingredient_rosemary" name="Rosmarin" />
+		<text id="ingredient_sausages" name="Pølser" />
+		<text id="ingredient_spicemix" name="Krydderiblanding" />
+		<text id="ingredient_strawberry" name="Jordbær" />
+		<text id="ingredient_sugar" name="Sukker" />
+		<text id="ingredient_sweetcorn" name="Majs" />
+		<text id="ingredient_tofu" name="Tofu" />
+		<text id="ingredient_tomato" name="Tomater" />
+		<text id="ingredient_turkeymix" name="Kalkunblanding" />
+		<text id="ingredient_vanilla" name="Vanille" />
+		<text id="ingredient_vegiemix" name="Grøntsagsblanding" />
+		<text id="ingredient_whitechocolat" name="Hvid chokolade" />
+	</ingredients>
+	<loggedin_msg id="" />
+	<panels>
+		<text id="panelwin_buddy_btn_morefriends" name="Flere venner!" />
+		<text id="panelwin_deco_dragtip_copy" name="For at anvende dette objekt, så træk det ind i din café." />
+		<text id="panelwin_deco_dragtip_title" name="Information" />
+		<text id="panelwin_deco_nomore_expansion" name="Endnu står der ikke nogen næste udvidelser til rådighed." />
+		<text id="panelwin_deco_objectcount_counter" name="Du skal opnå level {0} for at kunne købe yderligere en disk. Eller du trækker en gammel disk fra Caféen herind for at kunne købe en anden." />
+		<text id="panelwin_deco_objectcount_fridge" name="Du skal opnå level {0}, for at kunne købe et yderligere køleskab. Eller du trækker et gammelt køleskab fra Caféen herind for at købe et andet et." />
+		<text id="panelwin_deco_objectcount_nomore_counter" name="Først engang kan du ikke købe flere diske!" />
+		<text id="panelwin_deco_objectcount_nomore_fridge" name="Først engang kan du ikke købe flere køleskabe!" />
+		<text id="panelwin_deco_objectcount_nomore_stove" name="Først engang kan du ikke købe flere komfure!" />
+		<text id="panelwin_deco_objectcount_stove" name="Du skal opnå level {0} for at kunne købe et yderligere komfur. Eller du trækker et gammelt komfur fra Caféen herind for at kunne købe et andet et." />
+		<text id="panelwin_login_email" name="Username/E-Mail" />
+		<text id="panelwin_login_login" name="LOG IN" />
+		<text id="panelwin_login_lostpassword" name="Glemt password?" />
+		<text id="panelwin_login_password" name="Password" />
+		<text id="panelwin_login_play" name="SPIL MED DET SAMME" />
+		<text id="panelwin_login_register" name="REGISTRER" />
+		<text id="panelwin_login_rememberpassword" name="Gem password" />
+		<text id="panelwin_name_cafe" name="Café" />
+		<text id="panelwin_social_bot" name="Café-Chat" />
+		<text id="panelwin_social_comein" name="er trådt ind i Caféen" />
+		<text id="panelwin_social_comeinmarketplace" name="er trådt ind på markedspladsen" />
+		<text id="panelwin_social_goout" name="har forladt Caféen" />
+		<text id="panelwin_social_gooutmarketplace" name="har forladt markedspladsen" />
+		<text id="panelwin_social_noingamefriends" name="Du har ikke nogen venner endnu!" />
+		<text id="panelwin_social_noplayerincafe" name="For tiden er du alene her." />
+		<text id="panelwin_social_say" name=":" />
+		<text id="panelwin_social_standardanswer" name="Du kan snart chatte med andre spillere i din Café!" />
+		<text id="panelwin_social_welcome_marketplace" name="Velkommen! Klik på det sorte bræt, når du søger et job!" />
+		<text id="panelwin_social_welcome_mycafe" name="Velkommen" />
+		<text id="panelwin_social_writeable" name="Kun registrerede spillere fra level 1 af må benytte chatten." />
+	</panels>
+	<preparestep>
+		<text id="preparestep_bananasplit_banana" name="Skræl banan" />
+		<text id="preparestep_bananasplit_chocolate" name="Hak chokoladen i små dele" />
+		<text id="preparestep_brigadeiro_chocolate" name="Cut chocolate" />
+		<text id="preparestep_brigadeiro_cream" name="Mix cream" />
+		<text id="preparestep_brigadeiro_vanilla" name="Shave vanilla" />
+		<text id="preparestep_bananasplit_cream" name="Pisk fløden" />
+		<text id="preparestep_bananasplit_milk" name="Afmål mængden af mælk" />
+		<text id="preparestep_bananasplit_sugar" name="Vej sukker" />
+		<text id="preparestep_blackforestcherrycake_chocolate" name="Riv chokolade" />
+		<text id="preparestep_blackforestcherrycake_cocktailcherry" name="Gør kirsebær i stand" />
+		<text id="preparestep_blackforestcherrycake_cream" name="Pisk fløde" />
+		<text id="preparestep_pizzasalad_tomato" name="Cut tomatoes" />
+		<text id="preparestep_pizzasalad_onion" name="Cut onions" />
+		<text id="preparestep_pizzasalad_lettuce" name="Wash lettuce" />
+		<text id="preparestep_pizzasalad_cheese" name="Grate cheese" />
+		<text id="preparestep_pizzasalad_flour" name="Sift flour" />
+		<text id="preparestep_tripleomelette_eggs" name="Crack eggs strongly" />
+		<text id="preparestep_tripleomelette_chili" name="Make it spicy" />
+		<text id="preparestep_chocolatewaffles_flour" name="Measure flour" />
+		<text id="preparestep_chocolatewaffles_cream" name="Whip cream" />
+		<text id="preparestep_chocolatewaffles_eggs" name="Crack eggs softly" />
+		<text id="preparestep_chocolatewaffles_chocolate" name="Melt chocolate" />
+		<text id="preparestep_chocolatewaffles_vanilla" name="Add vanilla extract" />
+		<text id="preparestep_spanishomelette_potato" name="Peel potatoes" />
+		<text id="preparestep_spanishomelette_onion" name="Chop onions" />
+		<text id="preparestep_spanishomelette_eggs" name="Crack eggs in Spanish" />
+		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
+		<text id="preparestep_sausagepasta_pasta" name="Boil pasta" />
+		<text id="preparestep_sausagepasta_sausages" name="Chop sausages" />
+		<text id="preparestep_sausagepasta_tomato" name="Make tomato sauce" />
+		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
+		<text id="preparestep_applepie_cream" name="Whip cream" />
+		<text id="preparestep_applepie_eggs" name="Crack eggs elegantly" />
+		<text id="preparestep_applepie_flour" name="Measure flour" />
+		<text id="preparestep_applepie_apple" name="Think about apple economy" />
+		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_ramen_pasta" name="Boil pasta" />
+		<text id="preparestep_ramen_eggs" name="Boil eggs" />
+		<text id="preparestep_ramen_bacon" name="Chop bacon" />
+		<text id="preparestep_ramen_chili" name="Make it spicy" />
+		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
+		<text id="preparestep_corncake_butter" name="Melt butter" />
+		<text id="preparestep_corncake_eggs" name="Mix eggs" />
+		<text id="preparestep_corncake_milk" name="Add milk" />
+		<text id="preparestep_corncake_sugar" name="Mix sugar in the dough" />
+		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_feijoada_beans" name="Boil beans" />
+		<text id="preparestep_feijoada_bacon" name="Chop bacon chunks" />
+		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
+		<text id="preparestep_feijoada_onion" name="Chop onions" />
+		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
+		<text id="preparestep_feijoada_coriander" name="Add coriander" />
+		<text id="preparestep_blackforestcherrycake_flour" name="Si mel" />
+		<text id="preparestep_cheeseburger_cheese" name="Ost skæres" />
+		<text id="preparestep_cheeseburger_flour" name="Si mel" />
+		<text id="preparestep_cheeseburger_mincemeat" name="Hakket kød krydres" />
+		<text id="preparestep_cheeseburger_tomato" name="Del tomater" />
+		<text id="preparestep_cheesedish_cheese" name="Skær ost" />
+		<text id="preparestep_cheesefondue_cheese" name="Smelt ost" />
+		<text id="preparestep_cheesefondue_flour" name="Si mel" />
+		<text id="preparestep_cheesefondue_garlic" name="Pres hvidløg" />
+		<text id="preparestep_cherriecake_cherries" name="Kog kirsebær" />
+		<text id="preparestep_cherriecake_cream" name="Pisk fløde" />
+		<text id="preparestep_cherriecake_flour" name="Si mel" />
+		<text id="preparestep_cherriecake_sugar" name="Vej sukker" />
+		<text id="preparestep_cherrycompote_cherries" name="Fjern kirsebærsten" />
+		<text id="preparestep_cherrycompote_sugar" name="Sukker karameliseres" />
+		<text id="preparestep_chickenburger_chicken" name="Parter høne" />
+		<text id="preparestep_chickenburger_cucumber" name="Skær agurk" />
+		<text id="preparestep_chickenburger_flour" name="Si mel" />
+		<text id="preparestep_chickenburger_tomato" name="Tomater skæres" />
+		<text id="preparestep_chickensalad_chicken" name="Klargør høne" />
+		<text id="preparestep_chickensalad_lettuce" name="Rengør salat" />
+		<text id="preparestep_chickensalad_onion" name="Hak løg" />
+		<text id="preparestep_chickensalad_tomato" name="Del tomater" />
+		<text id="preparestep_chickensoup_bacon" name="Skær flæsk" />
+		<text id="preparestep_chickensoup_chicken" name="Parter høne" />
+		<text id="preparestep_chickensoup_onion" name="Hak løg" />
+		<text id="preparestep_chickensoup_pasta" name="Vej nudler" />
+		<text id="preparestep_chiliconcarne_bacon" name="Flæsk opskæres" />
+		<text id="preparestep_chiliconcarne_beans" name="Læg bønner i blød" />
+		<text id="preparestep_chiliconcarne_mincemeat" name="Krydder hakket kød" />
+		<text id="preparestep_chiliconcarne_onion" name="Hak løg" />
+		<text id="preparestep_chiliconcarne_tomato" name="Tomater skæres" />
+		<text id="preparestep_chocmousse_chocolate" name="Chokolade smeltes" />
+		<text id="preparestep_chocmousse_cream" name="Pisk fløde" />
+		<text id="preparestep_chocmousse_eggs" name="Æg deles" />
+		<text id="preparestep_chocolatecake_chocolate" name="Chokolade smeltes" />
+		<text id="preparestep_chocolatecake_cream" name="Pisk fløde" />
+		<text id="preparestep_chocolatecake_eggs" name="Æg deles" />
+		<text id="preparestep_chocolatecake_flour" name="Si mel" />
+		<text id="preparestep_chocolatecheesecake_chocolate" name="Hak chokolade" />
+		<text id="preparestep_chocolatecheesecake_cookies" name="Knus kiks" />
+		<text id="preparestep_chocolatecheesecake_milk" name="Afmål mælk" />
+		<text id="preparestep_chocolatecheesecake_quark" name="Rør quark" />
+		<text id="preparestep_chocolatefondue_chocolate" name="Prøv chokolade" />
+		<text id="preparestep_chocolatefondue_cream" name="Afmål fløde" />
+		<text id="preparestep_chocolatefondue_strawberry" name="Jordbær gøres i stand" />
+		<text id="preparestep_christmasturkey_turkeymix" name="Forberedelse af kalkunblanding" />
+		<text id="preparestep_christmasturkey_vegiemix" name="Optøning af grøntsager" />
+		<text id="preparestep_cookieplate_butter" name="Smelt smør" />
+		<text id="preparestep_cookieplate_chocolate" name="Hak chokolade" />
+		<text id="preparestep_cookieplate_flour" name="Si mel" />
+		<text id="preparestep_cookieplate_sugar" name="Karameliser sukker" />
+		<text id="preparestep_cornonthecob_butter" name="Del smør i klumper" />
+		<text id="preparestep_cornonthecob_lettuce" name="Rengør salat" />
+		<text id="preparestep_cornonthecob_sweetcorn" name="Gør majsen i stand" />
+		<text id="preparestep_curry_ballpepper" name="Skær paprika" />
+		<text id="preparestep_curry_coconut" name="Knæk kokosnød" />
+		<text id="preparestep_curry_curryspice" name="Afmål karry" />
+		<text id="preparestep_curry_meat" name="Skær kød" />
+		<text id="preparestep_curry_peas" name="Kog ærter" />
+		<text id="preparestep_duckalorange_butter" name="Smelt smør" />
+		<text id="preparestep_duckalorange_duck" name="Klargør anden" />
+		<text id="preparestep_duckalorange_onion" name="Hak løg" />
+		<text id="preparestep_duckalorange_orange" name="Skræl appelsin" />
+		<text id="preparestep_easterdish_chocolate" name="Prøv chokolade" />
+		<text id="preparestep_easterdish_eggs" name="Tæl æg" />
+		<text id="preparestep_englishbreakfast_beans" name="Kog bønner" />
+		<text id="preparestep_englishbreakfast_eggs" name="Slå æg op" />
+		<text id="preparestep_englishbreakfast_flour" name="Si mel" />
+		<text id="preparestep_englishbreakfast_sausages" name="Tæl pølser" />
+		<text id="preparestep_fishandchips_fish" name="Gør fisken klar" />
+		<text id="preparestep_fishandchips_flour" name="Si mel" />
+		<text id="preparestep_fishandchips_oil" name="Opvarm olie" />
+		<text id="preparestep_fishandchips_peas" name="Kog ærter" />
+		<text id="preparestep_fishandchips_potato" name="Skræl kartofler" />
+		<text id="preparestep_friedpotatoes_bacon" name="Brun flæsk" />
+		<text id="preparestep_friedpotatoes_onion" name="Hak løg" />
+		<text id="preparestep_friedpotatoes_potato" name="Skræl kartofler" />
+		<text id="preparestep_fruitpudding_bakingmix" name="Rør blanding" />
+		<text id="preparestep_fruitpudding_spicemix" name="Vej krydderier" />
+		<text id="preparestep_fruitsalad_apple" name="Skræl æbler" />
+		<text id="preparestep_fruitsalad_banana" name="Skræl bananer" />
+		<text id="preparestep_fruitsalad_cherries" name="Udsten kirsebær" />
+		<text id="preparestep_fruitsalad_orange" name="Skræl appelsiner" />
+		<text id="preparestep_greensalad_lettuce" name="Rengør salat" />
+		<text id="preparestep_greensalad_onion" name="Hak løg" />
+		<text id="preparestep_greensalad_tomato" name="Del tomater" />
+		<text id="preparestep_gumbo_curryspice" name="Rist karry" />
+		<text id="preparestep_gumbo_fish" name="Skær fisk" />
+		<text id="preparestep_gumbo_onion" name="Hak løg" />
+		<text id="preparestep_gumbo_rice" name="Kog ris" />
+		<text id="preparestep_hamburger_flour" name="Si mel" />
+		<text id="preparestep_hamburger_mincemeat" name="Hakkekød krydres" />
+		<text id="preparestep_hamburger_tomato" name="Del tomater" />
+		<text id="preparestep_hotcherrywaffles_cherries" name="Udsten kirsebær" />
+		<text id="preparestep_hotcherrywaffles_cream" name="Pisk fløde" />
+		<text id="preparestep_hotcherrywaffles_eggs" name="Del æg" />
+		<text id="preparestep_hotcherrywaffles_flour" name="Si mel" />
+		<text id="preparestep_hotcherrywaffles_milk" name="Opvarm mælken" />
+		<text id="preparestep_jamspongepudding_flour" name="Si mel" />
+		<text id="preparestep_jamspongepudding_milk" name="Mælk opvarmes" />
+		<text id="preparestep_jamspongepudding_strawberry" name="Jordbær gøres i stand" />
+		<text id="preparestep_jamspongepudding_sugar" name="Sukker karameliseres" />
+		<text id="preparestep_lasagne_cheese" name="Ost rives" />
+		<text id="preparestep_lasagne_mincemeat" name="Hakket kød krydres" />
+		<text id="preparestep_lasagne_pasta" name="Kog nudler" />
+		<text id="preparestep_lasagne_tomato" name="Del tomater" />
+		<text id="preparestep_macncheese_cheese" name="Ost rives" />
+		<text id="preparestep_macncheese_cream" name="Afmål fløde" />
+		<text id="preparestep_macncheese_pasta" name="Kog nudler" />
+		<text id="preparestep_maplepancakes_eggs" name="Del æg" />
+		<text id="preparestep_maplepancakes_flour" name="Si mel" />
+		<text id="preparestep_maplepancakes_maple" name="Prøv ahornsirup" />
+		<text id="preparestep_maplepancakes_milk" name="Afmål mælk" />
+		<text id="preparestep_marblecake_butter" name="Smelt smør" />
+		<text id="preparestep_marblecake_chocolate" name="Smelt chokolade" />
+		<text id="preparestep_marblecake_flour" name="Si mel" />
+		<text id="preparestep_marblecake_sugar" name="Vej sukker" />
+		<text id="preparestep_mexicansalad_bacon" name="Flæsk brunes" />
+		<text id="preparestep_mexicansalad_beans" name="Bønner lægges i blød" />
+		<text id="preparestep_mexicansalad_onion" name="Løg brunes" />
+		<text id="preparestep_mexicansalad_sweetcorn" name="Majs koges" />
+		<text id="preparestep_minestrone_eggplant" name="Skær aubergine" />
+		<text id="preparestep_minestrone_pasta" name="Kog nudler" />
+		<text id="preparestep_minestrone_tomato" name="Del tomater" />
+		<text id="preparestep_mixedsalad_lettuce" name="Rengør salat" />
+		<text id="preparestep_mixedsalad_peas" name="Kog ærter" />
+		<text id="preparestep_mixedsalad_sweetcorn" name="Kog majs" />
+		<text id="preparestep_mixedsalad_tomato" name="Del tomater" />
+		<text id="preparestep_nasigoreng_chicken" name="Parter høne" />
+		<text id="preparestep_nasigoreng_eggs" name="Kog æg" />
+		<text id="preparestep_nasigoreng_onion" name="Hak løg" />
+		<text id="preparestep_nasigoreng_pinapple" name="Skær ananas" />
+		<text id="preparestep_nasigoreng_rice" name="Kog ris" />
+		<text id="preparestep_newyorkcheesecake_cookies" name="Kiks smuldres" />
+		<text id="preparestep_newyorkcheesecake_cream" name="Pisk fløde" />
+		<text id="preparestep_newyorkcheesecake_quark" name="Kvark røres" />
+		<text id="preparestep_newyorkcheesecake_sugar" name="Vej sukker" />
+		<text id="preparestep_noodlesalad_eggs" name="Del æg" />
+		<text id="preparestep_noodlesalad_oil" name="Slå olie op" />
+		<text id="preparestep_noodlesalad_pasta" name="Kog nudler" />
+		<text id="preparestep_noodlesalad_tomato" name="Del tomater" />
+		<text id="preparestep_omelette_eggs" name="Tæl æg" />
+		<text id="preparestep_onionsoup_cheese" name="Riv ost" />
+		<text id="preparestep_onionsoup_garlic" name="Pres hvidløg" />
+		<text id="preparestep_onionsoup_onion" name="Hak løg" />
+		<text id="preparestep_peasoup_bacon" name="Brun flæsk" />
+		<text id="preparestep_peasoup_garlic" name="Pres hvidløg" />
+		<text id="preparestep_peasoup_onion" name="Hak løg" />
+		<text id="preparestep_peasoup_peas" name="Gør ærter i stand" />
+		<text id="preparestep_pizzahawaii_bacon" name="Flæsk opskæres" />
+		<text id="preparestep_pizzahawaii_cheese" name="Riv ost" />
+		<text id="preparestep_pizzahawaii_flour" name="Si mel" />
+		<text id="preparestep_pizzahawaii_pinapple" name="Opskær ananas" />
+		<text id="preparestep_pizzahawaii_tomato" name="Tomater pureres" />
+		<text id="preparestep_pizzatonno_cheese" name="Riv ost" />
+		<text id="preparestep_pizzatonno_fish" name="Del fisk" />
+		<text id="preparestep_pizzatonno_flour" name="Si mel" />
+		<text id="preparestep_pizzatonno_onion" name="Skær løg" />
+		<text id="preparestep_pizzatonno_tomato" name="Tomater purereres" />
+		<text id="preparestep_pizza_cheese" name="Ost rives" />
+		<text id="preparestep_pizza_flour" name="Si mel" />
+		<text id="preparestep_pizza_tomato" name="Purer tomater" />
+		<text id="preparestep_porkroastwithcrackling_carrots" name="Skræl gulerødder" />
+		<text id="preparestep_porkroastwithcrackling_garlic" name="Pres hvidløg" />
+		<text id="preparestep_porkroastwithcrackling_meat" name="Skær kød" />
+		<text id="preparestep_porkroastwithcrackling_onion" name="Hak løg" />
+		<text id="preparestep_potatosalad_cucumber" name="Skær agurker op" />
+		<text id="preparestep_potatosalad_oil" name="Slå olie op" />
+		<text id="preparestep_pizza_sausages" name="Slice sausages" />
+		<text id="preparestep_potatosalad_potato" name="Skræl kartofler" />
+		<text id="preparestep_redberrycompote_cherries" name="Gør kirsebær i stand" />
+		<text id="preparestep_redberrycompote_rhubarb" name="Gør rabarber i stand" />
+		<text id="preparestep_redberrycompote_strawberry" name="Jordbær gøres i stand" />
+		<text id="preparestep_redberrycompote_sugar" name="Sukker karameliseres" />
+		<text id="preparestep_ricepudding_apple" name="Skræl æbler" />
+		<text id="preparestep_ricepudding_cream" name="Pisk fløde" />
+		<text id="preparestep_ricepudding_milk" name="Afmål mælk" />
+		<text id="preparestep_ricepudding_rice" name="Vej ris" />
+		<text id="preparestep_roastchicken_butter" name="Smelt smør" />
+		<text id="preparestep_roastchicken_chicken" name="Klargør høne" />
+		<text id="preparestep_roastchicken_onion" name="Hak løg" />
+		<text id="preparestep_sandwich_bacon" name="Skær flæsk" />
+		<text id="preparestep_sandwich_butter" name="Vej smør" />
+		<text id="preparestep_sandwich_cheese" name="Skær ost" />
+		<text id="preparestep_sandwich_flour" name="Si mel" />
+		<text id="preparestep_sandwich_tomato" name="Tomater skæres" />
+		<text id="preparestep_scouse_beetroot" name="Skær rødbeder" />
+		<text id="preparestep_scouse_cucumber" name="Sylt agurker" />
+		<text id="preparestep_scouse_eggs" name="Brun æg" />
+		<text id="preparestep_scouse_meat" name="Skær kød" />
+		<text id="preparestep_spagetti_mincemeat" name="Hakkekød krydres" />
+		<text id="preparestep_spagetti_pasta" name="Kog nudler" />
+		<text id="preparestep_spagetti_tomato" name="Del tomater" />
+		<text id="preparestep_spareribs_meat" name="Skær kød" />
+		<text id="preparestep_spareribs_oil" name="Afmål olie" />
+		<text id="preparestep_spareribs_onion" name="Hak løg" />
+		<text id="preparestep_spareribs_tomato" name="Purer tomater" />
+		<text id="preparestep_steakkidneypie_flour" name="Si mel" />
+		<text id="preparestep_steakkidneypie_kidney" name="Del nyrer" />
+		<text id="preparestep_steakkidneypie_meat" name="Skær kød" />
+		<text id="preparestep_steakkidneypie_onion" name="Hak løg" />
+		<text id="preparestep_steak_butter" name="Del smør i klumper" />
+		<text id="preparestep_steak_lettuce" name="Rengør salat" />
+		<text id="preparestep_steak_meat" name="Skær kød" />
+		<text id="preparestep_steak_potato" name="Skræl kartofler" />
+		<text id="preparestep_steak_tomato" name="Del tomater" />
+		<text id="preparestep_stewedrhubarb_rhubarb" name="Skær rabarber" />
+		<text id="preparestep_stewedrhubarb_sugar" name="Sukker karameliseres" />
+		<text id="preparestep_stew_meat" name="Skær kød" />
+		<text id="preparestep_stew_oil" name="Opvarm olie" />
+		<text id="preparestep_stew_onion" name="Hak løg" />
+		<text id="preparestep_strawberrycake_cream" name="Pisk fløde" />
+		<text id="preparestep_strawberrycake_flour" name="Si mel" />
+		<text id="preparestep_strawberrycake_strawberry" name="Jordbær gøres i stand" />
+		<text id="preparestep_strawberrymousse_cream" name="Pisk fløde" />
+		<text id="preparestep_strawberrymousse_eggs" name="Skil æg" />
+		<text id="preparestep_strawberrymousse_strawberry" name="Jordbær gøres i stand" />
+		<text id="preparestep_strawberrymousse_sugar" name="Vej sukker" />
+		<text id="preparestep_stuffedpeppers_ballpepper" name="Paprika udhules" />
+		<text id="preparestep_stuffedpeppers_eggs" name="Slå æg op" />
+		<text id="preparestep_stuffedpeppers_rice" name="Kog ris" />
+		<text id="preparestep_sundayfeast_carrots" name="Skræl gulerødder" />
+		<text id="preparestep_sundayfeast_meat" name="Skær kød" />
+		<text id="preparestep_sundayfeast_peas" name="Kog ærter" />
+		<text id="preparestep_sundayfeast_potato" name="Skræl kartofler" />
+		<text id="preparestep_sushi_cucumber" name="Agurk skæres" />
+		<text id="preparestep_sushi_fish" name="Fisk deles" />
+		<text id="preparestep_sushi_rice" name="Kog ris" />
+		<text id="preparestep_toadinhole_flour" name="Si mel" />
+		<text id="preparestep_toadinhole_onion" name="Hak løg" />
+		<text id="preparestep_toadinhole_sausages" name="Tæl pølser" />
+		<text id="preparestep_toast_cheese" name="Ost rives" />
+		<text id="preparestep_toast_flour" name="Si mel" />
+		<text id="preparestep_toast_pinapple" name="Ananas skæres" />
+		<text id="preparestep_tofuburger_flour" name="Si mel" />
+		<text id="preparestep_tofuburger_lettuce" name="Vask salat" />
+		<text id="preparestep_tofuburger_tofu" name="Tofu passeres" />
+		<text id="preparestep_tofuburger_tomato" name="Skær tomater" />
+		<text id="preparestep_tomatosoup_cream" name="Pisk fløde" />
+		<text id="preparestep_tomatosoup_onion" name="Hak løg" />
+		<text id="preparestep_tomatosoup_tomato" name="Skræl tomater" />
+		<text id="preparestep_trifle_cookies" name="Vej kiks" />
+		<text id="preparestep_trifle_cream" name="Pisk fløde" />
+		<text id="preparestep_trifle_strawberry" name="Jordbær gøres i stand" />
+		<text id="preparestep_trifle_sugar" name="Afmål sukker" />
+		<text id="preparestep_veganstirfry_carrots" name="Riv gulerødder" />
+		<text id="preparestep_veganstirfry_peas" name="Kog ærterne" />
+		<text id="preparestep_veganstirfry_rice" name="Vej risen" />
+		<text id="preparestep_veganstirfry_tomato" name="Del tomater" />
+		<text id="preparestep_vegetablesoup_onion" name="Hak løg" />
+		<text id="preparestep_vegetablesoup_potato" name="Skræl kartofler" />
+		<text id="preparestep_vegetablesoup_tomato" name="Del tomater" />
+		<text id="preparestep_veggiecurry_ballpepper" name="Skær paprika" />
+		<text id="preparestep_veggiecurry_coconut" name="Knæk kokosnød" />
+		<text id="preparestep_veggiecurry_curryspice" name="Afmål karry" />
+		<text id="preparestep_veggiecurry_eggplant" name="Skær aubergine" />
+		<text id="preparestep_veggiecurry_rice" name="Vej ris" />
+		<text id="preparestep_veggielasagne_cheese" name="Riv ost" />
+		<text id="preparestep_veggielasagne_eggplant" name="Skær aubergine" />
+		<text id="preparestep_veggielasagne_pasta" name="Kog nudler" />
+		<text id="preparestep_veggielasagne_tomato" name="Purer tomater" />
+		<text id="preparestep_whitechoccheesecake_cookies" name="Knus kiks" />
+		<text id="preparestep_whitechoccheesecake_cream" name="Pisk fløde" />
+		<text id="preparestep_whitechoccheesecake_milk" name="Opvarm mælk" />
+		<text id="preparestep_whitechoccheesecake_quark" name="Rør quark" />
+		<text id="preparestep_whitechoccheesecake_whitechocolat" name="Vej chokolade" />
+		<text id="preparestep_whitechocmousse_cream" name="Pisk fløde" />
+		<text id="preparestep_whitechocmousse_eggs" name="Skil æg" />
+		<text id="preparestep_whitechocmousse_whitechocolat" name="Smelt chokolade" />
+		<text id="preparestep_coxinha_flour" name="Spread flour" />
+		<text id="preparestep_coxinha_chicken" name="Shred chicken" />
+		<text id="preparestep_coxinha_onion" name="Chop onions" />
+		<text id="preparestep_coxinha_cream" name="Make cream cheese" />
+		<text id="preparestep_coxinha_oil" name="Heat oil" />
+		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
+	</preparestep>
+	<preparestep_fancy>
+		<text id="preparestep_bananasplit_vanilla" name="Udskrab vanille" />
+		<text id="preparestep_blackforestcherrycake_vanilla" name="Vanilje udskrabes" />
+		<text id="preparestep_pizzasalad_chili" name="Chop chili" />
+		<text id="preparestep_cheeseburger_chili" name="Skær chili" />
+		<text id="preparestep_cheesedish_parsley" name="Hak persille" />
+		<text id="preparestep_cheesefondue_chili" name="Skær chili" />
+		<text id="preparestep_cherriecake_vanilla" name="Vanilje udskrabes" />
+		<text id="preparestep_cherrycompote_vanilla" name="Vanilje udskrabes" />
+		<text id="preparestep_chickenburger_chili" name="Hak chili" />
+		<text id="preparestep_chickensalad_chili" name="Skær chili" />
+		<text id="preparestep_chickensoup_parsley" name="Hak persille" />
+		<text id="preparestep_chiliconcarne_chili" name="Hak chili" />
+		<text id="preparestep_chocmousse_vanilla" name="Skrab vanille ud" />
+		<text id="preparestep_chocolatecake_vanilla" name="Udskrab vanille" />
+		<text id="preparestep_chocolatecheesecake_vanilla" name="Vanilje udskrabes" />
+		<text id="preparestep_chocolatefondue_cinnamon" name="Strø kanel" />
+		<text id="preparestep_christmasturkey_rosemary" name="Hak rosmarin" />
+		<text id="preparestep_cookieplate_cinnamon" name="Mal kanel" />
+		<text id="preparestep_cornonthecob_parsley" name="Hak persille" />
+		<text id="preparestep_curry_coriander" name="Hak koriander" />
+		<text id="preparestep_duckalorange_cinnamon" name="Mal kanel" />
+		<text id="preparestep_easterdish_vanilla" name="Vanilje udskrabes" />
+		<text id="preparestep_englishbreakfast_chili" name="Skær chili" />
+		<text id="preparestep_fishandchips_parsley" name="Hak persille" />
+		<text id="preparestep_friedpotatoes_rosemary" name="Hak rosmarin" />
+		<text id="preparestep_fruitpudding_cinnamon" name="Mal kanel" />
+		<text id="preparestep_fruitsalad_vanilla" name="Udskrab vanille" />
+		<text id="preparestep_gardensalad_parsley" name="Hak persille" />
+		<text id="preparestep_greensalad_parsley" name="Hak persille" />
+		<text id="preparestep_gumbo_chili" name="Skær chili" />
+		<text id="preparestep_hamburger_chili" name="Skær chili" />
+		<text id="preparestep_hotcherrywaffles_vanilla" name="Udskrab vanille" />
+		<text id="preparestep_jamspongepudding_vanilla" name="Udskrab vanille" />
+		<text id="preparestep_lasagne_basil" name="Pil basilikumblade af" />
+		<text id="preparestep_macncheese_nutmeg" name="Riv muskatnød" />
+		<text id="preparestep_maplepancakes_vanilla" name="Udskrab vanille" />
+		<text id="preparestep_marblecake_vanilla" name="Vanilje udskrabes" />
+		<text id="preparestep_mexicansalad_chili" name="Skær chili" />
+		<text id="preparestep_minestrone_basil" name="Pil basilikumblade af" />
+		<text id="preparestep_mixedsalad_parsley" name="Hak persille" />
+		<text id="preparestep_nasigoreng_chili" name="Skær chili" />
+		<text id="preparestep_newyorkcheesecake_vanilla" name="Udskrab vanille" />
+		<text id="preparestep_noodlesalad_parsley" name="Hak persille" />
+		<text id="preparestep_omelette_chili" name="Hak Chili" />
+		<text id="preparestep_onionsoup_chili" name="Skær chili" />
+		<text id="preparestep_peasoup_parsley" name="Hak persille" />
+		<text id="preparestep_pizzahawaii_chili" name="Hak chili" />
+		<text id="preparestep_pizzatonno_horseradish" name="Riv peberrod" />
+		<text id="preparestep_pizza_chili" name="Skær chili" />
+		<text id="preparestep_porkroastwithcrackling_rosemary" name="Hak rosmarin" />
+		<text id="preparestep_potatosalad_parsley" name="Hak persille" />
+		<text id="preparestep_redberrycompote_vanilla" name="Vanilje udskrabes" />
+		<text id="preparestep_ricepudding_cinnamon" name="Mal kanel" />
+		<text id="preparestep_roastchicken_parsley" name="Hak persille" />
+		<text id="preparestep_sandwich_parsley" name="Hak persille" />
+		<text id="preparestep_scouse_parsley" name="Hak persille" />
+		<text id="preparestep_spagetti_basil" name="Pil basilikumblade af" />
+		<text id="preparestep_spareribs_chili" name="Skær chili" />
+		<text id="preparestep_steakkidneypie_parsley" name="Hak persille" />
+		<text id="preparestep_steak_parsley" name="Hak persille" />
+		<text id="preparestep_stewedrhubarb_vanilla" name="Udskrab vanille" />
+		<text id="preparestep_stew_chili" name="Skær chili" />
+		<text id="preparestep_strawberrycake_vanilla" name="Udskrab vanille" />
+		<text id="preparestep_strawberrymousse_vanilla" name="Vanilje udskrabes" />
+		<text id="preparestep_stuffedpeppers_parsley" name="Hak persille" />
+		<text id="preparestep_sundayfeast_rosemary" name="Hak rosmarin" />
+		<text id="preparestep_sushi_horseradish" name="Riv peberrod" />
+		<text id="preparestep_toadinhole_rosemary" name="Hak rosmarin" />
+		<text id="preparestep_toast_chili" name="Skær chili" />
+		<text id="preparestep_tofuburger_chili" name="Hak chili" />
+		<text id="preparestep_tomatosoup_basil" name="Pil basilikumblade af" />
+		<text id="preparestep_trifle_vanilla" name="Udskrab vanille" />
+		<text id="preparestep_veganstirfry_chili" name="Skær chili" />
+		<text id="preparestep_vegetablesoup_basil" name="Pil basilikumblade af" />
+		<text id="preparestep_veggiecurry_coriander" name="Hak koriander" />
+		<text id="preparestep_veggielasagne_basil" name="Pil basilikumblade af" />
+		<text id="preparestep_whitechoccheesecake_vanilla" name="Vanilje udskrabes" />
+		<text id="preparestep_whitechocmousse_vanilla" name="Vanilje udskrabes" />
+	</preparestep_fancy>
+	<recipe>
+		<text id="recipe_bananasplit" name="Bananasplit" />
+		<text id="recipe_brigadeiro" name="Brigadeiro" />
+		<text id="recipe_beefstew" name="Gullasch" />
+		<text id="recipe_pizzasalad" name="Pizza with Salad" />
+		<text id="recipe_tripleomelette" name="Triple Omelette" />
+		<text id="recipe_chocolatewaffles" name="Chocolate Waffles" />
+		<text id="recipe_spanishomelette" name="Spanish Omelette" />
+		<text id="recipe_sausagepasta" name="Sausage Spaghetti" />
+		<text id="recipe_applepie" name="Apple Pie" />
+		<text id="recipe_ramen" name="Ramen" />
+		<text id="recipe_corncake" name="Corn Cake" />
+		<text id="recipe_feijoada" name="Feijoada" />
+		<text id="recipe_blackforestcherrycake" name="Schwarzwälder kirsebærkage" />
+		<text id="recipe_cheeseburger" name="Cheeseburger" />
+		<text id="recipe_cheesedish" name="Osteplatte" />
+		<text id="recipe_cheesefondue" name="Ostefondue" />
+		<text id="recipe_cherriecake" name="Kirsebærkage" />
+		<text id="recipe_cherrycompote" name="Kirsebærkompot" />
+		<text id="recipe_chickenburger" name="Kyllingeburger" />
+		<text id="recipe_chickensalad" name="Hønsesalat" />
+		<text id="recipe_chickensoup" name="Hønsegryderet" />
+		<text id="recipe_chiliconcarne" name="Chili con carne" />
+		<text id="recipe_chocmousse" name="Mousse au Chocolat" />
+		<text id="recipe_chocolatecake" name="Chokoladekage" />
+		<text id="recipe_chocolatecheesecake" name="Chokoladeostekage" />
+		<text id="recipe_chocolatefondue" name="Chokoladefondue" />
+		<text id="recipe_christmasturkey" name="Julesteg" />
+		<text id="recipe_cookieplate" name="Kikseplade" />
+		<text id="recipe_cornonthecob" name="Majskolber" />
+		<text id="recipe_curry" name="Karry" />
+		<text id="recipe_duckalorange" name="And á l&apos;Orange" />
+		<text id="recipe_easterdish" name="Ostetallerken" />
+		<text id="recipe_englishbreakfast" name="Engelsk morgenmad" />
+		<text id="recipe_fishandchips" name="Fish&apos;n&apos;Chips" />
+		<text id="recipe_friedpotatoes" name="Braskartofler" />
+		<text id="recipe_fruitpudding" name="Frugtkage" />
+		<text id="recipe_fruitsalad" name="Frugtsalat" />
+		<text id="recipe_greensalad" name="Havesalat" />
+		<text id="recipe_gumbo" name="Gumbo" />
+		<text id="recipe_hamburger" name="Hamburger" />
+		<text id="recipe_hotcherrywaffles" name="Vafler med varme kirsebær" />
+		<text id="recipe_jamspongepudding" name="Jam Sponge Pudding" />
+		<text id="recipe_lasagne" name="Lasagne" />
+		<text id="recipe_macncheese" name="Mac&apos;n&apos;Cheese" />
+		<text id="recipe_maplepancakes" name="Pandekager med ahornsirup" />
+		<text id="recipe_marblecake" name="Formkage" />
+		<text id="recipe_mexicansalad" name="Mexikansk bønnesalat" />
+		<text id="recipe_minestrone" name="Minestrone" />
+		<text id="recipe_mixedsalad" name="Blandet salat" />
+		<text id="recipe_nasigoreng" name="Nasi Goreng" />
+		<text id="recipe_newyorkcheesecake" name="New York Cheesecake" />
+		<text id="recipe_noodlesalad" name="Nudelsalat" />
+		<text id="recipe_omelette" name="Omelet" />
+		<text id="recipe_onionsoup" name="Overbagt løgsuppe" />
+		<text id="recipe_peasoup" name="Ærtesuppe" />
+		<text id="recipe_pizza" name="Pizza" />
+		<text id="recipe_pizzahawaii" name="Pizza Hawaii" />
+		<text id="recipe_pizzatonno" name="Pizza Tonno" />
+		<text id="recipe_porkroastwithcrackling" name="Ribbensteg" />
+		<text id="recipe_potatosalad" name="Kartoffelsalat" />
+		<text id="recipe_redberrycompote" name="Rødgrød" />
+		<text id="recipe_ricepudding" name="Risengrød med æblemos" />
+		<text id="recipe_roastchicken" name="Stegt kylling" />
+		<text id="recipe_sandwich" name="Sandwich" />
+		<text id="recipe_scouse" name="Labsskovs" />
+		<text id="recipe_spagetti" name="Spaghetti Bolognese" />
+		<text id="recipe_spareribs" name="Marinerede ribben" />
+		<text id="recipe_steak" name="Steak menu" />
+		<text id="recipe_steakkidneypie" name="Steak and Kidney Pie" />
+		<text id="recipe_stewedrhubarb" name="Rabarberkompot" />
+		<text id="recipe_strawberrycake" name="Jordbærkage" />
+		<text id="recipe_strawberrymousse" name="Jordbærmousse" />
+		<text id="recipe_stuffedpeppers" name="Fyldte paprika" />
+		<text id="recipe_sundayfeast" name="Søndagsmad" />
+		<text id="recipe_sushi" name="Sushi" />
+		<text id="recipe_toadinahole" name="i et hul" />
+		<text id="recipe_toast" name="Toast Hawaii" />
+		<text id="recipe_tofuburger" name="Tofuburger" />
+		<text id="recipe_tomatosoup" name="Tomatsuppe" />
+		<text id="recipe_trifle" name="Trifle" />
+		<text id="recipe_veganstirfry" name="Veganepande" />
+		<text id="recipe_vegetablesoup" name="Grønsagssuppe" />
+		<text id="recipe_veggiecurry" name="Grønsagskarry" />
+		<text id="recipe_veggielasagne" name="Grønsagslasagne" />
+		<text id="recipe_whitechoccheesecake" name="Hvid chokoladeostekage" />
+		<text id="recipe_whitechocmousse" name="Hvid chokolademousse" />
+		<text id="recipe_coxinha" name="Coxinha" />
+	</recipe>
+	<recipes_fastfood>
+		<text id="recipe_smoothiemaker_greensmoothie" name="Grøn Smoothie" />
+		<text id="recipe_smoothiemaker_kiba" name="Kirsebær-Banan Smoothie" />
+		<text id="recipe_smoothiemaker_pinacolada" name="Virgin Colada" />
+		<text id="recipe_smoothiemaker_tomatojuice" name="Tomatsaft" />
+	</recipes_fastfood>
+	<server>
+		<mail>
+			<text id="mail_invite_friend" name="Hi %s!&lt;br /&gt;&lt; /&gt;&lt;br /&gt;Jeg har lige opdaget det smarte onlinespil &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Via dette link kommer du direkte til spillet:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Tilmeld dig via linket, så du kan lave din egen café gratis hos &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Find ud af hvordan det er at have sin egen café. Kog lækre måltider, betjen dine gæster og indret dig en café helt efter din smag!&lt;br /&gt;&lt;br /&gt;God fornøjelse med spillet og mange hilsner, %s" />
+			<text id="mail_lost_pw" name="Hallo %s!&lt;br /&gt;&lt;br /&gt;Du modtager denne automatiske e-mail, fordi du har ansøgt om et nyt password.&lt;br /&gt;Dit password er: %s&lt;br /&gt;&lt;br /&gt;Via dette link kommer du direkte til spillet:&lt;br /&gt;http://www.goodgamestudios.com/cafe/br /&gt;&lt;br /&gt;Ved spørgsmål og problemer kontakt venligst  support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Vi ønsker dig fortsat god fornøjelse med spillet!&lt;br /&gt;&lt;br /&gt;Dit team fra&lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_registration" name="Hallo,&lt;br /&gt;&lt;br /&gt;mange tak for din tilmelding og hjerteligt velkommen hos &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Du kan til enhver tid logge dig på med følgende data:&lt;br /&gt;E-mail: %s&lt;br /&gt;Password: %S&lt;br /&gt;&lt;br /&gt;Via dette link kommer du direkte til spillet:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Ved spørgsmål og problemer kontakt venligst support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Vi ønsker dig god fornøjelse med spillet! /&gt;&lt;br /&gt;Dit team fra&lt;br /&gt;Goodgamestudios.com" />
+		</mail>
+		<misc>
+			<text id="marketplace" name="Markedsplads" />
+		</misc>
+	</server>
+	<std_buttons>
+		<text id="btn_text_accept" name="Godkend" />
+		<text id="btn_text_cancle" name="Afbryd" />
+		<text id="btn_text_goback" name="Tilbage" />
+		<text id="btn_text_no" name="Nej" />
+		<text id="btn_text_notaccept" name="Afvis" />
+		<text id="btn_text_okay" name="Okay" />
+		<text id="btn_text_payment" name="Køb guld/cafédollar" />
+		<text id="btn_text_share" name="Meddel til dine venner!" />
+		<text id="btn_text_srchips" name="Optjen cafédollar" />
+		<text id="btn_text_srgold" name="Optjen guld" />
+		<text id="btn_text_yes" name="Ja" />
+	</std_buttons>
+	<tooltips>
+		<text id="tt_Basic_Achievement_Boughtdeco" name="Antal af købte dekorationer" />
+		<text id="tt_Basic_Achievement_Boughtingredients" name="Antal af købte ingredienser" />
+		<text id="tt_Basic_Achievement_Cookingcount" name="Kogt antal retter" />
+		<text id="tt_Basic_Achievement_Coopcount" name="Antal klarede Co-Ops" />
+		<text id="tt_Basic_Achievement_Coopgoldcount" name="Antal klarede Co-Ops med guldstatus" />
+		<text id="tt_Basic_Achievement_Curiercount" name="Antal kurerbestillinger" />
+		<text id="tt_Basic_Achievement_Differentdishes" name="Kogt antal forskellige retter" />
+		<text id="tt_Basic_Achievement_Earnedchips" name="Optjente cafédollar" />
+		<text id="tt_Basic_Achievement_Fancycount" name="Benyttet antal smarte ingredienser" />
+		<text id="tt_Basic_Achievement_Firenpc" name="Antal fyrede tjenere" />
+		<text id="tt_Basic_Achievement_Instantcount" name="Antal allerede færdig kogte retter" />
+		<text id="tt_Basic_Achievement_Jobclean" name="Tallerken fjernet ved tjenerjobs" />
+		<text id="tt_Basic_Achievement_Jobserve" name="Tallerken delt ud ved tjenerjobs" />
+		<text id="tt_Basic_Achievement_Masteies" name="Opnået antal stjerner" />
+		<text id="tt_Basic_Achievement_Masteriesgold" name="Opnået antal guld-stjerner" />
+		<text id="tt_Basic_Achievement_Muffinmancash" name="Vundet Cafédollar hos muffinbageren" />
+		<text id="tt_Basic_Achievement_Muffinmangold" name="Vundet guld hos muffinbageren" />
+		<text id="tt_Basic_Achievement_Overcookedfoods" name="Antal fordærvede retter" />
+		<text id="tt_Basic_Achievement_Servingcountmeals" name="Kogt antal hovedretter" />
+		<text id="tt_Basic_Achievement_Servingcountsalads" name="Kogt antal salater" />
+		<text id="tt_Basic_Achievement_Servingcountsnacks" name="Kogt antal snacks" />
+		<text id="tt_Basic_Achievement_Servingcountsoups" name="Kogt antal supper" />
+		<text id="tt_Basic_Achievement_Servingcountsweets" name="Kogt antal søde desserter" />
+		<text id="tt_Basic_Achievement_Servingcountvegans" name="Kogt antal vegetariske hovedretter" />
+		<text id="tt_Basic_Achievement_Servingscount" name="Antal solgte portioner" />
+		<text id="tt_Basic_Achievement_Solditems" name="Antal solgte dekorationer og møbler" />
+		<text id="tt_Basic_Achievement_Spentchips" name="Cafédollar brugt" />
+		<text id="tt_Basic_Achievement_Spentgold" name="Guld brugt" />
+		<text id="tt_Basic_Achievement_Wheeloffortune" name="Antal gevinster hos lykkehjulet" />
+		<text id="tt_byAmount" name="{0} af {1}" />
+		<text id="tt_byLevel" name="fra level {0}" />
+		<text id="tt_CafeActionPanel_btn_achievements" name="Udmærkelser" />
+		<text id="tt_CafeActionPanel_btn_cookbook" name="Kogebog" />
+		<text id="tt_CafeActionPanel_btn_coop" name="Co-Ops" />
+		<text id="tt_CafeActionPanel_btn_decoshop" name="Ombygning" />
+		<text id="tt_CafeActionPanel_btn_gifts" name="Gaver" />
+		<text id="tt_CafeActionPanel_btn_ingredientshop" name="Tilbehørsshop" />
+		<text id="tt_CafeActionPanel_btn_market" name="Markedsplads" />
+		<text id="tt_CafeActionPanel_btn_owncafe" name="Min café" />
+		<text id="tt_CafeActionPanel_btn_staff" name="Personale" />
+		<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="Underdele" />
+		<text id="tt_CafeAvatarCreationDialog_btn_boy" name="Dreng" />
+		<text id="tt_CafeAvatarCreationDialog_btn_girl" name="Pige" />
+		<text id="tt_CafeAvatarCreationDialog_btn_hair" name="Hårfarve" />
+		<text id="tt_CafeAvatarCreationDialog_btn_skin" name="Hudfarve" />
+		<text id="tt_CafeAvatarCreationDialog_btn_tops" name="Overdele" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook" name="Kog færdigt med det samme" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="I dag kan du ikke &apos;Koge færdigt med det samme&apos; mere" />
+		<text id="tt_CafeClearStoveDialog_instantButton" name="Kog færdigt med det samme" />
+		<text id="tt_CafeCookBookDialog_0" name="Søde retter" />
+		<text id="tt_CafeCookBookDialog_1" name="Hovedretter" />
+		<text id="tt_CafeCookBookDialog_2" name="Supper" />
+		<text id="tt_CafeCookBookDialog_3" name="Salater" />
+		<text id="tt_CafeCookBookDialog_4" name="Vegetarisk" />
+		<text id="tt_CafeCookBookDialog_5" name="Snacks" />
+		<text id="tt_CafeCookBookDialog_btn_cook" name="Koge" />
+		<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="Du mangler ingredienser!" />
+		<text id="tt_CafeCookBookDialog_btn_mastery" name="endnu {0} til stjerne-niveau {1} Klik for detaljer" />
+		<text id="tt_CafeCookBookDialog_btn_shop" name="Tilbehørsshop" />
+		<text id="tt_CafeDekoShopPanel_btn_close" name="Tilbage til caféen" />
+		<text id="tt_CafeDekoShopPanel_btn_deko" name="Indretning" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Chair" name="Stole" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="Dekoration" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Door" name="Døre" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Table" name="Borde" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Tiles" name="Gulve" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wall" name="Vægge" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wallobject" name="Vægdekoration" />
+		<text id="tt_CafeDekoShopPanel_btn_expansion" name="Udvidelser" />
+		<text id="tt_CafeDekoShopPanel_btn_functional" name="Funktionelt" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Counter" name="Disk" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Extras" name="Ekstras" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Fridge" name="Køleskabe" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Stove" name="Komfure" />
+		<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="Du har stadig brug for {0} netværksvenner, for at købe denne udvidelse!" />
+		<text id="tt_CafeDekoShopPanel_btn_sell" name="Træk salgsobjekt herop" />
+		<text id="tt_CafeDekoShopPanel_cashexpansion" name="Du må have level {0} for at købe denne udvidelse for Cafédollar." />
+		<text id="tt_CafeDekoShopPanel_dragItem" name="Træk mig ind i din café" />
+		<text id="tt_CafeDekoShopPanel_invalidexpansion" name="Inden da, har du brug for den tidligere udvidelse inden du kan købe den næste" />
+		<text id="tt_CafeIngredientShopDialog_btn_addcash" name="Tilføj Cafédollar/Guld" />
+		<text id="tt_CafeIngredientShopDialog_btn_all" name="Alt" />
+		<text id="tt_CafeIngredientShopDialog_btn_buy" name="Køb" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat1" name="Animalisk" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat2" name="Grønsager" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat3" name="Frugt" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat4" name="Fancy ingredienser" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat5" name="Andet" />
+		<text id="tt_CafeIngredientShopDialog_btn_fridge" name="Køleskab" />
+		<text id="tt_CafeIngredientShopDialog_btn_help" name="Hvad er fancy tilbehør?" />
+		<text id="tt_CafeIngredientShopDialog_btn_sell" name="Sælg" />
+		<text id="tt_CafeIngredientShopDialog_btn_shop" name="Tilbehørsshop" />
+		<text id="tt_CafeIngredientShopDialog_btn_unlock" name="Kurer" />
+		<text id="tt_CafeIngredientShopDialog_btn_wheel" name="Kan kun fås hos lykkehjulet!" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_help" name="Jobhjælp" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_refill" name="Udfyld arbejdstilladelser" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_sign" name="Af-/tilmelding som arbejdssøgende" />
+		<text id="tt_CafeMasteryDialog_broncestar" name="Kog flere portioner!" />
+		<text id="tt_CafeMasteryDialog_goldstar" name="Kog hurtigere!" />
+		<text id="tt_CafeMasteryDialog_silverstar" name="Får mere XP!" />
+		<text id="tt_CafeNamePanel_mc_luxury" name="Din Cafés luksusværdi" />
+		<text id="tt_CafeNamePanel_mc_rating" name="Din cafés popularitet" />
+		<text id="tt_CafeOptionPanel_btn_blockfriends" name="Bloker venskabsforespørgsler" />
+		<text id="tt_CafeOptionPanel_btn_bugreport" name="Meld os fejl" />
+		<text id="tt_CafeOptionPanel_btn_changePass" name="Ændring af password" />
+		<text id="tt_CafeOptionPanel_btn_custom" name="Skift karakter" />
+		<text id="tt_CafeOptionPanel_btn_faq" name="Spørgsmål og svar" />
+		<text id="tt_CafeOptionPanel_btn_fullscreen" name="Fuldt display" />
+		<text id="tt_CafeOptionPanel_btn_help" name="Hjælp" />
+		<text id="tt_CafeOptionPanel_btn_logout" name="Logout" />
+		<text id="tt_CafeOptionPanel_btn_messages" name="Meddelelser" />
+		<text id="tt_CafeOptionPanel_btn_music" name="Musik tændt/slukket" />
+		<text id="tt_CafeOptionPanel_btn_news" name="Forum" />
+		<text id="tt_CafeOptionPanel_btn_options" name="Indstillinger" />
+		<text id="tt_CafeOptionPanel_btn_screenshot" name="Foto" />
+		<text id="tt_CafeOptionPanel_btn_sfx" name="Effekter tændt/slukket" />
+		<text id="tt_CafeOptionPanel_btn_socialgroup" name="Gruppe" />
+		<text id="tt_CafeOptionPanel_btn_sound" name="Lyd" />
+		<text id="tt_CafeOptionPanel_btn_support" name="Hjælp" />
+		<text id="tt_CafeOptionPanel_btn_verifyemail" name="Afhent belønning" />
+		<text id="tt_CafeOptionPanel_btn_wantfriends" name="Tillad venskabsforespørgsler" />
+		<text id="tt_CafeOptionPanel_btn_zoom" name="Zoom" />
+		<text id="tt_CafeOptionPanel_btn_zoomIn" name="zoom ind" />
+		<text id="tt_CafeOptionPanel_btn_zoomOut" name="gør mindre" />
+		<text id="tt_CafeRegisterPanel_btn_register" name="Gem og registrer" />
+		<text id="tt_CafeSmoothiemaker_btn_mix" name="Bland" />
+		<text id="tt_CafeSmoothiemaker_serve" name="Server drik" />
+		<text id="tt_CafeSocialPanel_btn_buddies" name="Venner" />
+		<text id="tt_CafeSocialPanel_btn_buddiesincafe" name="Tilstedeværende spillere" />
+		<text id="tt_CafeSocialPanel_btn_chat" name="Chat" />
+		<text id="tt_CafeSocialPanel_btn_findbuddies" name="Inviter venner" />
+		<text id="tt_CafeSocialPanel_btn_muteplayer" name="Skift til lydløs" />
+		<text id="tt_CafeStaffDialog_rename" name="Omdøb tjeneren" />
+		<text id="tt_CafeUserStatePanel_btn_adddollar" name="Tilføj Cafédollar/Guld" />
+		<text id="tt_CafeUserStatePanel_btn_refill" name="Udfyld arbejdstilladelser" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} XP til level up" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="XP" />
+		<text id="tt_highscore_luxury" name="Sorter efter luksusværdi" />
+		<text id="tt_highscore_xp" name="Eksporter efter XP" />
+		<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="Udmærkelser" />
+		<text id="tt_PlayerActionChoicesComponent_btn_addfriend" name="Venskabsforespørgsel" />
+		<text id="tt_PlayerActionChoicesComponent_btn_info" name="Info" />
+		<text id="tt_PlayerActionChoicesComponent_btn_job" name="Ansæt" />
+		<text id="tt_PlayerActionChoicesComponent_btn_kick" name="Spark" />
+		<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="Afslutning af venskab" />
+		<text id="tt_PlayerActionChoicesComponent_btn_visit" name="Besøg café" />
+		<text id="tt_Social_Achievement_Friendscount" name="Antal netvärkvenner" />
+	</tooltips>
+	<tutorial>
+		<text id="tut_buymissingingredient_copy" name="På &apos;0&apos; ved siden af det lille køleskab ved løgene kan du se at du ikke har flere i køleskabet.\nUnder det ser du prisen.\nKøb engang løg!" />
+		<text id="tut_cafeopen_copy" name="Top! De første gæster lader ikke vente på sig mere længe.\nNu ved du egentligt alt, hvad du skal vide til at begynde med. Se dig dog bare lidt omkring.\n\nGod fornøjelse!" />
+		<text id="tut_cookmeal_copy" name="Så vil vi endelig komme til sagen!\nVis salaten hvad du kan!" />
+		<text id="tut_cookopenshop_copy" name="Her kan retterne med deres nødvendige ingredienser, tilberedningstiderne og deres gevinster ses.\nÅh nej! Du har ikke flere løg til din havesalat mere - men du kan købe nogen." />
+		<text id="tut_cookpreparecook_copy" name="Det vigtigste er naturligvis maden. Lad os tilberede en havesalat. Tryk på komfuret!" />
+		<text id="tut_instantcook2_copy" name="Benyt &apos;Kog færdig med det samme&apos;.\nDet koster guld og er ekstremt praktisk." />
+		<text id="tut_instantcook_copy" name="Normalt bruger havesalaten tre minutter til den er færdig, men der findes også den mulighed at afkorte dette, hvilket vi simpelthen bare vil gøre nu." />
+		<text id="tut_preparesteps_copy" name="Klik et par gange på komfur for at gennemgå de enkelte tilberedningstrin." />
+		<text id="tut_servedish_copy" name="Godt gjort!\nNu skal du blot servere maden.\nMen de 10 portioner vil ikke holde længe, altså glem ikke at sørge for forsyning !" />
+		<text id="tut_start_copy" name="Hjertelig velkommen i din café, {0}!\nDenne korte introduktion vil hjælpe dig med at kunne finde sig tilrette i gastronomiens skønne verden." />
+		<text id="tut_title" name="Indledning!" />
+		<text id="tut_welcome_title" name="Velkommen!" />
+	</tutorial>
+	<generic_flash>
+		<alert>
+			<text id="generic_alert_bug" name="Fejl" />
+			<text id="generic_alert_connection_failed_copy" name="For tiden foretages vedligeholdelsesarbejde for spillet. Prøv igen senere!" />
+			<text id="generic_alert_connection_failed_title" name="Vedligeholdelsesarbejde!" />
+			<text id="generic_alert_connection_lost_copy" name="Forbindelsen til spilleserveren blev afbrudt. Forsøg venligst at opret din forbindelse igen." />
+			<text id="generic_alert_connection_lost_description" name="Aktuelt vedligeholdes der. Dette skal desværre gøres af og til. For at indspille updates og nye features eller rette en fejl.&lt;br&gt;&lt;br&gt; Vi arbejder på højtryk, så I hurtigst muligt kan spille igen." />
+			<text id="generic_alert_connection_lost_promo" name="Prøv da i mellemtiden et af vores andre spil." />
+			<text id="generic_alert_connection_lost_thanks" name="Mange tak for jeres forståelse!" />
+			<text id="generic_alert_connection_lost_title" name="Tabt forbindelse!" />
+			<text id="generic_alert_error" name="Error" />
+			<text id="generic_alert_information" name="Henvisning" />
+			<text id="generic_alert_loggedout_copy" name="Du har logget dig succesrigt ud. Glem ikke: Hver dag venter der en login-bonus på dig!" />
+			<text id="generic_alert_loggedout_title" name="Indtil senere!" />
+			<text id="generic_alert_warning" name="Advarsel" />
+			<text id="generic_alert_watchout" name="Attention!" />
+			<text id="generic_alert_win7chromebug" name="" />
+			<text id="generic_invalid_email_provider" name="En e-mailadresse fra denne tilbyder er ikke tilladt!" />
+			<text id="generic_js_alert_firstsessiontracking_loading" name="Din internetforbindelse lader til at være meget langsom for tide. Prøv igen senere!" />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="Hvad synes du om spillet og hvad kan gøres bedre? Skriv din mening i vores Goodgame-Forum henholdsvis gruppe!" />
+			<text id="generic_js_alert_firstsessiontracking_unregistered" name="Attention: Din spillestand bliver kun lagret, når du lader dig registrere!" />
+			<text id="generic_register_error_invalidemail" name="E-mailadressen, du har indtastet, er ikke korrekt." />
+			<text id="generic_report_muted_chattry" name="Du kan desværre ikke benytte chatten i øjeblikket på grund af din spærring." />
+		</alert>
+		<button>
+			<text id="generic_btn_accept" name="tage imod" />
+			<text id="generic_btn_cancel" name="Afbryd" />
+			<text id="generic_btn_close" name="Luk" />
+			<text id="generic_btn_continue" name="Videre" />
+			<text id="generic_btn_end" name="Afslut" />
+			<text id="generic_btn_endnow" name="Afslut med det samme" />
+			<text id="generic_btn_goback" name="Tilbage" />
+			<text id="generic_btn_no" name="Nej" />
+			<text id="generic_btn_noshare" name="Alligevel ikke!" />
+			<text id="generic_btn_notaccept" name="Afvis" />
+			<text id="generic_btn_okay" name="OK" />
+			<text id="generic_btn_reconnect" name="Opret påny" />
+			<text id="generic_btn_refresh" name="Aktualiser" />
+			<text id="generic_btn_report" name="Meld" />
+			<text id="generic_btn_search" name="Søg" />
+			<text id="generic_btn_share" name="Del!" />
+			<text id="generic_btn_skip" name="Overspring" />
+			<text id="generic_btn_start" name="Start" />
+			<text id="generic_btn_topayment" name="Hit med det!" />
+			<text id="generic_btn_yes" name="Ja" />
+		</button>
+		<chat>
+			<text id="generic_chat_writeable" name="Kun registrerede spillere fra level 1 af må benytte chatten." />
+		</chat>
+		<common>
+			<text id="generic_admin" name="Admin" />
+			<text id="generic_animation" name="Vis animationer" />
+			<text id="generic_bugreport" name="Meld fejl til os" />
+			<text id="generic_changePass" name="Ændring af password" />
+			<text id="generic_comma" name="," />
+			<text id="generic_conningsoon" name="*Kommer snart*" />
+			<text id="generic_date" name="Dato" />
+			<text id="generic_day" name="Dag" />
+			<text id="generic_dayformat" name="{0}.{1}" />
+			<text id="generic_days" name="Dage" />
+			<text id="generic_day_short" name="T" />
+			<text id="generic_decimalseparator" name="." />
+			<text id="generic_email" name="E-mail" />
+			<text id="generic_faq" name="Spørgsmål og svar" />
+			<text id="generic_forum" name="Forum" />
+			<text id="generic_friend" name="Ven" />
+			<text id="generic_friends" name="Venner" />
+			<text id="generic_general" name="Generelt" />
+			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_group" name="Gruppe" />
+			<text id="generic_guest" name="Gæst" />
+			<text id="generic_help" name="Hjælp" />
+			<text id="generic_high" name="Op" />
+			<text id="generic_hour" name="Time" />
+			<text id="generic_hours" name="Timer" />
+			<text id="generic_hour_short" name="Time" />
+			<text id="generic_limited" name="Limited" />
+			<text id="generic_logout" name="Logout" />
+			<text id="generic_low" name="Lavt" />
+			<text id="generic_medium" name="Middel" />
+			<text id="generic_minute" name="Minut" />
+			<text id="generic_minutes" name="Minutter" />
+			<text id="generic_minute_short" name="Min" />
+			<text id="generic_moderator" name="Moderator" />
+			<text id="generic_month" name="Måned" />
+			<text id="generic_months" name="Måneder" />
+			<text id="generic_music" name="Musik til/fra" />
+			<text id="generic_name" name="Navn" />
+			<text id="generic_news" name="Nyheder" />
+			<text id="generic_options" name="Indstillinger" />
+			<text id="generic_quality" name="Kvalitet" />
+			<text id="generic_register" name="Gem og registrer" />
+			<text id="generic_second" name="Sekund" />
+			<text id="generic_seconds" name="Sekunder" />
+			<text id="generic_second_short" name="Sek" />
+			<text id="generic_sound" name="Lyd til/fra" />
+			<text id="generic_support" name="Support" />
+			<text id="generic_today" name="I dag" />
+			<text id="generic_tomorrow" name="Morgen" />
+			<text id="generic_tutorial" name="Tutorial" />
+			<text id="generic_username" name="Spillernavn" />
+			<text id="generic_xp" name="XP" />
+			<text id="generic_yesterday" name="I går" />
+		</common>
+		<error>
+			<text id="generic_versioncheck_error" name="Gammel version!" />
+			<text id="generic_versioncheck_errorcode_1" name="Aktualiser siden." />
+		</error>
+		<feeds id="" />
+		<friends>
+			<text id="generic_friends_add_copy" name="Ønsker du at føje {0} til som ven?" />
+			<text id="generic_friends_add_title" name="Venskabsforespørgsel" />
+			<text id="generic_friends_buddy_btn_morefriends" name="Flere venner" />
+			<text id="generic_friends_denied_copy" name="{0} har desværre afvist din forespørgsel." />
+			<text id="generic_friends_denied_title" name="Forespørgsel afvist!" />
+			<text id="generic_friends_invite_badword_copy" name="Det navn du har angivet, er ikke tilladt!" />
+			<text id="generic_friends_invite_badword_title" name="Attention!" />
+			<text id="generic_friends_invite_error_copy" name="Kun som registreret spiller kan du invitere andre spillere." />
+			<text id="generic_friends_invite_error_title" name="Registrer først" />
+		</friends>
+		<fullscreen>
+			<text id="generic_fullscreen_error_copy" name="Fuld billedmodus ikke mulig" />
+		</fullscreen>
+		<languages>
+			<text id="generic_language_cs" name="Tjekkisk" />
+			<text id="generic_language_da" name="Dansk" />
+			<text id="generic_language_de" name="Tysk" />
+			<text id="generic_language_el" name="Græsk" />
+			<text id="generic_language_en" name="Engelsk" />
+			<text id="generic_language_es" name="Spansk" />
+			<text id="generic_language_fi" name="Finsk" />
+			<text id="generic_language_fr" name="Fransk" />
+			<text id="generic_language_hu" name="Ungarsk" />
+			<text id="generic_language_id" name="Indonesisk" />
+			<text id="generic_language_it" name="Italiensk" />
+			<text id="generic_language_ja" name="Japansk" />
+			<text id="generic_language_ko" name="Koreansk" />
+			<text id="generic_language_nl" name="Hollandsk" />
+			<text id="generic_language_no" name="Norsk" />
+			<text id="generic_language_pl" name="Polsk" />
+			<text id="generic_language_pt" name="Portugisisk" />
+			<text id="generic_language_pt_BR" name="Brasiliansk" />
+			<text id="generic_language_ru" name="Russisk" />
+			<text id="generic_language_sv" name="Svensk" />
+			<text id="generic_language_tr" name="Tyrkisk" />
+			<text id="generic_language_zh_CN" name="Kinesisk (forenklet)" />
+			<text id="generic_language_zh_TW" name="Kinesisk (traditionelt)" />
+		</languages>
+		<login>
+			<text id="generic_login_banned" name="Din account blev spærret! Henvend dig venligst til supporten!" />
+			<text id="generic_login_banned_2" name="Din account blev spærret!  Spærringen gælder indtil: {0}  Såfremt du har spørgsmål til spærringen, så henvend dig venligst til supporten." />
+			<text id="generic_login_banned_3" name="Din account blev spærret permant.  Såfremt du har spørgsmål til spærringen, henvend dig venligst til supporten." />
+			<text id="generic_login_banned_permanent" name="permanent" />
+			<text id="generic_login_facebook" name="Tilmeld dig via Facebook" />
+			<text id="generic_login_login" name="LOGIN" />
+			<text id="generic_login_loginname" name="Brugernavn/ E-mail" />
+			<text id="generic_login_lostpassword" name="Glemt password?" />
+			<text id="generic_login_lostpassword_copy" name="Indtast din e-mailadresse og du vil få tilsendt et nyt password." />
+			<text id="generic_login_lostpassword_title" name="Glemt password" />
+			<text id="generic_login_newplayer" name="NY HER?" />
+			<text id="generic_login_password" name="Password" />
+			<text id="generic_login_play" name="SPIL MED DET SAMME" />
+			<text id="generic_login_playnow" name="Spil nu!" />
+			<text id="generic_login_register" name="Registrer" />
+			<text id="generic_login_rememberpassword" name="Lagring af password" />
+			<text id="generic_login_wronglogin" name="Brugernavn eller Password forkert!" />
+		</login>
+		<logout>
+			<text id="generic_logout_guest_copy" name="Registrer dig for at kunne lagre din spillerstand!" />
+			<text id="generic_logout_guest_title" name="Registrer" />
+		</logout>
+		<notification>
+			<text id="servershutdownpremonition_backin_copy" name="Senest {0} vil spillet være til at nå igen." />
+			<text id="servershutdownpremonition_copy" name="Spilserveren bliver kørt ned i  {0}. Log dig venligst ud eller registrer dig for at sikre din spillestand." />
+			<text id="servershutdownpremonition_registered_copy" name="Spilserveren bliver kørt ned på {0} på grund af vedligeholdelsesarbejde." />
+			<text id="servershutdown_copy" name="Spilserveren bliver nu kørt ned. Om et par minutter kan du logge dig på igen." />
+			<text id="welcomeback_copy" name="Skønt at se dig igen! Her en lille ting, for at gøre genindstigingen lettere!" />
+			<text id="welcomeback_title" name="Igen tilstede!" />
+		</notification>
+		<password>
+			<text id="generic_change_password_copy_newpass" name="Nyt password" />
+			<text id="generic_change_password_copy_oldpass" name="Gammelt password" />
+			<text id="generic_change_password_copy_send" name="Dit nye password blev sendt til din e-mailadresse." />
+			<text id="generic_change_password_error_failed" name="Sorry, men er det ikke dit gmle password?" />
+			<text id="generic_change_password_error_success" name="Password blev ændret succesrigt!" />
+			<text id="generic_change_password_faild_copy" name="Dit password skal være længere end 2 tegn og det gamle password skal være indtastet korrekt!" />
+			<text id="generic_change_password_faild_specialcharacters" name="Dit password må ikke være tomt eller indeholde særtegn." />
+			<text id="generic_change_password_faild_title" name="Passwordindlæsning" />
+			<text id="generic_change_password_title" name="Passwordændring" />
+			<text id="generic_guest_change_password_faild_copy" name="Kun som registreret spiller kan du ændre dit password!" />
+			<text id="generic_guest_change_password_faild_title" name="Registrer først" />
+		</password>
+		<payment>
+			<text id="generic_discount_payment_title_general" name="Mere {0} for pengene!" />
+			<text id="generic_payment_48hdiscount_button" name="Mere guld i de første 48 timer" />
+			<text id="generic_payment_48hdiscount_button_general" name="Mere {0} i de første 48 timer" />
+			<text id="generic_payment_48hdiscount_copy" name="Køb guld de første 48 timer og få yderligere {0}% hos udvalgte pakker!" />
+			<text id="generic_payment_48hdiscount_copy_1" name="Køb guld i de første 48 timer og få yderligere {0}% hos alle pakker!" />
+			<text id="generic_payment_48hdiscount_copy_1_general" name="Køb {0} indenfor de første 48 timer og få yderligere {1}% hos alle pakker!" />
+			<text id="generic_payment_48hdiscount_copy_general" name="Køb {0} indenfor de første 48 timer og få yderligere {1}% ved udvalgte pakker!" />
+			<text id="generic_payment_btn" name="Til shoppen" />
+			<text id="generic_payment_copy" name="Du bliver nu ledt videre til paymentshop." />
+			<text id="generic_payment_discount_button" name="Nu {0}% mere guld for pengene!" />
+			<text id="generic_payment_discount_copy" name="Køb guld nu og få en {0}% bonus!" />
+			<text id="generic_payment_discount_copy_general" name="Køb {0} nu og få en bonus på {1}%!" />
+			<text id="generic_payment_discount_general" name="Nu {0}% mere {1} for pengene!" />
+			<text id="generic_payment_discount_generalshort" name="{0}% mere for pengene!" />
+			<text id="generic_payment_discount_time" name="ENDNU {0}!" />
+			<text id="generic_payment_discount_title" name="Mere guld for pengene!" />
+			<text id="generic_payment_newPrices" name="Fra nu af! Konstant reducerede priser i vores Payment-Shop! Spar virkelig penge!" />
+			<text id="generic_payment_title" name="Paymentshop" />
+		</payment>
+		<progressbar>
+			<text id="loading_text_1" name="Søg tunnel gennem cyberspace" />
+			<text id="loading_text_10" name="Fordel genstande i verdenen" />
+			<text id="loading_text_11" name="Mal grafikker" />
+			<text id="loading_text_12" name="Mal buttons" />
+			<text id="loading_text_13" name="Gem påskeæg" />
+			<text id="loading_text_14" name="Slog brugerdata op" />
+			<text id="loading_text_15" name="Skræm bugs væk" />
+			<text id="loading_text_16" name="Fodre programmørerne" />
+			<text id="loading_text_17" name="Skru ved klienten" />
+			<text id="loading_text_18" name="Drej sanduret" />
+			<text id="loading_text_19" name="Køl systemet" />
+			<text id="loading_text_2" name="Giv tandhjulene olie" />
+			<text id="loading_text_20" name="Bliver lige straks færdig" />
+			<text id="loading_text_3" name="Drej hamsterhjulet" />
+			<text id="loading_text_4" name="Opvarm serveren" />
+			<text id="loading_text_5" name="Håber at alt går godt" />
+			<text id="loading_text_6" name="Hent kammerjægeren" />
+			<text id="loading_text_7" name="Beregn kompliceret algoritme" />
+			<text id="loading_text_8" name="Kalibrer flukskompesatorer" />
+			<text id="loading_text_9" name="Byggegenstande" />
+			<text id="loading_text_default" name="Initialisering" />
+			<text id="loading_text_itemXML" name="Lad spilelementer" />
+			<text id="progress_loadfiles" name="Spillegrafikker bliver ladet..." />
+			<text id="progress_serverconnection" name="Forbind med gameserver..." />
+		</progressbar>
+		<register>
+			<text id="generic_register_agb_copy" name="Uden AGB går det ikke. Bare læs og bekræft med knappen til venstre, så kan det gå løs!" />
+			<text id="generic_register_agb_read" name="læs AGB" />
+			<text id="generic_register_alreadyavatar" name="Useren har allerede et navn." />
+			<text id="generic_register_badword" name="Du må ikke anvende {0} i dit navn." />
+			<text id="generic_register_btn_agb" name="Accepter AGB" />
+			<text id="generic_register_btn_later" name="Senere" />
+			<text id="generic_register_btn_next" name="Fortsæt" />
+			<text id="generic_register_btn_save" name="Gem" />
+			<text id="generic_register_character" name="Skab din karakter" />
+			<text id="generic_register_copy_0" name="Registrer dig gratis nu!" />
+			<text id="generic_register_copy_1" name="Lager din spillestand!" />
+			<text id="generic_register_emaillong_copy" name="Din e-mailadresse er desværre for lang." />
+			<text id="generic_register_emailwrong_copy" name="Den e-mailadresse du har indtastet er ikke korrekt." />
+			<text id="generic_register_email_copy" name="E-mailadressen må ikke være tom eller indeholde særtegn." />
+			<text id="generic_register_error" name="Registrering slået fejl" />
+			<text id="generic_register_errormistake" name="Fejl" />
+			<text id="generic_register_error_accountalreadyexists" name="Under denne e-mail er allerede en spiller tilmeldt, sorry." />
+			<text id="generic_register_forfree" name="Tilmeld dig gratis!" />
+			<text id="generic_register_forfree1" name="Gratis!" />
+			<text id="generic_register_letsgo" name="DET GÅR LØS" />
+			<text id="generic_register_namealreadyused" name="Navnet findes allerede." />
+			<text id="generic_register_namenotvalid" name="Det indtastede navn er ugyldigt." />
+			<text id="generic_register_passwordshort_copy" name="Det indtastede password er for kort. Det skal mindst indeholde 4 tegn." />
+			<text id="generic_register_passwordwrong_copy" name="Det password du har indtastet er ikke korrekt." />
+			<text id="generic_register_password_copy" name="Dit password må ikke være tomt eller indeholde særtegn." />
+			<text id="generic_register_receivenews" name="Modtaget nyheder" />
+			<text id="generic_register_rememberdata" name="Husk data" />
+			<text id="generic_register_reward" name="Tilmeld dig gratis og få {0} {1} som gave!" />
+			<text id="generic_register_subscribe" name="Tilmeld" />
+			<text id="generic_register_success" name="Du har registreret dig succesfuldt." />
+			<text id="generic_register_title" name="Registreringsfejl" />
+			<text id="generic_register_unlock" name="Åben denne funktion!" />
+		</register>
+		<report>
+			<text id="generic_report_muted_badword1_copy" name="Vær venligst opmærksom på din udtryksmåde ellers risikerer du en chat-spærring eller en midlertidig spærring af accounten. Grund: {0}" />
+			<text id="generic_report_muted_badword2_copy" name="På grund af gentaget fejlopførsel kan du ikke benytte chatten de næste {0}. Grund: {1}" />
+			<text id="generic_report_muted_domain1" name="Ikke nogen internetadresser i chatten!" />
+			<text id="generic_report_muted_reported_copy" name="Der er flere spillere som har klaget over dig. På grund af det, kan du ikke benytte chatten for de næste {0}. Grund: {1}" />
+			<text id="generic_report_player_copy" name="Vil du virkelig melde den spiller {0}?\nAttention! Misbrug af denne funktion kan føre til spærring af account." />
+			<text id="generic_report_player_reason_0" name="Fornærmelse" />
+			<text id="generic_report_player_reason_1" name="sexchikane" />
+			<text id="generic_report_player_reason_2" name="racistisk ytring" />
+			<text id="generic_report_player_reason_3" name="Trussel/Afpresning" />
+			<text id="generic_report_player_reason_title" name="Grunden til meldingen:" />
+			<text id="generic_report_player_title" name="Meld spiller?" />
+			<text id="generic_report_reported_copy" name="Du blev meldt til administrator af en anden spiller. Grund: {0}" />
+		</report>
+		<worlds>
+			<text id="generic_connect" name="Forbind" />
+			<text id="generic_select_world" name="Vælg verden:" />
+			<text id="generic_world" name="Verden: {0}" />
+			<text id="generic_world_international" name="International: {0}" />
+		</worlds>
+	</generic_flash>
+</cafe>

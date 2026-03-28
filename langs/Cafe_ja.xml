@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cafe>
+	<achievement>
+		<text id="Basic_Achievement_Boughtdeco" name="テイスティーカフェ" />
+		<text id="Basic_Achievement_Boughtingredients" name="コンビニエントキャリナリー" />
+		<text id="Basic_Achievement_Cookingcount" name="ビジービストロ" />
+		<text id="Basic_Achievement_Coopcount" name="マルチタスクマフィン" />
+		<text id="Basic_Achievement_Coopgoldcount" name="フライングフォアマン" />
+		<text id="Basic_Achievement_Curiercount" name="エクスクルーシブホットポット" />
+		<text id="Basic_Achievement_Differentdishes" name="ヴィルトーズベジタブル" />
+		<text id="Basic_Achievement_Earnedchips" name="プロスペロスプディング" />
+		<text id="Basic_Achievement_Fancycount" name="デリシャステイスター" />
+		<text id="Basic_Achievement_Firenpc" name="グリリングガーニッシャー" />
+		<text id="Basic_Achievement_Instantcount" name="アンクシャスアペタイザー" />
+		<text id="Basic_Achievement_Jobclean" name="バズィングベイカー" />
+		<text id="Basic_Achievement_Jobserve" name="フライングホットポット" />
+		<text id="Basic_Achievement_Masteies" name="ファストフードキング" />
+		<text id="Basic_Achievement_Masteriesgold" name="ゴールドフードキング" />
+		<text id="Basic_Achievement_Muffinmancash" name="ジェネラスマフィン" />
+		<text id="Basic_Achievement_Muffinmangold" name="ゴールデンマフィン" />
+		<text id="Basic_Achievement_Overcookedfoods" name="シュプリームスポイラー" />
+		<text id="Basic_Achievement_Servingcountmeals" name="ヘフティシェフ" />
+		<text id="Basic_Achievement_Servingcountsalads" name="フレッシュテイスター" />
+		<text id="Basic_Achievement_Servingcountsnacks" name="マンチーズマフィン" />
+		<text id="Basic_Achievement_Servingcountsoups" name="スラーピースープコック" />
+		<text id="Basic_Achievement_Servingcountsweets" name="クッキーカリーグ" />
+		<text id="Basic_Achievement_Servingcountvegans" name="フラワリーカリフラワー" />
+		<text id="Basic_Achievement_Servingscount" name="サッパーセラー" />
+		<text id="Basic_Achievement_Solditems" name="ディナーディーラー" />
+		<text id="Basic_Achievement_Spentchips" name="スペンディングシチューアー" />
+		<text id="Basic_Achievement_Spentgold" name="ゴールデンクッカー" />
+		<text id="Basic_Achievement_Wheeloffortune" name="スピニングスパッド" />
+		<text id="Social_Achievement_Friendscount" name="クッキングセレブ" />
+	</achievement>
+	<alerts>
+		<text id="alert_addcash_copy" name="ここでは、カフェゴールド/カフェドルを購入できます。" />
+		<text id="alert_addcash_title" name="ペイメントショップ" />
+		<text id="alert_addFriend_copy" name="{0}をフレンドに追加しますか?" />
+		<text id="alert_addFriend_denied_copy" name="{0} は、残念ながらあなたのリクエストを断りました。" />
+		<text id="alert_addFriend_denied_title" name="リクエストを拒否しました" />
+		<text id="alert_addFriend_title" name="フレンドリクエスト" />
+		<text id="alert_addgold_copy" name="ここで買い物をするには、まず登録が必要です" />
+		<text id="alert_addgold_title" name="新規登録" />
+		<text id="alert_avatarcustom_copy" name="仕事中には着替えられません!" />
+		<text id="alert_buytiles_copy" name="1.タイルを選択する\n\n2.マウスボタンを押したまま、カフェ内のタイルを配置したい範囲を選択する\n3.ボタンを離す" />
+		<text id="alert_buytiles_title" name="タイルを配置しますか?" />
+		<text id="alert_changePasswordFaild_copy" name="新しいパスワードは、3文字以上で設定してください。また、古いパスワードを正しく入力する必要があります。" />
+		<text id="alert_changePasswordFaild_title" name="パスワード入力" />
+		<text id="alert_clearstove_cancelButton" name="そのまま" />
+		<text id="alert_clearstove_okButton" name="捨てる" />
+		<text id="alert_clearstove_title" name="このカウンターから運ばれていく料理があります。どうしますか?" />
+		<text id="alert_counter_outofreach_copy" name="カウンターにたどり着けません。配置換えをしてみましょう。" />
+		<text id="alert_counter_outofreach_title" name="注意!" />
+		<text id="alert_dekoshop_humanwaiter_copy" name="他のプレイヤーがあなたのカフェで働いている間は、カスタマイズすることはできません。" />
+		<text id="alert_dekoshop_humanwaiter_title" name="できません!" />
+		<text id="alert_dekoshop_kickplayer_copy" name="他のプレイヤーがあなたのカフェにいます。追い出してカスタマイズメニューに切り替えますか?" />
+		<text id="alert_dekoshop_kickplayer_title" name="注意!" />
+		<text id="alert_FancyCooking_copy" name="料理をこのファンシー食材で味付けして、{0}XPと料理を数量{1}追加で獲得しますか?" />
+		<text id="alert_FancyCooking_title" name="ファンシー食材" />
+		<text id="alert_fancyinfo_copy" name="料理をそれに合ったファンシー食材で味付けすれば、獲得XPと料理の数量が最高で20%アップします! ファンシー食材は、冷蔵庫内のスペースを取りません!" />
+		<text id="alert_fancyinfo_title" name="ファンシー食材" />
+		<text id="alert_giftboxfull_copy" name="ギフトボックスがいっぱいです!フレンドたちからのギフトはこれ以上受け取れません!" />
+		<text id="alert_giftboxfull_title" name="スペースがありません!" />
+		<text id="alert_guestchangepassword_copy" name="パスワードの変更は、登録済みプレイヤーのみ可能です" />
+		<text id="alert_guestchangepassword_title" name="まずは登録してください" />
+		<text id="alert_guestcoop_copy" name="Co-Opをプレイするには、登録が必要です" />
+		<text id="alert_guestinvitefriend_copy" name="フレンドの招待は、登録済みプレイヤーのみ可能です。" />
+		<text id="alert_guestinvitefriend_title" name="まずは登録してください" />
+		<text id="alert_guestlogout_copy" name="ゲームの状態をセーブするには、登録してください" />
+		<text id="alert_guestlogout_title" name="新規登録" />
+		<text id="alert_help_copy" name="わからないことがありましたら、まずはこちらをご覧ください" />
+		<text id="alert_help_title" name="ヘルプ" />
+		<text id="alert_invitefriend_confirmed_copy" name="招待メールが{0}に送信されました!" />
+		<text id="alert_invitefriend_confirmed_title" name="招待メールが送信されました!" />
+		<text id="alert_invitefriend_copy" name="フレンドを招待するには、相手の名前とEメールを入力してください。" />
+		<text id="alert_invitefriend_mail" name="フレンドのEメールアドレス:" />
+		<text id="alert_invitefriend_myname" name="あなたの名前:" />
+		<text id="alert_invitefriend_name" name="フレンドの名前:" />
+		<text id="alert_invitefriend_title" name="フレンドを招待する" />
+		<text id="alert_jobhelp_copy1" name="1. カウンターから料理を取ってくる  2. 待っているお客さんの元に届ける" />
+		<text id="alert_jobhelp_copy2" name="1. テーブルに皿を取りに行く (複数可) \n2. カウンターに運ぶ" />
+		<text id="alert_jobhelp_header1" name="接客" />
+		<text id="alert_jobhelp_header2" name="皿の片付け" />
+		<text id="alert_jobhelp_title" name="仕事内容" />
+		<text id="alert_jobrefill_copy" name="働くためには、まずは登録が必要です。" />
+		<text id="alert_jobrefill_title" name="新規登録" />
+		<text id="alert_lostpassword_copy" name="ご登録のEメールアドレスを入力してください。パスワードをEメールにて送信します。" />
+		<text id="alert_lostpassword_title" name="パスワードを忘れた" />
+		<text id="alert_marketplace_jobcancled_copy" name="{0}は、残念ながらあなたのジョブオファーを断りました。" />
+		<text id="alert_marketplace_jobcancled_title" name="ジョブ拒否" />
+		<text id="alert_marketplace_jobempty_copy" name="今日の分のジョブ許可は使いきりました。" />
+		<text id="alert_marketplace_jobempty_title" name="ジョブ許可を使いきりました" />
+		<text id="alert_marketplace_jobhired_copy" name="{0}はあなたのジョブオファーを受けました!" />
+		<text id="alert_marketplace_jobhired_title" name="ジョブ承諾" />
+		<text id="alert_marketplace_job_copy" name="{0} (レベル {1}) からあなたに\nフロアスタッフジョブのオファーがあります。\n受けますか?" />
+		<text id="alert_marketplace_job_title" name="ジョブオファー!" />
+		<text id="alert_marketplace_noticeboard_copy" name="ジョブ探しの登録をします。また、すでに働いてきたのなら、ここでジョブ許可の補充ができます。" />
+		<text id="alert_marketplace_noticeboard_title" name="ジョブ許可" />
+		<text id="alert_marketplace_playerjobempty_copy" name="このプレイヤーは今日すでに充分働きました。" />
+		<text id="alert_marketplace_playerjobempty_title" name="ジョブを断りました" />
+		<text id="alert_marketplace_playerleaved_copy" name="プレイヤーがマーケットプレイスから立ち去りました。" />
+		<text id="alert_marketplace_playerleaved_title" name="おおっと!" />
+		<text id="alert_nofreecounter_copy" name="空いているカウンターがありません。" />
+		<text id="alert_nofreecounter_title" name="おおっと!" />
+		<text id="alert_nofridge_copy" name="カフェ内に冷蔵庫がありません。カスタマイズメニューを確認して、冷蔵庫をカフェ内にドラッグしてください。" />
+		<text id="alert_nofridge_title" name="冷蔵庫は?" />
+		<text id="alert_nojobpermission_copy" name="ジョブ探しに登録するには、ジョブ許可が必要です!" />
+		<text id="alert_nojobpermission_title" name="注意!" />
+		<text id="alert_register_agb_copy" name="利用規約に目を通し、内容に同意いただける場合は左のボックスにチェックを入れてください。それでは、ゲーム開始です!" />
+		<text id="alert_register_email_copy" name="Eメールアドレスは空欄にしたり、スペースを入力しないでください。" />
+		<text id="alert_register_password_copy" name="パスワードは空欄にしたり、特殊記号を入力しないでください。" />
+		<text id="alert_register_title" name="登録エラー" />
+		<text id="alert_seekingjob_copy" name="働くためには、まずは登録が必要です。" />
+		<text id="alert_seekingjob_title" name="新規登録" />
+		<text id="alert_selldeco_copy" name="このアイテムを1個{0}の値段で売ってよろしいですか?" />
+		<text id="alert_selldeco_title" name="売りますか?" />
+		<text id="alert_sellitem_copy" name="このアイテムを1個{0}の値段で売ってよろしいですか?" />
+		<text id="alert_sellitem_title" name="売りますか?" />
+		<text id="alert_smoothiemaker_full_copy" name="フロスティ内にまだドリンクがあります! お客さんに出した後には、新しいドリンクをミックスできます!" />
+		<text id="alert_smoothiemaker_outofreach_copy" name="フロスティにたどり着けません。配置を変えてみましょう!" />
+		<text id="alert_smoothiemaker_storage_copy" name="フロスティ内にまだドリンクがあります! 保管した場合、残りのドリンクは失われます!" />
+		<text id="alert_stafffire_copy" name="フロアスタッフを本当に解雇してもいいですか?" />
+		<text id="alert_stafffire_title" name="フロアスタッフを解雇しますか?" />
+		<text id="alert_staffhire_copy" name="フロアスタッフに新しい名前をつけてください。" />
+		<text id="alert_staffhire_title" name="雇う" />
+		<text id="alert_storefull_copy" name="冷蔵庫がいっぱいです! 在庫スペースを空けるには、食材を売ってください。" />
+		<text id="alert_storefull_title" name="冷蔵庫がいっぱいです!" />
+		<text id="alert_stove_outofreach_copy" name="コンロにたどり着けません。配置換えをしてみましょう。" />
+		<text id="alert_stove_outofreach_title" name="注意!" />
+		<text id="alert_unlockitem_copy" name="食材を宅配サービスに配達してもらいます。\n限定品はけっこう値が張ります。" />
+		<text id="alert_unlockitem_title" name="宅配サービスを利用しますか?" />
+		<text id="alert_userkicked_copy" name="カフェから追い出されてしまいました。" />
+		<text id="alert_userkicked_title" name="追い出されました!" />
+		<text id="alert_workinghero_copy" name="コックはまだ仕事中です" />
+		<text id="alert_workinghero_title" name="待った!" />
+	</alerts>
+	<commons>
+		<text id="addgold" name="カフェゴールドを追加する" />
+		<text id="buy" name="買う" />
+		<text id="cash" name="カフェドル" />
+		<text id="comingsoon" name="*近日公開*" />
+		<text id="day" name="日" />
+		<text id="days" name="日" />
+		<text id="friends" name="{0} フレンド" />
+		<text id="gold" name="カフェゴールド" />
+		<text id="hour" name="時間" />
+		<text id="hours" name="時間" />
+		<text id="level" name="レベル" />
+		<text id="logout" name="ログアウト" />
+		<text id="mastery" name="マスタリーレベル" />
+		<text id="minute" name="分" />
+		<text id="minutes" name="分" />
+		<text id="new" name="新規" />
+		<text id="second" name="秒" />
+		<text id="seconds" name="秒" />
+		<text id="sell" name="売る" />
+		<text id="usable_character" name="か きく けこきゃきゅきょさしすせそしゃしゅしょたちつてとちゃちゅちょなにぬねのにゃにゅにょはひふへほひゃひゅひょまみむめもみゃみゅ みょやゆよらりるれろりゃりゅりょわ ゐゑ  を んがぎぐげごぎゃぎゅぎょざじずぜぞじゃじゅじょだぢづでどぢゃぢゅぢょばびぶべぼびゃびゅびょぱぴぷぺぽぴゃぴゅぴょ  カ キ ク ケ コ キャ キュ キョ サ シ ス セ ソ シャシュ ショ タ チ ツ テ ト チャチュチョナニヌネ ノ ニャ ニュ ニョ ハ ヒ フ ヘ ホ ヒャ ヒュ ヒョ  マ ミ ム メ モ ミャ ミュミョ ヤ  ユ  ヨ ラ リ ル レ ロ リャ リュ リョ  ワ  ヱ ヲ  ヰャ  ヰュ ヰョ  ン ガ ギ グ ゲ ゴ ギャ  ギュ  ギョ  ザ ジ ズ ゼ ゾ ジャ  ジュ  ジョ  ダ ヂ ヅ デ ド ヂャ  ヂュ  ヂョ  バ ビ ブ ベ ボ ビャ ビュ  ビョ パ ピ プ ペポピャピュピョヰェイィユェイェ yeヷヴァヸヴィヴヹヴェヺヴォヴャヴュヴョシェジェチェスァスィスゥスェスォスャスュスョズァズィズゥズェズォズャズュズョツァツィツェツォテァティテゥテェテォテャテュテョデァディデゥデェデォデャデュデョトァトィトゥトェトォドァドィドゥドェドォ ファフィ  ホゥ フェ  フォ  フャ  フュ  フョ  リィ  リェウァウィウゥウェウォウャウュウョ クヮ クァクィクゥ クェクォグヮ グァグィグゥグェグォムヮ ムァムィムゥ ムェムォヶ" />
+		<text id="XofY" name="{0} / {1}" />
+		<text id="xp" name="XP" />
+	</commons>
+	<cookstep>
+		<text id="cookstep_bananasplit1" name="アイスクリームを冷やす" />
+		<text id="cookstep_bananasplit2" name="バナナを切る" />
+		<text id="cookstep_brigadeiro1" name="Melting chocolate" />
+		<text id="cookstep_brigadeiro2" name="Shaping brigadeiros" />
+		<text id="cookstep_blackforestcherrycake1" name="食材を混ぜ合わせる" />
+		<text id="cookstep_blackforestcherrycake2" name="ケーキを焼く" />
+		<text id="cookstep_pizzasalad1" name="Making pizzas" />
+		<text id="cookstep_pizzasalad2" name="Making salads" />
+		<text id="cookstep_tripleomelette1" name="Mixing eggs strongly" />
+		<text id="cookstep_tripleomelette2" name="Folding everything" />
+		<text id="cookstep_chocolatewaffles1" name="Melting chocolate" />
+		<text id="cookstep_chocolatewaffles2" name="Covering waffles" />
+		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
+		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
+		<text id="cookstep_sausagepasta1" name="Boiling pasta" />
+		<text id="cookstep_sausagepasta2" name="Frying sausages" />
+		<text id="cookstep_applepie1" name="Building pies" />
+		<text id="cookstep_applepie2" name="Baking pies" />
+		<text id="cookstep_ramen1" name="Boiling pasta" />
+		<text id="cookstep_ramen2" name="Adding spices" />
+		<text id="cookstep_corncake1" name="Mixing ingredients" />
+		<text id="cookstep_corncake2" name="Baking cakes" />
+		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
+		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
+		<text id="cookstep_cheeseburger1" name="ミンチ肉を炒める" />
+		<text id="cookstep_cheeseburger2" name="バーガーを盛り付ける" />
+		<text id="cookstep_cheesedish1" name="チーズを盛りつける" />
+		<text id="cookstep_cheesedish2" name="チーズを熟成させる" />
+		<text id="cookstep_cheesefondue1" name="パンを焼く" />
+		<text id="cookstep_cheesefondue2" name="チーズを加熱する" />
+		<text id="cookstep_cherriecake1" name="食材を混ぜ合わせる" />
+		<text id="cookstep_cherriecake2" name="ケーキを焼く" />
+		<text id="cookstep_cherrycompote1" name="チェリーを煮る" />
+		<text id="cookstep_cherrycompote2" name="チェリーを冷やします" />
+		<text id="cookstep_chickenburger1" name="チキンを焼く" />
+		<text id="cookstep_chickenburger2" name="バーガーを盛り付ける" />
+		<text id="cookstep_chickensalad1" name="チキンを焼く" />
+		<text id="cookstep_chickensalad2" name="サラダを盛り付ける" />
+		<text id="cookstep_chickensoup1" name="ベーコンを炒める" />
+		<text id="cookstep_chickensoup2" name="スープを作る" />
+		<text id="cookstep_chiliconcarne1" name="肉を焼く" />
+		<text id="cookstep_chiliconcarne2" name="トウガラシを煮る" />
+		<text id="cookstep_chocmousse1" name="食材を混ぜ合わせる" />
+		<text id="cookstep_chocmousse2" name="ムースを冷やす" />
+		<text id="cookstep_chocolatecake1" name="食材を混ぜ合わせる" />
+		<text id="cookstep_chocolatecake2" name="オーブンで焼く" />
+		<text id="cookstep_chocolatecheesecake1" name="チョコレートを溶かします" />
+		<text id="cookstep_chocolatecheesecake2" name="ケーキを焼く" />
+		<text id="cookstep_chocolatefondue1" name="チョコレートを溶かす" />
+		<text id="cookstep_chocolatefondue2" name="クリームを加える" />
+		<text id="cookstep_christmasturkey1" name="野菜を蒸し煮にする" />
+		<text id="cookstep_christmasturkey2" name="ターキーを焼く" />
+		<text id="cookstep_cookieplate1" name="生地を型抜きする" />
+		<text id="cookstep_cookieplate2" name="クッキーを焼く" />
+		<text id="cookstep_cornonthecob1" name="トウモロコシをゆでる" />
+		<text id="cookstep_cornonthecob2" name="サラダを盛り付ける" />
+		<text id="cookstep_curry1" name="食材を炒める" />
+		<text id="cookstep_curry2" name="ココナッツを加える" />
+		<text id="cookstep_duckalorange1" name="鴨に中身を詰める" />
+		<text id="cookstep_duckalorange2" name="鴨を焼く" />
+		<text id="cookstep_easterdish1" name="チョコレートを溶かします" />
+		<text id="cookstep_easterdish2" name="卵をゆでます" />
+		<text id="cookstep_englishbreakfast1" name="豆をゆでる" />
+		<text id="cookstep_englishbreakfast2" name="ソーセージを焼く" />
+		<text id="cookstep_fishandchips1" name="揚げる" />
+		<text id="cookstep_fishandchips2" name="魚を焼く" />
+		<text id="cookstep_friedpotatoes1" name="ジャガイモをゆでる" />
+		<text id="cookstep_friedpotatoes2" name="ジャガイモを炒める" />
+		<text id="cookstep_fruitpudding1" name="生地を寝かせる" />
+		<text id="cookstep_fruitpudding2" name="オーブンで焼く" />
+		<text id="cookstep_fruitsalad1" name="フルーツを切る" />
+		<text id="cookstep_fruitsalad2" name="ドレッシングを加える" />
+		<text id="cookstep_greensalad1" name="ドレッシングをかき混ぜます" />
+		<text id="cookstep_greensalad2" name="サラダをマリネにする" />
+		<text id="cookstep_gumbo1" name="タマネギを蒸し焼きにする" />
+		<text id="cookstep_gumbo2" name="米を加える" />
+		<text id="cookstep_hamburger1" name="バーガーを炒める" />
+		<text id="cookstep_hamburger2" name="バーガーを盛りつける" />
+		<text id="cookstep_hotcherrywaffles1" name="チェリーを煮る" />
+		<text id="cookstep_hotcherrywaffles2" name="ワッフルを焼く" />
+		<text id="cookstep_jamspongepudding1" name="食材を混ぜ合わせる" />
+		<text id="cookstep_jamspongepudding2" name="オーブンで焼く" />
+		<text id="cookstep_lasagne1" name="ミンチ肉を炒める" />
+		<text id="cookstep_lasagne2" name="ラザニアを焼く" />
+		<text id="cookstep_macncheese1" name="グラタン皿に注ぐ" />
+		<text id="cookstep_macncheese2" name="オーブンで焼く" />
+		<text id="cookstep_maplepancakes1" name="生地を混ぜる" />
+		<text id="cookstep_maplepancakes2" name="ホットケーキを焼く" />
+		<text id="cookstep_marblecake1" name="生地を方に流し込む" />
+		<text id="cookstep_marblecake2" name="オーブンで焼く" />
+		<text id="cookstep_mexicansalad1" name="豆をゆでる" />
+		<text id="cookstep_mexicansalad2" name="食材を混ぜ合わせる" />
+		<text id="cookstep_minestrone1" name="野菜を蒸し焼きにする" />
+		<text id="cookstep_minestrone2" name="パスタを追加する" />
+		<text id="cookstep_mixedsalad1" name="ドレッシングをかき混ぜる" />
+		<text id="cookstep_mixedsalad2" name="サラダをマリネにする" />
+		<text id="cookstep_nasigoreng1" name="チキンを煮込む" />
+		<text id="cookstep_nasigoreng2" name="野菜を蒸し焼きにする" />
+		<text id="cookstep_newyorkcheesecake1" name="フィリングを混ぜ合わせる" />
+		<text id="cookstep_newyorkcheesecake2" name="ケーキを焼く" />
+		<text id="cookstep_noodlesalad1" name="マヨネーズをかき混ぜる" />
+		<text id="cookstep_noodlesalad2" name="食材を混ぜ合わせる" />
+		<text id="cookstep_omelette1" name="卵に味付けます" />
+		<text id="cookstep_omelette2" name="卵を混ぜ合わせます" />
+		<text id="cookstep_onionsoup1" name="タマネギを蒸し焼きにする" />
+		<text id="cookstep_onionsoup2" name="グラタンにする" />
+		<text id="cookstep_peasoup1" name="タマネギを軽く炒める" />
+		<text id="cookstep_peasoup2" name="スープを作る" />
+		<text id="cookstep_pizza1" name="ピザに具材をトッピングする" />
+		<text id="cookstep_pizza2" name="ビザを焼く" />
+		<text id="cookstep_pizzahawaii1" name="ピザを盛り付ける" />
+		<text id="cookstep_pizzahawaii2" name="ピザを焼く" />
+		<text id="cookstep_pizzatonno1" name="ピザを盛り付ける" />
+		<text id="cookstep_pizzatonno2" name="ピザを焼く" />
+		<text id="cookstep_porkroastwithcrackling1" name="肉にスパイスで味付けする" />
+		<text id="cookstep_porkroastwithcrackling2" name="焼く" />
+		<text id="cookstep_potatosalad1" name="ジャガイモをゆでる" />
+		<text id="cookstep_potatosalad2" name="マヨネーズをかき混ぜる" />
+		<text id="cookstep_redberrycompote1" name="フルーツを煮る" />
+		<text id="cookstep_redberrycompote2" name="甘味を加える" />
+		<text id="cookstep_ricepudding1" name="ミルクライスを煮る" />
+		<text id="cookstep_ricepudding2" name="リンゴソースを煮る" />
+		<text id="cookstep_roastchicken1" name="チキンに中身を詰める" />
+		<text id="cookstep_roastchicken2" name="焼く" />
+		<text id="cookstep_sandwich1" name="バターリングブレッド" />
+		<text id="cookstep_sandwich2" name="トーストを盛り付ける" />
+		<text id="cookstep_scouse1" name="肉を煮る" />
+		<text id="cookstep_scouse2" name="テーブルビートを加える" />
+		<text id="cookstep_spagetti1" name="ミンチ肉を炒める" />
+		<text id="cookstep_spagetti2" name="ソースを作る" />
+		<text id="cookstep_spareribs1" name="肉をマリネにする" />
+		<text id="cookstep_spareribs2" name="肉を炒める" />
+		<text id="cookstep_steak1" name="肉を炒める" />
+		<text id="cookstep_steak2" name="サラダを盛り付ける" />
+		<text id="cookstep_steakkidneypie1" name="フィリングを調理する" />
+		<text id="cookstep_steakkidneypie2" name="オーブンで焼く" />
+		<text id="cookstep_stew1" name="肉を炒める" />
+		<text id="cookstep_stew2" name="煮込む" />
+		<text id="cookstep_stewedrhubarb1" name="ルバーブを煮る" />
+		<text id="cookstep_stewedrhubarb2" name="冷ます" />
+		<text id="cookstep_strawberrycake1" name="オーブンで焼く" />
+		<text id="cookstep_strawberrycake2" name="食材を混ぜ合わせる" />
+		<text id="cookstep_strawberrymousse1" name="イチゴをピューレにしています" />
+		<text id="cookstep_strawberrymousse2" name="ムースを泡立たせる" />
+		<text id="cookstep_stuffedpeppers1" name="ピーマンに中身を詰めます" />
+		<text id="cookstep_stuffedpeppers2" name="ピーマンを焼く" />
+		<text id="cookstep_sundayfeast1" name="肉をマリネにする" />
+		<text id="cookstep_sundayfeast2" name="肉を焼く" />
+		<text id="cookstep_sushi1" name="寿司に具を入れる" />
+		<text id="cookstep_sushi2" name="巻く" />
+		<text id="cookstep_toadinhole1" name="生地を混ぜる" />
+		<text id="cookstep_toadinhole2" name="オーブンで焼く" />
+		<text id="cookstep_toast1" name="トーストに具材をトッピングする" />
+		<text id="cookstep_toast2" name="トーストを焼く" />
+		<text id="cookstep_tofuburger1" name="豆腐バーガーを焼く" />
+		<text id="cookstep_tofuburger2" name="バーガーを盛り付ける" />
+		<text id="cookstep_tomatosoup1" name="タマネギを炒める" />
+		<text id="cookstep_tomatosoup2" name="トマトを煮る" />
+		<text id="cookstep_trifle1" name="プディングを作る" />
+		<text id="cookstep_trifle2" name="トライフルを重ねる" />
+		<text id="cookstep_veganstirfry1" name="野菜を蒸し焼きにする" />
+		<text id="cookstep_veganstirfry2" name="米を炊く" />
+		<text id="cookstep_vegetablesoup1" name="タマネギを炒める" />
+		<text id="cookstep_vegetablesoup2" name="スープを作る" />
+		<text id="cookstep_veggiecurry1" name="米を炊く" />
+		<text id="cookstep_veggiecurry2" name="カレーを煮込む" />
+		<text id="cookstep_veggielasagne1" name="ラザニアを重ねる" />
+		<text id="cookstep_veggielasagne2" name="ラザニアを焼く" />
+		<text id="cookstep_whitechoccheesecake1" name="食材を混ぜ合わせる" />
+		<text id="cookstep_whitechoccheesecake2" name="ケーキを焼く" />
+		<text id="cookstep_whitechocmousse1" name="チョコレートを溶かします" />
+		<text id="cookstep_whitechocmousse2" name="ムースを冷やす" />
+		<text id="cookstep_coxinha1" name="Mixing ingredients" />
+		<text id="cookstep_coxinha2" name="Frying coxinhas" />
+	</cookstep>
+	<coopmission>
+		<text id="coop_desc_long_1" name="何種類かの料理をより完璧なものにするために、料理教室を開催する予定なんですが、一緒に参加しませんか?" />
+		<text id="coop_desc_long_10" name="あなたの家族が店を訪ねてくる予定です。そんなわけで、あなたは、キッチンシェフとして、クリスマスディナーを料理するという栄誉ある役目を果たすことになりました。家族で美味しく楽しいお食事を!" />
+		<text id="coop_desc_long_11" name="ケーキファイトイベントのために、大量のケーキが必要となりました!とにかくできるだけたくさんのケーキを作ってください…" />
+		<text id="coop_desc_long_12" name="街のスープキッチンが様々な種類のスープを必要としています。誰でも美味しく食べられるスープを何品か作ってくれませんか?" />
+		<text id="coop_desc_long_13" name="アジア風のテーマイブニングのために、アジア系の料理があと数品必要です。あなたのレパートリーにアジア料理はありますか?" />
+		<text id="coop_desc_long_14" name="全国建設作業員総会のために、重厚でこってりとした料理を用意することになりました。体力勝負の男たちを納得させるパワフルなメニューはありますか?" />
+		<text id="coop_desc_long_15" name="ロンドンから来たお客さんたちが、故郷の料理を食べたいと希望しています。あなたなら、ささっと用意できますか?" />
+		<text id="coop_desc_long_2" name="メキシコ風のパーティーを企画しているんだけど、料理の準備がまだ出来ていないんです。協力してくれませんか?" />
+		<text id="coop_desc_long_3" name="ドイツ・ハンブルグのスポーツクラブの人達がうちに来る予定なのですが、彼らの地元料理をご馳走してくつろいでもらおうと思います。そんなわけで、ハンブルグの本場料理を作れる人が必要なんです。引き受けてくれますか?" />
+		<text id="coop_desc_long_4" name="大きなガーデンパーティーを開催するので、お客さんたちに満足してもらうために料理がたくさん必要です。あなたはケータリングの達人だとお聞きしました。ぜひ協力してください!" />
+		<text id="coop_desc_long_5" name="街のスキー場で開催されるアフタースキーパーティーに、美味しい食事をたくさん準備しなければいけません。手伝ってくれますか?" />
+		<text id="coop_desc_long_6" name="今晩、私の上司が食事に来る予定なのですが、そのときにフルコースメニューをご馳走して驚かせようと思います。お任せしていいですか?" />
+		<text id="coop_desc_long_7" name="学食の厨房で火事があったため、子供たちに食事が出せなくて困っています。美味しい料理を作るのを手伝ってくれませんか?" />
+		<text id="coop_desc_long_8" name="親友が大きな誕生パーティーを開くのですが、料理を用意することをすっかり忘れていたようです。お腹をすかせたお客さんたちが大勢やって来るというのに… ぜひ協力してください!" />
+		<text id="coop_desc_long_9" name="イタリア風の村祭りが行われる予定なのですが、食事だけがまだ準備できていません。ぜひ、あなたの料理スキルをお貸しいただきたい。" />
+		<text id="coop_desc_short_1" name="スパゲティボロネーズの達人を目指せ!" />
+		<text id="coop_desc_short_10" name="家族の団欒" />
+		<text id="coop_desc_short_11" name="勝つには、ケーキを当てまくれ！" />
+		<text id="coop_desc_short_12" name="スープに代わるものは無い!" />
+		<text id="coop_desc_short_13" name="なんといっても、お米は基本!" />
+		<text id="coop_desc_short_14" name="好きなのは、やっぱり肉とジャガイモ!" />
+		<text id="coop_desc_short_15" name="最高にブリティッシュな料理!" />
+		<text id="coop_desc_short_2" name="陽気にフィエスタ・メヒカーナ" />
+		<text id="coop_desc_short_3" name="ドイツ・ハンブルグのお客様ご一行" />
+		<text id="coop_desc_short_4" name="ガーデンパーティ用にトーストハワイ!" />
+		<text id="coop_desc_short_5" name="チョコレートをチーズの山の頂上に" />
+		<text id="coop_desc_short_6" name="最上のチョコレートムース" />
+		<text id="coop_desc_short_7" name="腹が減っては勉強ができぬ!" />
+		<text id="coop_desc_short_8" name="バーズデーパーティ用にピザを焼こう!" />
+		<text id="coop_desc_short_9" name="ピザ!パスタ!バスタ!" />
+		<text id="coop_title_1" name="料理教室" />
+		<text id="coop_title_10" name="クリスマスです!" />
+		<text id="coop_title_11" name="ケーキファイト!" />
+		<text id="coop_title_12" name="スープ・スープ・スープ" />
+		<text id="coop_title_13" name="オールアジアン" />
+		<text id="coop_title_14" name="料理はパワーだぜ!" />
+		<text id="coop_title_15" name="ベリー・ブリティッシュ!" />
+		<text id="coop_title_2" name="メキシカンナイト" />
+		<text id="coop_title_3" name="ハンブルグ風ディナー" />
+		<text id="coop_title_4" name="ガーデンパーティー" />
+		<text id="coop_title_5" name="アプレ・スキー" />
+		<text id="coop_title_6" name="ディナーパーティー" />
+		<text id="coop_title_7" name="学食の火事" />
+		<text id="coop_title_8" name="バーズデーパーティー" />
+		<text id="coop_title_9" name="イタリアンビュッフェ" />
+	</coopmission>
+	<dialogs>
+		<text id="dialogwin_achievement_title" name="実績" />
+		<text id="dialogwin_avatarcreate_man" />
+		<text id="dialogwin_avatarcreate_random" name="外見を変更する" />
+		<text id="dialogwin_avatarcreate_txt_avatar_name" name="名前:" />
+		<text id="dialogwin_avatarcreate_txt_avatar_title" name="あなたのキャラクターを作成しましょう" />
+		<text id="dialogwin_avatarcreate_woman" />
+		<text id="dialogwin_avatarnameselect_copy" name="その名前はすでに使われています。別案:" />
+		<text id="dialogwin_avatarnameselect_title" name="おおっと!" />
+		<text id="dialogwin_avatar_btn_random" name="ランダム" />
+		<text id="dialogwin_bonus_copy_achievement" name="この実績のレベル{0}に到達しました!おめでごうございます!" />
+		<text id="dialogwin_bonus_copy_counter" name="カウンターをもう1つ購入できるようになりました。" />
+		<text id="dialogwin_bonus_copy_dish" name="新しいレシピが\n選択できるようになりました。" />
+		<text id="dialogwin_bonus_copy_expand" name="カフェを拡張しました! これで、もっと多くのお客さんに来てもらえるし、装飾品などに使えるスペースもぐっと増えました!" />
+		<text id="dialogwin_bonus_copy_fridge" name="冷蔵庫をもう1つ購入できるようになりました。" />
+		<text id="dialogwin_bonus_copy_instant" name="もう一回インスタントクッキング。ワンクリックであっというまに料理が完成!" />
+		<text id="dialogwin_bonus_copy_level2" name="カフェを拡張して、もっと多くのお客さんに来てもらえるスペースをつくることだってできます!" />
+		<text id="dialogwin_bonus_copy_login" name="あなたの留守中の成果:" />
+		<text id="dialogwin_bonus_copy_newwaiter" name="あなたのカフェに新しいスタッフがやってきました!  これで、お客さんが増えても大丈夫ですね!" />
+		<text id="dialogwin_bonus_copy_stove" name="コンロをもう1つ購入できるようになりました。" />
+		<text id="dialogwin_bonus_copy_waiter" name="フロアスタッフをもう1人雇えるようになりました。" />
+		<text id="dialogwin_bonus_title_achievement" name="新しい実績" />
+		<text id="dialogwin_bonus_title_counter" name="新しいカウンター" />
+		<text id="dialogwin_bonus_title_dish" name="新しいレシピ" />
+		<text id="dialogwin_bonus_title_expand" name="やった!" />
+		<text id="dialogwin_bonus_title_fridge" name="新しい冷蔵庫" />
+		<text id="dialogwin_bonus_title_instant" name="インスタントクッキングの回数アップ" />
+		<text id="dialogwin_bonus_title_level2" name="拡張しよう!" />
+		<text id="dialogwin_bonus_title_login" name="おかえりなさい!" />
+		<text id="dialogwin_bonus_title_newwaiter" name="おめでとうございます" />
+		<text id="dialogwin_bonus_title_stove" name="新しいコンロ" />
+		<text id="dialogwin_bonus_title_waiter" name="スタッフが増やせます" />
+		<text id="dialogwin_buytile_copy" name="タイル{0}枚を{1}で購入しますか?" />
+		<text id="dialogwin_buytile_title" name="タイルを購入しますか?" />
+		<text id="dialogwin_changepassword_copy_newpass" name="新しいパスワード:" />
+		<text id="dialogwin_changepassword_copy_oldpass" name="古いパスワード:" />
+		<text id="dialogwin_changepassword_title" name="パスワードを変更する" />
+		<text id="dialogwin_clearcounter_cancelButton" name="そのまま" />
+		<text id="dialogwin_clearcounter_okButton" name="捨てる" />
+		<text id="dialogwin_clearcounter_title" name="このカウンターから運ばれていく料理があります。\nどうしますか?" />
+		<text id="dialogwin_clearstove_btn_cancel" name="そのまま" />
+		<text id="dialogwin_clearstove_btn_ok" name="捨てる" />
+		<text id="dialogwin_clearstove_copy" name="今日はあと{0}回インスタントクッキングを実行できます。" />
+		<text id="dialogwin_clearstove_title" name="このコンロでは現在調理が行われています。\nどうしますか?" />
+		<text id="dialogwin_cookbook_income" name="単価 {0}" />
+		<text id="dialogwin_cookbook_readyin" name="所要時間: {0}" />
+		<text id="dialogwin_cookbook_servings" name="数量: {0}" />
+		<text id="dialogwin_coopextend_nomoney" name="Co-Opを延長するには、カフェゴールドが足りません!" />
+		<text id="dialogwin_coopreward_finish_0" name="金" />
+		<text id="dialogwin_coopreward_finish_1" name="銀" />
+		<text id="dialogwin_coopreward_finish_2" name="銅" />
+		<text id="dialogwin_coopreward_title_fail" name="Co-Opミッション失敗!" />
+		<text id="dialogwin_coopreward_title_success" name="Co-Opミッションクリア評価:{0}" />
+		<text id="dialogwin_coopshelp_copy" name="ここでは、フレンドと協力して料理ミッションをクリアすることによって、追加でXPとカフェドルを獲得できます。\n素早くクリアするほど報酬も大きくなります。\n\n残り時間が少なくなってきたら、いつでも延長できます。\n\報酬が獲得できるのは、料理を作ってミッションに貢献した場合だけです!" />
+		<text id="dialogwin_coopshelp_title" name="Co-Opとは?" />
+		<text id="dialogwin_coop_btn_action" name="詳細" />
+		<text id="dialogwin_coop_btn_activecoops" name="アクティブなCo-Op" />
+		<text id="dialogwin_coop_btn_join" name="参加する" />
+		<text id="dialogwin_coop_btn_newcoop" name="Co-Opを開始する" />
+		<text id="dialogwin_coop_btn_quit" name="終了する" />
+		<text id="dialogwin_coop_extendtime_copy" name="{0}カフェゴールドで、Co-Opを延長しますか? ゴールドタイム: {1}時間 シルバータイム: {2}時間 ブロンズタイム: {3}時間" />
+		<text id="dialogwin_coop_extendtime_title" name="時間を増やす" />
+		<text id="dialogwin_coop_maxdone" name="すでに今日のCo-Opを開始しました!明日になればまた新規にCo-Opを開始できます" />
+		<text id="dialogwin_coop_maxuser" name="最大参加人数: {0}" />
+		<text id="dialogwin_coop_member" name="Co-Op参加者:" />
+		<text id="dialogwin_coop_minlevel" name="参加者の必要レベル: {0}" />
+		<text id="dialogwin_coop_quit_copy" name="このCo-Opを終了してよろしいですか?" />
+		<text id="dialogwin_coop_subtitle" name="料理するのはこれです:" />
+		<text id="dialogwin_coop_timeInfo" name="クリア所要時間:" />
+		<text id="dialogwin_coop_timeleft" name="残り時間:" />
+		<text id="dialogwin_coop_txt_noactive" name="現在アクティブなCo-Opはありません。\n新しく始めませんか?" />
+		<text id="dialogwin_coop_txt_title" name="Co-Op" />
+		<text id="dialogwin_decoshophelp_copy" name="家具をレジでなく、このバーにドラッグすると保管することができます。\n新たにカフェ内にドラッグしてもお金はかかりません。\nアイテムそれぞれの数量は赤いステッカーに表示されています。" />
+		<text id="dialogwin_decoshophelp_copy_1" name="家具や装飾品には、それぞれ豪華値が設定されており、それらの合計があなたのカフェの豪華値を決定します。あなたのカフェはどれだけ豪華でしょうか?" />
+		<text id="dialogwin_decoshophelp_title" name="家具/デコレーションを保管しますか?" />
+		<text id="dialogwin_decoshophelp_title_1" name="豪華値?" />
+		<text id="dialogwin_dishmastery_copy_0" name="{0}のマスタリーを達成!" />
+		<text id="dialogwin_dishmastery_copy_1" name="余った分はフレンド達にも分けてあげましょう!" />
+		<text id="dialogwin_dishmastery_info" name="マスタリーを獲得するごとに、料理の利益率がアップ!" />
+		<text id="dialogwin_dishmastery_title" name="新しいマスタリー!" />
+		<text id="dialogwin_fancycooking_title" name="料理を{0}で味付けしますか?" />
+		<text id="dialogwin_featureUnlocked_coop" name="フレンドと一緒にCo-opジョブを実行しよう!" />
+		<text id="dialogwin_featureUnlocked_decoration" name="新しいデコレーションがロック解除されました!" />
+		<text id="dialogwin_featureUnlocked_fancy" name="ファンシー食材で、料理に一味違う味付けを加えよう!" />
+		<text id="dialogwin_featureUnlocked_frosty" name="フロスティを使って、喉を乾かせたお客さんにドリンクを提供しよう!" />
+		<text id="dialogwin_featureUnlocked_marketplace" name="マーケットプレイスで、新しいフレンドに出会おう!" />
+		<text id="dialogwin_featureUnlocked_muffinman" name="マフィンマンで運試し!" />
+		<text id="dialogwin_featureUnlocked_ranking" name="ランキング表を通して、他のプレイヤーを訪問してみよう!" />
+		<text id="dialogwin_featureUnlocked_staff" name="多くのお客さんに対応できるように、新しいフロアスタッフを雇おう!" />
+		<text id="dialogwin_featureUnlocked_wheeloffortune" name="ホイール・オブ・フォーチュンで運試し!" />
+		<text id="dialogwin_FriendShop_copy" name="カフェの拡張を手伝ってくれるフレンドがあと{0}人必要です。\nまたは、{1}カフェゴールド支払って業者に依頼することもできます。" />
+		<text id="dialogwin_FriendShop_title" name="新しいフレンド" />
+		<text id="dialogwin_giftbox_close" name="閉じる" />
+		<text id="dialogwin_giftbox_friendlist_empty" name="各ネットワークフレンドには毎日ギフトを1つ送ることができます。" />
+		<text id="dialogwin_giftbox_friendlist_notavailable" name="明日からはフレンドたちにギフトを送れるようになります!" />
+		<text id="dialogwin_giftbox_ggsgifts_empty" name="ギフトボックスは空です! ギフトはログインボーナスにより入手できます。" />
+		<text id="dialogwin_giftbox_mygifts_empty" name="あなたはギフトをもらっていません。フレンドにギフトを送ってみましょう。お返しをいただけるかもしれません。" />
+		<text id="dialogwin_giftbox_remove" name="処分する" />
+		<text id="dialogwin_giftbox_send" name="プレゼントする" />
+		<text id="dialogwin_giftbox_sendablegifts_empty" name="今日は残念ながらギフトはありません。" />
+		<text id="dialogwin_giftbox_title" name="ギフト!" />
+		<text id="dialogwin_giftbox_use" name="使用する" />
+		<text id="dialogwin_highscore_luxury" name="豪華" />
+		<text id="dialogwin_highscore_name" name="名前" />
+		<text id="dialogwin_highscore_rank" name="ランク" />
+		<text id="dialogwin_highscore_searchtext" name="名前/ランキングを検索" />
+		<text id="dialogwin_highscore_title" name="ランキング" />
+		<text id="dialogwin_ingamehelp_1_1" name="料理を作るには" />
+		<text id="dialogwin_ingamehelp_1_2" name="お客さんたちに出す料理は、オーブンで調理します。そのためには、レシピを選択し、何度かのクリックを行う必要があります。" />
+		<text id="dialogwin_ingamehelp_1_3" name="レシピ本には、すべてのレシピの概要および必要な食材が載っています。" />
+		<text id="dialogwin_ingamehelp_1_4" name="レシピに必要な食材は、食材ショップで入手できます。" />
+		<text id="dialogwin_ingamehelp_1_5" name="必要な食材がすべて揃ったら、「調理する」をクリックして調理開始です。" />
+		<text id="dialogwin_ingamehelp_1_6" name="規定時間が経過し、料理が完成したら、お客さんに出すためにカウンターに置きましょう。" />
+		<text id="dialogwin_ingamehelp_1_7" name="使用後のオーブンは汚れているので、次回使用する前に掃除しておく必要があります。" />
+		<text id="dialogwin_ingamehelp_2_1" name="食材について知っておくべきこと" />
+		<text id="dialogwin_ingamehelp_2_2" name="購入した食材はここに保管されます。冷蔵庫の容量にはそれぞれ限界がありますが、充分な在庫を用意しておくにこしたことはありません。" />
+		<text id="dialogwin_ingamehelp_2_3" name="ファンシー食材を使えば、あなたの料理が一味違った仕上がりになり、入手数量とXPが増えます。その上、冷蔵庫内のスペースをとりません。" />
+		<text id="dialogwin_ingamehelp_2_4" name="たまに、一部の食材が購入できない場合もあります。そんな時に役に立つのが宅配サービス。宅配料金と引き換えに、いつでも食材を運んできてくれます。" />
+		<text id="dialogwin_ingamehelp_2_5" name="これらの食材はいつでも利用できます:" />
+		<text id="dialogwin_ingamehelp_3_1" name="数値について" />
+		<text id="dialogwin_ingamehelp_3_2" name="料理をお客さんに出すことによって、経験値が入手できます。その他には、他のカフェでフロアスタッフとして働く、Co-Opに成功する、実績獲得、ドリンクをお客さんに出す、といった方法があります。" />
+		<text id="dialogwin_ingamehelp_3_3" name="店の人気度は、訪れるお客さんの数に影響があります。お客さんがカフェから帰る時に満足していれば、人気度は上がりますが、不満な場合は下がります。お客さんは、ちゃんと料理を出すことで満足します。" />
+		<text id="dialogwin_ingamehelp_3_4" name="カフェドルは基本的に料理の販売によって入手します。その他の収入源: フロアスタッフとして働く、Co-Opに成功する、各種実績など。" />
+		<text id="dialogwin_ingamehelp_3_5" name="カスタマイズメニューで購入できるアイテムには、それぞれ豪華値が設定されています。豪華値は店の人気度に影響し、豪華なほど人気が高まります。" />
+		<text id="dialogwin_ingamehelp_3_6" name="カスタマイズメニューでは、オーブン、カウンター、テーブルほか各種備品が購入できます。クリエイティブにいきましょう!" />
+		<text id="dialogwin_ingamehelp_3_7" name="カフェが小さいと感じるようになれば、拡張することで、より多くのお客さんに来てもらえるスペースを確保できます。" />
+		<text id="dialogwin_ingamehelp_4_1" name="他に知っておくべきことは?" />
+		<text id="dialogwin_ingamehelp_4_2" name="マーケットプレイスでは、他のプレイヤーと知り合ったり、ジョブを探したり、他のプレイヤーとチャットすることができます。" />
+		<text id="dialogwin_ingamehelp_4_3" name="さまざまな行動をとることによって、XPとカフェドルの追加収入源にもなる、各種実績を獲得できます。" />
+		<text id="dialogwin_ingamehelp_4_4" name="マーケットプレースを通じて、他のプレイヤーをあなたのカフェでフロアスタッフとして雇ったり、自分が他のカフェでフロアスタッフとして働くことができます。" />
+		<text id="dialogwin_ingamehelp_4_5" name="Co-Opとは、他プレイヤーと共同で行う料理プロジェクトです。成功すれば報酬が獲得できます。" />
+		<text id="dialogwin_ingamehelp_4_6" name="フロアスタッフは、完成した料理をお客さんのもとに運び、使用済みの皿をテーブルから片付けます。" />
+		<text id="dialogwin_ingamehelp_4_7" name="作成された料理が、カウンターに置かれないまま一定時間経過すると、傷んでしまいます。" />
+		<text id="dialogwin_ingamehelp_ingredients" name="食材" />
+		<text id="dialogwin_ingredient_all" name="全て" />
+		<text id="dialogwin_ingredient_emptyfridge" name="冷蔵庫が空っぽです! 料理をするには、食材ショップで食材を買う必要があります。" />
+		<text id="dialogwin_ingredient_fancy" name="特別な食材" />
+		<text id="dialogwin_ingredient_fruits" name="フルーツ" />
+		<text id="dialogwin_ingredient_instore" name="x 在庫" />
+		<text id="dialogwin_ingredient_meat" name="肉" />
+		<text id="dialogwin_ingredient_notinstock" name="今日は品切れです" />
+		<text id="dialogwin_ingredient_shoplayer" name="食材ショップ" />
+		<text id="dialogwin_ingredient_storecapacity" name="容量:" />
+		<text id="dialogwin_ingredient_storeinused" name="冷蔵庫内:" />
+		<text id="dialogwin_ingredient_storelayer" name="冷蔵庫" />
+		<text id="dialogwin_ingredient_vegatable" name="ベジタリアン" />
+		<text id="dialogwin_instantcooking_copy" name="インスタントクッキングを使用しますか? あと{0}回可能です!" />
+		<text id="dialogwin_instantcooking_title" name="インスタントクッキングを\n使用しますか?" />
+		<text id="dialogwin_jobpaycheck_copy" name="フロアスタッフとして頑張って働いたおかげで、チップに加えて経験値も獲得しました!" />
+		<text id="dialogwin_jobpaycheck_title" name="明細書" />
+		<text id="dialogwin_levelup_copy" name="レベル{0}に到達しました!" />
+		<text id="dialogwin_levelup_copy_1" name="報酬:" />
+		<text id="dialogwin_levelup_copy_2" name="ロック解除済み:" />
+		<text id="dialogwin_levelup_title" name="レベルアップ" />
+		<text id="dialogwin_lonelyingredient_copy" name="フロアスタッフが秘密の食材の入った箱を見つけました!\n\nフレンド達にも分けてあげましょう!" />
+		<text id="dialogwin_lonelyingredient_title" name="サプライズ!" />
+		<text id="dialogwin_lonelytip_copy" name="お客さんから高額のチップをもらいました! フレンド達にも少し分けてあげましょう!" />
+		<text id="dialogwin_lonelytip_title" name="やった!" />
+		<text id="dialogwin_muffinman_beforebet" name="賭ける額を決めてください。勝てば、2倍になって返ってきます!" />
+		<text id="dialogwin_muffinman_btn_again" name="もう1回!" />
+		<text id="dialogwin_muffinman_btn_go" name="Go!" />
+		<text id="dialogwin_muffinman_header" name="フィリングを探せ!" />
+		<text id="dialogwin_muffinman_lostbet" name="残念。いつも勝てるとは限りません。もう一度やってみますか?" />
+		<text id="dialogwin_muffinman_nomoney" name="所持カフェドル/カフェゴールドが賭け額に足りません!" />
+		<text id="dialogwin_muffinman_nopayment" name="カフェゴールドを賭けるには、レベル10に達している必要があります!" />
+		<text id="dialogwin_muffinman_noregister" name="登録済みプレイヤーは、「フィリング探しゲーム」をプレイすることが可能です!" />
+		<text id="dialogwin_muffinman_nosale" name="マフィンベーカーを売ることはできません!" />
+		<text id="dialogwin_muffinman_onlyonebuy" name="マフィンベーカーはカフェ内に1台しか設置できません!" />
+		<text id="dialogwin_muffinman_placedbet" name="ベリーグッド!さて、フィリングが隠されているのはどのマフィンでしょう?" />
+		<text id="dialogwin_muffinman_toohighbet" name="そんなに大きな額を賭けることはできません!最大賭け額は{0}カフェゴールドと{1}カフェドルです!" />
+		<text id="dialogwin_muffinman_wonbet" name="お見事、フィリングを見つけました!もう一度トライしてみますか!?" />
+		<text id="dialogwin_nomoney_avatarchange" name="着せ替えを行うには、カフェゴールドが足りません!" />
+		<text id="dialogwin_nomoney_clean_copy" name="コンロを掃除するには、カフェドルが足りません" />
+		<text id="dialogwin_nomoney_copy" name="このアイテムを買うには、カフェドル/カフェゴールドが足りません。" />
+		<text id="dialogwin_nomoney_courier" name="宅配サービスを支払うには、カフェドル/カフェゴールドが足りません" />
+		<text id="dialogwin_nomoney_instantcook_copy" name="インスタントクッキングを行うにはカフェゴールドが足りません。" />
+		<text id="dialogwin_nomoney_moregold" name="カフェドル/カフェゴールドを買う" />
+		<text id="dialogwin_nomoney_npchire" name="新しいフロアスタッフを雇うには、カフェゴールドが足りません" />
+		<text id="dialogwin_nomoney_ok" name="OK" />
+		<text id="dialogwin_nomoney_title" name="カフェドル/カフェゴールドが足りません" />
+		<text id="dialogwin_noreward_copy" name="その報酬は残念ながらすでに他のプレイヤーが持って行きました!" />
+		<text id="dialogwin_noreward_title" name="残念!" />
+		<text id="dialogwin_perfectdish_copy" name="あなたは今日{0}を完璧に調理しました!\nフレンド達にも何食か分けてあげましょう!" />
+		<text id="dialogwin_perfectdish_title" name="パーフェクト!" />
+		<text id="dialogwin_presentreceived_copy" name="ウェルカムギフトの{0}カフェゴールドが、あなたのアカウントに追加されました!" />
+		<text id="dialogwin_presentreceived_title" name="ギフトを入手!" />
+		<text id="dialogwin_presentreminder_btn_send" name="送信" />
+		<text id="dialogwin_presentreminder_copy1" name="Eメール内のリンクをクリックして、{0}カフェゴールドを受け取ってください!" />
+		<text id="dialogwin_presentreminder_copy2" name="はい、私のEメールアドレスに、{0}カフェゴールドを送ってください。" />
+		<text id="dialogwin_presentreminder_title" name="{0}カフェゴールドをあなたにプレゼント!" />
+		<text id="dialogwin_receiveitem_copy" name="報酬はあなたのギフトボックスに入っています!" />
+		<text id="dialogwin_receiveitem_title" name="やった!" />
+		<text id="dialogwin_receivemoney_copy" name="報酬はすでに支払われました!" />
+		<text id="dialogwin_receivemoney_title" name="おめでとう!" />
+		<text id="dialogwin_refreshfood_btn_clean" name="掃除する" />
+		<text id="dialogwin_refreshfood_btn_refresh" name="料理を復活させる" />
+		<text id="dialogwin_refreshfood_title" name="料理を\n復活させますか?" />
+		<text id="dialogwin_register_agbs" name="利用規約に同意する" />
+		<text id="dialogwin_register_mail" name="Eメール" />
+		<text id="dialogwin_register_password" name="パスワード" />
+		<text id="dialogwin_register_title" name="新規登録" />
+		<text id="dialogwin_sendgift_send" name="プレゼントする" />
+		<text id="dialogwin_sendgift_titel" name="特定の相手にプレゼントする" />
+		<text id="dialogwin_settings_email" name="Eメール受信をブロックする" />
+		<text id="dialogwin_settings_general" name="全般" />
+		<text id="dialogwin_settings_high" name="高" />
+		<text id="dialogwin_settings_low" name="低" />
+		<text id="dialogwin_settings_medium" name="中" />
+		<text id="dialogwin_settings_quality" name="画質" />
+		<text id="dialogwin_shippingconfirmation_copy1" name="カフェゴールドを受け取るには、Eメール内のリンクをクリックしてください。" />
+		<text id="dialogwin_shippingconfirmation_copy2" name="Eメールがまだ届きませんか? 数分たっても届かないようでしたら、ひとまず迷惑メールフォルダをご確認ください。そちらにも入っていない場合、サポートにお問い合わせください。" />
+		<text id="dialogwin_shippingconfirmation_title" name="ゴールドEメールは発送済みです!" />
+		<text id="dialogwin_smoothiemakerhelp_copy" name="ここではドリンクをミックスして、お客さんに出すことができます。 ドリンクを選択して「ミックス」をクリックしてください。  ドリンクをお客さんに出すには、「喉がかわいた」お客さんを、席に着く前にクリックしてください。 「喉がかわいた」お客さんは、頭上のアイコンで見分けることができます。" />
+		<text id="dialogwin_smoothiemakerhelp_title" name="ドリンクの売り方" />
+		<text id="dialogwin_smoothiemaker_allserved_copy" name="ドリンクを全部出しました! 新しいドリンクを作るには、フロスティが空になるまで待ってください!" />
+		<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="ショップへ" />
+		<text id="dialogwin_smoothiemaker_nofrosty_copy" name="ドリンクを出すには、フロスティを購入する必要があります!" />
+		<text id="dialogwin_smoothiemaker_nomoney_copy" name="このドリンクを買うにはカフェドル/カフェゴールドが足りません!" />
+		<text id="dialogwin_smoothiemaker_noservings_copy" name="ドリンクがありません! 新しくミックスしましょう!" />
+		<text id="dialogwin_smoothiemaker_onlyonebuy" name="フロスティはカフェ内に1台のみ配置できます!" />
+		<text id="dialogwin_smoothiemaker_txt_title" name="フロスティ" />
+		<text id="dialogwin_staffmanagement_btn_fire" name="解雇" />
+		<text id="dialogwin_staffmanagement_favorite" name="タスク?" />
+		<text id="dialogwin_staffmanagement_favorite0" name="片付ける" />
+		<text id="dialogwin_staffmanagement_favorite100" name="料理を運ぶ" />
+		<text id="dialogwin_staffmanagement_fire" name="解雇しますか?" />
+		<text id="dialogwin_staffmanagement_renamecopy" name="フロアスタッフに新しい名前をつけてください:" />
+		<text id="dialogwin_staffmanagement_renametitle" name="名前を変更しますか?" />
+		<text id="dialogwin_staff_hire" name="雇う" />
+		<text id="dialogwin_staff_management" name="管理する" />
+		<text id="dialogwin_staff_new" name="新フロアスタッフ" />
+		<text id="dialogwin_staff_title" name="フロアスタッフ" />
+		<text id="dialogwin_welcomeback_text" name="ギフトとして入手:{0}カフェゴールド" />
+		<text id="dialogwin_welcomeback_text2" name="ギフトとして、{0}カフェゴールドと3個の素敵なファンシー素材を獲得!" />
+		<text id="dialogwin_welcomeback_text3" name="" />
+		<text id="dialogwin_welcomeback_title" name="ようこそ、お帰りなさい {0}!" />
+		<text id="dialogwin_wheeloffortune_beforespin" name="ホイール・オブ・フォーチュンを回して、素敵な商品を獲得しよう!" />
+		<text id="dialogwin_wheeloffortune_btn_go" name="回す!" />
+		<text id="dialogwin_wheeloffortune_btn_towheel" name="ホイールへ" />
+		<text id="dialogwin_wheeloffortune_copy1" name="今日はもうホイール・オブ・フォーチュンを回しましたか?" />
+		<text id="dialogwin_wheeloffortune_header" name="ホイール・オブ・フォーチュン!" />
+		<text id="dialogwin_wheeloffortune_info" name="毎日、最初の1回は無料です!" />
+		<text id="dialogwin_wheeloffortune_info1" name="それ以降は1回につき1カフェゴールドです!" />
+		<text id="dialogwin_wheeloffortune_nomoney" name="ホイール・オブ・フォーチュンを回すには、カフェゴールドが足りません!" />
+		<text id="dialogwin_wheeloffortune_noregister" name="ホイール・オブ・フォーチュンを回すには、プレイヤー登録が必要です。" />
+		<text id="dialogwin_wheeloffortune_nospace" name="ギフトボックスに賞品を入れるスペースがありません!ホイール・オブ・フォーチュンを回すには、スペースを空けてください。" />
+		<text id="dialogwin_wheeloffortune_title" name="ホイール・オブ・フォーチュン!" />
+		<text id="dialogwin_wheeloffortune_tryagain" name="もう一度トライ!" />
+		<text id="dialogwin_wheeloffortune_wonbet" name="おめでとう! 賞品:" />
+		<text id="dialogwin_wheeloffortune_woncash" name="おめでとうございます! 賞金が所持金に加算されました!" />
+		<text id="dialogwin_wheeloffortune_wonfood" name="おめでとうございます! 獲得賞品はギフトボックスにあります!" />
+		<text id="dialogwin_wheeloffortune_wongold" name="ゴールドポットを獲得しました!" />
+		<text id="dialogwin_wheeloffortune_wonitem" name="おめでとうございます! 獲得賞品は倉庫にあります!" />
+	</dialogs>
+	<error_codes>
+		<text id="achievement_error" name="実績" />
+		<text id="achievement_errorcode_1" name="エラー" />
+		<text id="cafechat_errorcode_23" name="管理者が一時的にあなたのチャット機能をミュートしました。" />
+		<text id="cafechat_errorcode_24" name="チャットを荒らさないでください!" />
+		<text id="cafewalk_errorcode_1" name="注意!" />
+		<text id="cafewalk_errorcode_23" name="そこには移動できません。" />
+		<text id="cafe_error" name="注意!" />
+		<text id="changepassword_error" name="パスワードを変更する" />
+		<text id="changepassword_errorcode_0" name="パスワードは変更されました" />
+		<text id="changepassword_errorcode_1" name="エラー" />
+		<text id="changepassword_errorcode_10" name="古いパスワードが正しくありません。" />
+		<text id="coop_errorcode_3" name="このCo-Opに参加するにはレベルが足りません。\n 最低1つの料理をロック解除する必要があります。" />
+		<text id="coop_errorcode_7" name="このCo-Opに参加できるのはレベル{0}までです。" />
+		<text id="coop_errorcode_85" name="このCo-Opはすでに満員です。" />
+		<text id="courier_error" name="配達問題" />
+		<text id="courier_errorcode_40" name="在庫スペースの容量が足りません" />
+		<text id="courier_errorcode_42" name="この食材は通常のショップでも購入できるようになりました。覗いてみてください!" />
+		<text id="courier_errorcode_43" name="宅配サービスが多忙すぎて、あなたに商品の配達を行うことができません。" />
+		<text id="createavatar_error" name="注意!" />
+		<text id="createavatar_errorcode_12" name="その名前はすでに使われています" />
+		<text id="createavatar_errorcode_15" name="このユーザーはすでにアバターを持っています。" />
+		<text id="createavatar_errorcode_18" name="名前が正しくありません。" />
+		<text id="createavatar_error_invalide" name="ユーザー名を空欄にしたり、特殊記号を入力しないでください。" />
+		<text id="createavatar_error_nogender" name="キャラクターを選択してください" />
+		<text id="editbuy_errorcode_1" name="注意!" />
+		<text id="editbuy_errorcode_3" name="このアイテムを購入できる最低レベルにまだ到達していません" />
+		<text id="editbuy_errorcode_38" name="カフェの改装はカスタマイズモードでのみ可能です。" />
+		<text id="editbuy_errorcode_39" name="その位置は無効です。アイテムをあなたのカフェ内の空きスペースにドラッグしてください。" />
+		<text id="editextend_errorcode_1" name="注意!" />
+		<text id="editextend_errorcode_38" name="カフェの改装はカスタマイズモードでのみ可能です。" />
+		<text id="editextend_errorcode_53" name="この拡張はすでに購入済みです。" />
+		<text id="editextend_errorcode_54" name="この拡張はまだ購入できません。" />
+		<text id="editmode_errorcode_1" name="注意!" />
+		<text id="editmoveobj_errorcode_1" name="注意!" />
+		<text id="editmoveobj_errorcode_38" name="カフェの改装はカスタマイズモードでのみ可能です。" />
+		<text id="editmoveobj_errorcode_39" name="その位置は無効です。アイテムをあなたのカフェ内の空きスペースにドラッグしてください。" />
+		<text id="editrotateobj_errorcode_1" name="注意!" />
+		<text id="editrotateobj_errorcode_38" name="カフェの改装はカスタマイズモードでのみ可能です。" />
+		<text id="editrotateobj_errorcode_39" name="その位置は無効です。アイテムをあなたのカフェ内の空きスペースにドラッグしてください。" />
+		<text id="editsell_errorcode_1" name="注意!" />
+		<text id="editsell_errorcode_32" name="このアイテムは在庫にありません。" />
+		<text id="editsell_errorcode_38" name="カフェの改装はカスタマイズモードでのみ可能です。" />
+		<text id="editsell_errorcode_39" name="その位置は無効です。アイテムをあなたのカフェ内の空きスペースにドラッグしてください。" />
+		<text id="editstoreobj_errorcode_1" name="注意!" />
+		<text id="editstoreobj_errorcode_37" name="料理が置かれています" />
+		<text id="editstoreobj_errorcode_38" name="カフェの改装はカスタマイズモードでのみ可能です。" />
+		<text id="editstoreobj_errorcode_39" name="その位置は無効です。アイテムをあなたのカフェ内の空きスペースにドラッグしてください。" />
+		<text id="editstoreobj_errorcode_51" name="そのフィールドは空です。売るアイテムはありません。" />
+		<text id="editstoreobj_removefailmin_counter" name="最低1つのカウンターが必要です。" />
+		<text id="editstoreobj_removefailmin_fridge" name="最低1つの冷蔵庫が必要です。" />
+		<text id="editstoreobj_removefailmin_stove" name="最低1つのコンロが必要です。" />
+		<text id="editstoreobj_removefailmin_title" name="注意!" />
+		<text id="editstoreobj_removefail_counter" name="カウンターが空でなければいけません。" />
+		<text id="editstoreobj_removefail_door" name="最低1つのドアが必要です。" />
+		<text id="editstoreobj_removefail_fridge" name="持っている食材が多すぎます。" />
+		<text id="editstoreobj_removefail_stove" name="コンロが空でなくてはいけません。" />
+		<text id="editstoreobj_removefail_title" name="注意!" />
+		<text id="edit_error" name="注意!" />
+		<text id="error" name="エラー" />
+		<text id="fullscreenerror_msg_copy" name="フルスクリーンモードは使用できません" />
+		<text id="fullscreenerror_msg_title" name="フルスクリーン:" />
+		<text id="gift_error" name="できません!" />
+		<text id="gift_errorcode_20" name="この料理を運ぶためのカウンターがありません。" />
+		<text id="gift_errorcode_40" name="冷蔵庫内にこの食材を保管するための空きスペースがありません。" />
+		<text id="gift_errorcode_5" name="この行動は実行できません。ギフトが不明です。" />
+		<text id="invitefriend_error" name="残念ながら、フレンドの招待に失敗しました。" />
+		<text id="invitefriend_errorcode_13" name="このプレイヤーはすでに登録されています" />
+		<text id="invitefriend_errorcode_14" name="無効なEメールアドレスです" />
+		<text id="jobrefill_error" name="できません!" />
+		<text id="jobrefill_errorcode_1" name="ジョブ許可はただいま売り切れとなっています。" />
+		<text id="jobrefill_errorcode_61" name="ジョブ許可の補充は1日につき1回のみしかできません。" />
+		<text id="joincafe_error" name="できません!" />
+		<text id="joincafe_errorcode_20" name="貸し切りにつき満席となっています。" />
+		<text id="joincafe_errorcode_21" name="すでにそのカフェに来ています" />
+		<text id="joincafe_errorcode_22" name="そのカフェは存在しません" />
+		<text id="level_error" name="カフェにエラーが発生しました。サポートにご連絡ください。" />
+		<text id="level_errorcode_1" name="あなたのカフェは開店できませんでした。サポートにお問い合わせください。" />
+		<text id="login_error" name="注意!" />
+		<text id="login_errorcode_1" name="エラー" />
+		<text id="login_errorcode_12" name="ユーザーはすでに登録されています。" />
+		<text id="login_errorcode_13" name="ユーザーはすでに登録されています。" />
+		<text id="login_errorcode_14" name="ユーザー名かパスワードが違います。" />
+		<text id="login_errorcode_15" name="すでにログインしています" />
+		<text id="login_errorcode_16" name="あなたのアバターにエラーが発生しました。サポートにお問い合わせください。" />
+		<text id="login_errorcode_wronglogin" name="ユーザー名かパスワードが違います。" />
+		<text id="lostpassword_error" name="注意!" />
+		<text id="lostpassword_errorcode_1" name="エラー" />
+		<text id="lostpassword_errorcode_11" name="そのアドレスでのユーザー登録はなされていません" />
+		<text id="marketplace_error" name="マーケットプレイス" />
+		<text id="marketplace_errorcode_20" name="マーケットプレイスは満員です。時間を改めて来てください。" />
+		<text id="marketplace_errorcode_21" name="あなたはすでにマーケットプレイスにいます。" />
+		<text id="npcfire_errorcode_1" name="フロアスタッフを解雇できませんでした。" />
+		<text id="npchire_errorcode_1" name="新しいフロアスタッフを雇うことはできませんでした。" />
+		<text id="npcrename_errorcode_12" name="無効な名前です" />
+		<text id="npc_error" name="注意!" />
+		<text id="register_error" name="登録に失敗しました" />
+		<text id="register_errorcode_1" name="エラー" />
+		<text id="register_errorcode_10" name="入力されたパスワードが正しくありません。" />
+		<text id="register_errorcode_13" name="別のプレイヤーがすでにこのEメールアドレスで登録されています。" />
+		<text id="register_errorcode_14" name="入力されたEメールが正しくありません。" />
+		<text id="server_msg_10" name="サーバーを再起動します。しばらくお待ちください。申し訳ありませんが、一時的にログアウトしてください。" />
+		<text id="server_msg_title" name="サーバーメッセージ:" />
+		<text id="shopbuy_error" name="スペースがありません" />
+		<text id="shopbuy_errorcode_40" name="冷蔵庫がすでにいっぱいです" />
+		<text id="shopdelete_errorcode_41" name="アイテムがありません" />
+		<text id="smoothiemaker_error_alreadyserved" name="このお客さんにはすでに接客しています!" />
+		<text id="useraction_error" name="注意!" />
+		<text id="useraction_errorcode_2" name="勤務終了です。今日もよく働きました。お疲れ様でした!" />
+		<text id="useraction_errorcode_62" name="まずはカウンターに料理を取りにいきましょう。" />
+		<text id="useraction_errorcode_63" name="片付けに行く前に、料理をお客さんの元へ運ぶか、カウンターに戻しましょう。" />
+		<text id="versioncheck_error" name="古いバージョンです" />
+		<text id="versioncheck_errorcode_1" name="ページを再読み込みしてください。" />
+		<text id="waiter_name_invalide" name="このフロアスタッフ名は許可されていません。" />
+	</error_codes>
+	<feature>
+		<text id="featureDialog_0_text_0" name="あなたのカフェをより素敵にカスタマイズできるィンテリアです!" />
+		<text id="featureDialog_0_text_0_sozial" name="仕事をがんばって、特別報酬をゲットしよう!" />
+		<text id="featureDialog_0_text_1" name="仕事をがんばって、追加のカフェドル、XPやカフェゴールドををゲットしよう!" />
+		<text id="featureDialog_0_text_1_sozial" name="ショップに新しい装飾品が追加されました!" />
+		<text id="featureDialog_0_text_2" name="他には誰がカフェをプレイしているのか調べてみよう!" />
+		<text id="featureDialog_0_text_2_sozial" name="他には誰がカフェをプレイしているのか調べてみよう!" />
+		<text id="featureDialog_10_text_0" name="お客さんやインテリアのために、もっと場所が必要ですか?\nでしたら、今こそ新しい拡張を購入するときです!" />
+		<text id="featureDialog_11_text_0" name="あなたとフレンドたちのための、新しいCo-Opミッション!" />
+		<text id="featureDialog_16_text_0" name="ついに!Caféにて音楽と効果音が再生されるようになりました!" />
+		<text id="featureDialog_16_text_1" name="新しいパイペーカリーテーマで、気分はすっかりパイベーカリー!" />
+		<text id="featureDialog_17_text_0" name="メリークリスマス! 素敵なクリスマスデコレーションでカフェを彩り、北欧の雰囲気で満たしてみませんか?" />
+		<text id="featureDialog_18_text_0" name="クリスマスの精が、新しいクリスマス料理とCo-Opジョブを運んできてくれたようです。" />
+		<text id="featureDialog_19_text_0" name="家具や装飾品に新しく設定された「豪華値」で、あなたのカフェを世界で一番ゴージャスに仕上げ、人気を高めよう!" />
+		<text id="featureDialog_1_text_0" name="仕事をがんばって、特別報酬をゲットしよう!" />
+		<text id="featureDialog_1_text_1" name="ショップに新しい装飾品が追加されました!" />
+		<text id="featureDialog_1_text_2" name="他には誰がカフェをプレイしているのか調べてみよう!" />
+		<text id="featureDialog_20_text_0" name="新しいマスタリーで、料理をグレードアップさせよう!" />
+		<text id="featureDialog_20_text_1" name="クリスマス料理やウィンターデコレーションを入手できる最後のチャンスです!\nあと1週間!" />
+		<text id="featureDialog_21_text_0" name="新しい美味しい料理でお客さんを喜ばせよう!" />
+		<text id="featureDialog_22_text_0" name="新しい実績があなたを待っています! さらなる成功を目指そう!" />
+		<text id="featureDialog_23_text_0" name="力を合わせて料理をつくろう!新しいCo-Opジョブが続々追加!" />
+		<text id="featureDialog_24_text_0" name="イースターラビットが 新しいイースターデコレーションを運んできてくれました!" />
+		<text id="featureDialog_24_text_1" name="こんなに素晴らしい鳥肉料理は他にありません!\nダック・ア・ラ・オレンジをどうぞお試しあれ!" />
+		<text id="featureDialog_25_text_0" name="新しいマフィンベーカーゲームで、運試しをしてみませんか?" />
+		<text id="featureDialog_26_text_0" name="あなたの運やいかに?マーケットプレイスにて、ホイール・オブ・フォーチュンで確かめてみよう!" />
+		<text id="featureDialog_27_text_0" name="綿菓子機でカフェの人気度をアップ! ホイール・オブ・フォーチュンで入手できます!" />
+		<text id="featureDialog_28_text_0" name="ホイール・オブ・フォーチュンで綿菓子機を入手できるのは、今日が最後です!" />
+		<text id="featureDialog_29_text_0" name="キャラクターの着せ替えが、いつでも可能になりました!" />
+		<text id="featureDialog_2_text_0" name="他のプレイヤー達と会ってチャットしよう!" />
+		<text id="featureDialog_2_text_1" name="新しいダイナーテーマのアイテムです!" />
+		<text id="featureDialog_2_text_2" name="あなたのカフェをもっと拡張しよう!" />
+		<text id="featureDialog_30_text_0" name="冷蔵庫内のスペースが増えました! ファンシー食材が、冷蔵庫内の容量を使わないようになりました。いくつでも好きなだけ保管できます。" />
+		<text id="featureDialog_30_text_1" name="拡張をカフェドルで購入できるようになりました!" />
+		<text id="featureDialog_31_text_0" name="冷蔵庫内のスペースが増えました! ファンシー食材が、冷蔵庫内の容量を使わないようになりました。いくつでも好きなだけ保管できます。" />
+		<text id="featureDialog_31_text_1" name="今後は、フレンド数が一定以上あれば、拡張が無料になります!" />
+		<text id="featureDialog_32_text_0" name="喉が渇いたお客さんはいませんか? リフレッシュしてもらうためには、フロスティを用意しましょう!" />
+		<text id="featureDialog_33_text_0" name="お手軽で超・スピーディーな新レシピ! オムレツが、レシピ本に収録されました!" />
+		<text id="featureDialog_3_text_0" name="他のカフェで働いて、カフェドルとXPを追加でゲットしよう!" />
+		<text id="featureDialog_3_text_1" name="お客さんを感動させる美味しい新レシピ!" />
+		<text id="featureDialog_4_text_0" name="マーケットプレイスで、新しいフレンドと知り合いになろう!" />
+		<text id="featureDialog_4_text_1" name="あなたのカフェをより個性的にカスタマイズできる新しいダイナー装飾品です!" />
+		<text id="featureDialog_5_text_0" name="新しいファンシー食材で、\n利益と獲得XPを増やそう!" />
+		<text id="featureDialog_6_text_0" name="ギフトボックスを使い、\nフレンドとギフト交換を行おう!" />
+		<text id="featureDialog_6_text_1" name="新しいファンシー食材で、利益と獲得XPを増やそう!" />
+		<text id="featureDialog_7_text_0" name="サルーン風内装で、あなたのカフェを西部劇の世界にタイムスリップ!" />
+		<text id="featureDialog_8_text_0" name="あまりの美味しさに、お客さんたちも息を呑んで感動の新料理!" />
+		<text id="featureDialog_9_text_0" name="新しいランキングリストであなたの順位を確認してみましょう!" />
+		<text id="featureDialog_9_text_1" name="皆と協力すれば、なんだって出来る!新しいCo-Opに挑戦してみよう!" />
+		<text id="featureDialog_9_text_2" name="新しいハロウィン風の内装で、お客さんを怖がらせてやりましょう!" />
+		<text id="featureDialog_title" name="新フィーチャー" />
+		<text id="limitedfeatureDialog_12_copy_0" name="ハロウィン用デコレーションが購入できます!\n残り期間あとわずか!" />
+		<text id="limitedfeatureDialog_12_copy_1" name="残り4日!" />
+		<text id="limitedfeatureDialog_13_copy_0" name="ハロウィン用デコレーションが購入できます!\n残り期間あとわずか!" />
+		<text id="limitedfeatureDialog_13_copy_1" name="残り3日!" />
+		<text id="limitedfeatureDialog_14_copy_0" name="ハロウィン用デコレーションが購入できます!\n残り期間あとわずか!" />
+		<text id="limitedfeatureDialog_14_copy_1" name="残り2日!" />
+		<text id="limitedfeatureDialog_15_copy_0" name="ハロウィン用デコレーションが購入できます!\n残り期間あとわずか!" />
+		<text id="limitedfeatureDialog_15_copy_1" name="本日のみ!" />
+		<text id="limitedfeatureDialog_2_copy_0" name="ハロウィンデコレーションを入手できます! 残り期間あとわずか!" />
+		<text id="limitedfeatureDialog_3_copy_0" name="もうすぐ冬も終わりですね!ウィンターデコレーションが入手できる期間もあと少しとなりました!" />
+		<text id="limitedfeatureDialog_5_copy_0" name="イースターデコレーションを購入しよう! 残り期間あとわずか!" />
+		<text id="limitedfeatureDialog_time" name="あと{0}日!" />
+		<text id="limitedfeatureDialog_time_single" name="最終日!" />
+		<text id="limitedfeatureDialog_title" name="注目!" />
+	</feature>
+	<feeds>
+		<text id="descriptionfeedcafe" name="グッドゲームカフェをインストールしました。あなたも自分のカフェを経営して、美味しい料理を作ってみませんか? 是非ご覧下さい。" />
+		<text id="descriptionlongcafe" name="Goodgame Caféは、Goodgame Studiosの最新ゲームタイトルです。あなたのカフェをオープンして、たくさんのお客を自分の料理で魅了してみませんか? 自分でメニューを決めて、レシピにあった新鮮な食材を買いに行きます。友達をフロアスタッフに雇ったら、自分のカフェを街で一番の人気スポットにしてみましょう。" />
+	</feeds>
+	<ingame_tooltips>
+		<text id="fridgetooltip_line1" name="冷蔵庫" />
+		<text id="fridgetooltip_line2" name="クリックで開きます" />
+		<text id="muffinmantooltip_line1" name="マフィンベーカー" />
+		<text id="muffinmantooltip_line2" name="クリックでプレイ開始!" />
+		<text id="player_action" name="行動:" />
+		<text id="player_working" name="勤務時間" />
+		<text id="preparestep_cleaning" name="コンロを掃除します" />
+		<text id="preparestep_serving" name="料理を盛りつけます" />
+		<text id="smoothiemaker_line1" name="フロスティ" />
+		<text id="smoothiemaker_line2" name="クリックでミックス!" />
+		<text id="stovetooltip_clean1" name="汚れたコンロ" />
+		<text id="stovetooltip_clean2" name="クリックで掃除します" />
+		<text id="stovetooltip_empty1" name="カウンターは空です" />
+		<text id="stovetooltip_empty2" name="何か料理してください" />
+		<text id="stovetooltip_free" name="クリックで調理します" />
+		<text id="stovetooltip_full1" name="完成しました:" />
+		<text id="stovetooltip_full2" name="数量" />
+		<text id="stovetooltip_prepare1" name="クリックで" />
+		<text id="stovetooltip_ready1" name="料理が傷むまでの時間" />
+		<text id="stovetooltip_ready2" name="クリックで料理を運びます" />
+		<text id="stovetooltip_spoiled1" name="傷みました" />
+		<text id="stovetooltip_spoiled2" name="クリックで掃除します" />
+		<text id="wheeloffortunetooltip_line1" name="ホイール・オブ・フォーチュン!" />
+		<text id="wheeloffortunetooltip_line2" name="クリックでプレイ!" />
+		<text id="wheeloffortunetooltip_line3" name="1プレイ無料" />
+	</ingame_tooltips>
+	<ingredients>
+		<text id="ingredient_cookfest" name="Event Ingredients" />
+		<text id="ingredient_apple" name="リンゴ" />
+		<text id="ingredient_bacon" name="ベーコン" />
+		<text id="ingredient_bakingmix" name="ベーキングミックス" />
+		<text id="ingredient_ballpepper" name="ピーマン" />
+		<text id="ingredient_banana" name="バナナ" />
+		<text id="ingredient_basil" name="バジル" />
+		<text id="ingredient_beans" name="豆" />
+		<text id="ingredient_beetroot" name="テーブルビート" />
+		<text id="ingredient_butter" name="バター" />
+		<text id="ingredient_carrots" name="ニンジン" />
+		<text id="ingredient_cheese" name="チーズ" />
+		<text id="ingredient_cherries" name="チェリー" />
+		<text id="ingredient_chicken" name="チキン" />
+		<text id="ingredient_chili" name="トウガラシ" />
+		<text id="ingredient_chocolate" name="チョコレート" />
+		<text id="ingredient_cinnamon" name="シナモン" />
+		<text id="ingredient_cocktailcherry" name="カクテルチェリー" />
+		<text id="ingredient_coconut" name="ココナッツ" />
+		<text id="ingredient_cookies" name="ビスケット" />
+		<text id="ingredient_coriander" name="コリアンダー" />
+		<text id="ingredient_cream" name="クリーム" />
+		<text id="ingredient_cucumber" name="キュウリ" />
+		<text id="ingredient_curryspice" name="カレー" />
+		<text id="ingredient_duck" name="鴨肉" />
+		<text id="ingredient_eggplant" name="ナス" />
+		<text id="ingredient_eggs" name="卵" />
+		<text id="ingredient_fish" name="魚" />
+		<text id="ingredient_flour" name="小麦粉" />
+		<text id="ingredient_garlic" name="ニンニク" />
+		<text id="ingredient_horseradish" name="セイヨウワサビ" />
+		<text id="ingredient_kidney" name="キドニー" />
+		<text id="ingredient_lettuce" name="レタス" />
+		<text id="ingredient_maplesyrup" name="メイプルシロップ" />
+		<text id="ingredient_meat" name="肉" />
+		<text id="ingredient_milk" name="牛乳" />
+		<text id="ingredient_mincemeat" name="ミンチ肉" />
+		<text id="ingredient_nutmeg" name="ナツメグ" />
+		<text id="ingredient_oil" name="油" />
+		<text id="ingredient_onion" name="タマネギ" />
+		<text id="ingredient_orange" name="オレンジ" />
+		<text id="ingredient_parsley" name="パセリ" />
+		<text id="ingredient_pasta" name="パスタ" />
+		<text id="ingredient_peas" name="グリーンピース" />
+		<text id="ingredient_pinapple" name="パイナップル" />
+		<text id="ingredient_potato" name="ジャガイモ" />
+		<text id="ingredient_quark" name="コテージチーズ" />
+		<text id="ingredient_rhubarb" name="ルバーブ" />
+		<text id="ingredient_rice" name="米" />
+		<text id="ingredient_rosemary" name="ローズマリー" />
+		<text id="ingredient_sausages" name="ソーセージ" />
+		<text id="ingredient_spicemix" name="スパイスミックス" />
+		<text id="ingredient_strawberry" name="イチゴ" />
+		<text id="ingredient_sugar" name="砂糖" />
+		<text id="ingredient_sweetcorn" name="トウモロコシ" />
+		<text id="ingredient_tofu" name="豆腐" />
+		<text id="ingredient_tomato" name="トマト" />
+		<text id="ingredient_turkeymix" name="ターキーミックス" />
+		<text id="ingredient_vanilla" name="バニラ" />
+		<text id="ingredient_vegiemix" name="ベジタブルミックス" />
+		<text id="ingredient_whitechocolat" name="ホワイトチョコレート" />
+	</ingredients>
+	<loggedin_msg id="" />
+	<panels>
+		<text id="panelwin_buddy_btn_morefriends" name="フレンドを増やそう!" />
+		<text id="panelwin_deco_dragtip_copy" name="このアイテムを使用するには、あなたのカフェ内にドラッグしてください。" />
+		<text id="panelwin_deco_dragtip_title" name="ヒント" />
+		<text id="panelwin_deco_nomore_expansion" name="今のところはこれ以上の拡張は行えません。" />
+		<text id="panelwin_deco_objectcount_counter" name="カウンターを追加購入するには、レベル{0}に到達する必要があります。\nまたは、古いカウンターをカフェからここにドラッグすれば、　\n別のカウンターを買うことができます。" />
+		<text id="panelwin_deco_objectcount_fridge" name="冷蔵庫を追加購入するには、レベル{0}に到達する必要があります。\nまたは、古い冷蔵庫をカフェからここにドラッグすれば、\n別の冷蔵庫を買うことができます。" />
+		<text id="panelwin_deco_objectcount_nomore_counter" name="今のところはこれ以上カウンターを購入することはできません。" />
+		<text id="panelwin_deco_objectcount_nomore_fridge" name="今のところはこれ以上冷蔵庫を購入することはできません。" />
+		<text id="panelwin_deco_objectcount_nomore_stove" name="今のところはこれ以上コンロを購入することはできません。" />
+		<text id="panelwin_deco_objectcount_stove" name="コンロを追加購入するには、レベル{0}に到達する必要があります。\nまたは、古いコンロをカフェからここにドラッグすれば、\n別のコンロを買うことができます。" />
+		<text id="panelwin_login_email" name="ユーザー名/ Eメール" />
+		<text id="panelwin_login_login" name="ログイン" />
+		<text id="panelwin_login_lostpassword" name="パスワードをお忘れですか?" />
+		<text id="panelwin_login_password" name="パスワード" />
+		<text id="panelwin_login_play" name="今すぐ開始" />
+		<text id="panelwin_login_register" name="新規登録" />
+		<text id="panelwin_login_rememberpassword" name="パスワードを保存する" />
+		<text id="panelwin_name_cafe" name="CAFÉ" />
+		<text id="panelwin_social_bot" name="カフェチャット" />
+		<text id="panelwin_social_comein" name="カフェに入店しました" />
+		<text id="panelwin_social_comeinmarketplace" name="マーケットプレイスに入場しました" />
+		<text id="panelwin_social_goout" name="カフェから立ち去りました" />
+		<text id="panelwin_social_gooutmarketplace" name="マーケットプレイスから立ち去りました" />
+		<text id="panelwin_social_noingamefriends" name="まだフレンドがいません" />
+		<text id="panelwin_social_noplayerincafe" name="現在ここにいるのはあなただけです。" />
+		<text id="panelwin_social_say" name=":" />
+		<text id="panelwin_social_standardanswer" name="こちらでは、近日中に、あなたのカフェで他のプレイヤーとチャットできるようになります!" />
+		<text id="panelwin_social_welcome_marketplace" name="ようこそ! ジョブをお探しでしたら、掲示板をクリックしてください!" />
+		<text id="panelwin_social_welcome_mycafe" name="ようこそ!" />
+		<text id="panelwin_social_writeable" name="チャットの使用は、レベル1以上の登録済みプレイヤーのみ可能です。" />
+	</panels>
+	<preparestep>
+		<text id="preparestep_bananasplit_banana" name="バナナの皮をむきます" />
+		<text id="preparestep_bananasplit_chocolate" name="チョコレートを刻みます" />
+		<text id="preparestep_brigadeiro_chocolate" name="Cut chocolate" />
+		<text id="preparestep_brigadeiro_cream" name="Mix cream" />
+		<text id="preparestep_brigadeiro_vanilla" name="Shave vanilla" />
+		<text id="preparestep_bananasplit_cream" name="クリームを泡立てます" />
+		<text id="preparestep_bananasplit_milk" name="牛乳を計量します" />
+		<text id="preparestep_bananasplit_sugar" name="砂糖を計量します" />
+		<text id="preparestep_blackforestcherrycake_chocolate" name="チョコレートを薄切りにします" />
+		<text id="preparestep_blackforestcherrycake_cocktailcherry" name="チェリーを洗います" />
+		<text id="preparestep_blackforestcherrycake_cream" name="クリームを泡立てます" />
+		<text id="preparestep_pizzasalad_tomato" name="Cut tomatoes" />
+		<text id="preparestep_pizzasalad_onion" name="Cut onions" />
+		<text id="preparestep_pizzasalad_lettuce" name="Wash lettuce" />
+		<text id="preparestep_pizzasalad_cheese" name="Grate cheese" />
+		<text id="preparestep_pizzasalad_flour" name="Sift flour" />
+		<text id="preparestep_tripleomelette_eggs" name="Crack eggs strongly" />
+		<text id="preparestep_tripleomelette_chili" name="Make it spicy" />
+		<text id="preparestep_chocolatewaffles_flour" name="Measure flour" />
+		<text id="preparestep_chocolatewaffles_cream" name="Whip cream" />
+		<text id="preparestep_chocolatewaffles_eggs" name="Crack eggs softly" />
+		<text id="preparestep_chocolatewaffles_chocolate" name="Melt chocolate" />
+		<text id="preparestep_chocolatewaffles_vanilla" name="Add vanilla extract" />
+		<text id="preparestep_spanishomelette_potato" name="Peel potatoes" />
+		<text id="preparestep_spanishomelette_onion" name="Chop onions" />
+		<text id="preparestep_spanishomelette_eggs" name="Crack eggs in Spanish" />
+		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
+		<text id="preparestep_sausagepasta_pasta" name="Boil pasta" />
+		<text id="preparestep_sausagepasta_sausages" name="Chop sausages" />
+		<text id="preparestep_sausagepasta_tomato" name="Make tomato sauce" />
+		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
+		<text id="preparestep_applepie_cream" name="Whip cream" />
+		<text id="preparestep_applepie_eggs" name="Crack eggs elegantly" />
+		<text id="preparestep_applepie_flour" name="Measure flour" />
+		<text id="preparestep_applepie_apple" name="Think about apple economy" />
+		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_ramen_pasta" name="Boil pasta" />
+		<text id="preparestep_ramen_eggs" name="Boil eggs" />
+		<text id="preparestep_ramen_bacon" name="Chop bacon" />
+		<text id="preparestep_ramen_chili" name="Make it spicy" />
+		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
+		<text id="preparestep_corncake_butter" name="Melt butter" />
+		<text id="preparestep_corncake_eggs" name="Mix eggs" />
+		<text id="preparestep_corncake_milk" name="Add milk" />
+		<text id="preparestep_corncake_sugar" name="Mix sugar in the dough" />
+		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_feijoada_beans" name="Boil beans" />
+		<text id="preparestep_feijoada_bacon" name="Chop bacon chunks" />
+		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
+		<text id="preparestep_feijoada_onion" name="Chop onions" />
+		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
+		<text id="preparestep_feijoada_coriander" name="Add coriander" />
+		<text id="preparestep_blackforestcherrycake_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_cheeseburger_cheese" name="チーズを切ります" />
+		<text id="preparestep_cheeseburger_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_cheeseburger_mincemeat" name="ミンチ肉にスパイスで味付けします" />
+		<text id="preparestep_cheeseburger_tomato" name="トマトを切ります" />
+		<text id="preparestep_cheesedish_cheese" name="チーズを切ります" />
+		<text id="preparestep_cheesefondue_cheese" name="チーズを溶かします" />
+		<text id="preparestep_cheesefondue_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_cheesefondue_garlic" name="ニンニクを絞ります" />
+		<text id="preparestep_cherriecake_cherries" name="チェリーを煮ます" />
+		<text id="preparestep_cherriecake_cream" name="クリームを泡立てます" />
+		<text id="preparestep_cherriecake_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_cherriecake_sugar" name="砂糖を計量します" />
+		<text id="preparestep_cherrycompote_cherries" name="チェリーの種を抜きます" />
+		<text id="preparestep_cherrycompote_sugar" name="砂糖をカラメルにします" />
+		<text id="preparestep_chickenburger_chicken" name="チキンを切ります" />
+		<text id="preparestep_chickenburger_cucumber" name="キュウリを薄切りにします" />
+		<text id="preparestep_chickenburger_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_chickenburger_tomato" name="トマトを切ります" />
+		<text id="preparestep_chickensalad_chicken" name="チキンを準備します" />
+		<text id="preparestep_chickensalad_lettuce" name="レタスを洗います" />
+		<text id="preparestep_chickensalad_onion" name="タマネギを刻みます" />
+		<text id="preparestep_chickensalad_tomato" name="トマトを切ります" />
+		<text id="preparestep_chickensoup_bacon" name="ベーコンを薄切りにします" />
+		<text id="preparestep_chickensoup_chicken" name="チキンを切ります" />
+		<text id="preparestep_chickensoup_onion" name="タマネギを刻みます" />
+		<text id="preparestep_chickensoup_pasta" name="パスタを計量します" />
+		<text id="preparestep_chiliconcarne_bacon" name="ベーコンを薄切りにします" />
+		<text id="preparestep_chiliconcarne_beans" name="豆をふやかします" />
+		<text id="preparestep_chiliconcarne_mincemeat" name="肉にスパイスで味付けします" />
+		<text id="preparestep_chiliconcarne_onion" name="タマネギを刻みます" />
+		<text id="preparestep_chiliconcarne_tomato" name="トマトを切ります" />
+		<text id="preparestep_chocmousse_chocolate" name="チョコレートを溶かします" />
+		<text id="preparestep_chocmousse_cream" name="クリームを泡立てます" />
+		<text id="preparestep_chocmousse_eggs" name="卵を黄身と白身に分けます" />
+		<text id="preparestep_chocolatecake_chocolate" name="チョコレートを溶かします" />
+		<text id="preparestep_chocolatecake_cream" name="クリームを泡立てます" />
+		<text id="preparestep_chocolatecake_eggs" name="卵を黄身と白身に分けます" />
+		<text id="preparestep_chocolatecake_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_chocolatecheesecake_chocolate" name="チョコレートを刻みます" />
+		<text id="preparestep_chocolatecheesecake_cookies" name="クッキーを砕きます" />
+		<text id="preparestep_chocolatecheesecake_milk" name="牛乳を加熱します" />
+		<text id="preparestep_chocolatecheesecake_quark" name="コテージチーズをかき混ぜます" />
+		<text id="preparestep_chocolatefondue_chocolate" name="チョコレートを味見します" />
+		<text id="preparestep_chocolatefondue_cream" name="クリームを計量します" />
+		<text id="preparestep_chocolatefondue_strawberry" name="イチゴを洗います" />
+		<text id="preparestep_christmasturkey_turkeymix" name="ターキーミックスを準備します" />
+		<text id="preparestep_christmasturkey_vegiemix" name="野菜を解凍します" />
+		<text id="preparestep_cookieplate_butter" name="バターを溶かします" />
+		<text id="preparestep_cookieplate_chocolate" name="チョコレートを刻みます" />
+		<text id="preparestep_cookieplate_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_cookieplate_sugar" name="砂糖をカラメルにします" />
+		<text id="preparestep_cornonthecob_butter" name="バターを加えます" />
+		<text id="preparestep_cornonthecob_lettuce" name="レタスを洗います" />
+		<text id="preparestep_cornonthecob_sweetcorn" name="トウモロコシを準備します" />
+		<text id="preparestep_curry_ballpepper" name="ピーマンを切ります" />
+		<text id="preparestep_curry_coconut" name="ココナッツを割ります" />
+		<text id="preparestep_curry_curryspice" name="カレーを計量します" />
+		<text id="preparestep_curry_meat" name="肉を切ります" />
+		<text id="preparestep_curry_peas" name="グリーンピースをゆでます" />
+		<text id="preparestep_duckalorange_butter" name="バターを溶かします" />
+		<text id="preparestep_duckalorange_duck" name="鴨を準備します" />
+		<text id="preparestep_duckalorange_onion" name="タマネギを刻みます" />
+		<text id="preparestep_duckalorange_orange" name="オレンジの皮をむきます" />
+		<text id="preparestep_easterdish_chocolate" name="チョコレートを味見します" />
+		<text id="preparestep_easterdish_eggs" name="卵を数えます" />
+		<text id="preparestep_englishbreakfast_beans" name="豆をゆでます" />
+		<text id="preparestep_englishbreakfast_eggs" name="卵をホイップします" />
+		<text id="preparestep_englishbreakfast_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_englishbreakfast_sausages" name="ソーセージを数えます" />
+		<text id="preparestep_fishandchips_fish" name="魚を準備します" />
+		<text id="preparestep_fishandchips_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_fishandchips_oil" name="油を加熱します" />
+		<text id="preparestep_fishandchips_peas" name="グリーンピースをゆでます" />
+		<text id="preparestep_fishandchips_potato" name="ジャガイモの皮をむきます" />
+		<text id="preparestep_friedpotatoes_bacon" name="ベーコンを炒めます" />
+		<text id="preparestep_friedpotatoes_onion" name="タマネギを刻みます" />
+		<text id="preparestep_friedpotatoes_potato" name="ジャガイモの皮をむきます" />
+		<text id="preparestep_fruitpudding_bakingmix" name="ミックスをかき混ぜます" />
+		<text id="preparestep_fruitpudding_spicemix" name="スパイスを軽量します" />
+		<text id="preparestep_fruitsalad_apple" name="リンゴの皮をむきます" />
+		<text id="preparestep_fruitsalad_banana" name="バナナの皮をむきます" />
+		<text id="preparestep_fruitsalad_cherries" name="チェリーの種を抜きます" />
+		<text id="preparestep_fruitsalad_orange" name="オレンジの皮をむきます" />
+		<text id="preparestep_greensalad_lettuce" name="レタスを洗います" />
+		<text id="preparestep_greensalad_onion" name="タマネギを刻みます" />
+		<text id="preparestep_greensalad_tomato" name="トマトを切ります" />
+		<text id="preparestep_gumbo_curryspice" name="カレーを炒めます" />
+		<text id="preparestep_gumbo_fish" name="魚を切ります" />
+		<text id="preparestep_gumbo_onion" name="タマネギを刻みます" />
+		<text id="preparestep_gumbo_rice" name="米を炊きます" />
+		<text id="preparestep_hamburger_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_hamburger_mincemeat" name="ミンチ肉にスパイスで味付けします" />
+		<text id="preparestep_hamburger_tomato" name="トマトを切ります" />
+		<text id="preparestep_hotcherrywaffles_cherries" name="チェリーの種を抜きます" />
+		<text id="preparestep_hotcherrywaffles_cream" name="クリームを泡立てます" />
+		<text id="preparestep_hotcherrywaffles_eggs" name="卵を黄身と白身に分けます" />
+		<text id="preparestep_hotcherrywaffles_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_hotcherrywaffles_milk" name="牛乳を加熱します" />
+		<text id="preparestep_jamspongepudding_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_jamspongepudding_milk" name="牛乳を加熱します" />
+		<text id="preparestep_jamspongepudding_strawberry" name="イチゴを準備します" />
+		<text id="preparestep_jamspongepudding_sugar" name="砂糖をカラメルにします" />
+		<text id="preparestep_lasagne_cheese" name="チーズをおろします" />
+		<text id="preparestep_lasagne_mincemeat" name="ミンチ肉にスパイスで味付けします" />
+		<text id="preparestep_lasagne_pasta" name="パスタをゆでます" />
+		<text id="preparestep_lasagne_tomato" name="トマトを切ります" />
+		<text id="preparestep_macncheese_cheese" name="チーズをおろします" />
+		<text id="preparestep_macncheese_cream" name="クリームを計量します" />
+		<text id="preparestep_macncheese_pasta" name="パスタをゆでます" />
+		<text id="preparestep_maplepancakes_eggs" name="卵を黄身と白身に分けます" />
+		<text id="preparestep_maplepancakes_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_maplepancakes_maple" name="メイプルシロップを味見します" />
+		<text id="preparestep_maplepancakes_milk" name="牛乳を計量します" />
+		<text id="preparestep_marblecake_butter" name="バターを溶かします" />
+		<text id="preparestep_marblecake_chocolate" name="チョコレートを溶かします" />
+		<text id="preparestep_marblecake_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_marblecake_sugar" name="砂糖を計量します" />
+		<text id="preparestep_mexicansalad_bacon" name="ベーコンを炒めます" />
+		<text id="preparestep_mexicansalad_beans" name="豆をふやかします" />
+		<text id="preparestep_mexicansalad_onion" name="タマネギを炒める" />
+		<text id="preparestep_mexicansalad_sweetcorn" name="トウモロコシをゆでます" />
+		<text id="preparestep_minestrone_eggplant" name="ナスを切ります" />
+		<text id="preparestep_minestrone_pasta" name="パスタをゆでます" />
+		<text id="preparestep_minestrone_tomato" name="トマトを切ります" />
+		<text id="preparestep_mixedsalad_lettuce" name="レタスを洗います" />
+		<text id="preparestep_mixedsalad_peas" name="グリーンピースをゆでます" />
+		<text id="preparestep_mixedsalad_sweetcorn" name="トウモロコシをゆでます" />
+		<text id="preparestep_mixedsalad_tomato" name="トマトを切ります" />
+		<text id="preparestep_nasigoreng_chicken" name="チキンを切ります" />
+		<text id="preparestep_nasigoreng_eggs" name="卵をゆでます" />
+		<text id="preparestep_nasigoreng_onion" name="タマネギを刻みます" />
+		<text id="preparestep_nasigoreng_pinapple" name="パイナップルを切ります" />
+		<text id="preparestep_nasigoreng_rice" name="米を炊きます" />
+		<text id="preparestep_newyorkcheesecake_cookies" name="ビスケットを砕きます" />
+		<text id="preparestep_newyorkcheesecake_cream" name="クリームを泡立てます" />
+		<text id="preparestep_newyorkcheesecake_quark" name="コテージチーズをかき混ぜます" />
+		<text id="preparestep_newyorkcheesecake_sugar" name="砂糖を計量します" />
+		<text id="preparestep_noodlesalad_eggs" name="卵を黄身と白身に分けます" />
+		<text id="preparestep_noodlesalad_oil" name="油をホイップします" />
+		<text id="preparestep_noodlesalad_pasta" name="パスタをゆでます" />
+		<text id="preparestep_noodlesalad_tomato" name="トマトを切ります" />
+		<text id="preparestep_omelette_eggs" name="卵を数えます" />
+		<text id="preparestep_onionsoup_cheese" name="チーズをおろします" />
+		<text id="preparestep_onionsoup_garlic" name="ニンニクを絞ります" />
+		<text id="preparestep_onionsoup_onion" name="タマネギを刻みます" />
+		<text id="preparestep_peasoup_bacon" name="ベーコンを焼きます" />
+		<text id="preparestep_peasoup_garlic" name="ニンニクを絞ります" />
+		<text id="preparestep_peasoup_onion" name="タマネギを刻みます" />
+		<text id="preparestep_peasoup_peas" name="グリーンピースを洗います" />
+		<text id="preparestep_pizzahawaii_bacon" name="ベーコンを薄切りにします" />
+		<text id="preparestep_pizzahawaii_cheese" name="チーズをおろします" />
+		<text id="preparestep_pizzahawaii_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_pizzahawaii_pinapple" name="パイナップルを薄切りにします" />
+		<text id="preparestep_pizzahawaii_tomato" name="トマトをピューレにします" />
+		<text id="preparestep_pizzatonno_cheese" name="チーズをおろします" />
+		<text id="preparestep_pizzatonno_fish" name="魚を薄切りにします" />
+		<text id="preparestep_pizzatonno_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_pizzatonno_onion" name="玉ねぎを切ります" />
+		<text id="preparestep_pizzatonno_tomato" name="トマトをピューレにします" />
+		<text id="preparestep_pizza_cheese" name="チーズをおろします" />
+		<text id="preparestep_pizza_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_pizza_tomato" name="トマトをピューレにします" />
+		<text id="preparestep_porkroastwithcrackling_carrots" name="ニンジンの皮をむきます" />
+		<text id="preparestep_porkroastwithcrackling_garlic" name="ニンニクを絞ります" />
+		<text id="preparestep_porkroastwithcrackling_meat" name="肉を切ります" />
+		<text id="preparestep_porkroastwithcrackling_onion" name="タマネギを刻みます" />
+		<text id="preparestep_potatosalad_cucumber" name="キュウリを切ります" />
+		<text id="preparestep_potatosalad_oil" name="油をホイップします" />
+		<text id="preparestep_pizza_sausages" name="Slice sausages" />
+		<text id="preparestep_potatosalad_potato" name="ジャガイモの皮をむきます" />
+		<text id="preparestep_redberrycompote_cherries" name="チェリーを洗います" />
+		<text id="preparestep_redberrycompote_rhubarb" name="ルバーブを洗います" />
+		<text id="preparestep_redberrycompote_strawberry" name="イチゴを洗います" />
+		<text id="preparestep_redberrycompote_sugar" name="砂糖をカラメルにします" />
+		<text id="preparestep_ricepudding_apple" name="リンゴの皮をむきます" />
+		<text id="preparestep_ricepudding_cream" name="クリームを泡立てます" />
+		<text id="preparestep_ricepudding_milk" name="牛乳を計量します" />
+		<text id="preparestep_ricepudding_rice" name="米を計量します" />
+		<text id="preparestep_roastchicken_butter" name="バターを溶かします" />
+		<text id="preparestep_roastchicken_chicken" name="チキンを準備します" />
+		<text id="preparestep_roastchicken_onion" name="タマネギを刻みます" />
+		<text id="preparestep_sandwich_bacon" name="ベーコンを薄切りにします" />
+		<text id="preparestep_sandwich_butter" name="バターを計量します" />
+		<text id="preparestep_sandwich_cheese" name="チーズを薄切りにします" />
+		<text id="preparestep_sandwich_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_sandwich_tomato" name="トマトを切ります" />
+		<text id="preparestep_scouse_beetroot" name="テーブルビートを切ります" />
+		<text id="preparestep_scouse_cucumber" name="キュウリをピクルス漬けにします" />
+		<text id="preparestep_scouse_eggs" name="卵を焼きます" />
+		<text id="preparestep_scouse_meat" name="肉を切ります" />
+		<text id="preparestep_spagetti_mincemeat" name="ミンチ肉にスパイスで味付けします" />
+		<text id="preparestep_spagetti_pasta" name="パスタをゆでます" />
+		<text id="preparestep_spagetti_tomato" name="トマトを切ります" />
+		<text id="preparestep_spareribs_meat" name="肉を切ります" />
+		<text id="preparestep_spareribs_oil" name="油を計量します" />
+		<text id="preparestep_spareribs_onion" name="タマネギを刻みます" />
+		<text id="preparestep_spareribs_tomato" name="トマトをピューレにします" />
+		<text id="preparestep_steakkidneypie_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_steakkidneypie_kidney" name="キドニーを切ります" />
+		<text id="preparestep_steakkidneypie_meat" name="肉を切ります" />
+		<text id="preparestep_steakkidneypie_onion" name="タマネギを刻みます" />
+		<text id="preparestep_steak_butter" name="バターを加えます" />
+		<text id="preparestep_steak_lettuce" name="レタスを洗います" />
+		<text id="preparestep_steak_meat" name="肉を切ります" />
+		<text id="preparestep_steak_potato" name="ジャガイモの皮をむきます" />
+		<text id="preparestep_steak_tomato" name="トマトを切ります" />
+		<text id="preparestep_stewedrhubarb_rhubarb" name="ラバーブを切ります" />
+		<text id="preparestep_stewedrhubarb_sugar" name="砂糖をカラメルにします" />
+		<text id="preparestep_stew_meat" name="肉を切ります" />
+		<text id="preparestep_stew_oil" name="油を加熱します" />
+		<text id="preparestep_stew_onion" name="タマネギを刻みます" />
+		<text id="preparestep_strawberrycake_cream" name="クリームを泡立てます" />
+		<text id="preparestep_strawberrycake_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_strawberrycake_strawberry" name="イチゴを準備します" />
+		<text id="preparestep_strawberrymousse_cream" name="クリームを泡立てます" />
+		<text id="preparestep_strawberrymousse_eggs" name="卵を黄身と白身に分けます" />
+		<text id="preparestep_strawberrymousse_strawberry" name="イチゴを洗います" />
+		<text id="preparestep_strawberrymousse_sugar" name="砂糖を計量します" />
+		<text id="preparestep_stuffedpeppers_ballpepper" name="ピーマンをくり抜きます" />
+		<text id="preparestep_stuffedpeppers_eggs" name="卵をホイップします" />
+		<text id="preparestep_stuffedpeppers_rice" name="米を炊きます" />
+		<text id="preparestep_sundayfeast_carrots" name="ニンジンの皮をむきます" />
+		<text id="preparestep_sundayfeast_meat" name="肉を切ります" />
+		<text id="preparestep_sundayfeast_peas" name="グリーンピースをゆでます" />
+		<text id="preparestep_sundayfeast_potato" name="ジャガイモの皮をむきます" />
+		<text id="preparestep_sushi_cucumber" name="キュウリを切ります" />
+		<text id="preparestep_sushi_fish" name="魚を切ります" />
+		<text id="preparestep_sushi_rice" name="米を炊きます" />
+		<text id="preparestep_toadinhole_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_toadinhole_onion" name="タマネギを刻みます" />
+		<text id="preparestep_toadinhole_sausages" name="ソーセージを数えます" />
+		<text id="preparestep_toast_cheese" name="チーズをおろします" />
+		<text id="preparestep_toast_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_toast_pinapple" name="パイナップルを切ります" />
+		<text id="preparestep_tofuburger_flour" name="小麦粉をふるいます" />
+		<text id="preparestep_tofuburger_lettuce" name="レタスを洗います" />
+		<text id="preparestep_tofuburger_tofu" name="豆腐をピューレにします" />
+		<text id="preparestep_tofuburger_tomato" name="トマトを切ります" />
+		<text id="preparestep_tomatosoup_cream" name="クリームを泡立てます" />
+		<text id="preparestep_tomatosoup_onion" name="タマネギを刻みます" />
+		<text id="preparestep_tomatosoup_tomato" name="トマトの皮をむきます" />
+		<text id="preparestep_trifle_cookies" name="ビスケットを計量します" />
+		<text id="preparestep_trifle_cream" name="クリームを泡立てます" />
+		<text id="preparestep_trifle_strawberry" name="イチゴを準備します" />
+		<text id="preparestep_trifle_sugar" name="砂糖を計量します" />
+		<text id="preparestep_veganstirfry_carrots" name="ジャガイモをおろします" />
+		<text id="preparestep_veganstirfry_peas" name="グリーンピースをゆでます" />
+		<text id="preparestep_veganstirfry_rice" name="米を計量します" />
+		<text id="preparestep_veganstirfry_tomato" name="トマトを切ります" />
+		<text id="preparestep_vegetablesoup_onion" name="タマネギを刻みます" />
+		<text id="preparestep_vegetablesoup_potato" name="ジャガイモの皮をむきます" />
+		<text id="preparestep_vegetablesoup_tomato" name="トマトを切ります" />
+		<text id="preparestep_veggiecurry_ballpepper" name="ピーマンを切ります" />
+		<text id="preparestep_veggiecurry_coconut" name="ココナッツを割ります" />
+		<text id="preparestep_veggiecurry_curryspice" name="カレーを計量します" />
+		<text id="preparestep_veggiecurry_eggplant" name="ナスを切ります" />
+		<text id="preparestep_veggiecurry_rice" name="米を計量します" />
+		<text id="preparestep_veggielasagne_cheese" name="チーズをおろします" />
+		<text id="preparestep_veggielasagne_eggplant" name="ナスを切ります" />
+		<text id="preparestep_veggielasagne_pasta" name="パスタをゆでます" />
+		<text id="preparestep_veggielasagne_tomato" name="トマトをピューレにします" />
+		<text id="preparestep_whitechoccheesecake_cookies" name="クッキーを砕きます" />
+		<text id="preparestep_whitechoccheesecake_cream" name="クリームを泡立てます" />
+		<text id="preparestep_whitechoccheesecake_milk" name="牛乳を加熱します" />
+		<text id="preparestep_whitechoccheesecake_quark" name="コテージチーズをかき混ぜます" />
+		<text id="preparestep_whitechoccheesecake_whitechocolat" name="チョコレートを計量します" />
+		<text id="preparestep_whitechocmousse_cream" name="クリームを泡立てます" />
+		<text id="preparestep_whitechocmousse_eggs" name="卵を黄身と白身に分けます" />
+		<text id="preparestep_whitechocmousse_whitechocolat" name="チョコレートを溶かします" />
+		<text id="preparestep_coxinha_flour" name="Spread flour" />
+		<text id="preparestep_coxinha_chicken" name="Shred chicken" />
+		<text id="preparestep_coxinha_onion" name="Chop onions" />
+		<text id="preparestep_coxinha_cream" name="Make cream cheese" />
+		<text id="preparestep_coxinha_oil" name="Heat oil" />
+		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
+	</preparestep>
+	<preparestep_fancy>
+		<text id="preparestep_bananasplit_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_blackforestcherrycake_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_pizzasalad_chili" name="Chop chili" />
+		<text id="preparestep_cheeseburger_chili" name="トウガラシを切ります" />
+		<text id="preparestep_cheesedish_parsley" name="パセリを刻みます" />
+		<text id="preparestep_cheesefondue_chili" name="トウガラシを切ります" />
+		<text id="preparestep_cherriecake_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_cherrycompote_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_chickenburger_chili" name="トウガラシを刻みます" />
+		<text id="preparestep_chickensalad_chili" name="トウガラシを切ります" />
+		<text id="preparestep_chickensoup_parsley" name="パセリを刻みます" />
+		<text id="preparestep_chiliconcarne_chili" name="トウガラシを刻みます" />
+		<text id="preparestep_chocmousse_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_chocolatecake_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_chocolatecheesecake_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_chocolatefondue_cinnamon" name="シナモンを挽きます" />
+		<text id="preparestep_christmasturkey_rosemary" name="ローズマリーを刻みます" />
+		<text id="preparestep_cookieplate_cinnamon" name="シナモンを挽きます" />
+		<text id="preparestep_cornonthecob_parsley" name="パセリを刻みます" />
+		<text id="preparestep_curry_coriander" name="コリアンダーを刻みます" />
+		<text id="preparestep_duckalorange_cinnamon" name="シナモンを挽きます" />
+		<text id="preparestep_easterdish_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_englishbreakfast_chili" name="トウガラシを切ります" />
+		<text id="preparestep_fishandchips_parsley" name="パセリを刻みます" />
+		<text id="preparestep_friedpotatoes_rosemary" name="ローズマリーを刻みます" />
+		<text id="preparestep_fruitpudding_cinnamon" name="シナモンを挽きます" />
+		<text id="preparestep_fruitsalad_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_gardensalad_parsley" name="パセリを刻みます" />
+		<text id="preparestep_greensalad_parsley" name="パセリを刻みます" />
+		<text id="preparestep_gumbo_chili" name="トウガラシを切ります" />
+		<text id="preparestep_hamburger_chili" name="トウガラシを切ります" />
+		<text id="preparestep_hotcherrywaffles_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_jamspongepudding_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_lasagne_basil" name="バジルの葉をちぎります" />
+		<text id="preparestep_macncheese_nutmeg" name="ナツメグをおろします" />
+		<text id="preparestep_maplepancakes_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_marblecake_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_mexicansalad_chili" name="トウガラシを切ります" />
+		<text id="preparestep_minestrone_basil" name="バジルの葉をちぎります" />
+		<text id="preparestep_mixedsalad_parsley" name="パセリを刻みます" />
+		<text id="preparestep_nasigoreng_chili" name="トウガラシを切ります" />
+		<text id="preparestep_newyorkcheesecake_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_noodlesalad_parsley" name="パセリを刻みます" />
+		<text id="preparestep_omelette_chili" name="トウガラシを刻みます" />
+		<text id="preparestep_onionsoup_chili" name="トウガラシを切ります" />
+		<text id="preparestep_peasoup_parsley" name="パセリを刻みます" />
+		<text id="preparestep_pizzahawaii_chili" name="トウガラシを刻みます" />
+		<text id="preparestep_pizzatonno_horseradish" name="セイヨウワサビをおろします" />
+		<text id="preparestep_pizza_chili" name="トウガラシを切ります" />
+		<text id="preparestep_porkroastwithcrackling_rosemary" name="ローズマリーを刻みます" />
+		<text id="preparestep_potatosalad_parsley" name="パセリを刻みます" />
+		<text id="preparestep_redberrycompote_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_ricepudding_cinnamon" name="シナモンを挽きます" />
+		<text id="preparestep_roastchicken_parsley" name="パセリを刻みます" />
+		<text id="preparestep_sandwich_parsley" name="パセリを刻みます" />
+		<text id="preparestep_scouse_parsley" name="パセリを刻みます" />
+		<text id="preparestep_spagetti_basil" name="バジルの葉をちぎります" />
+		<text id="preparestep_spareribs_chili" name="トウガラシを切ります" />
+		<text id="preparestep_steakkidneypie_parsley" name="パセリを刻みます" />
+		<text id="preparestep_steak_parsley" name="パセリを刻みます" />
+		<text id="preparestep_stewedrhubarb_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_stew_chili" name="トウガラシを切ります" />
+		<text id="preparestep_strawberrycake_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_strawberrymousse_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_stuffedpeppers_parsley" name="パセリを刻みます" />
+		<text id="preparestep_sundayfeast_rosemary" name="ローズマリーを刻みます" />
+		<text id="preparestep_sushi_horseradish" name="セイヨウワサビをおろします" />
+		<text id="preparestep_toadinhole_rosemary" name="ローズマリーを刻みます" />
+		<text id="preparestep_toast_chili" name="トウガラシを切ります" />
+		<text id="preparestep_tofuburger_chili" name="トウガラシを刻みます" />
+		<text id="preparestep_tomatosoup_basil" name="バジルの葉をちぎります" />
+		<text id="preparestep_trifle_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_veganstirfry_chili" name="トウガラシを切ります" />
+		<text id="preparestep_vegetablesoup_basil" name="バジルの葉をちぎります" />
+		<text id="preparestep_veggiecurry_coriander" name="コリアンダーを刻みます" />
+		<text id="preparestep_veggielasagne_basil" name="バジルの葉をちぎります" />
+		<text id="preparestep_whitechoccheesecake_vanilla" name="バニラをかき出します" />
+		<text id="preparestep_whitechocmousse_vanilla" name="バニラをかき出します" />
+	</preparestep_fancy>
+	<recipe>
+		<text id="recipe_bananasplit" name="バナナスプリット" />
+		<text id="recipe_brigadeiro" name="Brigadeiro" />
+		<text id="recipe_beefstew" name="シチュー" />
+		<text id="recipe_pizzasalad" name="Pizza with Salad" />
+		<text id="recipe_tripleomelette" name="Triple Omelette" />
+		<text id="recipe_chocolatewaffles" name="Chocolate Waffles" />
+		<text id="recipe_spanishomelette" name="Spanish Omelette" />
+		<text id="recipe_sausagepasta" name="Sausage Spaghetti" />
+		<text id="recipe_applepie" name="Apple Pie" />
+		<text id="recipe_ramen" name="Ramen" />
+		<text id="recipe_corncake" name="Corn Cake" />
+		<text id="recipe_feijoada" name="Feijoada" />
+		<text id="recipe_blackforestcherrycake" name="ブラックフォレストケーキ" />
+		<text id="recipe_cheeseburger" name="チーズバーガー" />
+		<text id="recipe_cheesedish" name="チーズプレート" />
+		<text id="recipe_cheesefondue" name="チーズフォンデュ" />
+		<text id="recipe_cherriecake" name="チェリーケーキ" />
+		<text id="recipe_cherrycompote" name="チェリーの砂糖煮" />
+		<text id="recipe_chickenburger" name="チキンバーガー" />
+		<text id="recipe_chickensalad" name="チキンサラダ" />
+		<text id="recipe_chickensoup" name="チキンホットポット" />
+		<text id="recipe_chiliconcarne" name="チリコンカルネ" />
+		<text id="recipe_chocmousse" name="チョコレートムース" />
+		<text id="recipe_chocolatecake" name="チョコレートケーキ" />
+		<text id="recipe_chocolatecheesecake" name="チョコレートチーズケーキ" />
+		<text id="recipe_chocolatefondue" name="チョコレートフォンデュ" />
+		<text id="recipe_christmasturkey" name="クリスマスロースト" />
+		<text id="recipe_cookieplate" name="クッキープレート" />
+		<text id="recipe_cornonthecob" name="軸付きトウモロコシ" />
+		<text id="recipe_curry" name="カレー" />
+		<text id="recipe_duckalorange" name="ダック・ア・ラ・オレンジ" />
+		<text id="recipe_easterdish" name="ハッピーイースターバスケット" />
+		<text id="recipe_englishbreakfast" name="イングリッシュブレックファスト" />
+		<text id="recipe_fishandchips" name="フィッシュアンドチップス" />
+		<text id="recipe_friedpotatoes" name="ポテトフライ" />
+		<text id="recipe_fruitpudding" name="フルーツケーキ" />
+		<text id="recipe_fruitsalad" name="フルーツサラダ" />
+		<text id="recipe_greensalad" name="ガーデンサラダ" />
+		<text id="recipe_gumbo" name="ガンボ" />
+		<text id="recipe_hamburger" name="ハンバーガー" />
+		<text id="recipe_hotcherrywaffles" name="ホットチェリーのワッフル" />
+		<text id="recipe_jamspongepudding" name="ジャムスポンジプディング" />
+		<text id="recipe_lasagne" name="ラザニア" />
+		<text id="recipe_macncheese" name="マカロニアンドチーズ" />
+		<text id="recipe_maplepancakes" name="メイプルホットケーキ" />
+		<text id="recipe_marblecake" name="マーブルケーキ" />
+		<text id="recipe_mexicansalad" name="メキシカン豆サラダ" />
+		<text id="recipe_minestrone" name="ミネストローネ" />
+		<text id="recipe_mixedsalad" name="ミックスサラダ" />
+		<text id="recipe_nasigoreng" name="ナシゴレン" />
+		<text id="recipe_newyorkcheesecake" name="ニューヨークチーズケーキ" />
+		<text id="recipe_noodlesalad" name="パスタサラダ" />
+		<text id="recipe_omelette" name="オムレツ" />
+		<text id="recipe_onionsoup" name="オーブン焼きオニオンスープ" />
+		<text id="recipe_peasoup" name="グリーンピーススープ" />
+		<text id="recipe_pizza" name="ピザ" />
+		<text id="recipe_pizzahawaii" name="ピザハワイ" />
+		<text id="recipe_pizzatonno" name="ピザトンノ" />
+		<text id="recipe_porkroastwithcrackling" name="クラックリング" />
+		<text id="recipe_potatosalad" name="ポテトサラダ" />
+		<text id="recipe_redberrycompote" name="レッドベリーコンポート" />
+		<text id="recipe_ricepudding" name="ミルクライスのリンゴソース和え" />
+		<text id="recipe_roastchicken" name="ローストチキン" />
+		<text id="recipe_sandwich" name="サンドウィッチ" />
+		<text id="recipe_scouse" name="ラプスカウス" />
+		<text id="recipe_spagetti" name="スパゲティボロネーズ" />
+		<text id="recipe_spareribs" name="スペアリブのマリネ" />
+		<text id="recipe_steak" name="ステーキ" />
+		<text id="recipe_steakkidneypie" name="ステーキとキドニーパイ" />
+		<text id="recipe_stewedrhubarb" name="ルバーブの砂糖煮" />
+		<text id="recipe_strawberrycake" name="ストロベリーケーキ" />
+		<text id="recipe_strawberrymousse" name="ストロベリームース" />
+		<text id="recipe_stuffedpeppers" name="スタッフドピーマン" />
+		<text id="recipe_sundayfeast" name="サンデーフィースト" />
+		<text id="recipe_sushi" name="寿司" />
+		<text id="recipe_toadinahole" name="トードインザホール" />
+		<text id="recipe_toast" name="トーストハワイ" />
+		<text id="recipe_tofuburger" name="豆腐バーガー" />
+		<text id="recipe_tomatosoup" name="トマトスープ" />
+		<text id="recipe_trifle" name="トライフル" />
+		<text id="recipe_veganstirfry" name="野菜炒め" />
+		<text id="recipe_vegetablesoup" name="野菜スープ" />
+		<text id="recipe_veggiecurry" name="野菜カレー" />
+		<text id="recipe_veggielasagne" name="野菜ラザニア" />
+		<text id="recipe_whitechoccheesecake" name="ホワイトチョコチーズケーキ" />
+		<text id="recipe_whitechocmousse" name="ホワイトチョコレートムース" />
+		<text id="recipe_coxinha" name="Coxinha" />
+	</recipe>
+	<recipes_fastfood>
+		<text id="recipe_smoothiemaker_greensmoothie" name="グリーンスムージー" />
+		<text id="recipe_smoothiemaker_kiba" name="チェリーバナナスムージー" />
+		<text id="recipe_smoothiemaker_pinacolada" name="ヴァージン・コラーダ" />
+		<text id="recipe_smoothiemaker_tomatojuice" name="トマトジュース" />
+	</recipes_fastfood>
+	<server>
+		<mail>
+			<text id="mail_invite_friend" name="こんにちは。%s!&lt;br /&gt;&lt;br /&gt;さっき見つけた面白いオンラインゲーム「グッドゲームカフェ」を紹介します。&lt;br /&gt;&lt;br /&gt; ゲームへの直接のリンクはこちらです:&lt;br /&gt; http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;リンク先で登録すると、「グッドゲームカフェ」にて自分のカフェを無料で作成できます。&lt;br /&gt;&lt;br /&gt;美味しい料理を作り、お客さんをもてなし、店を自分の好みにカスタマイズして、カフェ経営者の気分を味わってみませんか?&lt;br /&gt;&lt;br /&gt; では、ゲームを楽しんでいってください!%s" />
+			<text id="mail_lost_pw" name="こんにちは%s!&lt;br /&gt;&lt;br /&gt; このEメールは、新しいパスワードを申請したユーザーに自動的に発送されています。&lt;br /&gt;あなたのパスワードは: %s&lt;br /&gt;&lt;br /&gt;ゲームへの直接のリンクはこちらです:&lt;br /&gt; http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt; ご質問、不具合などの際には、お気軽にsupport@goodgamestudios.comまでご連絡ください。&lt;br /&gt;&lt;br /&gt; では、ゲームを楽しんでいってください!&lt;br /&gt;&lt;br /&gt; Goodgamestudios.com&lt;br /&gt;チーム一同" />
+			<text id="mail_registration" name="こんにちは。&lt;br /&gt;&lt;br /&gt;ご登録ありがとうございます。「グッドゲームカフェ」にようこそ。&lt;br /&gt;&lt;br /&gt;以下のデータで、いつでもログインできます: :&lt;br /&gt;Eメール: %s&lt;br /&gt;パスワード: %s&lt;br /&gt;&lt;br /&gt;ゲームへの直接のリンクはこちらです:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;ご質問、不具合などの際には、お気軽にsupport@goodgamestudios.comまでご連絡ください。&lt;br /&gt;&lt;br /&gt;では、ゲームを楽しんでいってください! &lt;br /&gt;&lt;br /&gt;Goodgamestudios.com&lt;br /&gt;チーム一同" />
+		</mail>
+		<misc>
+			<text id="marketplace" name="マーケットプレイス" />
+		</misc>
+	</server>
+	<std_buttons>
+		<text id="btn_text_accept" name="受ける" />
+		<text id="btn_text_cancle" name="キャンセル" />
+		<text id="btn_text_goback" name="戻る" />
+		<text id="btn_text_no" name="いいえ" />
+		<text id="btn_text_notaccept" name="断る" />
+		<text id="btn_text_okay" name="OK" />
+		<text id="btn_text_payment" name="カフェゴールド /  カフェドルを買う" />
+		<text id="btn_text_share" name="フレンドにもぜひ知らせてください!" />
+		<text id="btn_text_srchips" name="カフェドルを稼ぐ" />
+		<text id="btn_text_srgold" name="カフェゴールドを稼ぐ" />
+		<text id="btn_text_yes" name="はい" />
+	</std_buttons>
+	<tooltips>
+		<text id="tt_Basic_Achievement_Boughtdeco" name="買った装飾品の数" />
+		<text id="tt_Basic_Achievement_Boughtingredients" name="買った食材の数" />
+		<text id="tt_Basic_Achievement_Cookingcount" name="調理した料理の数" />
+		<text id="tt_Basic_Achievement_Coopcount" name="クリアしたCo-Opの数" />
+		<text id="tt_Basic_Achievement_Coopgoldcount" name="評価「金」でクリアしたCo-Opの数" />
+		<text id="tt_Basic_Achievement_Curiercount" name="宅配サービス注文数" />
+		<text id="tt_Basic_Achievement_Differentdishes" name="調理した料理の種類数" />
+		<text id="tt_Basic_Achievement_Earnedchips" name="稼いだカフェドル" />
+		<text id="tt_Basic_Achievement_Fancycount" name="使用したファンシー食材数" />
+		<text id="tt_Basic_Achievement_Firenpc" name="解雇したフロアスタッフ数" />
+		<text id="tt_Basic_Achievement_Instantcount" name="インスタントクッキング利用数" />
+		<text id="tt_Basic_Achievement_Jobclean" name="フロアスタッフジョブで片付けた皿の数" />
+		<text id="tt_Basic_Achievement_Jobserve" name="フロアスタッフジョブで配膳した皿の数" />
+		<text id="tt_Basic_Achievement_Masteies" name="達成したマスタリー数" />
+		<text id="tt_Basic_Achievement_Masteriesgold" name="達成したゴールドマスタリー数" />
+		<text id="tt_Basic_Achievement_Muffinmancash" name="マフィンベーカーで獲得したカフェドル" />
+		<text id="tt_Basic_Achievement_Muffinmangold" name="マフィンベーカーで獲得したカフェゴールド" />
+		<text id="tt_Basic_Achievement_Overcookedfoods" name="傷ませてしまった料理の数" />
+		<text id="tt_Basic_Achievement_Servingcountmeals" name="調理したメイン料理の数" />
+		<text id="tt_Basic_Achievement_Servingcountsalads" name="調理したサラダの数" />
+		<text id="tt_Basic_Achievement_Servingcountsnacks" name="調理したスナックの数" />
+		<text id="tt_Basic_Achievement_Servingcountsoups" name="調理したスープの数" />
+		<text id="tt_Basic_Achievement_Servingcountsweets" name="調理したデザート数" />
+		<text id="tt_Basic_Achievement_Servingcountvegans" name="調理したベジタリアンメイン料理の数" />
+		<text id="tt_Basic_Achievement_Servingscount" name="売った料理の数" />
+		<text id="tt_Basic_Achievement_Solditems" name="売った装飾品と家具の数" />
+		<text id="tt_Basic_Achievement_Spentchips" name="カフェドル支出" />
+		<text id="tt_Basic_Achievement_Spentgold" name="カフェゴールド支出" />
+		<text id="tt_Basic_Achievement_Wheeloffortune" name="ホイール・オブ・フォーチュン成功数" />
+		<text id="tt_byAmount" name="{0} / {1}" />
+		<text id="tt_byLevel" name="レベル{0}以上" />
+		<text id="tt_CafeActionPanel_btn_achievements" name="実績" />
+		<text id="tt_CafeActionPanel_btn_cookbook" name="レシピ本" />
+		<text id="tt_CafeActionPanel_btn_coop" name="Co-Op" />
+		<text id="tt_CafeActionPanel_btn_decoshop" name="カスタマイズ" />
+		<text id="tt_CafeActionPanel_btn_gifts" name="ギフト" />
+		<text id="tt_CafeActionPanel_btn_ingredientshop" name="食材ショップ" />
+		<text id="tt_CafeActionPanel_btn_market" name="マーケットプレイス" />
+		<text id="tt_CafeActionPanel_btn_owncafe" name="マイカフェ" />
+		<text id="tt_CafeActionPanel_btn_staff" name="スタッフ" />
+		<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="ボトム" />
+		<text id="tt_CafeAvatarCreationDialog_btn_boy" name="男の子" />
+		<text id="tt_CafeAvatarCreationDialog_btn_girl" name="女の子" />
+		<text id="tt_CafeAvatarCreationDialog_btn_hair" name="髪の色" />
+		<text id="tt_CafeAvatarCreationDialog_btn_skin" name="肌の色" />
+		<text id="tt_CafeAvatarCreationDialog_btn_tops" name="トップ" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook" name="インスタントクッキング" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="今日はこれ以上のインスタントクッキングはできません" />
+		<text id="tt_CafeClearStoveDialog_instantButton" name="インスタントクッキング" />
+		<text id="tt_CafeCookBookDialog_0" name="デザート" />
+		<text id="tt_CafeCookBookDialog_1" name="メインディッシュ" />
+		<text id="tt_CafeCookBookDialog_2" name="スープ" />
+		<text id="tt_CafeCookBookDialog_3" name="サラダ" />
+		<text id="tt_CafeCookBookDialog_4" name="ベジタリアン料理" />
+		<text id="tt_CafeCookBookDialog_5" name="スナック" />
+		<text id="tt_CafeCookBookDialog_btn_cook" name="調理する" />
+		<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="食材が足りません" />
+		<text id="tt_CafeCookBookDialog_btn_mastery" name="あと{0}でマスタリーレベル{1}到達　クリックで詳細" />
+		<text id="tt_CafeCookBookDialog_btn_shop" name="食材ショップ" />
+		<text id="tt_CafeDekoShopPanel_btn_close" name="カフェに戻る" />
+		<text id="tt_CafeDekoShopPanel_btn_deko" name="カスタマイズ" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Chair" name="椅子" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="装飾品" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Door" name="ドア" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Table" name="テーブル" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Tiles" name="フロアタイル" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wall" name="壁" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wallobject" name="壁の装飾品" />
+		<text id="tt_CafeDekoShopPanel_btn_expansion" name="拡張" />
+		<text id="tt_CafeDekoShopPanel_btn_functional" name="備品" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Counter" name="カウンター" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Extras" name="エキストラ" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Fridge" name="冷蔵庫" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Stove" name="コンロ" />
+		<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="この拡張を買うには、ネットワークフレンドがあと{0}人必要です!" />
+		<text id="tt_CafeDekoShopPanel_btn_sell" name="売りたいアイテムをここにドラッグしてください" />
+		<text id="tt_CafeDekoShopPanel_cashexpansion" name="この拡張をカフェドルで購入するには、レベル{0}に達する必要があります。" />
+		<text id="tt_CafeDekoShopPanel_dragItem" name="カフェ内にドラッグしてください" />
+		<text id="tt_CafeDekoShopPanel_invalidexpansion" name="次の拡張を購入するには、まずその1つ下のランクのものを入手する必要があります。" />
+		<text id="tt_CafeIngredientShopDialog_btn_addcash" name="カフェドル/カフェゴールドを追加する" />
+		<text id="tt_CafeIngredientShopDialog_btn_all" name="全て" />
+		<text id="tt_CafeIngredientShopDialog_btn_buy" name="買う" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat1" name="肉・卵・乳製品" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat2" name="野菜" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat3" name="フルーツ" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat4" name="ファンシー食材" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat5" name="その他" />
+		<text id="tt_CafeIngredientShopDialog_btn_fridge" name="冷蔵庫" />
+		<text id="tt_CafeIngredientShopDialog_btn_help" name="ファンシー食材とは?" />
+		<text id="tt_CafeIngredientShopDialog_btn_sell" name="売る" />
+		<text id="tt_CafeIngredientShopDialog_btn_shop" name="食材ショップ" />
+		<text id="tt_CafeIngredientShopDialog_btn_unlock" name="宅配サービス" />
+		<text id="tt_CafeIngredientShopDialog_btn_wheel" name="ホイール・オブ・フォーチュンでのみ入手可!" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_help" name="ジョブヘルプ" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_refill" name="ジョブ許可を補充する" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_sign" name="ジョブを探す" />
+		<text id="tt_CafeMasteryDialog_broncestar" name="調理する料理の数量を増やそう!" />
+		<text id="tt_CafeMasteryDialog_goldstar" name="調理をスピードアップ!" />
+		<text id="tt_CafeMasteryDialog_silverstar" name="獲得するXPを増やそう!" />
+		<text id="tt_CafeNamePanel_mc_luxury" name="あなたのカフェの豪華値" />
+		<text id="tt_CafeNamePanel_mc_rating" name="あなたのカフェの人気度" />
+		<text id="tt_CafeOptionPanel_btn_blockfriends" name="フレンドリクエストをブロックする" />
+		<text id="tt_CafeOptionPanel_btn_bugreport" name="バグ報告" />
+		<text id="tt_CafeOptionPanel_btn_changePass" name="パスワードを変更する" />
+		<text id="tt_CafeOptionPanel_btn_custom" name="キャラクターを着せ替える" />
+		<text id="tt_CafeOptionPanel_btn_faq" name="よくあるご質問 (FAQ)" />
+		<text id="tt_CafeOptionPanel_btn_fullscreen" name="フルスクリーン" />
+		<text id="tt_CafeOptionPanel_btn_help" name="ヘルプ" />
+		<text id="tt_CafeOptionPanel_btn_logout" name="ログアウト" />
+		<text id="tt_CafeOptionPanel_btn_messages" name="ニュース" />
+		<text id="tt_CafeOptionPanel_btn_music" name="音楽 ON/OFF" />
+		<text id="tt_CafeOptionPanel_btn_news" name="フォーラム" />
+		<text id="tt_CafeOptionPanel_btn_options" name="オプション" />
+		<text id="tt_CafeOptionPanel_btn_screenshot" name="写真" />
+		<text id="tt_CafeOptionPanel_btn_sfx" name="効果音 ON/OFF" />
+		<text id="tt_CafeOptionPanel_btn_socialgroup" name="グループ" />
+		<text id="tt_CafeOptionPanel_btn_sound" name="サウンド" />
+		<text id="tt_CafeOptionPanel_btn_support" name="サポート" />
+		<text id="tt_CafeOptionPanel_btn_verifyemail" name="ボーナスを受け取る" />
+		<text id="tt_CafeOptionPanel_btn_wantfriends" name="フレンドリクエストを許可する" />
+		<text id="tt_CafeOptionPanel_btn_zoom" name="拡大" />
+		<text id="tt_CafeOptionPanel_btn_zoomIn" name="拡大" />
+		<text id="tt_CafeOptionPanel_btn_zoomOut" name="縮小" />
+		<text id="tt_CafeRegisterPanel_btn_register" name="セーブ &amp; 登録" />
+		<text id="tt_CafeSmoothiemaker_btn_mix" name="ミックス" />
+		<text id="tt_CafeSmoothiemaker_serve" name="ドリンクを出す" />
+		<text id="tt_CafeSocialPanel_btn_buddies" name="フレンド" />
+		<text id="tt_CafeSocialPanel_btn_buddiesincafe" name="参加中のプレイヤー" />
+		<text id="tt_CafeSocialPanel_btn_chat" name="チャット" />
+		<text id="tt_CafeSocialPanel_btn_findbuddies" name="フレンドを招待する" />
+		<text id="tt_CafeSocialPanel_btn_muteplayer" name="ミュート" />
+		<text id="tt_CafeStaffDialog_rename" name="フロアスタッフの名前を変更する" />
+		<text id="tt_CafeUserStatePanel_btn_adddollar" name="カフェドル/カフェゴールドを追加する" />
+		<text id="tt_CafeUserStatePanel_btn_refill" name="ジョブ許可を補充する" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="レベルアップまで{0} XP" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="XP" />
+		<text id="tt_highscore_luxury" name="豪華値順に整頓" />
+		<text id="tt_highscore_xp" name="XP順に整頓" />
+		<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="実績" />
+		<text id="tt_PlayerActionChoicesComponent_btn_addfriend" name="フレンドリクエスト" />
+		<text id="tt_PlayerActionChoicesComponent_btn_info" name="情報" />
+		<text id="tt_PlayerActionChoicesComponent_btn_job" name="雇う" />
+		<text id="tt_PlayerActionChoicesComponent_btn_kick" name="追い出す" />
+		<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="フレンドシップを終了する" />
+		<text id="tt_PlayerActionChoicesComponent_btn_visit" name="カフェを訪ねる" />
+		<text id="tt_Social_Achievement_Friendscount" name="ネットワークフレンド数" />
+	</tooltips>
+	<tutorial>
+		<text id="tut_buymissingingredient_copy" name="タマネギの下にある小さな冷蔵庫アイコンの「0」の数字は、冷蔵庫の中に在庫がないことを表しています。\nその下の表示が値段です。\nタマネギを購入しましょう。" />
+		<text id="tut_cafeopen_copy" name="グッジョブ! もうすぐお客さんたちがやってきます。\n最初のうちに必要なことは、これで全部です。\nほかにも自由にいろいろな行動をためしてみてください。\n\nそれでは、ゲームを楽しんでください!" />
+		<text id="tut_cookmeal_copy" name="では、ここからが本番です!\nサラダに、あなたの実力を見せてやりましょう!" />
+		<text id="tut_cookopenshop_copy" name="こちらには料理とそれに必要な食材、調理所要時間と売値・獲得できる経験値(XP)が表示されています。\nしまった! ガーデンサラダに必要なタマネギの在庫がないようです。タマネギを買いましょう。" />
+		<text id="tut_cookpreparecook_copy" name="もちろん、一番大切なのは料理です。まずはガーデンサラダを作ってみましょう。コンロをクリックしてください!" />
+		<text id="tut_instantcook2_copy" name="「インスタントクッキング」を利用するのです。\nカフェゴールドを消費しますが、その分とても便利です。" />
+		<text id="tut_instantcook_copy" name="ガーデンサラダを調理するのには、通常は3分かかります。しかし、調理を格段にスピードアップさせる方法があるので、今から実際にやってみましょう。" />
+		<text id="tut_preparesteps_copy" name="一つ一つの調理ステップを実行するために、コンロを数度クリックしてください。" />
+		<text id="tut_servedish_copy" name="よくできました!\nあとは料理を運ぶだけです。\n10食分を作りましたが、きっとすぐになくなってしまうでしょう。お腹をすかせたお客さんたちのために、もっとたくさん料理をつくりましょう!" />
+		<text id="tut_start_copy" name="あなたのカフェにようこそ、{0}!\nこのチュートリアルでは、素晴らしきカフェビジネスの世界での仕事の流れを簡単に説明します。" />
+		<text id="tut_title" name="チュートリアル" />
+		<text id="tut_welcome_title" name="ようこそ!" />
+	</tutorial>
+	<generic_flash>
+		<alert>
+			<text id="generic_alert_bug" name="エラー" />
+			<text id="generic_alert_connection_failed_copy" name="現在ゲームのメンテナンス中です。後ほど再度お試しください。" />
+			<text id="generic_alert_connection_failed_title" name="メンテナンス中です!" />
+			<text id="generic_alert_connection_lost_copy" name="ゲームサーバーとの接続が切断されました。後ほど再度お試しください。" />
+			<text id="generic_alert_connection_lost_description" name="現在、アップデート、新キャラクターの取り入れ、エラー訂正のために必要な臨時メンテナンスを行っています。&lt;br&gt;&lt;br&gt; できるだけ早くご利用を再開していだだけるよう努めていますので、もうしばらくお待ちください。" />
+			<text id="generic_alert_connection_lost_promo" name="しばらくの間、他のゲームをお試しください。" />
+			<text id="generic_alert_connection_lost_thanks" name="ご理解いただきありがとうございます。" />
+			<text id="generic_alert_connection_lost_title" name="接続が失われました!" />
+			<text id="generic_alert_error" name="エラー" />
+			<text id="generic_alert_information" name="注意事項" />
+			<text id="generic_alert_loggedout_copy" name="ログアウトに成功しました。また、ログインボーナスは、毎日もらえますので、お忘れなく。" />
+			<text id="generic_alert_loggedout_title" name="それでは、のちほど!" />
+			<text id="generic_alert_warning" name="警告" />
+			<text id="generic_alert_watchout" name="注意!" />
+			<text id="generic_alert_win7chromebug" name="" />
+			<text id="generic_invalid_email_provider" name="このプロバイダのメールアドレスは、許可されていません！" />
+			<text id="generic_js_alert_firstsessiontracking_loading" name="現在、インターネットの接続が非常に遅くなっているようです。後ほど再度お試しください!" />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="ゲームはいかがでしたか? さらに改善できる点あがりましたら、グッドゲームフォーラムまたはグループでご意見をお聞かせください。" />
+			<text id="generic_js_alert_firstsessiontracking_unregistered" name="ご登録いただかないと、ゲームの状態を保存することができませんので、ご注意ください!" />
+			<text id="generic_register_error_invalidemail" name="入力したメールアドレスは、間違っています。" />
+			<text id="generic_report_muted_chattry" name="現在、立入を禁止されていますので、チャットをご利用いただけません。" />
+		</alert>
+		<button>
+			<text id="generic_btn_accept" name="受け入れる" />
+			<text id="generic_btn_cancel" name="キャンセル" />
+			<text id="generic_btn_close" name="閉じる" />
+			<text id="generic_btn_continue" name="進む" />
+			<text id="generic_btn_end" name="終了する" />
+			<text id="generic_btn_endnow" name="すぐに終了" />
+			<text id="generic_btn_goback" name="戻る" />
+			<text id="generic_btn_no" name="いいえ" />
+			<text id="generic_btn_noshare" name="シェアしない" />
+			<text id="generic_btn_notaccept" name="断る" />
+			<text id="generic_btn_okay" name="OK" />
+			<text id="generic_btn_reconnect" name="再接続する" />
+			<text id="generic_btn_refresh" name="更新" />
+			<text id="generic_btn_report" name="報告" />
+			<text id="generic_btn_search" name="検索" />
+			<text id="generic_btn_share" name="シェアする!" />
+			<text id="generic_btn_skip" name="スキップ" />
+			<text id="generic_btn_start" name="スタート" />
+			<text id="generic_btn_topayment" name="欲しい!" />
+			<text id="generic_btn_yes" name="はい" />
+		</button>
+		<chat>
+			<text id="generic_chat_writeable" name="チャットは、登録されたプレイヤーがレベル1に到達しないと使用できません。" />
+		</chat>
+		<common>
+			<text id="generic_admin" name="アドミン" />
+			<text id="generic_animation" name="アニメーションを表示する" />
+			<text id="generic_bugreport" name="エラー報告" />
+			<text id="generic_changePass" name="パスワードを変更する" />
+			<text id="generic_comma" name="," />
+			<text id="generic_conningsoon" name="*近日公開*" />
+			<text id="generic_date" name="日付" />
+			<text id="generic_day" name="日" />
+			<text id="generic_dayformat" name="{1}/{0}" />
+			<text id="generic_days" name="日" />
+			<text id="generic_day_short" name="時" />
+			<text id="generic_decimalseparator" name="." />
+			<text id="generic_email" name="メール" />
+			<text id="generic_faq" name="質問＆答え" />
+			<text id="generic_forum" name="フォーラム" />
+			<text id="generic_friend" name="友だち" />
+			<text id="generic_friends" name="友だち" />
+			<text id="generic_general" name="全般" />
+			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_group" name="グループ" />
+			<text id="generic_guest" name="ゲスト" />
+			<text id="generic_help" name="ヘルプ" />
+			<text id="generic_high" name="高" />
+			<text id="generic_hour" name="時間" />
+			<text id="generic_hours" name="時間" />
+			<text id="generic_hour_short" name="時間" />
+			<text id="generic_limited" name="制限あり" />
+			<text id="generic_logout" name="ログアウト" />
+			<text id="generic_low" name="低" />
+			<text id="generic_medium" name="中" />
+			<text id="generic_minute" name="分" />
+			<text id="generic_minutes" name="分" />
+			<text id="generic_minute_short" name="分" />
+			<text id="generic_moderator" name="進行役" />
+			<text id="generic_month" name="ケ月" />
+			<text id="generic_months" name="ケ月" />
+			<text id="generic_music" name="音楽（オン／オフ）" />
+			<text id="generic_name" name="名前" />
+			<text id="generic_news" name="最新情報" />
+			<text id="generic_options" name="設定" />
+			<text id="generic_quality" name="画質" />
+			<text id="generic_register" name="保存と登録" />
+			<text id="generic_second" name="秒" />
+			<text id="generic_seconds" name="秒" />
+			<text id="generic_second_short" name="秒" />
+			<text id="generic_sound" name="サウンド（オン／オフ）" />
+			<text id="generic_support" name="サポート" />
+			<text id="generic_today" name="今日" />
+			<text id="generic_tomorrow" name="明日" />
+			<text id="generic_tutorial" name="チュートリアル" />
+			<text id="generic_username" name="プレイヤー名" />
+			<text id="generic_xp" name="XP" />
+			<text id="generic_yesterday" name="昨日" />
+		</common>
+		<error>
+			<text id="generic_versioncheck_error" name="旧バージョンです!" />
+			<text id="generic_versioncheck_errorcode_1" name="ページを更新する" />
+		</error>
+		<feeds id="" />
+		<friends>
+			<text id="generic_friends_add_copy" name="{0} を友達に追加しますか?" />
+			<text id="generic_friends_add_title" name="友達登録リクエスト" />
+			<text id="generic_friends_buddy_btn_morefriends" name="友達を増やす!" />
+			<text id="generic_friends_denied_copy" name="残念ながら{0}は、あなたのリクエストを拒否しました。" />
+			<text id="generic_friends_denied_title" name="リクエストが拒否されました!" />
+			<text id="generic_friends_invite_badword_copy" name="入力した名前はご使用になれません!" />
+			<text id="generic_friends_invite_badword_title" name="注意!" />
+			<text id="generic_friends_invite_error_copy" name="登録済みのプレイヤーのみ、友達を招待できます!" />
+			<text id="generic_friends_invite_error_title" name="まずはご登録ください" />
+		</friends>
+		<fullscreen>
+			<text id="generic_fullscreen_error_copy" name="全画面表示モードはできません" />
+		</fullscreen>
+		<languages>
+			<text id="generic_language_cs" name="チェコ語" />
+			<text id="generic_language_da" name="デンマーク語" />
+			<text id="generic_language_de" name="ドイツ語" />
+			<text id="generic_language_el" name="ギリシャ語" />
+			<text id="generic_language_en" name="英語" />
+			<text id="generic_language_es" name="スペイン語" />
+			<text id="generic_language_fi" name="フィンランド語" />
+			<text id="generic_language_fr" name="フランス語" />
+			<text id="generic_language_hu" name="ハンガリー語" />
+			<text id="generic_language_id" name="インドネシア語" />
+			<text id="generic_language_it" name="イタリア語" />
+			<text id="generic_language_ja" name="日本語" />
+			<text id="generic_language_ko" name="韓国語" />
+			<text id="generic_language_nl" name="オランダ語" />
+			<text id="generic_language_no" name="ノルウェー語" />
+			<text id="generic_language_pl" name="ポーランド語" />
+			<text id="generic_language_pt" name="ポルトガル語" />
+			<text id="generic_language_pt_BR" name="ブラジルポルトガル語" />
+			<text id="generic_language_ru" name="ロシア語" />
+			<text id="generic_language_sv" name="スウェーデン語" />
+			<text id="generic_language_tr" name="トルコ語" />
+			<text id="generic_language_zh_CN" name="中国語（簡体）" />
+			<text id="generic_language_zh_TW" name="中国語（繁体）" />
+		</languages>
+		<login>
+			<text id="generic_login_banned" name="アカウントが閉鎖されました。サポートサービスまでご連絡ください。" />
+			<text id="generic_login_banned_2" name="あなたのゲームアカウントは閉鎖されました。  閉鎖は、{0}までです。  閉鎖に関してご質問などありましたら、サポートデスクまでお問い合わせください。" />
+			<text id="generic_login_banned_3" name="あなたのゲームアカウントは、永久に閉鎖されました。  閉鎖についてご質問などありましたら、サポートデスクまでお問い合わせください。" />
+			<text id="generic_login_banned_permanent" name="恒久的" />
+			<text id="generic_login_facebook" name="Facebookを通して登録" />
+			<text id="generic_login_login" name="ログイン" />
+			<text id="generic_login_loginname" name="ユーザー名/ Eメール" />
+			<text id="generic_login_lostpassword" name="パスワードをお忘れですか?" />
+			<text id="generic_login_lostpassword_copy" name="ご登録のメールアドレスを入力してください。パスワードを送信いたします。" />
+			<text id="generic_login_lostpassword_title" name="パスワードを忘れた" />
+			<text id="generic_login_newplayer" name="初めての方" />
+			<text id="generic_login_password" name="パスワード" />
+			<text id="generic_login_play" name="今すぐプレイする" />
+			<text id="generic_login_playnow" name="今すぐプレイ!" />
+			<text id="generic_login_register" name="登録" />
+			<text id="generic_login_rememberpassword" name="パスワードを保存する" />
+			<text id="generic_login_wronglogin" name="ユーザー名またはパスワードが間違っています。" />
+		</login>
+		<logout>
+			<text id="generic_logout_guest_copy" name="スコアを保存するには、登録が必要です。" />
+			<text id="generic_logout_guest_title" name="登録" />
+		</logout>
+		<notification>
+			<text id="servershutdownpremonition_backin_copy" name="少なくともあと{0}で、再びゲームにアクセスいただけます。" />
+			<text id="servershutdownpremonition_copy" name="ゲームサーバーが、{0}後にシャットダウンを始めます。ログアウトするか、ゲームの進行状況を保存するために登録してください。" />
+			<text id="servershutdownpremonition_registered_copy" name="ゲームサーバーは、メンテナンスのため、{0}後にダウンします。" />
+			<text id="servershutdown_copy" name="ゲームサーバーがシャットダウンされます。数分後に再度ログインしてください。" />
+			<text id="welcomeback_copy" name="またお会いできて嬉しいです。再びゲームに慣れていただくために、少しご案内することがあります。" />
+			<text id="welcomeback_title" name="ただいま!" />
+		</notification>
+		<password>
+			<text id="generic_change_password_copy_newpass" name="新しいパスワード" />
+			<text id="generic_change_password_copy_oldpass" name="旧パスワード：" />
+			<text id="generic_change_password_copy_send" name="新しいパスワードは、登録されたメールアドレス宛てに送信されます。" />
+			<text id="generic_change_password_error_failed" name="申し訳ありませんが、旧パスワードが違います。" />
+			<text id="generic_change_password_error_success" name="パスワードが変更されました!" />
+			<text id="generic_change_password_faild_copy" name="新しいパスワードは、最低2文字の長さが必要です。また旧パスワードも正確に入力してください。" />
+			<text id="generic_change_password_faild_specialcharacters" name="パスワードは、スペースや特殊記号を使用しないで下さい。" />
+			<text id="generic_change_password_faild_title" name="パスワード入力" />
+			<text id="generic_change_password_title" name="パスワード変更" />
+			<text id="generic_guest_change_password_faild_copy" name="登録済みのプレイヤーのみ、パスワードを変更できます!" />
+			<text id="generic_guest_change_password_faild_title" name="まずはご登録ください" />
+		</password>
+		<payment>
+			<text id="generic_discount_payment_title_general" name="{0}を課金購入して追加!" />
+			<text id="generic_payment_48hdiscount_button" name="登録後48時間内のゴールドを増やす" />
+			<text id="generic_payment_48hdiscount_button_general" name="登録後48時間内の{0}を増やす" />
+			<text id="generic_payment_48hdiscount_copy" name="登録して48時間以内に、ゴールドを購入すると、選ばれたセットでさらに{0}%が追加でもらえます。" />
+			<text id="generic_payment_48hdiscount_copy_1" name="登録後48時間以内にゴールドセットを購入すると、さらに{0}% のゴールドが無料でもらえます。" />
+			<text id="generic_payment_48hdiscount_copy_1_general" name="登録して48時間以内に{0}を買うと、すべてのセットで{1}% の追加がもらえます。" />
+			<text id="generic_payment_48hdiscount_copy_general" name="登録して48時間以内に{0}を買うと、選ばれたセットで、さらに{1}% の追加がもらえます。" />
+			<text id="generic_payment_btn" name="ショップへ" />
+			<text id="generic_payment_copy" name="ペイメントショップに移動します。" />
+			<text id="generic_payment_discount_button" name="お金を払ってゴールドを{0}%増やす!" />
+			<text id="generic_payment_discount_copy" name="ゴールドを買って、{0}%のボーナスを手に入れる!" />
+			<text id="generic_payment_discount_copy_general" name="今{0}を買って、{1}% のボーナスを獲得！" />
+			<text id="generic_payment_discount_general" name="お金を払って{0}%{1}を増やす!" />
+			<text id="generic_payment_discount_generalshort" name="課金して、{0}%を増やす!" />
+			<text id="generic_payment_discount_time" name="残り{0}!" />
+			<text id="generic_payment_discount_title" name="ゴールドを増やす!" />
+			<text id="generic_payment_newPrices" name="ただ今から、ペイメントショップで還元価格が始まります。是非節約にご利用ください!" />
+			<text id="generic_payment_title" name="ペイメントショップ" />
+		</payment>
+		<progressbar>
+			<text id="loading_text_1" name="サーバースペースへ通じるトンネルを探す" />
+			<text id="loading_text_10" name="アイテムを世界で分配する" />
+			<text id="loading_text_11" name="グラフィックを描画する" />
+			<text id="loading_text_12" name="ボタンに着色する" />
+			<text id="loading_text_13" name="イースター・エッグを隠す" />
+			<text id="loading_text_14" name="ユーザーデータを調べる" />
+			<text id="loading_text_15" name="バグを追い払う" />
+			<text id="loading_text_16" name="プログラマに食べ物を与える" />
+			<text id="loading_text_17" name="顧客の問題に取り組む" />
+			<text id="loading_text_18" name="砂時計を回す" />
+			<text id="loading_text_19" name="システムを冷却する" />
+			<text id="loading_text_2" name="歯車に油をさす" />
+			<text id="loading_text_20" name="すぐに終わります" />
+			<text id="loading_text_3" name="ハムスターの回し車を回す" />
+			<text id="loading_text_4" name="サーバーを暖める" />
+			<text id="loading_text_5" name="すべてうまく行くといいけれど" />
+			<text id="loading_text_6" name="害虫駆除業者を呼び寄せる" />
+			<text id="loading_text_7" name="複雑なアルゴリズムを計算する" />
+			<text id="loading_text_8" name="フラックス・コンペンセイターを調整する" />
+			<text id="loading_text_9" name="キャラクターを作る" />
+			<text id="loading_text_default" name="初期化" />
+			<text id="loading_text_itemXML" name="ゲーム要素を読み込む" />
+			<text id="progress_loadfiles" name="ゲームグラフィックをロード中…" />
+			<text id="progress_serverconnection" name="ゲームサーバーに接続します…" />
+		</progressbar>
+		<register>
+			<text id="generic_register_agb_copy" name="利用規約に目を通し、内容に同意いただける場合は左のボックスにチェックを入れてください。それでは、ゲーム開始です!" />
+			<text id="generic_register_agb_read" name="利用規約を読む" />
+			<text id="generic_register_alreadyavatar" name="このユーザーは、すでにアバターを持っています。" />
+			<text id="generic_register_badword" name="あなたの名前で{0}を使用することはできません。" />
+			<text id="generic_register_btn_agb" name="利用規約に同意する" />
+			<text id="generic_register_btn_later" name="後ほど" />
+			<text id="generic_register_btn_next" name="進む" />
+			<text id="generic_register_btn_save" name="保存" />
+			<text id="generic_register_character" name="自分のキャラクターを作ろう" />
+			<text id="generic_register_copy_0" name="無料でご登録いただけます!" />
+			<text id="generic_register_copy_1" name="ゲームの状態を保存しよう!" />
+			<text id="generic_register_emaillong_copy" name="メールアドレスが長すぎます。" />
+			<text id="generic_register_emailwrong_copy" name="入力したメールアドレスが、間違っています。" />
+			<text id="generic_register_email_copy" name="メールアドレスにスペースや特殊記号を含めないでください。" />
+			<text id="generic_register_error" name="登録が失敗に終わりました" />
+			<text id="generic_register_errormistake" name="エラー" />
+			<text id="generic_register_error_accountalreadyexists" name="申し訳ありませんが、このメールにはすでにプレイヤーが登録しています。" />
+			<text id="generic_register_forfree" name="登録無料!" />
+			<text id="generic_register_forfree1" name="無料!" />
+			<text id="generic_register_letsgo" name="ゲームスタート!" />
+			<text id="generic_register_namealreadyused" name="その名前はすでに使われています。" />
+			<text id="generic_register_namenotvalid" name="入力した名前が無効です。" />
+			<text id="generic_register_passwordshort_copy" name="入力されたパスワードは短すぎます。パスワードは4文字以上必要です。" />
+			<text id="generic_register_passwordwrong_copy" name="入力したパスワードが間違っています。" />
+			<text id="generic_register_password_copy" name="パスワードにスペースや特殊記号を含めないでください。" />
+			<text id="generic_register_receivenews" name="ニュースレターを受け取る" />
+			<text id="generic_register_rememberdata" name="データ保存" />
+			<text id="generic_register_reward" name="無料で登録すると{0} {1}がプレゼントでもらえます!" />
+			<text id="generic_register_subscribe" name="登録" />
+			<text id="generic_register_success" name="登録に成功しました。" />
+			<text id="generic_register_title" name="登録エラー" />
+			<text id="generic_register_unlock" name="この機能のロックを解除する!" />
+		</register>
+		<report>
+			<text id="generic_report_muted_badword1_copy" name="発言には充分ご注意ください。チャットへの立入が禁止されたり、アカウントが閉鎖される場合があります。 理由： {0}" />
+			<text id="generic_report_muted_badword2_copy" name="迷惑行為が続いたため、これから{0}の間、チャットをご利用いただけません。理由: {1}" />
+			<text id="generic_report_muted_domain1" name="インターネットアドレスをチャットで表示しない。" />
+			<text id="generic_report_muted_reported_copy" name="複数のプレイヤーが、あなたに関する苦情を訴えています。さしあたり{0}の間、チャットをご利用いただけません。理由: {1}" />
+			<text id="generic_report_player_copy" name="本当に{0}について報告しますか? この機能を悪用すると、アカウントが停止されることがありますのでご注意ください。" />
+			<text id="generic_report_player_reason_0" name="侮辱" />
+			<text id="generic_report_player_reason_1" name="セクハラ" />
+			<text id="generic_report_player_reason_2" name="人種差別的発言" />
+			<text id="generic_report_player_reason_3" name="脅迫／恐喝" />
+			<text id="generic_report_player_reason_title" name="報告理由:" />
+			<text id="generic_report_player_title" name="プレイヤーを報告しますか?" />
+			<text id="generic_report_reported_copy" name="他のプレイヤーから管理者に報告されました。理由: {0}" />
+		</report>
+		<worlds>
+			<text id="generic_connect" name="接続" />
+			<text id="generic_select_world" name="世界を選んでください:" />
+			<text id="generic_world" name="世界: {0}" />
+			<text id="generic_world_international" name="インターナショナル: {0}" />
+		</worlds>
+	</generic_flash>
+</cafe>

@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cafe>
+	<achievement>
+		<text id="Basic_Achievement_Boughtdeco" name="Apetyczny lokal" />
+		<text id="Basic_Achievement_Boughtingredients" name="Książe składników" />
+		<text id="Basic_Achievement_Cookingcount" name="Pilny kucharz" />
+		<text id="Basic_Achievement_Coopcount" name="Wielozadaniowy muffin" />
+		<text id="Basic_Achievement_Coopgoldcount" name="Pilny pracownik" />
+		<text id="Basic_Achievement_Curiercount" name="Ekskluzywna przesyłka" />
+		<text id="Basic_Achievement_Differentdishes" name="Wirtuoz smaku" />
+		<text id="Basic_Achievement_Earnedchips" name="Wyśmienity kucharz" />
+		<text id="Basic_Achievement_Fancycount" name="Fantazyjnie-gotujący szef kuchni" />
+		<text id="Basic_Achievement_Firenpc" name="Swietny menager" />
+		<text id="Basic_Achievement_Instantcount" name="Niecierpliwie ekspresowo gotujący" />
+		<text id="Basic_Achievement_Jobclean" name="Pilny kelner" />
+		<text id="Basic_Achievement_Jobserve" name="Niesamowity kelner" />
+		<text id="Basic_Achievement_Masteies" name="Fast food king" />
+		<text id="Basic_Achievement_Masteriesgold" name="Złoty przedsiębiorca" />
+		<text id="Basic_Achievement_Muffinmancash" name="Hojny Muffin" />
+		<text id="Basic_Achievement_Muffinmangold" name="Złoty Muffin" />
+		<text id="Basic_Achievement_Overcookedfoods" name="Pleśniowy król" />
+		<text id="Basic_Achievement_Servingcountmeals" name="Konkretne knedle" />
+		<text id="Basic_Achievement_Servingcountsalads" name="Świeży degustator" />
+		<text id="Basic_Achievement_Servingcountsnacks" name="Boss przysmaków" />
+		<text id="Basic_Achievement_Servingcountsoups" name="Płynny szef" />
+		<text id="Basic_Achievement_Servingcountsweets" name="Pracowity cukiernik" />
+		<text id="Basic_Achievement_Servingcountvegans" name="Warzywny mistrz" />
+		<text id="Basic_Achievement_Servingscount" name="Swietny biznesmen" />
+		<text id="Basic_Achievement_Solditems" name="Dekoracyjny sprzedawca" />
+		<text id="Basic_Achievement_Spentchips" name="Mistrz wydatków" />
+		<text id="Basic_Achievement_Spentgold" name="Złoty gastronom" />
+		<text id="Basic_Achievement_Wheeloffortune" name="Zakręcony gracz" />
+		<text id="Social_Achievement_Friendscount" name="Gwiazda towarzystwa" />
+	</achievement>
+	<alerts>
+		<text id="alert_addcash_copy" name="Tutaj możesz kupić złoto/café dolary" />
+		<text id="alert_addcash_title" name="Paymentshop" />
+		<text id="alert_addFriend_copy" name="Czy chcesz dodać {0} do listy przyjaciół?" />
+		<text id="alert_addFriend_denied_copy" name="{0} odrzucił Twoje zapytanie." />
+		<text id="alert_addFriend_denied_title" name="Zapytanie odrzucone!" />
+		<text id="alert_addFriend_title" name="Zaproszenie do znajomych" />
+		<text id="alert_addgold_copy" name="Musisz się najpierw zarejestrować aby zrobić  tutaj zakupy!" />
+		<text id="alert_addgold_title" name="Rejestracja" />
+		<text id="alert_avatarcustom_copy" name="Podczas pracy nie możesz zmieniać ubrań!" />
+		<text id="alert_buytiles_copy" name="1. Wybierz jedną kafelkę 2. Z naciśniętym klawiszem myszki wybierz obszar. 3. A następnie puść" />
+		<text id="alert_buytiles_title" name="Chcesz położyć kafelki?" />
+		<text id="alert_changePasswordFaild_copy" name="Twoje nowe hasło powinno być dłuższe niż 2 znaki a stare hasło powinno być podane prawidłowo!" />
+		<text id="alert_changePasswordFaild_title" name="Podaj hasło" />
+		<text id="alert_clearstove_cancelButton" name="Zatrzymaj" />
+		<text id="alert_clearstove_okButton" name="Oddaj" />
+		<text id="alert_clearstove_title" name="Z tego blatu zostanie podane wkrótce jedzenie. Czy chcesz zachowac potrawę?" />
+		<text id="alert_counter_outofreach_copy" name="Blat nie jest dostepny. Spróbuj cos przestawić!" />
+		<text id="alert_counter_outofreach_title" name="Uwaga!" />
+		<text id="alert_dekoshop_humanwaiter_copy" name="Dopóki pracuje u Ciebie inny gracz jako kelner nie możesz włączyć trybu przebudowy." />
+		<text id="alert_dekoshop_humanwaiter_title" name="Nie działa!" />
+		<text id="alert_dekoshop_kickplayer_copy" name="Inni gracze są u Ciebie w café. Jeśli teraz przejdziesz do modułu dekoracji, wyrzucić ich z twojego café" />
+		<text id="alert_dekoshop_kickplayer_title" name="Uwaga!" />
+		<text id="alert_FancyCooking_copy" name="Czy chcesz ulepszyć potrawę zarabiając dzięki temu  {0}  punktów xp i {1}  porcji ?" />
+		<text id="alert_FancyCooking_title" name="Fantazyjne składniki" />
+		<text id="alert_fancyinfo_copy" name="Jeśli doprawisz swoją potrawę odpowiednim fantazyjnym składnikiem to możesz zyskać do  20% więcej porcji a także punktow XP! Fantazyjne składniki nie zabierają Ci miejsca w lodówce!" />
+		<text id="alert_fancyinfo_title" name="Fantazyjne składniki!" />
+		<text id="alert_giftboxfull_copy" name="Twoja skrzynka na prezenty jest pełna! Nie możesz otrzymywać żadnych prezentów od przyjaciół !" />
+		<text id="alert_giftboxfull_title" name="Nie ma miejsca!" />
+		<text id="alert_guestchangepassword_copy" name="Mozesz zmienić hasło tylko jako zarejestrowany użytkownik!" />
+		<text id="alert_guestchangepassword_title" name="Najpierw zarejestruj się" />
+		<text id="alert_guestcoop_copy" name="Musisz się najpierw zarejestrować aby wykonywać Co-Ops!" />
+		<text id="alert_guestinvitefriend_copy" name="Możesz zapraszać przyjaciół tylko jeśli jesteś zarejestrowany." />
+		<text id="alert_guestinvitefriend_title" name="Najpierw zarejestruj się" />
+		<text id="alert_guestlogout_copy" name="Zarejestruj się aby zapisać stan gry!" />
+		<text id="alert_guestlogout_title" name="Rejestracja" />
+		<text id="alert_help_copy" name="musisz sobie sam pomóc" />
+		<text id="alert_help_title" name="Pomoc" />
+		<text id="alert_invitefriend_confirmed_copy" name="Twoje zaproszenie do {0} zostało wysłane !" />
+		<text id="alert_invitefriend_confirmed_title" name="Zaproszenie wysłane!" />
+		<text id="alert_invitefriend_copy" name="Aby zaprosić przyjaciół podaj  ich imiona  i adresy e-mail." />
+		<text id="alert_invitefriend_mail" name="Adresy e-mail Twoich przyjaciół:" />
+		<text id="alert_invitefriend_myname" name="Twoje imię:" />
+		<text id="alert_invitefriend_name" name="Imiona przyjaciół:" />
+		<text id="alert_invitefriend_title" name="Zaproś przyjaciół" />
+		<text id="alert_jobhelp_copy1" name="1. Zabierz jedzenie z blatu\n2. Obsługuj oczękujących gości" />
+		<text id="alert_jobhelp_copy2" name="1. Zabierz talerze ze stołu (także więcej)\n2. Połóż na blacie" />
+		<text id="alert_jobhelp_header1" name="Obsługuj gości" />
+		<text id="alert_jobhelp_header2" name="Posprzątaj talerze" />
+		<text id="alert_jobhelp_title" name="Twoje zadania" />
+		<text id="alert_jobrefill_copy" name="Musisz się najpierw zarejestrować aby móc pracować." />
+		<text id="alert_jobrefill_title" name="Rejestracja" />
+		<text id="alert_lostpassword_copy" name="Podaj swój adres e-mail a my przyslemy Ci hasło." />
+		<text id="alert_lostpassword_title" name="Nie pamiętam hasła" />
+		<text id="alert_marketplace_jobcancled_copy" name="Niestety {0} odrzucił Twoją ofertę pracy." />
+		<text id="alert_marketplace_jobcancled_title" name="Praca  odrzucona" />
+		<text id="alert_marketplace_jobempty_copy" name="Zużyłeś na dzisiaj wszystkie uprawnienia do pracy." />
+		<text id="alert_marketplace_jobempty_title" name="Potrzebne uprawnienia do pracy!" />
+		<text id="alert_marketplace_jobhired_copy" name="{0} przyjął Twoją ofertę pracy!" />
+		<text id="alert_marketplace_jobhired_title" name="Praca przyjęta" />
+		<text id="alert_marketplace_job_copy" name="Została zaproponowana Ci praca kelnera od {0} (Level {1} Czy chcesz ją przyjąć?" />
+		<text id="alert_marketplace_job_title" name="Oferta pracy!" />
+		<text id="alert_marketplace_noticeboard_copy" name="Tutaj meldują się szukający pracy lub jeśli byłeś pracowity  możesz ponownie napełnić  uprawnienia do pracy." />
+		<text id="alert_marketplace_noticeboard_title" name="Uprawnienia do pracy" />
+		<text id="alert_marketplace_playerjobempty_copy" name="Ten gracz już dzisiaj wystarczająco dużo pracował." />
+		<text id="alert_marketplace_playerjobempty_title" name="Praca odrzucona" />
+		<text id="alert_marketplace_playerleaved_copy" name="Gracz opuścił rynek." />
+		<text id="alert_marketplace_playerleaved_title" name="Ups" />
+		<text id="alert_nofreecounter_copy" name="Nie masz wolnego blatu." />
+		<text id="alert_nofreecounter_title" name="Ups!" />
+		<text id="alert_nofridge_copy" name="Nie masz lodówki w Twojej café. Zobacz w module przebudowy i przeciągnij jedną do Twojej café." />
+		<text id="alert_nofridge_title" name="Brak lodówki?!" />
+		<text id="alert_nojobpermission_copy" name="Aby zgłosić się jako szukający pracy potrzebujesz uprawnień do pracy!" />
+		<text id="alert_nojobpermission_title" name="Uwaga!" />
+		<text id="alert_register_agb_copy" name="Bez akceptacji zasad użytkowania serwisu nie przejdziesz dalej, musisz je przeczytac i zaakceptować, potem możesz kontynuować!" />
+		<text id="alert_register_email_copy" name="Adres e-mail nie moze byc pusty i zawierać znaków spesjalnych." />
+		<text id="alert_register_password_copy" name="Twoje hasło nie może być puste i zawierać znaków specjalnych." />
+		<text id="alert_register_title" name="Błąd rejestracji" />
+		<text id="alert_seekingjob_copy" name="Musisz się najpierw zarejestrować aby móc pracować." />
+		<text id="alert_seekingjob_title" name="Rejestracja" />
+		<text id="alert_selldeco_copy" name="Czy chcesz na pewno sprzedać ten artykuł za {0} ?" />
+		<text id="alert_selldeco_title" name="Sprzedać?" />
+		<text id="alert_sellitem_copy" name="Czy chcesz na pewno sprzedać ten artykuł za {0} ?" />
+		<text id="alert_sellitem_title" name="Sprzedać?" />
+		<text id="alert_smoothiemaker_full_copy" name="W Twoim frosty znajdują się napoje! Zaserwuj je swoim gościom dzięki czemu będziesz mógł zmiksować coś nowego!" />
+		<text id="alert_smoothiemaker_outofreach_copy" name="Twoje frosty jest niedostępne. Spróbuj coś przestawić!" />
+		<text id="alert_smoothiemaker_storage_copy" name="W Twoim frosty znajdują się jeszcze napoje! Jeśli je zmagazynujesz, to pozostałe porcje zmarnują się!" />
+		<text id="alert_stafffire_copy" name="Czy na pewno chcesz zwolnić swojego kelnera?" />
+		<text id="alert_stafffire_title" name="Zatrudnij kelnera?" />
+		<text id="alert_staffhire_copy" name="Podaj imię Twojego kelnera." />
+		<text id="alert_staffhire_title" name="Zatrudnij" />
+		<text id="alert_storefull_copy" name="Kuchenka jest pelna!! Musisz sprzedać produkty aby uzyskać trochę miejsca!" />
+		<text id="alert_storefull_title" name="Lodówka pełna!" />
+		<text id="alert_stove_outofreach_copy" name="Kuchenka nie jest dostępna. Spróbuj coś przestawić." />
+		<text id="alert_stove_outofreach_title" name="Uwaga!" />
+		<text id="alert_unlockitem_copy" name="Pozwól kurierowi dostarczyć produkty! Ekskluzywność ma jednak swoją cenę." />
+		<text id="alert_unlockitem_title" name="Dostawa kurierska?" />
+		<text id="alert_userkicked_copy" name="Zostałeś wyrzucony z café." />
+		<text id="alert_userkicked_title" name="Wyrzucony!" />
+		<text id="alert_workinghero_copy" name="Kucharz musi pracować!" />
+		<text id="alert_workinghero_title" name="Czekaj!" />
+	</alerts>
+	<commons>
+		<text id="addgold" name="Więcej złota" />
+		<text id="buy" name="Kup" />
+		<text id="cash" name="Café dolary" />
+		<text id="comingsoon" name="*Coming Soon*" />
+		<text id="day" name="dzień" />
+		<text id="days" name="dni" />
+		<text id="friends" name="{0}  przyjaciele" />
+		<text id="gold" name="Złoto" />
+		<text id="hour" name="godzina" />
+		<text id="hours" name="godzin" />
+		<text id="level" name="Poziom" />
+		<text id="logout" name="Wyloguj się" />
+		<text id="mastery" name="Poziom gwiazdek" />
+		<text id="minute" name="minuta" />
+		<text id="minutes" name="minuty" />
+		<text id="new" name="Nowe!" />
+		<text id="second" name="sekunda" />
+		<text id="seconds" name="sekundy" />
+		<text id="sell" name="Sprzedaj" />
+		<text id="usable_character" name="usable character" />
+		<text id="XofY" name="{0} z {1}" />
+		<text id="xp" name="XP" />
+	</commons>
+	<cookstep>
+		<text id="cookstep_bananasplit1" name="schłodźić  krem do lodów" />
+		<text id="cookstep_bananasplit2" name="pokroić banany" />
+		<text id="cookstep_brigadeiro1" name="Melting chocolate" />
+		<text id="cookstep_brigadeiro2" name="Shaping brigadeiros" />
+		<text id="cookstep_blackforestcherrycake1" name="pomieszać składniki" />
+		<text id="cookstep_blackforestcherrycake2" name="piec ciasto" />
+		<text id="cookstep_pizzasalad1" name="Making pizzas" />
+		<text id="cookstep_pizzasalad2" name="Making salads" />
+		<text id="cookstep_tripleomelette1" name="Mixing eggs strongly" />
+		<text id="cookstep_tripleomelette2" name="Folding everything" />
+		<text id="cookstep_chocolatewaffles1" name="Melting chocolate" />
+		<text id="cookstep_chocolatewaffles2" name="Covering waffles" />
+		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
+		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
+		<text id="cookstep_sausagepasta1" name="Boiling pasta" />
+		<text id="cookstep_sausagepasta2" name="Frying sausages" />
+		<text id="cookstep_applepie1" name="Building pies" />
+		<text id="cookstep_applepie2" name="Baking pies" />
+		<text id="cookstep_ramen1" name="Boiling pasta" />
+		<text id="cookstep_ramen2" name="Adding spices" />
+		<text id="cookstep_corncake1" name="Mixing ingredients" />
+		<text id="cookstep_corncake2" name="Baking cakes" />
+		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
+		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
+		<text id="cookstep_cheeseburger1" name="przypiec mięso mielone" />
+		<text id="cookstep_cheeseburger2" name="dodać składniki do burgera" />
+		<text id="cookstep_cheesedish1" name="przyrządźić ser" />
+		<text id="cookstep_cheesedish2" name="dojrzał ser" />
+		<text id="cookstep_cheesefondue1" name="piec chleb" />
+		<text id="cookstep_cheesefondue2" name="podgrzać ser" />
+		<text id="cookstep_cherriecake1" name="pomieszać składniki" />
+		<text id="cookstep_cherriecake2" name="piec ciasto" />
+		<text id="cookstep_cherrycompote1" name="gotować wiśnie" />
+		<text id="cookstep_cherrycompote2" name="pozostawić do ostygnięcia" />
+		<text id="cookstep_chickenburger1" name="usmażyć kurczaka" />
+		<text id="cookstep_chickenburger2" name="połączyć składniki" />
+		<text id="cookstep_chickensalad1" name="przypiec kurczaka" />
+		<text id="cookstep_chickensalad2" name="przyrządźić  sałatkę" />
+		<text id="cookstep_chickensoup1" name="przysmażyć boczek" />
+		<text id="cookstep_chickensoup2" name="ugotować zupę" />
+		<text id="cookstep_chiliconcarne1" name="przysmażyć mięso mielone" />
+		<text id="cookstep_chiliconcarne2" name="gotować chili" />
+		<text id="cookstep_chocmousse1" name="pomieszać składniki" />
+		<text id="cookstep_chocmousse2" name="ostudźić mousse" />
+		<text id="cookstep_chocolatecake1" name="zmieszać składniki" />
+		<text id="cookstep_chocolatecake2" name="piec" />
+		<text id="cookstep_chocolatecheesecake1" name="rozpuścić czekoladę" />
+		<text id="cookstep_chocolatecheesecake2" name="piec ciasto" />
+		<text id="cookstep_chocolatefondue1" name="roztopić czekoladę" />
+		<text id="cookstep_chocolatefondue2" name="zamieszać śmietanę" />
+		<text id="cookstep_christmasturkey1" name="Dusić warzywa" />
+		<text id="cookstep_christmasturkey2" name="Usmażyć indyka" />
+		<text id="cookstep_cookieplate1" name="wykrawaj ciasto" />
+		<text id="cookstep_cookieplate2" name="upiec keks" />
+		<text id="cookstep_cornonthecob1" name="gotować kukurydzę" />
+		<text id="cookstep_cornonthecob2" name="przyrządźić sałatę" />
+		<text id="cookstep_curry1" name="przypiec  składniki" />
+		<text id="cookstep_curry2" name="dodać kokosa" />
+		<text id="cookstep_duckalorange1" name="faszerować  kaczkę" />
+		<text id="cookstep_duckalorange2" name="upiec  kaczkę" />
+		<text id="cookstep_easterdish1" name="roztopić czekoladę" />
+		<text id="cookstep_easterdish2" name="gotować jajka" />
+		<text id="cookstep_englishbreakfast1" name="gotować fasolę" />
+		<text id="cookstep_englishbreakfast2" name="smażyć kiełbaski" />
+		<text id="cookstep_fishandchips1" name="smażyć" />
+		<text id="cookstep_fishandchips2" name="rozgnieść groch" />
+		<text id="cookstep_friedpotatoes1" name="gotować kartofle" />
+		<text id="cookstep_friedpotatoes2" name="usmażyć  kartofle" />
+		<text id="cookstep_fruitpudding1" name="Odstawić ciasto" />
+		<text id="cookstep_fruitpudding2" name="Piec" />
+		<text id="cookstep_fruitsalad1" name="pokroić owoce" />
+		<text id="cookstep_fruitsalad2" name="zmieszać dressing" />
+		<text id="cookstep_greensalad1" name="pomieszać  dressing" />
+		<text id="cookstep_greensalad2" name="odstawić salatkę" />
+		<text id="cookstep_gumbo1" name="dusić składniki" />
+		<text id="cookstep_gumbo2" name="wycisnąć ryż" />
+		<text id="cookstep_hamburger1" name="przypiec  burgera" />
+		<text id="cookstep_hamburger2" name="przyrządzić burgera" />
+		<text id="cookstep_hotcherrywaffles1" name="gotować wiśnie" />
+		<text id="cookstep_hotcherrywaffles2" name="smażyć gofra" />
+		<text id="cookstep_jamspongepudding1" name="zmieszać składniki" />
+		<text id="cookstep_jamspongepudding2" name="piec" />
+		<text id="cookstep_lasagne1" name="przypiec mięso mielone" />
+		<text id="cookstep_lasagne2" name="upiec lasagne" />
+		<text id="cookstep_macncheese1" name="wypełnić naczynie do zapiekanek" />
+		<text id="cookstep_macncheese2" name="piec" />
+		<text id="cookstep_maplepancakes1" name="wymieszać ciasto" />
+		<text id="cookstep_maplepancakes2" name="smażyć naleśniki" />
+		<text id="cookstep_marblecake1" name="wypełnić brytfankę" />
+		<text id="cookstep_marblecake2" name="piec" />
+		<text id="cookstep_mexicansalad1" name="gotować fasolę" />
+		<text id="cookstep_mexicansalad2" name="wymieszać  składniki" />
+		<text id="cookstep_minestrone1" name="dusić  warzywa" />
+		<text id="cookstep_minestrone2" name="dodać  makaron" />
+		<text id="cookstep_mixedsalad1" name="pomieszać dressing" />
+		<text id="cookstep_mixedsalad2" name="odstawć sałatkę" />
+		<text id="cookstep_nasigoreng1" name="przygotować kurę" />
+		<text id="cookstep_nasigoreng2" name="dusić  warzywa" />
+		<text id="cookstep_newyorkcheesecake1" name="wymieszać  farsz" />
+		<text id="cookstep_newyorkcheesecake2" name="piec ciasto" />
+		<text id="cookstep_noodlesalad1" name="pomieszać majonez" />
+		<text id="cookstep_noodlesalad2" name="pomieszać składniki" />
+		<text id="cookstep_omelette1" name="doprawić jajka" />
+		<text id="cookstep_omelette2" name="ubić jajka" />
+		<text id="cookstep_onionsoup1" name="dusić cebulę" />
+		<text id="cookstep_onionsoup2" name="zapiec ser" />
+		<text id="cookstep_peasoup1" name="dusić cebulę" />
+		<text id="cookstep_peasoup2" name="gotować  zupę" />
+		<text id="cookstep_pizza1" name="dodać składniki do pizzy" />
+		<text id="cookstep_pizza2" name="piec pizze" />
+		<text id="cookstep_pizzahawaii1" name="połączyć składniki" />
+		<text id="cookstep_pizzahawaii2" name="upiec pizze" />
+		<text id="cookstep_pizzatonno1" name="połączyć składniki" />
+		<text id="cookstep_pizzatonno2" name="upiec pizze" />
+		<text id="cookstep_porkroastwithcrackling1" name="przyprawić mięso" />
+		<text id="cookstep_porkroastwithcrackling2" name="piec" />
+		<text id="cookstep_potatosalad1" name="gotować kartofle" />
+		<text id="cookstep_potatosalad2" name="pomieszać majonez" />
+		<text id="cookstep_redberrycompote1" name="kandyzować owoce" />
+		<text id="cookstep_redberrycompote2" name="dosłodzić" />
+		<text id="cookstep_ricepudding1" name="gotować ryż na mleku" />
+		<text id="cookstep_ricepudding2" name="gotować  mus jabłkowy" />
+		<text id="cookstep_roastchicken1" name="wypełnić kurę" />
+		<text id="cookstep_roastchicken2" name="piec" />
+		<text id="cookstep_sandwich1" name="posmarować chleb" />
+		<text id="cookstep_sandwich2" name="połączyć składniki" />
+		<text id="cookstep_scouse1" name="gotować mięso" />
+		<text id="cookstep_scouse2" name="dodać  buraka ćwikłowego" />
+		<text id="cookstep_spagetti1" name="przypiec mięso mielone" />
+		<text id="cookstep_spagetti2" name="gotować sos" />
+		<text id="cookstep_spareribs1" name="marynować mięso" />
+		<text id="cookstep_spareribs2" name="przypiec mięso" />
+		<text id="cookstep_steak1" name="przysmażyć mięso" />
+		<text id="cookstep_steak2" name="przyrządźić  sałatkę" />
+		<text id="cookstep_steakkidneypie1" name="gotować farsz" />
+		<text id="cookstep_steakkidneypie2" name="gotować" />
+		<text id="cookstep_stew1" name="przypiec mięso" />
+		<text id="cookstep_stew2" name="dusić" />
+		<text id="cookstep_stewedrhubarb1" name="gotować rabarbar" />
+		<text id="cookstep_stewedrhubarb2" name="zostaw aby ostudzić" />
+		<text id="cookstep_strawberrycake1" name="piec" />
+		<text id="cookstep_strawberrycake2" name="pomieszać składniki" />
+		<text id="cookstep_strawberrymousse1" name="zmiksuj truskawki" />
+		<text id="cookstep_strawberrymousse2" name="spienić mus" />
+		<text id="cookstep_stuffedpeppers1" name="wypełnić paprykę" />
+		<text id="cookstep_stuffedpeppers2" name="upiec paprykę" />
+		<text id="cookstep_sundayfeast1" name="marynować mięso" />
+		<text id="cookstep_sundayfeast2" name="przypiec mięso" />
+		<text id="cookstep_sushi1" name="rozdzielić składniki" />
+		<text id="cookstep_sushi2" name="zwijać" />
+		<text id="cookstep_toadinhole1" name="wymieszać ciasto" />
+		<text id="cookstep_toadinhole2" name="piec" />
+		<text id="cookstep_toast1" name="pokryć toasta" />
+		<text id="cookstep_toast2" name="przypiec  toasta" />
+		<text id="cookstep_tofuburger1" name="usmażyć tofuburgera" />
+		<text id="cookstep_tofuburger2" name="połączyć składniki" />
+		<text id="cookstep_tomatosoup1" name="przypiec cebulę" />
+		<text id="cookstep_tomatosoup2" name="gotować pomidory" />
+		<text id="cookstep_trifle1" name="ugotować pudding" />
+		<text id="cookstep_trifle2" name="układać  przekładaniec" />
+		<text id="cookstep_veganstirfry1" name="dusić warzywa" />
+		<text id="cookstep_veganstirfry2" name="gotować ryż" />
+		<text id="cookstep_vegetablesoup1" name="przypiec cebulę" />
+		<text id="cookstep_vegetablesoup2" name="gotować  zupę" />
+		<text id="cookstep_veggiecurry1" name="gotować ryż" />
+		<text id="cookstep_veggiecurry2" name="dusić  curry" />
+		<text id="cookstep_veggielasagne1" name="ułożyc lasagne" />
+		<text id="cookstep_veggielasagne2" name="piec lasagne" />
+		<text id="cookstep_whitechoccheesecake1" name="pomieszać składniki" />
+		<text id="cookstep_whitechoccheesecake2" name="piec ciasto" />
+		<text id="cookstep_whitechocmousse1" name="rozpuścić czekoladę" />
+		<text id="cookstep_whitechocmousse2" name="schłodzić mus" />
+		<text id="cookstep_coxinha1" name="Mixing ingredients" />
+		<text id="cookstep_coxinha2" name="Frying coxinhas" />
+	</cookstep>
+	<coopmission>
+		<text id="coop_desc_long_1" name="Organizujemy kurs gotowania abyś mógł udoskonalić potrawę. Chcesz wziąć udział?" />
+		<text id="coop_desc_long_10" name="Twoja rodzina przyjeżdża w odwiedziny, a Ty masz honorowe zadanie - musisz przygotować świąteczne potrawy. Smacznego!" />
+		<text id="coop_desc_long_11" name="Planowana jest bitwa na ciastka i potrzebujemy ciastek! upiecz tak dużo ciastek jak możesz..." />
+		<text id="coop_desc_long_12" name="Miejska stołówka potrzebuje dużej ilości zup. Czy możesz zgotować kilka takich,które wszyscy lubią?" />
+		<text id="coop_desc_long_13" name="Do prawdziwej azjatyckiej imprezy potrzebujemy kilka potraw typowych dla tej kuchni. Czy masz jakieś przepisy na ten wieczór?" />
+		<text id="coop_desc_long_14" name="Międzynarodowa konferencja budowniczych wkrótce się zacznie a my potrzebujemy ciężkich potraw. Czy masz coś gotowego dla prawdziwych mężczyzn?" />
+		<text id="coop_desc_long_15" name="Goście z Londynu przyjeżdżają wkrótce i chcą zjeść potrawę z ich rodzimej kuchni. Możesz coś przygotować?" />
+		<text id="coop_desc_long_2" name="Planuje urządzić przyjęcie w mesykańskim stylu i potrzebuje odpowiedniego jedzenia. Możesz mi pomóc?" />
+		<text id="coop_desc_long_3" name="Przyjeżdżają do mnie sportowcy z Hamburga i chciałbym aby się poczuli jak u siebie w domu. Potrzebuje kogoś kto potrafi gotować pawdziwe potrawy  z Hamburga. Chcesz mi pomóc?" />
+		<text id="coop_desc_long_4" name="Organizuje wielką imprezę w ogrodzie i potrzebuje dużo jedzenia aby moi goście byli zadowoleni. Słyszałem, że jesteś mistrzem cateringu więc jak pomożesz mi?" />
+		<text id="coop_desc_long_5" name="Park narciarski organizuje Aprés Ski Party i potrzebuje dużo pyszności. Może pomożesz?" />
+		<text id="coop_desc_long_6" name="Mój szef wpadnie do mnie na kolację i chce zrobić na nim wrażenie 4 daniowym menu...Czy mógłbyś mi pomóc?" />
+		<text id="coop_desc_long_7" name="W szkolnej kuchni wybuchł pożar i dzieci nie mają co jeść! Możesz nam pomóc i przygotować smaczne potrawy?" />
+		<text id="coop_desc_long_8" name="Mój najlepszy przyjaciel świętuje urodziny i zapomniał o przygotowaniu jedzenia. Przyjdzie wielu ludzi, którzy na pewno bedą głodni...Możesz nam pomóc?" />
+		<text id="coop_desc_long_9" name="Wiejski festiwal z włoskim motto czeka. Jedyną rzeczą jakiej brakuje jest jedzenie.Jak to jest z Twoimi kulinarnymi zdolnościami?" />
+		<text id="coop_desc_short_1" name="Zostań mistrzem spaghetti bolognese!" />
+		<text id="coop_desc_short_10" name="Najedz się do syta!" />
+		<text id="coop_desc_short_11" name="Liczy się każdy hit!" />
+		<text id="coop_desc_short_12" name="Nie ma to jak zupa!" />
+		<text id="coop_desc_short_13" name="Zawsze dodaj trochę ryżu!" />
+		<text id="coop_desc_short_14" name="Mięso i ziemniaki to to co lubimy!" />
+		<text id="coop_desc_short_15" name="Wszystko dla Brytyjczyków!" />
+		<text id="coop_desc_short_2" name="Fiesta Maxiicana" />
+		<text id="coop_desc_short_3" name="Labskaus dla gości z Hamburga!" />
+		<text id="coop_desc_short_4" name="Toast Hawaii na imprezę w ogrodzie" />
+		<text id="coop_desc_short_5" name="Z czekoladą na szczyt sera!" />
+		<text id="coop_desc_short_6" name="Wykwintny mousse au chocolat!" />
+		<text id="coop_desc_short_7" name="Przez żołądek do wykształcenia!" />
+		<text id="coop_desc_short_8" name="Upiecz pizze i co. na imprezę urodzinową" />
+		<text id="coop_desc_short_9" name="Pizza! Pasta! Basta!" />
+		<text id="coop_title_1" name="KURS GOTOWANIA" />
+		<text id="coop_title_10" name="IDĄ ŚWIĘTA!" />
+		<text id="coop_title_11" name="BITWA NA CIASTKA!" />
+		<text id="coop_title_12" name="MARATON Z ZUPAMI" />
+		<text id="coop_title_13" name="TYLKO AZJA" />
+		<text id="coop_title_14" name="KONKRETNE POTRAWY!" />
+		<text id="coop_title_15" name="BRYTYJSKO!" />
+		<text id="coop_title_2" name="MEKSYKAŃSKI WIECZÓR" />
+		<text id="coop_title_3" name="HANZEATYCKI WIECZÓR" />
+		<text id="coop_title_4" name="IMPREZA OGRODOWA" />
+		<text id="coop_title_5" name="APRÉS SKI" />
+		<text id="coop_title_6" name="OBIADOWA IMPREZA" />
+		<text id="coop_title_7" name="NIEZWYKŁE JEDZENIE SZKOLNE" />
+		<text id="coop_title_8" name="IMPREZA URODZINOWA" />
+		<text id="coop_title_9" name="WŁOSKI BUFET" />
+	</coopmission>
+	<dialogs>
+		<text id="dialogwin_achievement_title" name="Odznaczenia" />
+		<text id="dialogwin_avatarcreate_man" />
+		<text id="dialogwin_avatarcreate_random" name="Zmień wygląd" />
+		<text id="dialogwin_avatarcreate_txt_avatar_name" name="Imię:" />
+		<text id="dialogwin_avatarcreate_txt_avatar_title" name="Stwórz postać" />
+		<text id="dialogwin_avatarcreate_woman" />
+		<text id="dialogwin_avatarnameselect_copy" name="Nazwa jest juz zajęta. Propozycje:" />
+		<text id="dialogwin_avatarnameselect_title" name="Ups!" />
+		<text id="dialogwin_avatar_btn_random" name="Losowo" />
+		<text id="dialogwin_bonus_copy_achievement" name="Poziom {0}  tego odznaczenia został osiągnięty! Gratulacje!" />
+		<text id="dialogwin_bonus_copy_counter" name="Możesz kupić teraz kolejny blat." />
+		<text id="dialogwin_bonus_copy_dish" name="Nowe przepisy zostały dla Ciebie udostępnione:" />
+		<text id="dialogwin_bonus_copy_expand" name="Ekspandowałeś! Teraz masz zarówno więcej miejsca dla Twoich gości jak i więcej dekoracji!" />
+		<text id="dialogwin_bonus_copy_fridge" name="Możesz kupić tylko jedną lodówkę." />
+		<text id="dialogwin_bonus_copy_instant" name="Jeszcze raz gotuj szybko. Kliknij ray i jedzenie jest gotowe do serwowania." />
+		<text id="dialogwin_bonus_copy_level2" name="Zobacz! Możesz poszerzyć café  aby mieć więcej miejsca dla Twoich gości!" />
+		<text id="dialogwin_bonus_copy_login" name="To się zmienilo w Twojej kawiarni kiedy Ciebie nie bylo:" />
+		<text id="dialogwin_bonus_copy_newwaiter" name="Masz jednego współpracownika w Café! Goście mogą przychodzić!" />
+		<text id="dialogwin_bonus_copy_stove" name="Mozesz kupić tylko nową kuchenkę." />
+		<text id="dialogwin_bonus_copy_waiter" name="Możesz zatrudnić nowego kelnera." />
+		<text id="dialogwin_bonus_title_achievement" name="Nowe odznaczenie" />
+		<text id="dialogwin_bonus_title_counter" name="Nowy blat" />
+		<text id="dialogwin_bonus_title_dish" name="Nowe przepisy" />
+		<text id="dialogwin_bonus_title_expand" name="Hurra!" />
+		<text id="dialogwin_bonus_title_fridge" name="Nowa lodówka" />
+		<text id="dialogwin_bonus_title_instant" name="Częstsze Instantcooking" />
+		<text id="dialogwin_bonus_title_level2" name="Poszerzaj!" />
+		<text id="dialogwin_bonus_title_login" name="Znowu tutaj!" />
+		<text id="dialogwin_bonus_title_newwaiter" name="Gratulacje" />
+		<text id="dialogwin_bonus_title_stove" name="Nowa kuchenka" />
+		<text id="dialogwin_bonus_title_waiter" name="Więcej personelu" />
+		<text id="dialogwin_buytile_copy" name="Chcesz kupić {0} kafelek za {1}?" />
+		<text id="dialogwin_buytile_title" name="Kup kafelki?" />
+		<text id="dialogwin_changepassword_copy_newpass" name="Nowe hasło:" />
+		<text id="dialogwin_changepassword_copy_oldpass" name="Stare hasło:" />
+		<text id="dialogwin_changepassword_title" name="Zmień hasło" />
+		<text id="dialogwin_clearcounter_cancelButton" name="Zatrzymaj" />
+		<text id="dialogwin_clearcounter_okButton" name="Wyrzuć" />
+		<text id="dialogwin_clearcounter_title" name="Z tego blatu zostanie podana potrawa. Co chcesz z tym zrobić?" />
+		<text id="dialogwin_clearstove_btn_cancel" name="Zatrzymaj" />
+		<text id="dialogwin_clearstove_btn_ok" name="Wyrzuć" />
+		<text id="dialogwin_clearstove_copy" name="Masz jeszcze dostępną {0} razy opcję &apos;gotowania ekspresowego&apos;." />
+		<text id="dialogwin_clearstove_title" name="Na tej kuchence bedzie gotowana potrawa. Co chcesz z tym zrobić?" />
+		<text id="dialogwin_cookbook_income" name="{0} za porcję" />
+		<text id="dialogwin_cookbook_readyin" name="Gotowe za: {0}" />
+		<text id="dialogwin_cookbook_servings" name="Porcji: {0}" />
+		<text id="dialogwin_coopextend_nomoney" name="Nie masz wystarczająco dużo złota aby przedłużyć Co-Op!" />
+		<text id="dialogwin_coopreward_finish_0" name="Złoto" />
+		<text id="dialogwin_coopreward_finish_1" name="Srebro" />
+		<text id="dialogwin_coopreward_finish_2" name="Brąz" />
+		<text id="dialogwin_coopreward_title_fail" name="Niepowodzenie!" />
+		<text id="dialogwin_coopreward_title_success" name="Wykonane misje coop {0}" />
+		<text id="dialogwin_coopshelp_copy" name="Tutaj możesz razem z Twoimi przyjaciółmi wykonywać zadania kucharskie i zarabiać ekstra XP i café dolary.\nIm szybciej zadanie zostanie wykonane tym większe jest wynagrodzenie!\n\nJeśli zabraknie Ci czasu zawsze możesz go przedłużyć!\n\nAle pamiętaj zapłatę otrzymasz tylko wtedy, gdy dołożysz coś od siebie!" />
+		<text id="dialogwin_coopshelp_title" name="Czym są Co-Ops?" />
+		<text id="dialogwin_coop_btn_action" name="Detale" />
+		<text id="dialogwin_coop_btn_activecoops" name="AKTYWNE" />
+		<text id="dialogwin_coop_btn_join" name="Weź udział" />
+		<text id="dialogwin_coop_btn_newcoop" name="CO-OP START" />
+		<text id="dialogwin_coop_btn_quit" name="Zakończ" />
+		<text id="dialogwin_coop_extendtime_copy" name="Czy chcesz wydłużyć Co-Opsa za {0} złota? Złoty czas: {1} godzin Srebrny czas: {2} godzin Brązowy czas: {3} godzin" />
+		<text id="dialogwin_coop_extendtime_title" name="Więcej czasu?" />
+		<text id="dialogwin_coop_maxdone" name="Już dzisiaj zacząłeś Co-Op! Dopiero jutro możesz rozpocząć nową!" />
+		<text id="dialogwin_coop_maxuser" name="Maksymalna liczba uczestników: {0}" />
+		<text id="dialogwin_coop_member" name="Uczestnicy Co-Op:" />
+		<text id="dialogwin_coop_minlevel" name="Min. poziom uczestników: {0}" />
+		<text id="dialogwin_coop_quit_copy" name="Czy na pewno chcesz opuścić te Co-Op?" />
+		<text id="dialogwin_coop_subtitle" name="Musicie to gotować:" />
+		<text id="dialogwin_coop_timeInfo" name="Wykonane za:" />
+		<text id="dialogwin_coop_timeleft" name="Pozostały czas:" />
+		<text id="dialogwin_coop_txt_noactive" name="Chwilowo nie masz żadnych aktywnych Co-Ops.\nPo prostu zacznij jakąś!" />
+		<text id="dialogwin_coop_txt_title" name="CO-OPS" />
+		<text id="dialogwin_decoshophelp_copy" name="Kiedy przeciągniesz swoje meble lub dekoracje na listwę a NIE na kasę to zostaną one zmagazynowane.\nKiedy będziesz chciał umieścić je od nowa w swojej  Café nię będziesz musiał za to płacić\nLiczbę każdego przedmiotu zobaczysz na czerwonej naklejce." />
+		<text id="dialogwin_decoshophelp_copy_1" name="Meble i dekoracje mają odpowiedni poziom luksusu, który oczywiście wpływa na luksusowość twojej restauracji. Jak luksusowa jest Twoja Café?" />
+		<text id="dialogwin_decoshophelp_title" name="Magazynować meble/dekoracje?" />
+		<text id="dialogwin_decoshophelp_title_1" name="Poziom Luksusu?" />
+		<text id="dialogwin_dishmastery_copy_0" name="Właśnie zarobiłeś gwiazdkę za {0}!" />
+		<text id="dialogwin_dishmastery_copy_1" name="Daj swoim przyjaciołom kilka porcji!" />
+		<text id="dialogwin_dishmastery_info" name="Każda gwiazdka sprawia, że Twoje potrawy są lepsze!" />
+		<text id="dialogwin_dishmastery_title" name="Nowa gwiazdka!" />
+		<text id="dialogwin_fancycooking_title" name="Czy chcesz doprawić potrawę {0}?" />
+		<text id="dialogwin_featureUnlocked_coop" name="Wraz z przyjaciółmi zacznij Co-Op!" />
+		<text id="dialogwin_featureUnlocked_decoration" name="Nowe dekoracje zostały dla Ciebie udostępnione!" />
+		<text id="dialogwin_featureUnlocked_fancy" name="Nadaj potrawom wyjątkowy smak dzięki fantazyjnym składnikom!" />
+		<text id="dialogwin_featureUnlocked_frosty" name="Odkryj frosty i zaspokój głód Twoich gości!" />
+		<text id="dialogwin_featureUnlocked_marketplace" name="Znajdź nowych przyjaciół na rynku!" />
+		<text id="dialogwin_featureUnlocked_muffinman" name="Sprawdź swoje szczęście w grze Muffin Man!" />
+		<text id="dialogwin_featureUnlocked_ranking" name="Odwiedzaj innych graczy przez ranking!" />
+		<text id="dialogwin_featureUnlocked_staff" name="Zatrudnij nowego kelnera aby móc obsługiwać więcej gości!" />
+		<text id="dialogwin_featureUnlocked_wheeloffortune" name="Sprawdź swoje szczęście w Kole Fortuny!" />
+		<text id="dialogwin_FriendShop_copy" name="Potrzebujesz jescze {0} przyjaciół, którzy pomoga Ci przy rozbudowie café!\\nMożesz zatrudnić robotnika za {1}  złota!" />
+		<text id="dialogwin_FriendShop_title" name="Nowi przyjaciele" />
+		<text id="dialogwin_giftbox_close" name="Zamknij" />
+		<text id="dialogwin_giftbox_friendlist_empty" name="Możesz tylko raz dziennie wysłać prezent każdemu przyjacielowi." />
+		<text id="dialogwin_giftbox_friendlist_notavailable" name="Od jutra możesz wysłać prezenty do swoich przyjaciół!" />
+		<text id="dialogwin_giftbox_ggsgifts_empty" name="Żadnych prezentów! Z login bonusem otrzymasz nowe prezenty!" />
+		<text id="dialogwin_giftbox_mygifts_empty" name="Nie otrzymałeś żadnego prezentu. Wyślij coś swoim przyjaciołom, może odeślą Ci coś w zamian." />
+		<text id="dialogwin_giftbox_remove" name="oddaj" />
+		<text id="dialogwin_giftbox_send" name="sprezentuj" />
+		<text id="dialogwin_giftbox_sendablegifts_empty" name="Dzisiaj niestety nie ma prezentów" />
+		<text id="dialogwin_giftbox_title" name="Prezenty!" />
+		<text id="dialogwin_giftbox_use" name="użyj" />
+		<text id="dialogwin_highscore_luxury" name="Luksus" />
+		<text id="dialogwin_highscore_name" name="Imię" />
+		<text id="dialogwin_highscore_rank" name="Ranga" />
+		<text id="dialogwin_highscore_searchtext" name="Imię/Ranga szukaj" />
+		<text id="dialogwin_highscore_title" name="Ranking" />
+		<text id="dialogwin_ingamehelp_1_1" name="Jak ugotować potrawę?" />
+		<text id="dialogwin_ingamehelp_1_2" name="Na kuchenkach przygotujesz potrawy dla Twoich gości. Najpierw musisz jednak wybrać przepis i go przygotować klikając kilka razy na kuchenkę." />
+		<text id="dialogwin_ingamehelp_1_3" name="W książce kucharskiej znajdziesz podgląd na wszystkie przepisy i składniki potrzebne do przygotowania potrawy." />
+		<text id="dialogwin_ingamehelp_1_4" name="Składniki potrzebne do przygotowania potrawy znajdziesz w sklepie." />
+		<text id="dialogwin_ingamehelp_1_5" name="Kiedy masz wszystkie składniki kliknij na przycisk gotuj i przygotuj potrawę." />
+		<text id="dialogwin_ingamehelp_1_6" name="Potrawa jest gotowa w określonym czasie. Aby została podana gościom musisz położyć ją na blacie." />
+		<text id="dialogwin_ingamehelp_1_7" name="Każda kuchenka po użyciu jest zabrudzona i musi być wyczyszczona przed kolejnym użyciem." />
+		<text id="dialogwin_ingamehelp_2_1" name="Co muszę wiedzieć o składnikach?" />
+		<text id="dialogwin_ingamehelp_2_2" name="Tutaj składujesz kupione składniki. Każda lodówka może pomieścić ograniczoną ilość produktów. Zawsze jednak dobrze jest mieć zapas." />
+		<text id="dialogwin_ingamehelp_2_3" name="Fantazyjne dodatki nadadzą smaku Twoim potrawom. Jeśli je użyjesz otrzymasz więcej porcji i punktów XP. Nie zabierają one miejsca w Twojej lodówce." />
+		<text id="dialogwin_ingamehelp_2_4" name="Niektóre składniki są od czasu do czasu niedostępne. Kurier za niewielkie wynagrodzenie dostarczy Ci wszystko." />
+		<text id="dialogwin_ingamehelp_2_5" name="Te składniki są zawsze dostępne:" />
+		<text id="dialogwin_ingamehelp_3_1" name="Wartości i sp." />
+		<text id="dialogwin_ingamehelp_3_2" name="Dostajesz punkty doświadczenia za podawanie posiłków. Możesz także być kelnerem w innych Café, ukończyć Co-Opsa, otrzymać odznaczenie lub podawać drinki." />
+		<text id="dialogwin_ingamehelp_3_3" name="Jeśli masz wysoką popularność to więcej gości będzie Cię odwiedzać. Popularność wzrasta kiedy Twoi goście opuszczają Cafe zadowoleni, może ona także zmaleć jeśli gości będą niezadowoleni. Goście są usatysfakcjonowani kiedy dostaną coś do jedzenia." />
+		<text id="dialogwin_ingamehelp_3_4" name="Café dolary zarabiasz sprzedając potrawy. Możesz także pracować jako kelner, wykonać Co-Opsa lub otrzymać odznaczenie." />
+		<text id="dialogwin_ingamehelp_3_5" name="Każda rzecz w menu przebudowy ma określony poziom luksusu. To ma wielki wpływ na popularność. Im bardziej  luksusowy tym lepszy..." />
+		<text id="dialogwin_ingamehelp_3_6" name="Kuchenki, blaty, stoły i inne narzędzia znajdziesz w menu przebudowy. Bądź kreatywny!" />
+		<text id="dialogwin_ingamehelp_3_7" name="Jeśli Twoja Cafe jest za mała zawsze możesz ją powiększyć i zrobić więcej miejsca dla gości." />
+		<text id="dialogwin_ingamehelp_4_1" name="Co jeszcze muszę wiedzieć?" />
+		<text id="dialogwin_ingamehelp_4_2" name="Na rynku możesz poznać innych graczy, poszukać pracy lub czatować z innymi graczami." />
+		<text id="dialogwin_ingamehelp_4_3" name="Dostaniesz odznaczenia za wszystkie działania, są one także źródłem XP i Café dolarów." />
+		<text id="dialogwin_ingamehelp_4_4" name="Używając rynku możesz zatrudnić się u kogoś jako kelner lub zatrudnić innego gacza w Twojej Cafe." />
+		<text id="dialogwin_ingamehelp_4_5" name="Co-Ops to wspólny projekt kulinarny, gdzie gotujesz z innymi graczami. Jeśli zakończy się sukcesem dostaniesz nagrodę!" />
+		<text id="dialogwin_ingamehelp_4_6" name="Ten kelner podaje gościom przygotowane przez Ciebie potrawy i sprząta brudne talerze ze stołów." />
+		<text id="dialogwin_ingamehelp_4_7" name="Ugotowane potrawy zepsują się gdy nie zostaną położone szybko na blat." />
+		<text id="dialogwin_ingamehelp_ingredients" name="Składniki" />
+		<text id="dialogwin_ingredient_all" name="Wszystko" />
+		<text id="dialogwin_ingredient_emptyfridge" name="Twoja lodówka jest pusta, szkoda! Aby móc ugotowac coś nowego musisz kupić składniki w sklepie." />
+		<text id="dialogwin_ingredient_fancy" name="Specjalne składniki" />
+		<text id="dialogwin_ingredient_fruits" name="Owoce" />
+		<text id="dialogwin_ingredient_instore" name="x magazyn" />
+		<text id="dialogwin_ingredient_meat" name="Mięso" />
+		<text id="dialogwin_ingredient_notinstock" name="Dzisiaj go nie ma !" />
+		<text id="dialogwin_ingredient_shoplayer" name="Sklep" />
+		<text id="dialogwin_ingredient_storecapacity" name="Pojemność:" />
+		<text id="dialogwin_ingredient_storeinused" name="W lodówce:" />
+		<text id="dialogwin_ingredient_storelayer" name="Lodówka" />
+		<text id="dialogwin_ingredient_vegatable" name="Wegetariański" />
+		<text id="dialogwin_instantcooking_copy" name="Czy chcesz gotować ekspresowo? Możliwe jeszcze {0} razy!" />
+		<text id="dialogwin_instantcooking_title" name="Czy chcesz\n&apos;gotować ekspresowo&apos;?" />
+		<text id="dialogwin_jobpaycheck_copy" name="Pracowici kelnerzy zostana nagrodzeni! Oprócz napiwków możesz zbierać doświadczenie." />
+		<text id="dialogwin_jobpaycheck_title" name="Rozliczenie" />
+		<text id="dialogwin_levelup_copy" name="Osiągnąłeś poziom {0}!" />
+		<text id="dialogwin_levelup_copy_1" name="Twoja nagroda" />
+		<text id="dialogwin_levelup_copy_2" name="Zostały dla Ciebie odblokowane:" />
+		<text id="dialogwin_levelup_title" name="LEVEL UP" />
+		<text id="dialogwin_lonelyingredient_copy" name="Twój kelner znalazł skrzynię z tajemniczymi składnikami!\n\nDaj ją swoim przyjaciołom" />
+		<text id="dialogwin_lonelyingredient_title" name="Niespodzianka!" />
+		<text id="dialogwin_lonelytip_copy" name="Twój gość dał Ci wielki napiwek! Podziel się ze swoimi przyjaciółmi!" />
+		<text id="dialogwin_lonelytip_title" name="Hurra!" />
+		<text id="dialogwin_muffinman_beforebet" name="Wybierz stawkę. Jeśli wygrasz dostaniesz podwójną stawkę!" />
+		<text id="dialogwin_muffinman_btn_again" name="Jeszcze raz!" />
+		<text id="dialogwin_muffinman_btn_go" name="Start!" />
+		<text id="dialogwin_muffinman_header" name="Znajdź nadzienie!" />
+		<text id="dialogwin_muffinman_lostbet" name="Ooo nikt nie wygrywa cały czas. Może chcesz zagrać jeszcze raz?" />
+		<text id="dialogwin_muffinman_nomoney" name="Nie masz wystarczająco dużo cafédollarów/złota na ten zakład!" />
+		<text id="dialogwin_muffinman_nopayment" name="Jeśli chcesz zagrać za złoto musisz mieć przynajmniej poziom 10!" />
+		<text id="dialogwin_muffinman_noregister" name="Tylko jako zarejestrowany gracz możesz zagrać w &quot;znajdź nadzienie&quot;" />
+		<text id="dialogwin_muffinman_nosale" name="Nie możesz sprzedać piekarza muffinów!" />
+		<text id="dialogwin_muffinman_onlyonebuy" name="Możesz umieścić tylko jednego piekarza muffinów w café!" />
+		<text id="dialogwin_muffinman_placedbet" name="Bardzo dobrze! W którym muffinie kryje się nadzienie?" />
+		<text id="dialogwin_muffinman_toohighbet" name="Nie możesz zakładać się o tyle! Twoja max stawka to {0} złota i {1} café dolarów!" />
+		<text id="dialogwin_muffinman_wonbet" name="Tak! Znalazłeś nadzienie! Spróbuj jeszcze raz" />
+		<text id="dialogwin_nomoney_avatarchange" name="Nie masz wystarczająco dużo pieniędzy aby zmienić ubiór!" />
+		<text id="dialogwin_nomoney_clean_copy" name="Nie masz wystarczajaco dużo cafédolarów aby umyć tą kuchenkę." />
+		<text id="dialogwin_nomoney_copy" name="Ups, nie masz wystarczajaco dużo cafédolarów/złota aby kupić ten artykuł!" />
+		<text id="dialogwin_nomoney_courier" name="NIe masz wystarczająco dużo cafédolarów/złota  aby zapłacić za kuriera!" />
+		<text id="dialogwin_nomoney_instantcook_copy" name="NIe masz wystarczająco dużo złota aby &apos;gotować ekspresowo&apos;." />
+		<text id="dialogwin_nomoney_moregold" name="Kup cafédolary/złoto" />
+		<text id="dialogwin_nomoney_npchire" name="Nie masz wystarczająco dużo złota aby zatrudnić tego kelnera!" />
+		<text id="dialogwin_nomoney_ok" name="Ok" />
+		<text id="dialogwin_nomoney_title" name="Nie wystarczająco dużo cafedolarów/złota" />
+		<text id="dialogwin_noreward_copy" name="Inny gracz dostał nagrodę przed Tobą!" />
+		<text id="dialogwin_noreward_title" name="Szkoda!" />
+		<text id="dialogwin_perfectdish_copy" name="Dzisiaj ugotowałeś perfekcyjnie {0}!\nDaj swoim przyjaciołom kilka porcji!" />
+		<text id="dialogwin_perfectdish_title" name="Perfekt!" />
+		<text id="dialogwin_presentreceived_copy" name="Prezent powitalny w wysokości {0} złota został dopisany do Twojego konta." />
+		<text id="dialogwin_presentreceived_title" name="otrzymany prezent !" />
+		<text id="dialogwin_presentreminder_btn_send" name="Wyślij" />
+		<text id="dialogwin_presentreminder_copy1" name="Kliknij na link ze złotem w e-mailu i zbierz {0} złota!" />
+		<text id="dialogwin_presentreminder_copy2" name="Tak, wyślij teraz {0} złota na mój adres e-mail:" />
+		<text id="dialogwin_presentreminder_title" name="{0} złota dla Ciebie!" />
+		<text id="dialogwin_receiveitem_copy" name="Twoja nagroda jest w skrzynce na nagrody!" />
+		<text id="dialogwin_receiveitem_title" name="Hurra!" />
+		<text id="dialogwin_receivemoney_copy" name="Twoje wynagrodzenie zostało dopisane!" />
+		<text id="dialogwin_receivemoney_title" name="Powodzenia!" />
+		<text id="dialogwin_refreshfood_btn_clean" name="Czyścić" />
+		<text id="dialogwin_refreshfood_btn_refresh" name="Uratuj jedzenie" />
+		<text id="dialogwin_refreshfood_title" name="Chcesz twoje jedzenie ratować?" />
+		<text id="dialogwin_register_agbs" name="Akceptuj regulamin" />
+		<text id="dialogwin_register_mail" name="E-Mail" />
+		<text id="dialogwin_register_password" name="Hasło" />
+		<text id="dialogwin_register_title" name="Rejestracja" />
+		<text id="dialogwin_sendgift_send" name="sprezentuj" />
+		<text id="dialogwin_sendgift_titel" name="Podaruj..." />
+		<text id="dialogwin_settings_email" name="Zablokuj odbiór e-maili" />
+		<text id="dialogwin_settings_general" name="Ogólny" />
+		<text id="dialogwin_settings_high" name="Wysoka" />
+		<text id="dialogwin_settings_low" name="Słaba" />
+		<text id="dialogwin_settings_medium" name="Średnia" />
+		<text id="dialogwin_settings_quality" name="Jakość" />
+		<text id="dialogwin_shippingconfirmation_copy1" name="Kliknij na link w e-mailu aby otrzymać złoto." />
+		<text id="dialogwin_shippingconfirmation_copy2" name="Nie dostałeś e-maila? Może to potrwać kilka minut. Sprawdź skrzynkę spam, jeśli tam nie znajdziesz wiadomości to na pewno pomoże Ci nasz support." />
+		<text id="dialogwin_shippingconfirmation_title" name="E-mail ze złotem w drodze!" />
+		<text id="dialogwin_smoothiemakerhelp_copy" name="Tutaj możesz miksować napoje i serwować je swoim gościom. Wybierz napój i kliknij na &quot;miksuj&quot;.   Aby zaserwować napój musisz kliknąć na &quot;spragnionego&quot; gościa zanim zajmie miejsce. &quot;Spragnionych&quot; gości rozpoznasz po ikonach znajdujących się nad ich głowami." />
+		<text id="dialogwin_smoothiemakerhelp_title" name="Jak sprzedawać napoje?" />
+		<text id="dialogwin_smoothiemaker_allserved_copy" name="Sprzedałeś wszystkie porcje! Poczekaj zanim Frosty będzie pusta aby stworzyć nowe napoje!" />
+		<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="Do sklepu" />
+		<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Musisz kupić Frosty aby sprzedawać napoje!" />
+		<text id="dialogwin_smoothiemaker_nomoney_copy" name="Nie masz wystarczająco dużo Café dolarów/złota do tego napoju!" />
+		<text id="dialogwin_smoothiemaker_noservings_copy" name="Nie masz już napojów! Zmiksuj coś nowego!" />
+		<text id="dialogwin_smoothiemaker_onlyonebuy" name="Możesz mieć tylko jedną Frosty w Twojej Cafè!" />
+		<text id="dialogwin_smoothiemaker_txt_title" name="FROSTY" />
+		<text id="dialogwin_staffmanagement_btn_fire" name="Zwolnij" />
+		<text id="dialogwin_staffmanagement_favorite" name="Specjalizacja?" />
+		<text id="dialogwin_staffmanagement_favorite0" name="Posprzątaj" />
+		<text id="dialogwin_staffmanagement_favorite100" name="Serwuj" />
+		<text id="dialogwin_staffmanagement_fire" name="Zwolnić?" />
+		<text id="dialogwin_staffmanagement_renamecopy" name="Nadaj kelnerowi nowe imię:" />
+		<text id="dialogwin_staffmanagement_renametitle" name="Zmień nazwę?" />
+		<text id="dialogwin_staff_hire" name="Zatrudnij" />
+		<text id="dialogwin_staff_management" name="Zarządzaj" />
+		<text id="dialogwin_staff_new" name="Nowy kelner" />
+		<text id="dialogwin_staff_title" name="Twoi kelnerzy" />
+		<text id="dialogwin_welcomeback_text" name="Jako prezent otrzymujesz: {0} złota" />
+		<text id="dialogwin_welcomeback_text2" name="Jako prezent otrzymujesz: {0} złota i 3 fantazyjne dodatki." />
+		<text id="dialogwin_welcomeback_text3" name="" />
+		<text id="dialogwin_welcomeback_title" name="Witamy z powrotem {0}!" />
+		<text id="dialogwin_wheeloffortune_beforespin" name="Zakręć kołem fortuny i wygraj wspaniałe nagrody!" />
+		<text id="dialogwin_wheeloffortune_btn_go" name="Kręć!" />
+		<text id="dialogwin_wheeloffortune_btn_towheel" name="Do koła" />
+		<text id="dialogwin_wheeloffortune_copy1" name="Kręciłeś już kołem fortuny?" />
+		<text id="dialogwin_wheeloffortune_header" name="KOŁO FORTUNY!" />
+		<text id="dialogwin_wheeloffortune_info" name="Pierwsze kręcenie jest za darmo!" />
+		<text id="dialogwin_wheeloffortune_info1" name="Każde następne kręcenie kosztuje Ciebie jedną sztabkę złota!" />
+		<text id="dialogwin_wheeloffortune_nomoney" name="Nie masz wystarczająco dużo złota aby zakręcić Kołem Fortuny!" />
+		<text id="dialogwin_wheeloffortune_noregister" name="Tylko jako zarejestrowany gracz możesz grać w Koło Fortuny!" />
+		<text id="dialogwin_wheeloffortune_nospace" name="Nie masz miejsca w pudełku na prezenty! Zrób trochę miejsca aby zagrać w Koło Fortuny!" />
+		<text id="dialogwin_wheeloffortune_title" name="Koło fortuny" />
+		<text id="dialogwin_wheeloffortune_tryagain" name="Spróbuj jeszcze raz!" />
+		<text id="dialogwin_wheeloffortune_wonbet" name="Gratulacje! Twoja nagroda:" />
+		<text id="dialogwin_wheeloffortune_woncash" name="Gratulacje!  Twoja nagroda została dopisana!" />
+		<text id="dialogwin_wheeloffortune_wonfood" name="Gratulacje!  Nagroda znajduje się w pudełku na prezenty!" />
+		<text id="dialogwin_wheeloffortune_wongold" name="Wygrałeś złoty garnek!" />
+		<text id="dialogwin_wheeloffortune_wonitem" name="Gratulacje!  Nagroda znajduje się w magazynie!" />
+	</dialogs>
+	<error_codes>
+		<text id="achievement_error" name="Odznaczenia" />
+		<text id="achievement_errorcode_1" name="Błąd" />
+		<text id="cafechat_errorcode_23" name="Twoja funkcja czatu została chwilowo zdezaktywowana przez administratora." />
+		<text id="cafechat_errorcode_24" name="Prosze nie zapełniaj czatu spamem!" />
+		<text id="cafewalk_errorcode_1" name="Uwaga!" />
+		<text id="cafewalk_errorcode_23" name="Nie możesz chodzić po tym miejscu." />
+		<text id="cafe_error" name="Uwaga!" />
+		<text id="changepassword_error" name="Zmiana hasła" />
+		<text id="changepassword_errorcode_0" name="Hasło zostało zmienione!" />
+		<text id="changepassword_errorcode_1" name="Błąd" />
+		<text id="changepassword_errorcode_10" name="Sorry, ale to nie jest Twoje stare hasło." />
+		<text id="coop_errorcode_3" name="Twój poziom jest niewystarczający aby dołączyć do tej Co-op.\nMusisz odblokować przynajmniej 1 receptę." />
+		<text id="coop_errorcode_7" name="Możesz dołączyć do tej Co-op do poziomu : {0}" />
+		<text id="coop_errorcode_85" name="W Tym Co-Opsie jest już pełna liczba uczestników." />
+		<text id="courier_error" name="Problemy z przesyłką" />
+		<text id="courier_errorcode_40" name="Pojemność składowania nie jest wystarczająca!" />
+		<text id="courier_errorcode_42" name="Składnik chwilowo jest dostępny w normalnym sklepie, zobacz szybko!" />
+		<text id="courier_errorcode_43" name="Kurier jest zapracowany i nie może dostarczyć Twoich produktów" />
+		<text id="createavatar_error" name="Uwaga!" />
+		<text id="createavatar_errorcode_12" name="Ta nazwa użytkownika jest juz zajęta." />
+		<text id="createavatar_errorcode_15" name="Ten użytkownik ma już avatara." />
+		<text id="createavatar_errorcode_18" name="Nazwa jest niepoprawna" />
+		<text id="createavatar_error_invalide" name="Nazwa użytkownika nie może być pusta lub zawierać znaków specjalnych." />
+		<text id="createavatar_error_nogender" name="Proszę wybierz charakter!" />
+		<text id="editbuy_errorcode_1" name="Uwaga!" />
+		<text id="editbuy_errorcode_3" name="Nie został osiągnięty minimalny poziom aby móc kupić ten artykuł!" />
+		<text id="editbuy_errorcode_38" name="Możesz zmienićj Twoją Café tylko w funkcji przebudowy." />
+		<text id="editbuy_errorcode_39" name="Pozycja jest nieważna, przeciągnij przedmiot na wolne miejsce w Twojej café." />
+		<text id="editextend_errorcode_1" name="Uwaga!" />
+		<text id="editextend_errorcode_38" name="Możesz zmienić wystrój Twojej Café tylko w funkcji przebudowy." />
+		<text id="editextend_errorcode_53" name="Już masz to poszerzenie." />
+		<text id="editextend_errorcode_54" name="Nie możesz kupić tego poszerzenia." />
+		<text id="editmode_errorcode_1" name="Uwaga!" />
+		<text id="editmoveobj_errorcode_1" name="Uwaga!" />
+		<text id="editmoveobj_errorcode_38" name="Możesz zmienić swoją kawiarnię tylko w funkcji przebudowy." />
+		<text id="editmoveobj_errorcode_39" name="Pozycja jest nieważna, przeciągnij przedmiot  na wolne miejsce w Twojej café." />
+		<text id="editrotateobj_errorcode_1" name="Uwaga!" />
+		<text id="editrotateobj_errorcode_38" name="Możesz zmienić swoją kawiarnię tylko w funkcji przebudowy." />
+		<text id="editrotateobj_errorcode_39" name="Pozycja jest nieważna, przeciągnij przedmiot na wolne miejsce w Twojej café." />
+		<text id="editsell_errorcode_1" name="Uwaga!" />
+		<text id="editsell_errorcode_32" name="Tego artykuł nie znajduje się w magazynie." />
+		<text id="editsell_errorcode_38" name="Możesz zmienićj Twoją Café tylko w funkcji przebudowy." />
+		<text id="editsell_errorcode_39" name="Pozycja jest nieważna, przeciągnij przedmiot na wolne miejsce w Twojej café." />
+		<text id="editstoreobj_errorcode_1" name="Uwaga!" />
+		<text id="editstoreobj_errorcode_37" name="Na tym artykule znajduje się potrawa!" />
+		<text id="editstoreobj_errorcode_38" name="Możesz zmienić wystrój Twojej Café tylko w funkcji przebudowy." />
+		<text id="editstoreobj_errorcode_39" name="Pozycja jest nieważna, przeciągnij przedmiot na wolne miejsce w Twojej café." />
+		<text id="editstoreobj_errorcode_51" name="Pole jest puste, nie ma tutaj nic do przebudowy." />
+		<text id="editstoreobj_removefailmin_counter" name="Musisz mieć min. 1 blat." />
+		<text id="editstoreobj_removefailmin_fridge" name="Musisz mieć min. 1 lodówkę." />
+		<text id="editstoreobj_removefailmin_stove" name="Musisz miec min. 1 kuchenkę." />
+		<text id="editstoreobj_removefailmin_title" name="Uwaga!" />
+		<text id="editstoreobj_removefail_counter" name="Blat musi być wolny." />
+		<text id="editstoreobj_removefail_door" name="Musisz zatrzymać Twoje drzwi." />
+		<text id="editstoreobj_removefail_fridge" name="Masz za dużo składników." />
+		<text id="editstoreobj_removefail_stove" name="Kuchenka musi być wolna." />
+		<text id="editstoreobj_removefail_title" name="Uwaga!" />
+		<text id="edit_error" name="Uwaga!" />
+		<text id="error" name="Błąd" />
+		<text id="fullscreenerror_msg_copy" name="Moduł pełnoekranowy jest niedostępny" />
+		<text id="fullscreenerror_msg_title" name="Pełny ekran:" />
+		<text id="gift_error" name="Nie działa!" />
+		<text id="gift_errorcode_20" name="Nie posiadasz wolnego blatu, na którym moższ zaserwować tą potrawę" />
+		<text id="gift_errorcode_40" name="Niestety nie masz już miejsca w lodówce na ten składnik." />
+		<text id="gift_errorcode_5" name="Akcja nie może zostac wykonana. Prezent jest nieznany." />
+		<text id="invitefriend_error" name="Zaproszenie Twojego przyjaciela nie powiodło się." />
+		<text id="invitefriend_errorcode_13" name="Ten gracz jest już zarejestrowany!" />
+		<text id="invitefriend_errorcode_14" name="Nieważny adres e-mail!" />
+		<text id="jobrefill_error" name="Nie działa!" />
+		<text id="jobrefill_errorcode_1" name="Uprawnienia do pracy  zostały na razie wyprzedane." />
+		<text id="jobrefill_errorcode_61" name="Możesz tylko raz dziennie napełnić uprawnienia do pracy." />
+		<text id="joincafe_error" name="Nie działa!" />
+		<text id="joincafe_errorcode_20" name="Zamknięte społeczeństwo. Nie zmieści się już więcej graczy." />
+		<text id="joincafe_errorcode_21" name="Jestes właśnie w tej café!" />
+		<text id="joincafe_errorcode_22" name="Tej café niestety już nie ma!" />
+		<text id="level_error" name="Gra café zawiera błedy. Proszę zgłoś to do support&apos;u." />
+		<text id="level_errorcode_1" name="Twoja gra Café nie może zostać otwarta. Zgłoś sie do Goodgame Studios-Support." />
+		<text id="login_error" name="Uwaga!" />
+		<text id="login_errorcode_1" name="Błąd" />
+		<text id="login_errorcode_12" name="Ten użytkownik jest juz zarejestrowany." />
+		<text id="login_errorcode_13" name="Ten użytkownik jest juz zarejestrowany." />
+		<text id="login_errorcode_14" name="Nazwa użytkownika lub hasło jest błędne!" />
+		<text id="login_errorcode_15" name="Jesteś już zalogowany" />
+		<text id="login_errorcode_16" name="Twój avatar zawier błędy. Zgłoś się do support&apos;u." />
+		<text id="login_errorcode_wronglogin" name="Nazwa użytkownika i hasło jest błędne!" />
+		<text id="lostpassword_error" name="Uwaga!" />
+		<text id="lostpassword_errorcode_1" name="Błąd" />
+		<text id="lostpassword_errorcode_11" name="Pod tym adresem nie jest zarejestrowany żaden uzytkownik!" />
+		<text id="marketplace_error" name="Rynek" />
+		<text id="marketplace_errorcode_20" name="Rynek jest pełny, spróbuj później." />
+		<text id="marketplace_errorcode_21" name="Znajdujesz się na rynku" />
+		<text id="npcfire_errorcode_1" name="Kelner nie może zostać zwolniony." />
+		<text id="npchire_errorcode_1" name="Nowy kelner nie może zostać zatrudniony." />
+		<text id="npcrename_errorcode_12" name="Nazwa jest nieważna!" />
+		<text id="npc_error" name="Uwaga!" />
+		<text id="register_error" name="Rejestracja nie powiodła się" />
+		<text id="register_errorcode_1" name="Błąd" />
+		<text id="register_errorcode_10" name="Podane hasło jest niepoprawne." />
+		<text id="register_errorcode_13" name="Pod tą nazwą jest juz zarejestrowany gracz, sorry." />
+		<text id="register_errorcode_14" name="Podany przez Ciebie adres e-mail nie jest poprawny ." />
+		<text id="server_msg_10" name="Serwer zostanie zrestartowany za chwilę gra zostanie kontynuowana.Prosimy o wylogowanie się." />
+		<text id="server_msg_title" name="Wiadomość z servera:" />
+		<text id="shopbuy_error" name="Nie ma miejsca!" />
+		<text id="shopbuy_errorcode_40" name="Twoja lodówka jest pełna!" />
+		<text id="shopdelete_errorcode_41" name="Artykuł nie jest dostępny" />
+		<text id="smoothiemaker_error_alreadyserved" name="Ten gość został już obsłużony!" />
+		<text id="useraction_error" name="Uwaga!" />
+		<text id="useraction_errorcode_2" name="Wolne! Dzisiaj już wystarczająco dużo pracowałeś!" />
+		<text id="useraction_errorcode_62" name="Najpierw musisz zabrać potrawę z blatu." />
+		<text id="useraction_errorcode_63" name="Zanim pojdziesz sprzątać, podaj potrawę dla Twojego gościa lub połóż ją na blacie." />
+		<text id="versioncheck_error" name="Stara wersja!" />
+		<text id="versioncheck_errorcode_1" name="Aktualizuj stronę." />
+		<text id="waiter_name_invalide" name="To imię kelnera nie jest dozwolone." />
+	</error_codes>
+	<feature>
+		<text id="featureDialog_0_text_0" name="Nowe dekoracje aby Twoja Café była  bardziej stylowa!" />
+		<text id="featureDialog_0_text_0_sozial" name="Pozwól nagrodzić Twoja pracę w café!" />
+		<text id="featureDialog_0_text_1" name="Pozwól nagrodzić Twoją pracę dodatkowymi cafédolarami lub złotem!" />
+		<text id="featureDialog_0_text_1_sozial" name="Nowe dekoracje w sklepie!" />
+		<text id="featureDialog_0_text_2" name="Dowiedz się kto jeszcze gra w café!" />
+		<text id="featureDialog_0_text_2_sozial" name="Dowiedz się kto jeszcze gra w café!" />
+		<text id="featureDialog_10_text_0" name="Potrzebujesz więcej miejsca dla gości lub dekoracji? Zobacz nowe poszerzenia!" />
+		<text id="featureDialog_11_text_0" name="Nowe ekscytujące Co-Ops dla Ciebie i Twoich przyjaciół!" />
+		<text id="featureDialog_16_text_0" name="Co za uczta dla Twoich uszu!Graj teraz w Café z dźwiękiem !" />
+		<text id="featureDialog_16_text_1" name="Zostań cukiernikiem z nowymi cukierniczymi dekoracjami!" />
+		<text id="featureDialog_17_text_0" name="Wesołych Świąt! Przynieś Biegun Północny do Twojej café dzięki wspaniałym świątecznym dekoracjom." />
+		<text id="featureDialog_18_text_0" name="Świąteczna atmosfera zawitała na dobre wraz z nowymi potrawami i zadaniami Co-Ops !" />
+		<text id="featureDialog_19_text_0" name="Podnieś poziom popularności Twojej Café i uszlachetnij ją nowym luksusowym poziomem Twoich mebli i dekoracji!" />
+		<text id="featureDialog_1_text_0" name="Pozwól nagrodzić Twoją pracę w café!" />
+		<text id="featureDialog_1_text_1" name="Nowe dekoracje w sklepie!" />
+		<text id="featureDialog_1_text_2" name="Dowiedz się kto jeszcze gra w café!" />
+		<text id="featureDialog_20_text_0" name="Zrób ze swoich potraw smaczne gwiazdkowe menu!" />
+		<text id="featureDialog_20_text_1" name="Ostatnia szansa aby przyrządzić świąteczne potrawy i kupić zimowe dekoracje!\nZostał jeden tydzień!" />
+		<text id="featureDialog_21_text_0" name="Zaurocz swoich gości pysznymi potrawami!" />
+		<text id="featureDialog_22_text_0" name="Nowe odznaczenia czekają na Ciebie i pomagają Ci osiągnąć większy sukces!" />
+		<text id="featureDialog_23_text_0" name="Wspólne gotowanie sprawia więcej przyjemności! Nowe Co-Ops czekają na Ciebie!" />
+		<text id="featureDialog_24_text_0" name="Zajączek Wielekanocny miał dużo pracy!\nNowe Wielkanocne dekoracje są już dostępne!" />
+		<text id="featureDialog_24_text_1" name="Drób nigdy nie był tak opłacalny!\nOdkryj kaczkę à l&apos;pomarańcza" />
+		<text id="featureDialog_25_text_0" name="Jesteś szczęściarzem? Sprawdź grając w nowego Piekarza Muffinów!" />
+		<text id="featureDialog_26_text_0" name="Czy jesteś szczęściarzem? Dowiedź się kręcąc kołem fortuny na rynku!" />
+		<text id="featureDialog_27_text_0" name="Podnieś popularność Twojej cafe nową maszyną do robienia waty cukrowej! Dostępną w Kole Fortuny" />
+		<text id="featureDialog_28_text_0" name="Maszyna do waty cukrowej jest dostępna w Kole Fortny tylko DZISIAJ!" />
+		<text id="featureDialog_29_text_0" name="Od teraz możesz przebierać swoją postać!" />
+		<text id="featureDialog_2_text_0" name="Spotkaj się i czatuj z innymi graczami!" />
+		<text id="featureDialog_2_text_1" name="Nowe  wyposażenie!" />
+		<text id="featureDialog_2_text_2" name="Rozbuduj bardziej swoją café!" />
+		<text id="featureDialog_30_text_0" name="Więcej miejsca w Twojej lodówce! Od teraz fantazyjne składniki nie będą już zajmowały miejsca w Twojej lodówce. Możesz ich magazynować ile tylko zechcesz!" />
+		<text id="featureDialog_30_text_1" name="Od teraz poszerzenia możesz kupić za café dolary!" />
+		<text id="featureDialog_31_text_0" name="Więcej miejsca w Twojej lodówce!  Od teraz fantazyjne składniki nie będą już zajmowały miejsca w Twojej lodówce. Możesz ich magazynować ile tylko zechcesz!" />
+		<text id="featureDialog_31_text_1" name="Od teraz Twoje poszerzenia są darmowe jeśli masz wystarczająco dużo znajomych!" />
+		<text id="featureDialog_32_text_0" name="Czy Twoi goście są spragnieni? Spraw sobie Frosty i orzeźwij swoich gości!" />
+		<text id="featureDialog_33_text_0" name="Odkryj omlet! Nowa super krótka potrawa w Twojej książce kucharskiej!" />
+		<text id="featureDialog_3_text_0" name="Zarób extra cafédollary i punkty xp pracując jako kelner!" />
+		<text id="featureDialog_3_text_1" name="Nowe pyszne dania które zachwycą Twoich gości!" />
+		<text id="featureDialog_4_text_0" name="Poznaj nowych znajomych na rynku!" />
+		<text id="featureDialog_4_text_1" name="Nowe obidowe dekoracje aby Twoja café stała się bardziej indywidualna!" />
+		<text id="featureDialog_5_text_0" name="Powiększ liczbę porcji i punktów XP dzięki nowemu fantazyjnemu składnikowi!" />
+		<text id="featureDialog_6_text_0" name="Dzięki nowej funkcji możesz otrzymywać i wysyłać prezenty!" />
+		<text id="featureDialog_6_text_1" name="Powiększ liczbę porcji i punktów XP dzięki nowemu fantazyjnemu składnikowi!" />
+		<text id="featureDialog_7_text_0" name="Poczuj dziki zachód w Twojej café, wprowadzając nowe wyposażenie!" />
+		<text id="featureDialog_8_text_0" name="Nowe zapierające dech w piersiach potrawy!" />
+		<text id="featureDialog_9_text_0" name="Zobacz na którym miejscu jesteś w nowym rankingu!" />
+		<text id="featureDialog_9_text_1" name="W grupie jesteście mocni! Sprawdź to wykonując misję Co-Op!" />
+		<text id="featureDialog_9_text_2" name="Przygotuj się na wspaniałą zabawę z nowym wyposażeniem Halloween!" />
+		<text id="featureDialog_title" name="Nowe dodatki" />
+		<text id="limitedfeatureDialog_12_copy_0" name="Teraz możesz kupić nowe dekoracje Halloween!\nSą one dostępne przez określony czas!" />
+		<text id="limitedfeatureDialog_12_copy_1" name="Jeszcze 4 dni!" />
+		<text id="limitedfeatureDialog_13_copy_0" name="Teraz możesz kupić nowe dekoracje Halloween!\nSą one dostępne przez określony czas!" />
+		<text id="limitedfeatureDialog_13_copy_1" name="Jeszcze 3 dni!" />
+		<text id="limitedfeatureDialog_14_copy_0" name="Teraz możesz kupić nowe dekoracje Halloween!\nSą one dostępne przez określony czas!" />
+		<text id="limitedfeatureDialog_14_copy_1" name="Jeszcze 2 dni!" />
+		<text id="limitedfeatureDialog_15_copy_0" name="Teraz możesz kupić nowe dekoracje Halloween!\nSą one dostępne przez określony czas!" />
+		<text id="limitedfeatureDialog_15_copy_1" name="Tylko dzisiaj!" />
+		<text id="limitedfeatureDialog_2_copy_0" name="Kup teraz dekoracje Halloween!\nDostępne tylko przez ograniczony czas!" />
+		<text id="limitedfeatureDialog_3_copy_0" name="Zima się powoli kończy! Świąteczne dekoracje są dostępne tyko przez określony czas!" />
+		<text id="limitedfeatureDialog_5_copy_0" name="Kup teraz wielkanocne dekoracje! Dostępne tylko przez ograniczony czas!" />
+		<text id="limitedfeatureDialog_time" name="JESZCZE {0} DNI!" />
+		<text id="limitedfeatureDialog_time_single" name="TYLKO DZISIAJ!" />
+		<text id="limitedfeatureDialog_title" name="Uwaga!" />
+	</feature>
+	<feeds>
+		<text id="descriptionfeedcafe" name="Właśnie znalazłem(am )Goodgame Café. Może też chesz otworzyc własny biznes i przygotujesz pyszne potrawy?Zobacz to!" />
+		<text id="descriptionlongcafe" name="Goodgame Café jest świetną grą Goodgame Studios. Zagraj w Goodgame Café i otwórz własny biznes, zaskocz  klientów Twoimi umiejętnościami kucharskimi, zatrudnij przyjaciół i kup składniki już teraz! Zdecyduj jakie będzie menu i powiększaj swój biznes. Twoja café będzie najbardziej popularnym miejscem spotkań w mieście!" />
+	</feeds>
+	<ingame_tooltips>
+		<text id="fridgetooltip_line1" name="Lodówka" />
+		<text id="fridgetooltip_line2" name="Kliknij aby otworzyć" />
+		<text id="muffinmantooltip_line1" name="Piekarz muffinów" />
+		<text id="muffinmantooltip_line2" name="Kliknij aby zagrać!" />
+		<text id="player_action" name="Akcje:" />
+		<text id="player_working" name="Czas pracy" />
+		<text id="preparestep_cleaning" name="Wyczyść kuchenkę" />
+		<text id="preparestep_serving" name="Przyrządź potrawę" />
+		<text id="smoothiemaker_line1" name="Frosty" />
+		<text id="smoothiemaker_line2" name="Kliknij aby miksować!" />
+		<text id="stovetooltip_clean1" name="Brudna kuchenka" />
+		<text id="stovetooltip_clean2" name="Kliknij aby posprzątać" />
+		<text id="stovetooltip_empty1" name="Wolny  blat" />
+		<text id="stovetooltip_empty2" name="Ugotuj coś" />
+		<text id="stovetooltip_free" name="Kliknij aby\ngotować" />
+		<text id="stovetooltip_full1" name="Gotowe do podania:" />
+		<text id="stovetooltip_full2" name="porcji" />
+		<text id="stovetooltip_prepare1" name="Kliknij aby" />
+		<text id="stovetooltip_ready1" name="do zepsucia potrawy" />
+		<text id="stovetooltip_ready2" name="Kliknij aby zaserwować" />
+		<text id="stovetooltip_spoiled1" name="Spleśniałe" />
+		<text id="stovetooltip_spoiled2" name="Kliknij aby posprzątać" />
+		<text id="wheeloffortunetooltip_line1" name="Koło fortuny!" />
+		<text id="wheeloffortunetooltip_line2" name="Kliknij aby zagrać!" />
+		<text id="wheeloffortunetooltip_line3" name="Pierwsze kręcenia za darmo" />
+	</ingame_tooltips>
+	<ingredients>
+		<text id="ingredient_cookfest" name="Event Ingredients" />
+		<text id="ingredient_apple" name="Jabłko" />
+		<text id="ingredient_bacon" name="Słonina" />
+		<text id="ingredient_bakingmix" name="Fix do ciasta" />
+		<text id="ingredient_ballpepper" name="Papryka" />
+		<text id="ingredient_banana" name="Banany" />
+		<text id="ingredient_basil" name="Bazylia" />
+		<text id="ingredient_beans" name="Fasola" />
+		<text id="ingredient_beetroot" name="Burak ćwikłowy" />
+		<text id="ingredient_butter" name="Masło" />
+		<text id="ingredient_carrots" name="Marchewki" />
+		<text id="ingredient_cheese" name="Ser" />
+		<text id="ingredient_cherries" name="Wiśnie" />
+		<text id="ingredient_chicken" name="Kura" />
+		<text id="ingredient_chili" name="Chilli" />
+		<text id="ingredient_chocolate" name="Czekolada" />
+		<text id="ingredient_cinnamon" name="Cynamon" />
+		<text id="ingredient_cocktailcherry" name="Wiśniowy koktajl" />
+		<text id="ingredient_coconut" name="Kokosy" />
+		<text id="ingredient_cookies" name="Ciasteczka" />
+		<text id="ingredient_coriander" name="Kolendra" />
+		<text id="ingredient_cream" name="Śmietana" />
+		<text id="ingredient_cucumber" name="Ogórki" />
+		<text id="ingredient_curryspice" name="Curry" />
+		<text id="ingredient_duck" name="Kaczka" />
+		<text id="ingredient_eggplant" name="Bakłażan" />
+		<text id="ingredient_eggs" name="Jajka" />
+		<text id="ingredient_fish" name="Ryba" />
+		<text id="ingredient_flour" name="Mąka" />
+		<text id="ingredient_garlic" name="Czosnek" />
+		<text id="ingredient_horseradish" name="Chrzan" />
+		<text id="ingredient_kidney" name="Nerki" />
+		<text id="ingredient_lettuce" name="Sałata" />
+		<text id="ingredient_maplesyrup" name="Syrop klonowy" />
+		<text id="ingredient_meat" name="Mięso" />
+		<text id="ingredient_milk" name="Mleko" />
+		<text id="ingredient_mincemeat" name="Mięso mielone" />
+		<text id="ingredient_nutmeg" name="Gałka muszkatołowa" />
+		<text id="ingredient_oil" name="Olej" />
+		<text id="ingredient_onion" name="Cebula" />
+		<text id="ingredient_orange" name="Pomarańcza" />
+		<text id="ingredient_parsley" name="Pietruszka" />
+		<text id="ingredient_pasta" name="Makaron" />
+		<text id="ingredient_peas" name="Groszek" />
+		<text id="ingredient_pinapple" name="Ananas" />
+		<text id="ingredient_potato" name="Kartofle" />
+		<text id="ingredient_quark" name="Twaróg" />
+		<text id="ingredient_rhubarb" name="Rabarbar" />
+		<text id="ingredient_rice" name="Ryż" />
+		<text id="ingredient_rosemary" name="Rozmaryn" />
+		<text id="ingredient_sausages" name="Kiełbasa" />
+		<text id="ingredient_spicemix" name="Mieszanka przypraw" />
+		<text id="ingredient_strawberry" name="Truskawki" />
+		<text id="ingredient_sugar" name="Cukier" />
+		<text id="ingredient_sweetcorn" name="Kukurydza" />
+		<text id="ingredient_tofu" name="Tofu" />
+		<text id="ingredient_tomato" name="Pomidory" />
+		<text id="ingredient_turkeymix" name="Fix do indyka" />
+		<text id="ingredient_vanilla" name="Wanilia" />
+		<text id="ingredient_vegiemix" name="Mieszanka warzyw" />
+		<text id="ingredient_whitechocolat" name="Biała czekolada" />
+	</ingredients>
+	<loggedin_msg id="" />
+	<panels>
+		<text id="panelwin_buddy_btn_morefriends" name="Więcej przyjaciół!" />
+		<text id="panelwin_deco_dragtip_copy" name="Aby kupić ten obiekt, musisz przeciągnąć go do Twojej café." />
+		<text id="panelwin_deco_dragtip_title" name="Wskazówka" />
+		<text id="panelwin_deco_nomore_expansion" name="Na razie nie są dostepne żadne poszerzenia." />
+		<text id="panelwin_deco_objectcount_counter" name="Musisz osiągnąć poziom {0} aby kupić kolejny blat. Możesz tutaj przeciągnąć z Twojej café stary aby móc kupić inny blat." />
+		<text id="panelwin_deco_objectcount_fridge" name="Musisz osiągnąć poziom {0} aby kupić kolejną lodówkę. Możesz tutaj  przeciągnąć z Twojej café starą lodówkę aby móc kupić inną." />
+		<text id="panelwin_deco_objectcount_nomore_counter" name="Na początku nie możesz kupić kolejnego blatu!" />
+		<text id="panelwin_deco_objectcount_nomore_fridge" name="Na początku nie możesz kupić kolejnej lodówki!" />
+		<text id="panelwin_deco_objectcount_nomore_stove" name="Na początku nie możesz kupić kolejnej kuchenki!" />
+		<text id="panelwin_deco_objectcount_stove" name="Musisz osiągnąć poziom {0} aby kupić kolejną kuchenkę. Możesz tutaj przeciągnąć z Twojej café starą kuchenkę aby móc kupić inną kuchenkę." />
+		<text id="panelwin_login_email" name="Nazwa użytkownika/ E-Mail" />
+		<text id="panelwin_login_login" name="LOGIN" />
+		<text id="panelwin_login_lostpassword" name="Nie pamiętasz hasła?" />
+		<text id="panelwin_login_password" name="Hasło" />
+		<text id="panelwin_login_play" name="GRAJ TERAZ" />
+		<text id="panelwin_login_register" name="REJESTRACJA" />
+		<text id="panelwin_login_rememberpassword" name="Zapisz hasło" />
+		<text id="panelwin_name_cafe" name="CAFÉ" />
+		<text id="panelwin_social_bot" name="Café-chat" />
+		<text id="panelwin_social_comein" name="przyszedł do café" />
+		<text id="panelwin_social_comeinmarketplace" name="przyszedł na rynek" />
+		<text id="panelwin_social_goout" name="opuścił café" />
+		<text id="panelwin_social_gooutmarketplace" name="opuścił rynek" />
+		<text id="panelwin_social_noingamefriends" name="Nie masz żadnych przyjaciół!" />
+		<text id="panelwin_social_noplayerincafe" name="Obecnie jesteś tu sam." />
+		<text id="panelwin_social_say" name=":" />
+		<text id="panelwin_social_standardanswer" name="Wkrótce będzie można tutaj czatować z innymi graczami!" />
+		<text id="panelwin_social_welcome_marketplace" name="Witamy!Kliknij na czarną tablicę jeśli szukasz pracy!" />
+		<text id="panelwin_social_welcome_mycafe" name="Witamy" />
+		<text id="panelwin_social_writeable" name="Tylko osoby zarejestrowane, które osiągneły 1 poziom mogą uzywać czatu." />
+	</panels>
+	<preparestep>
+		<text id="preparestep_bananasplit_banana" name="obrać banany" />
+		<text id="preparestep_bananasplit_chocolate" name="posiekać czekoladę" />
+		<text id="preparestep_brigadeiro_chocolate" name="Cut chocolate" />
+		<text id="preparestep_brigadeiro_cream" name="Mix cream" />
+		<text id="preparestep_brigadeiro_vanilla" name="Shave vanilla" />
+		<text id="preparestep_bananasplit_cream" name="ubić śmietanę" />
+		<text id="preparestep_bananasplit_milk" name="odmierzyć mleko" />
+		<text id="preparestep_bananasplit_sugar" name="odmierzyć cukier" />
+		<text id="preparestep_blackforestcherrycake_chocolate" name="zetrzeć czekoladę" />
+		<text id="preparestep_blackforestcherrycake_cocktailcherry" name="oczyścić wiśnie" />
+		<text id="preparestep_blackforestcherrycake_cream" name="ubić smietanę" />
+		<text id="preparestep_pizzasalad_tomato" name="Cut tomatoes" />
+		<text id="preparestep_pizzasalad_onion" name="Cut onions" />
+		<text id="preparestep_pizzasalad_lettuce" name="Wash lettuce" />
+		<text id="preparestep_pizzasalad_cheese" name="Grate cheese" />
+		<text id="preparestep_pizzasalad_flour" name="Sift flour" />
+		<text id="preparestep_tripleomelette_eggs" name="Crack eggs strongly" />
+		<text id="preparestep_tripleomelette_chili" name="Make it spicy" />
+		<text id="preparestep_chocolatewaffles_flour" name="Measure flour" />
+		<text id="preparestep_chocolatewaffles_cream" name="Whip cream" />
+		<text id="preparestep_chocolatewaffles_eggs" name="Crack eggs softly" />
+		<text id="preparestep_chocolatewaffles_chocolate" name="Melt chocolate" />
+		<text id="preparestep_chocolatewaffles_vanilla" name="Add vanilla extract" />
+		<text id="preparestep_spanishomelette_potato" name="Peel potatoes" />
+		<text id="preparestep_spanishomelette_onion" name="Chop onions" />
+		<text id="preparestep_spanishomelette_eggs" name="Crack eggs in Spanish" />
+		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
+		<text id="preparestep_sausagepasta_pasta" name="Boil pasta" />
+		<text id="preparestep_sausagepasta_sausages" name="Chop sausages" />
+		<text id="preparestep_sausagepasta_tomato" name="Make tomato sauce" />
+		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
+		<text id="preparestep_applepie_cream" name="Whip cream" />
+		<text id="preparestep_applepie_eggs" name="Crack eggs elegantly" />
+		<text id="preparestep_applepie_flour" name="Measure flour" />
+		<text id="preparestep_applepie_apple" name="Think about apple economy" />
+		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_ramen_pasta" name="Boil pasta" />
+		<text id="preparestep_ramen_eggs" name="Boil eggs" />
+		<text id="preparestep_ramen_bacon" name="Chop bacon" />
+		<text id="preparestep_ramen_chili" name="Make it spicy" />
+		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
+		<text id="preparestep_corncake_butter" name="Melt butter" />
+		<text id="preparestep_corncake_eggs" name="Mix eggs" />
+		<text id="preparestep_corncake_milk" name="Add milk" />
+		<text id="preparestep_corncake_sugar" name="Mix sugar in the dough" />
+		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_feijoada_beans" name="Boil beans" />
+		<text id="preparestep_feijoada_bacon" name="Chop bacon chunks" />
+		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
+		<text id="preparestep_feijoada_onion" name="Chop onions" />
+		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
+		<text id="preparestep_feijoada_coriander" name="Add coriander" />
+		<text id="preparestep_blackforestcherrycake_flour" name="przesiać mąkę" />
+		<text id="preparestep_cheeseburger_cheese" name="pokroić ser" />
+		<text id="preparestep_cheeseburger_flour" name="przesiać mąkę" />
+		<text id="preparestep_cheeseburger_mincemeat" name="przyprawić mięso mielone" />
+		<text id="preparestep_cheeseburger_tomato" name="pokroić pomidory" />
+		<text id="preparestep_cheesedish_cheese" name="pokroić ser" />
+		<text id="preparestep_cheesefondue_cheese" name="rozpuścić ser" />
+		<text id="preparestep_cheesefondue_flour" name="przesiać mąkę" />
+		<text id="preparestep_cheesefondue_garlic" name="wycisnąć czosnek" />
+		<text id="preparestep_cherriecake_cherries" name="gotować wiśnie" />
+		<text id="preparestep_cherriecake_cream" name="ubić śmietanę" />
+		<text id="preparestep_cherriecake_flour" name="przesiać mąkę" />
+		<text id="preparestep_cherriecake_sugar" name="odmierzyć cukier" />
+		<text id="preparestep_cherrycompote_cherries" name="drylować wiśnie" />
+		<text id="preparestep_cherrycompote_sugar" name="karmelizuj cukier" />
+		<text id="preparestep_chickenburger_chicken" name="podzielić kurę" />
+		<text id="preparestep_chickenburger_cucumber" name="pokroić ogórka" />
+		<text id="preparestep_chickenburger_flour" name="przesiać mąkę" />
+		<text id="preparestep_chickenburger_tomato" name="pokroić pomidory" />
+		<text id="preparestep_chickensalad_chicken" name="przygotować kurę" />
+		<text id="preparestep_chickensalad_lettuce" name="umyć sałatę" />
+		<text id="preparestep_chickensalad_onion" name="posiekać cebulę" />
+		<text id="preparestep_chickensalad_tomato" name="pokroić pomidory" />
+		<text id="preparestep_chickensoup_bacon" name="pokroić boczek" />
+		<text id="preparestep_chickensoup_chicken" name="podzielić kurę" />
+		<text id="preparestep_chickensoup_onion" name="posiekać cebulę" />
+		<text id="preparestep_chickensoup_pasta" name="odmierzyć kluski" />
+		<text id="preparestep_chiliconcarne_bacon" name="pokroić boczek" />
+		<text id="preparestep_chiliconcarne_beans" name="namoczyć fasolę" />
+		<text id="preparestep_chiliconcarne_mincemeat" name="doprawić mięso mielone" />
+		<text id="preparestep_chiliconcarne_onion" name="pokroić cebulę" />
+		<text id="preparestep_chiliconcarne_tomato" name="pokroić pomidory" />
+		<text id="preparestep_chocmousse_chocolate" name="rozpuścić czekoladę" />
+		<text id="preparestep_chocmousse_cream" name="ubić śmietanę" />
+		<text id="preparestep_chocmousse_eggs" name="oddzielić żółtko od białka" />
+		<text id="preparestep_chocolatecake_chocolate" name="rozpuścić czekoladę" />
+		<text id="preparestep_chocolatecake_cream" name="ubić śmietanę" />
+		<text id="preparestep_chocolatecake_eggs" name="oddzielić żółtko od białka" />
+		<text id="preparestep_chocolatecake_flour" name="przesiać mąkę" />
+		<text id="preparestep_chocolatecheesecake_chocolate" name="pokroić czekoladę" />
+		<text id="preparestep_chocolatecheesecake_cookies" name="pokruszyć ciasteczka" />
+		<text id="preparestep_chocolatecheesecake_milk" name="odmierzyć mleko" />
+		<text id="preparestep_chocolatecheesecake_quark" name="pomieszać twaróg" />
+		<text id="preparestep_chocolatefondue_chocolate" name="spróbować czekolady" />
+		<text id="preparestep_chocolatefondue_cream" name="odmierzyć śmietanę" />
+		<text id="preparestep_chocolatefondue_strawberry" name="oczyścić truskawki" />
+		<text id="preparestep_christmasturkey_turkeymix" name="Przygotować fix do indyka" />
+		<text id="preparestep_christmasturkey_vegiemix" name="Odmrozić warzywa" />
+		<text id="preparestep_cookieplate_butter" name="roztopić masło" />
+		<text id="preparestep_cookieplate_chocolate" name="posiekać czekoladę" />
+		<text id="preparestep_cookieplate_flour" name="przesiać mąkę" />
+		<text id="preparestep_cookieplate_sugar" name="zkarmelizować cukier" />
+		<text id="preparestep_cornonthecob_butter" name="dodać masło" />
+		<text id="preparestep_cornonthecob_lettuce" name="umyć sałatę" />
+		<text id="preparestep_cornonthecob_sweetcorn" name="umyć kukurydzę" />
+		<text id="preparestep_curry_ballpepper" name="pokroić paprykę" />
+		<text id="preparestep_curry_coconut" name="rozłupać kokosa" />
+		<text id="preparestep_curry_curryspice" name="odmierzyć curry" />
+		<text id="preparestep_curry_meat" name="pokroić  mięso" />
+		<text id="preparestep_curry_peas" name="gotować groszek" />
+		<text id="preparestep_duckalorange_butter" name="roztopić masło" />
+		<text id="preparestep_duckalorange_duck" name="przygotować kaczkę" />
+		<text id="preparestep_duckalorange_onion" name="posiekać cebulę" />
+		<text id="preparestep_duckalorange_orange" name="obierać pomarańczę" />
+		<text id="preparestep_easterdish_chocolate" name="spróbować czekolady" />
+		<text id="preparestep_easterdish_eggs" name="policzyć jajka" />
+		<text id="preparestep_englishbreakfast_beans" name="gotować fasolę" />
+		<text id="preparestep_englishbreakfast_eggs" name="ubić jajka" />
+		<text id="preparestep_englishbreakfast_flour" name="przesiać mąkę" />
+		<text id="preparestep_englishbreakfast_sausages" name="odliczyć  kiełbaski" />
+		<text id="preparestep_fishandchips_fish" name="przygotować rybę" />
+		<text id="preparestep_fishandchips_flour" name="przesiać mąkę" />
+		<text id="preparestep_fishandchips_oil" name="podgrzać olej" />
+		<text id="preparestep_fishandchips_peas" name="ugotować groszek" />
+		<text id="preparestep_fishandchips_potato" name="obrać kartofle" />
+		<text id="preparestep_friedpotatoes_bacon" name="podsmażyć  słoninę" />
+		<text id="preparestep_friedpotatoes_onion" name="posiekać cebulę" />
+		<text id="preparestep_friedpotatoes_potato" name="obrać kartofle" />
+		<text id="preparestep_fruitpudding_bakingmix" name="Pomieszać mieszankę" />
+		<text id="preparestep_fruitpudding_spicemix" name="Odmierzyć przyprawy" />
+		<text id="preparestep_fruitsalad_apple" name="obierać jabłka" />
+		<text id="preparestep_fruitsalad_banana" name="obierać banany" />
+		<text id="preparestep_fruitsalad_cherries" name="drylować wiśnie" />
+		<text id="preparestep_fruitsalad_orange" name="obierać pomarańczę" />
+		<text id="preparestep_greensalad_lettuce" name="umyć sałatę" />
+		<text id="preparestep_greensalad_onion" name="posiekać cebulę" />
+		<text id="preparestep_greensalad_tomato" name="pokroić pomidory" />
+		<text id="preparestep_gumbo_curryspice" name="podsmażyć curry" />
+		<text id="preparestep_gumbo_fish" name="pokroić rybę" />
+		<text id="preparestep_gumbo_onion" name="posiekać cebulę" />
+		<text id="preparestep_gumbo_rice" name="gotować ryż" />
+		<text id="preparestep_hamburger_flour" name="przesiać mąkę" />
+		<text id="preparestep_hamburger_mincemeat" name="przyprawić mięso mielone" />
+		<text id="preparestep_hamburger_tomato" name="pokroić pomidory" />
+		<text id="preparestep_hotcherrywaffles_cherries" name="drylować wiśnie" />
+		<text id="preparestep_hotcherrywaffles_cream" name="ubić śmietanę" />
+		<text id="preparestep_hotcherrywaffles_eggs" name="oddzielić żółtko od białka" />
+		<text id="preparestep_hotcherrywaffles_flour" name="przesiać mąkę" />
+		<text id="preparestep_hotcherrywaffles_milk" name="podgrzać mleko" />
+		<text id="preparestep_jamspongepudding_flour" name="przesiać mąkę" />
+		<text id="preparestep_jamspongepudding_milk" name="podgrzać mleko" />
+		<text id="preparestep_jamspongepudding_strawberry" name="umyć truskawki" />
+		<text id="preparestep_jamspongepudding_sugar" name="zkarmelizować cukier" />
+		<text id="preparestep_lasagne_cheese" name="zetrzeć ser" />
+		<text id="preparestep_lasagne_mincemeat" name="przyprawić mięso mielone" />
+		<text id="preparestep_lasagne_pasta" name="gotować makraon" />
+		<text id="preparestep_lasagne_tomato" name="pokroić pomidory" />
+		<text id="preparestep_macncheese_cheese" name="zetrzeć ser" />
+		<text id="preparestep_macncheese_cream" name="odmierzyć śmietanę" />
+		<text id="preparestep_macncheese_pasta" name="gotować makraon" />
+		<text id="preparestep_maplepancakes_eggs" name="oddzielić żółtko od białka" />
+		<text id="preparestep_maplepancakes_flour" name="przesiać mąkę" />
+		<text id="preparestep_maplepancakes_maple" name="spróbować syrop klonowy" />
+		<text id="preparestep_maplepancakes_milk" name="odmierzyć mleko" />
+		<text id="preparestep_marblecake_butter" name="roztopić masło" />
+		<text id="preparestep_marblecake_chocolate" name="rozpuścić czekoladę" />
+		<text id="preparestep_marblecake_flour" name="przesiać mąkę" />
+		<text id="preparestep_marblecake_sugar" name="odmierzyć cukier" />
+		<text id="preparestep_mexicansalad_bacon" name="podsmażyć  słoninę" />
+		<text id="preparestep_mexicansalad_beans" name="namoczyć  fasolę" />
+		<text id="preparestep_mexicansalad_onion" name="przysmażyć cebulę" />
+		<text id="preparestep_mexicansalad_sweetcorn" name="gotować kukurydzę" />
+		<text id="preparestep_minestrone_eggplant" name="pokroić bakłażana" />
+		<text id="preparestep_minestrone_pasta" name="gotować makraon" />
+		<text id="preparestep_minestrone_tomato" name="pokroić pomidory" />
+		<text id="preparestep_mixedsalad_lettuce" name="umyć sałatę" />
+		<text id="preparestep_mixedsalad_peas" name="gotować groszek" />
+		<text id="preparestep_mixedsalad_sweetcorn" name="gotować kukurydzę" />
+		<text id="preparestep_mixedsalad_tomato" name="pokroić pomidory" />
+		<text id="preparestep_nasigoreng_chicken" name="poćwiartować kurę" />
+		<text id="preparestep_nasigoreng_eggs" name="gotować  jajka" />
+		<text id="preparestep_nasigoreng_onion" name="posiekać cebulę" />
+		<text id="preparestep_nasigoreng_pinapple" name="pokroić ananasa" />
+		<text id="preparestep_nasigoreng_rice" name="gotować ryż" />
+		<text id="preparestep_newyorkcheesecake_cookies" name="pokruszyć ciasteczka" />
+		<text id="preparestep_newyorkcheesecake_cream" name="ubić śmietanę" />
+		<text id="preparestep_newyorkcheesecake_quark" name="pomieszać ser" />
+		<text id="preparestep_newyorkcheesecake_sugar" name="odmierzyć cukier" />
+		<text id="preparestep_noodlesalad_eggs" name="oddzielić żółtko od białka" />
+		<text id="preparestep_noodlesalad_oil" name="otwórzyć olej" />
+		<text id="preparestep_noodlesalad_pasta" name="gotować makraon" />
+		<text id="preparestep_noodlesalad_tomato" name="pokroić pomidory" />
+		<text id="preparestep_omelette_eggs" name="policzyć jajka" />
+		<text id="preparestep_onionsoup_cheese" name="zetrzeć ser" />
+		<text id="preparestep_onionsoup_garlic" name="wycisnąć czosnek" />
+		<text id="preparestep_onionsoup_onion" name="posiekać cebulę" />
+		<text id="preparestep_peasoup_bacon" name="podsmażyć  słoninę" />
+		<text id="preparestep_peasoup_garlic" name="wycisnąć czosnek" />
+		<text id="preparestep_peasoup_onion" name="posiekać cebulę" />
+		<text id="preparestep_peasoup_peas" name="umyć groszek" />
+		<text id="preparestep_pizzahawaii_bacon" name="pokroić boczek" />
+		<text id="preparestep_pizzahawaii_cheese" name="zetrzeć ser" />
+		<text id="preparestep_pizzahawaii_flour" name="przesiać mąkę" />
+		<text id="preparestep_pizzahawaii_pinapple" name="pokroić ananasa" />
+		<text id="preparestep_pizzahawaii_tomato" name="zmiksować pomidory" />
+		<text id="preparestep_pizzatonno_cheese" name="zetrzeć ser" />
+		<text id="preparestep_pizzatonno_fish" name="podzielić rybę" />
+		<text id="preparestep_pizzatonno_flour" name="przesiać mąkę" />
+		<text id="preparestep_pizzatonno_onion" name="pokroić cebulę" />
+		<text id="preparestep_pizzatonno_tomato" name="zmiksować pomidory" />
+		<text id="preparestep_pizza_cheese" name="zetrzeć ser" />
+		<text id="preparestep_pizza_flour" name="przesiać mąkę" />
+		<text id="preparestep_pizza_tomato" name="zrobić puree z pomidorów" />
+		<text id="preparestep_porkroastwithcrackling_carrots" name="obrać marchewkę" />
+		<text id="preparestep_porkroastwithcrackling_garlic" name="wycisnąć czosnek" />
+		<text id="preparestep_porkroastwithcrackling_meat" name="pokroić  mięso" />
+		<text id="preparestep_porkroastwithcrackling_onion" name="posiekać cebulę" />
+		<text id="preparestep_potatosalad_cucumber" name="pokroić ogórki" />
+		<text id="preparestep_potatosalad_oil" name="otwórzyć olej" />
+		<text id="preparestep_pizza_sausages" name="Slice sausages" />
+		<text id="preparestep_potatosalad_potato" name="obrać kartofle" />
+		<text id="preparestep_redberrycompote_cherries" name="oczyścić wiśnie" />
+		<text id="preparestep_redberrycompote_rhubarb" name="oczyścić rabarbar" />
+		<text id="preparestep_redberrycompote_strawberry" name="oczyścić truskawki" />
+		<text id="preparestep_redberrycompote_sugar" name="karmelizuj cukier" />
+		<text id="preparestep_ricepudding_apple" name="obierać jabłka" />
+		<text id="preparestep_ricepudding_cream" name="ubić śmietanę" />
+		<text id="preparestep_ricepudding_milk" name="odmierzyć mleko" />
+		<text id="preparestep_ricepudding_rice" name="zważyć ryż" />
+		<text id="preparestep_roastchicken_butter" name="roztopić masło" />
+		<text id="preparestep_roastchicken_chicken" name="przygotować kurę" />
+		<text id="preparestep_roastchicken_onion" name="posiekać cebulę" />
+		<text id="preparestep_sandwich_bacon" name="pokroić boczek" />
+		<text id="preparestep_sandwich_butter" name="odważyć masło" />
+		<text id="preparestep_sandwich_cheese" name="pokroić ser" />
+		<text id="preparestep_sandwich_flour" name="przesiać mąkę" />
+		<text id="preparestep_sandwich_tomato" name="pokroić pomidory" />
+		<text id="preparestep_scouse_beetroot" name="pokroić buraka" />
+		<text id="preparestep_scouse_cucumber" name="dodać ogórki" />
+		<text id="preparestep_scouse_eggs" name="przysmażyć jajka" />
+		<text id="preparestep_scouse_meat" name="pokroić mięso" />
+		<text id="preparestep_spagetti_mincemeat" name="przyprawić mięso mielone" />
+		<text id="preparestep_spagetti_pasta" name="gotować makraon" />
+		<text id="preparestep_spagetti_tomato" name="pokroić pomidory" />
+		<text id="preparestep_spareribs_meat" name="pokroić  mięso" />
+		<text id="preparestep_spareribs_oil" name="odmierzyć olej" />
+		<text id="preparestep_spareribs_onion" name="posiekać cebulę" />
+		<text id="preparestep_spareribs_tomato" name="zrobić puree z pomidorów" />
+		<text id="preparestep_steakkidneypie_flour" name="przesiać mąkę" />
+		<text id="preparestep_steakkidneypie_kidney" name="podzielić nerki" />
+		<text id="preparestep_steakkidneypie_meat" name="pokroić  mięso" />
+		<text id="preparestep_steakkidneypie_onion" name="posiekać cebulę" />
+		<text id="preparestep_steak_butter" name="dodać masło" />
+		<text id="preparestep_steak_lettuce" name="umyć sałatę" />
+		<text id="preparestep_steak_meat" name="pokroić  mięso" />
+		<text id="preparestep_steak_potato" name="obrać kartofle" />
+		<text id="preparestep_steak_tomato" name="pokroić pomidory" />
+		<text id="preparestep_stewedrhubarb_rhubarb" name="pokroić rabarbar" />
+		<text id="preparestep_stewedrhubarb_sugar" name="zkarmelizować cukier" />
+		<text id="preparestep_stew_meat" name="pokroić  mięso" />
+		<text id="preparestep_stew_oil" name="podgrzać olej" />
+		<text id="preparestep_stew_onion" name="posiekać cebulę" />
+		<text id="preparestep_strawberrycake_cream" name="ubić śmietanę" />
+		<text id="preparestep_strawberrycake_flour" name="przesiać mąkę" />
+		<text id="preparestep_strawberrycake_strawberry" name="umyć truskawki" />
+		<text id="preparestep_strawberrymousse_cream" name="ubić śmietanę" />
+		<text id="preparestep_strawberrymousse_eggs" name="oddzielić jajka" />
+		<text id="preparestep_strawberrymousse_strawberry" name="oczyścić truskawki" />
+		<text id="preparestep_strawberrymousse_sugar" name="odmierzyć cukier" />
+		<text id="preparestep_stuffedpeppers_ballpepper" name="wydrążyć paprykę" />
+		<text id="preparestep_stuffedpeppers_eggs" name="ubić jajka" />
+		<text id="preparestep_stuffedpeppers_rice" name="gotować ryż" />
+		<text id="preparestep_sundayfeast_carrots" name="obrać marchewkę" />
+		<text id="preparestep_sundayfeast_meat" name="pokroić mięso" />
+		<text id="preparestep_sundayfeast_peas" name="gotować groszek" />
+		<text id="preparestep_sundayfeast_potato" name="obrać kartofle" />
+		<text id="preparestep_sushi_cucumber" name="pokroić ogórki" />
+		<text id="preparestep_sushi_fish" name="podzielić rybę" />
+		<text id="preparestep_sushi_rice" name="gotować ryż" />
+		<text id="preparestep_toadinhole_flour" name="przesiać mąkę" />
+		<text id="preparestep_toadinhole_onion" name="posiekać cebulę" />
+		<text id="preparestep_toadinhole_sausages" name="policzyć kiełbaski" />
+		<text id="preparestep_toast_cheese" name="zetrzeć ser" />
+		<text id="preparestep_toast_flour" name="przesiać mąkę" />
+		<text id="preparestep_toast_pinapple" name="pokroić ananasa" />
+		<text id="preparestep_tofuburger_flour" name="przesiać mąkę" />
+		<text id="preparestep_tofuburger_lettuce" name="umyć sałatę" />
+		<text id="preparestep_tofuburger_tofu" name="zmieszać tofu" />
+		<text id="preparestep_tofuburger_tomato" name="pokroić pomidory" />
+		<text id="preparestep_tomatosoup_cream" name="ubić śmietanę" />
+		<text id="preparestep_tomatosoup_onion" name="posiekać cebulę" />
+		<text id="preparestep_tomatosoup_tomato" name="obrać pomidory ze skóry" />
+		<text id="preparestep_trifle_cookies" name="odważyć ciasteczka" />
+		<text id="preparestep_trifle_cream" name="ubić śmietanę" />
+		<text id="preparestep_trifle_strawberry" name="umyć truskawki" />
+		<text id="preparestep_trifle_sugar" name="odmierzyć cukier" />
+		<text id="preparestep_veganstirfry_carrots" name="zetrzeć marchewkę" />
+		<text id="preparestep_veganstirfry_peas" name="gotować groszek" />
+		<text id="preparestep_veganstirfry_rice" name="odmierzyć ryż" />
+		<text id="preparestep_veganstirfry_tomato" name="pokroić pomidory" />
+		<text id="preparestep_vegetablesoup_onion" name="posiekać cebulę" />
+		<text id="preparestep_vegetablesoup_potato" name="obrać kartofle" />
+		<text id="preparestep_vegetablesoup_tomato" name="pokroić pomidory" />
+		<text id="preparestep_veggiecurry_ballpepper" name="pokroić paprykę" />
+		<text id="preparestep_veggiecurry_coconut" name="rozłupać kokosa" />
+		<text id="preparestep_veggiecurry_curryspice" name="odmierzyć curry" />
+		<text id="preparestep_veggiecurry_eggplant" name="pokroić bakłażana" />
+		<text id="preparestep_veggiecurry_rice" name="odważyć ryż" />
+		<text id="preparestep_veggielasagne_cheese" name="zetrzeć ser" />
+		<text id="preparestep_veggielasagne_eggplant" name="pokroić bakłażana" />
+		<text id="preparestep_veggielasagne_pasta" name="gotować makaron" />
+		<text id="preparestep_veggielasagne_tomato" name="zrobić puree z pomidorów" />
+		<text id="preparestep_whitechoccheesecake_cookies" name="pokruszyć ciasteczka" />
+		<text id="preparestep_whitechoccheesecake_cream" name="ubić śmietanę" />
+		<text id="preparestep_whitechoccheesecake_milk" name="podgrzać mleko" />
+		<text id="preparestep_whitechoccheesecake_quark" name="pomieszać twaróg" />
+		<text id="preparestep_whitechoccheesecake_whitechocolat" name="zważyć czekoladę" />
+		<text id="preparestep_whitechocmousse_cream" name="ubić śmietanę" />
+		<text id="preparestep_whitechocmousse_eggs" name="oddzielić jajka" />
+		<text id="preparestep_whitechocmousse_whitechocolat" name="rozpuścić czekoladę" />
+		<text id="preparestep_coxinha_flour" name="Spread flour" />
+		<text id="preparestep_coxinha_chicken" name="Shred chicken" />
+		<text id="preparestep_coxinha_onion" name="Chop onions" />
+		<text id="preparestep_coxinha_cream" name="Make cream cheese" />
+		<text id="preparestep_coxinha_oil" name="Heat oil" />
+		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
+	</preparestep>
+	<preparestep_fancy>
+		<text id="preparestep_bananasplit_vanilla" name="rozetrzeć wanilię" />
+		<text id="preparestep_blackforestcherrycake_vanilla" name="wyskrobać wanilię" />
+		<text id="preparestep_pizzasalad_chili" name="Chop chili" />
+		<text id="preparestep_cheeseburger_chili" name="pokroić chili" />
+		<text id="preparestep_cheesedish_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_cheesefondue_chili" name="pokroić chili" />
+		<text id="preparestep_cherriecake_vanilla" name="wyskrobać wanilię" />
+		<text id="preparestep_cherrycompote_vanilla" name="wyskrobać wanilię" />
+		<text id="preparestep_chickenburger_chili" name="posiekać chili" />
+		<text id="preparestep_chickensalad_chili" name="pokroić chili" />
+		<text id="preparestep_chickensoup_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_chiliconcarne_chili" name="posiekać chili" />
+		<text id="preparestep_chocmousse_vanilla" name="rozetrzeć wanilię" />
+		<text id="preparestep_chocolatecake_vanilla" name="rozetrzeć wanilię" />
+		<text id="preparestep_chocolatecheesecake_vanilla" name="wyskrobać wanilię" />
+		<text id="preparestep_chocolatefondue_cinnamon" name="rozpylić cynamon" />
+		<text id="preparestep_christmasturkey_rosemary" name="Posiekać rozmaryn" />
+		<text id="preparestep_cookieplate_cinnamon" name="zmielić cynamon" />
+		<text id="preparestep_cornonthecob_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_curry_coriander" name="posiekać kolendrę" />
+		<text id="preparestep_duckalorange_cinnamon" name="zmielić cynamon" />
+		<text id="preparestep_easterdish_vanilla" name="wyskrobać wanilię" />
+		<text id="preparestep_englishbreakfast_chili" name="pokroić chili" />
+		<text id="preparestep_fishandchips_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_friedpotatoes_rosemary" name="posiekać rozmaryn" />
+		<text id="preparestep_fruitpudding_cinnamon" name="Zemleć cynamon" />
+		<text id="preparestep_fruitsalad_vanilla" name="rozetrzeć wanilię" />
+		<text id="preparestep_gardensalad_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_greensalad_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_gumbo_chili" name="pokroić chili" />
+		<text id="preparestep_hamburger_chili" name="pokroić chili" />
+		<text id="preparestep_hotcherrywaffles_vanilla" name="rozetrzeć wanilię" />
+		<text id="preparestep_jamspongepudding_vanilla" name="rozetrzeć wanilię" />
+		<text id="preparestep_lasagne_basil" name="zerwać listki bazylii" />
+		<text id="preparestep_macncheese_nutmeg" name="zetrzeć gałkę muszkatołową" />
+		<text id="preparestep_maplepancakes_vanilla" name="rozetrzeć wanilię" />
+		<text id="preparestep_marblecake_vanilla" name="wyskrobać wanilię" />
+		<text id="preparestep_mexicansalad_chili" name="pokroić chili" />
+		<text id="preparestep_minestrone_basil" name="zerwać listki bazylii" />
+		<text id="preparestep_mixedsalad_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_nasigoreng_chili" name="pokroić chili" />
+		<text id="preparestep_newyorkcheesecake_vanilla" name="rozetrzeć wanilię" />
+		<text id="preparestep_noodlesalad_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_omelette_chili" name="posiekać chilli" />
+		<text id="preparestep_onionsoup_chili" name="pokroić chili" />
+		<text id="preparestep_peasoup_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_pizzahawaii_chili" name="posiekać chili" />
+		<text id="preparestep_pizzatonno_horseradish" name="zetrzeć chrzan" />
+		<text id="preparestep_pizza_chili" name="pokroić chili" />
+		<text id="preparestep_porkroastwithcrackling_rosemary" name="posiekać rozmaryn" />
+		<text id="preparestep_potatosalad_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_redberrycompote_vanilla" name="wyskrobać wanilię" />
+		<text id="preparestep_ricepudding_cinnamon" name="zmielić cynamon" />
+		<text id="preparestep_roastchicken_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_sandwich_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_scouse_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_spagetti_basil" name="zerwać listki bazylii" />
+		<text id="preparestep_spareribs_chili" name="pokroić chili" />
+		<text id="preparestep_steakkidneypie_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_steak_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_stewedrhubarb_vanilla" name="rozetrzeć wanilię" />
+		<text id="preparestep_stew_chili" name="pokroić chili" />
+		<text id="preparestep_strawberrycake_vanilla" name="rozetrzeć wanilię" />
+		<text id="preparestep_strawberrymousse_vanilla" name="wyskrobać wanilię" />
+		<text id="preparestep_stuffedpeppers_parsley" name="posiekać pietruszkę" />
+		<text id="preparestep_sundayfeast_rosemary" name="posiekać rozmaryn" />
+		<text id="preparestep_sushi_horseradish" name="zetrzeć chrzan" />
+		<text id="preparestep_toadinhole_rosemary" name="posiekać rozmaryn" />
+		<text id="preparestep_toast_chili" name="pokroić chili" />
+		<text id="preparestep_tofuburger_chili" name="posiekać chili" />
+		<text id="preparestep_tomatosoup_basil" name="zerwać listki bazylii" />
+		<text id="preparestep_trifle_vanilla" name="rozetrzeć wanilię" />
+		<text id="preparestep_veganstirfry_chili" name="pokroić chili" />
+		<text id="preparestep_vegetablesoup_basil" name="zerwać listki bazylii" />
+		<text id="preparestep_veggiecurry_coriander" name="posiekać kolendrę" />
+		<text id="preparestep_veggielasagne_basil" name="zerwać listki bazylii" />
+		<text id="preparestep_whitechoccheesecake_vanilla" name="wyskrobać wanilię" />
+		<text id="preparestep_whitechocmousse_vanilla" name="wyskrobać wanilię" />
+	</preparestep_fancy>
+	<recipe>
+		<text id="recipe_bananasplit" name="Bananasplit" />
+		<text id="recipe_brigadeiro" name="Brigadeiro" />
+		<text id="recipe_beefstew" name="Gulasz" />
+		<text id="recipe_pizzasalad" name="Pizza with Salad" />
+		<text id="recipe_tripleomelette" name="Triple Omelette" />
+		<text id="recipe_chocolatewaffles" name="Chocolate Waffles" />
+		<text id="recipe_spanishomelette" name="Spanish Omelette" />
+		<text id="recipe_sausagepasta" name="Sausage Spaghetti" />
+		<text id="recipe_applepie" name="Apple Pie" />
+		<text id="recipe_ramen" name="Ramen" />
+		<text id="recipe_corncake" name="Corn Cake" />
+		<text id="recipe_feijoada" name="Feijoada" />
+		<text id="recipe_blackforestcherrycake" name="Wiśniowy tort ze Schwarzwaldu" />
+		<text id="recipe_cheeseburger" name="Cheeseburger" />
+		<text id="recipe_cheesedish" name="Talerz serów" />
+		<text id="recipe_cheesefondue" name="Serowe fondue" />
+		<text id="recipe_cherriecake" name="Wiśniowe ciasto" />
+		<text id="recipe_cherrycompote" name="Wiśniowy kompot" />
+		<text id="recipe_chickenburger" name="Chickenburger" />
+		<text id="recipe_chickensalad" name="Sałatka z kurczaka" />
+		<text id="recipe_chickensoup" name="Danie z kurczaka" />
+		<text id="recipe_chiliconcarne" name="Chili con Carne" />
+		<text id="recipe_chocmousse" name="Mousse au Chocolat" />
+		<text id="recipe_chocolatecake" name="Ciasto czekoladowe" />
+		<text id="recipe_chocolatecheesecake" name="Czekoladowy sernik" />
+		<text id="recipe_chocolatefondue" name="Czekoladowe fondue" />
+		<text id="recipe_christmasturkey" name="Świąteczna pieczeń" />
+		<text id="recipe_cookieplate" name="Talerz ciasta" />
+		<text id="recipe_cornonthecob" name="Kolby kukurydzy" />
+		<text id="recipe_curry" name="Curry" />
+		<text id="recipe_duckalorange" name="Kaczka á l&apos;Orange" />
+		<text id="recipe_easterdish" name="Wielkanocny koszyk" />
+		<text id="recipe_englishbreakfast" name="Angielskie śniadanie" />
+		<text id="recipe_fishandchips" name="Fish&apos;n&apos;Chips" />
+		<text id="recipe_friedpotatoes" name="Pieczone kartofle" />
+		<text id="recipe_fruitpudding" name="Ciasto owocowe" />
+		<text id="recipe_fruitsalad" name="Sałatka warzywna" />
+		<text id="recipe_greensalad" name="Sałatka" />
+		<text id="recipe_gumbo" name="Gumbo" />
+		<text id="recipe_hamburger" name="Hamburger" />
+		<text id="recipe_hotcherrywaffles" name="Gofr z ciepłymi wiśniami" />
+		<text id="recipe_jamspongepudding" name="Jam Sponge Pudding" />
+		<text id="recipe_lasagne" name="Lasagne" />
+		<text id="recipe_macncheese" name="Mac&apos;n&apos;Cheese" />
+		<text id="recipe_maplepancakes" name="Naleśniki z syropem klonowym" />
+		<text id="recipe_marblecake" name="Babka" />
+		<text id="recipe_mexicansalad" name="Meksykańska sałatka z fasolą" />
+		<text id="recipe_minestrone" name="Minestrone" />
+		<text id="recipe_mixedsalad" name="Sałatka mieszana" />
+		<text id="recipe_nasigoreng" name="Nasi Goreng" />
+		<text id="recipe_newyorkcheesecake" name="Serowe ciasto New york" />
+		<text id="recipe_noodlesalad" name="Sałatka z makaronem" />
+		<text id="recipe_omelette" name="Omlet" />
+		<text id="recipe_onionsoup" name="Zapiekana zupa cebulowa" />
+		<text id="recipe_peasoup" name="Zupa grochowa" />
+		<text id="recipe_pizza" name="Pizza" />
+		<text id="recipe_pizzahawaii" name="Pizza Hawaii" />
+		<text id="recipe_pizzatonno" name="Pizza Tonno" />
+		<text id="recipe_porkroastwithcrackling" name="Pieczeń wieprzowa" />
+		<text id="recipe_potatosalad" name="Sałatka ziemniaczana" />
+		<text id="recipe_redberrycompote" name="Jagodowy kompot" />
+		<text id="recipe_ricepudding" name="Ryż na mleku z musem jabłkowym" />
+		<text id="recipe_roastchicken" name="Pieczony kurczak" />
+		<text id="recipe_sandwich" name="Kanapka" />
+		<text id="recipe_scouse" name="Labskaus" />
+		<text id="recipe_spagetti" name="Spaghetti Bolognese" />
+		<text id="recipe_spareribs" name="Marynowane żeberka" />
+		<text id="recipe_steak" name="Steak menu" />
+		<text id="recipe_steakkidneypie" name="Steak and Kidney Pie" />
+		<text id="recipe_stewedrhubarb" name="Kompot z rabarbaru" />
+		<text id="recipe_strawberrycake" name="Ciasto truskawkowe" />
+		<text id="recipe_strawberrymousse" name="Mus truskawkowy" />
+		<text id="recipe_stuffedpeppers" name="Nadziewana papryka" />
+		<text id="recipe_sundayfeast" name="Jedzenie niedzielne" />
+		<text id="recipe_sushi" name="Sushi" />
+		<text id="recipe_toadinahole" name="Toad in a hole" />
+		<text id="recipe_toast" name="Tost Hawaii" />
+		<text id="recipe_tofuburger" name="Tofuburger" />
+		<text id="recipe_tomatosoup" name="Zupa pomidorowa" />
+		<text id="recipe_trifle" name="Przekładaniec" />
+		<text id="recipe_veganstirfry" name="Wegańska patelnia" />
+		<text id="recipe_vegetablesoup" name="Zupa warzywna" />
+		<text id="recipe_veggiecurry" name="Warzywa w curry" />
+		<text id="recipe_veggielasagne" name="Warzywna lasagne" />
+		<text id="recipe_whitechoccheesecake" name="Sernik z białą czekoladą" />
+		<text id="recipe_whitechocmousse" name="Mus z białej czekolady" />
+		<text id="recipe_coxinha" name="Coxinha" />
+	</recipe>
+	<recipes_fastfood>
+		<text id="recipe_smoothiemaker_greensmoothie" name="Zielony smoothie" />
+		<text id="recipe_smoothiemaker_kiba" name="Wiśniowo-bananowy smoothie" />
+		<text id="recipe_smoothiemaker_pinacolada" name="Virgin Colada" />
+		<text id="recipe_smoothiemaker_tomatojuice" name="Sok pomidorowy" />
+	</recipes_fastfood>
+	<server>
+		<mail>
+			<text id="mail_invite_friend" name="Hej %s!&lt;br /&gt;&lt;br /&gt;właśnie odkryłem(am) fajną grę &quot;Goodgame Café&quot; &lt;br /&gt;&lt;br /&gt;Ten link przeniesie Cię do gry:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Zaloguj się pod tym linkiem, aby bezpłatnie stworzyć swoją własną &quot;Café&quot;.&lt;br /&gt;&lt;br /&gt;Dowiedź się jak to jest posiadać własny biznes. Gotuj smaczne potrawy, obsługuj gości i urządź lokal według swojego gustu !&lt;br /&gt;&lt;br /&gt;Życzymy miłej zabawy %s" />
+			<text id="mail_lost_pw" name="Hej %s!&lt;br /&gt;&lt;br /&gt;Otrzymujesz ten e-mail automatycznie, ponieważ poprosiłeś(łaś) o hasło.&lt;br /&gt; Twoje hasło to: %s&lt;br /&gt;&lt;br /&gt;Ten link przeniesie Cię do gry:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Jeśli masz jakieś pytanie lub problem zgłoś się do support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Życzymy miłej zabawy!&lt;br /&gt;&lt;br /&gt;Twój team &lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_registration" name="Hej,&lt;br /&gt;&lt;br /&gt;dziękujemy za rejestrację i witamy w grze &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;W każdej chwili możesz zalogować się podając następujące dane:&lt;br /&gt;E-mail: %s&lt;br /&gt;Hasło: %s&lt;br /&gt;&lt;br /&gt;Ten link przeniesie Cię od razu do gry:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt; Jeśli masz jakieś pytanie lub problem zgłoś się do support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Życzymy miłej zabawy !&lt;br /&gt; Twój team &lt;br /&gt;&lt;br /&gt;Goodgamestudios.com" />
+		</mail>
+		<misc>
+			<text id="marketplace" name="Rynek" />
+		</misc>
+	</server>
+	<std_buttons>
+		<text id="btn_text_accept" name="Przyjmij" />
+		<text id="btn_text_cancle" name="Przerwij" />
+		<text id="btn_text_goback" name="Wstecz" />
+		<text id="btn_text_no" name="Nie" />
+		<text id="btn_text_notaccept" name="Odrzuć" />
+		<text id="btn_text_okay" name="Ok" />
+		<text id="btn_text_payment" name="Kup złoto / cafédolary" />
+		<text id="btn_text_share" name="Powiedź to swoim przyjaciołom!" />
+		<text id="btn_text_srchips" name="Zarób café dolary" />
+		<text id="btn_text_srgold" name="Zarób złoto" />
+		<text id="btn_text_yes" name="Tak" />
+	</std_buttons>
+	<tooltips>
+		<text id="tt_Basic_Achievement_Boughtdeco" name="Ilość kupionych dekoracji" />
+		<text id="tt_Basic_Achievement_Boughtingredients" name="Ilość kupionych dodatków" />
+		<text id="tt_Basic_Achievement_Cookingcount" name="Ilość ugotowanych potraw" />
+		<text id="tt_Basic_Achievement_Coopcount" name="Ilość wykonanych Co-Ops" />
+		<text id="tt_Basic_Achievement_Coopgoldcount" name="Ilość wykonanych Co-Ops ze statusem złotaa" />
+		<text id="tt_Basic_Achievement_Curiercount" name="Liczba dostaw kurierskich" />
+		<text id="tt_Basic_Achievement_Differentdishes" name="Ilość ugotowanych potraw" />
+		<text id="tt_Basic_Achievement_Earnedchips" name="Zarobione cafédolary" />
+		<text id="tt_Basic_Achievement_Fancycount" name="Ilość użytych fantazyjnych składników" />
+		<text id="tt_Basic_Achievement_Firenpc" name="Liczba zwolnionych kelnerów" />
+		<text id="tt_Basic_Achievement_Instantcount" name="Ilość gotowań ekspresowych" />
+		<text id="tt_Basic_Achievement_Jobclean" name="Ilość zebranych talerzy podczas pracy kelnera" />
+		<text id="tt_Basic_Achievement_Jobserve" name="Rozdane talerze podczas pracy" />
+		<text id="tt_Basic_Achievement_Masteies" name="Ilość zdobytych gwiazdek" />
+		<text id="tt_Basic_Achievement_Masteriesgold" name="Ilość osiągniętych złotych gwiazdek" />
+		<text id="tt_Basic_Achievement_Muffinmancash" name="Wygrane café dolary w Piekarzu Muffinów" />
+		<text id="tt_Basic_Achievement_Muffinmangold" name="Wygrane złoto w Piekarzu Muffinów" />
+		<text id="tt_Basic_Achievement_Overcookedfoods" name="Ilość zepsutych potraw" />
+		<text id="tt_Basic_Achievement_Servingcountmeals" name="Ilość ugotowanych głównych dań" />
+		<text id="tt_Basic_Achievement_Servingcountsalads" name="Ilość ugotowanych sałatek" />
+		<text id="tt_Basic_Achievement_Servingcountsnacks" name="Ilość przyrządzonych przystawek" />
+		<text id="tt_Basic_Achievement_Servingcountsoups" name="Ilość ugotowanych zup" />
+		<text id="tt_Basic_Achievement_Servingcountsweets" name="Ilość przyrządzonych słodkości" />
+		<text id="tt_Basic_Achievement_Servingcountvegans" name="Ilość ugotowanych potraw wegetariańskich" />
+		<text id="tt_Basic_Achievement_Servingscount" name="Ilość sprzedanych porcji" />
+		<text id="tt_Basic_Achievement_Solditems" name="Liczba sprzedanych dekoracji i mebli" />
+		<text id="tt_Basic_Achievement_Spentchips" name="Wydane cafédolary" />
+		<text id="tt_Basic_Achievement_Spentgold" name="Wydane złoto" />
+		<text id="tt_Basic_Achievement_Wheeloffortune" name="Ilość wygranych w kole fortuny" />
+		<text id="tt_byAmount" name="{0} z  {1}" />
+		<text id="tt_byLevel" name="od poziomu {0}" />
+		<text id="tt_CafeActionPanel_btn_achievements" name="Odznaczenia" />
+		<text id="tt_CafeActionPanel_btn_cookbook" name="Książka kucharska" />
+		<text id="tt_CafeActionPanel_btn_coop" name="Co-ops" />
+		<text id="tt_CafeActionPanel_btn_decoshop" name="Przebuduj" />
+		<text id="tt_CafeActionPanel_btn_gifts" name="Prezenty" />
+		<text id="tt_CafeActionPanel_btn_ingredientshop" name="Sklep" />
+		<text id="tt_CafeActionPanel_btn_market" name="Rynek" />
+		<text id="tt_CafeActionPanel_btn_owncafe" name="Moja Café" />
+		<text id="tt_CafeActionPanel_btn_staff" name="Personel" />
+		<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="Dół" />
+		<text id="tt_CafeAvatarCreationDialog_btn_boy" name="Chłopiec" />
+		<text id="tt_CafeAvatarCreationDialog_btn_girl" name="Dziewczyna" />
+		<text id="tt_CafeAvatarCreationDialog_btn_hair" name="Kolor włosów" />
+		<text id="tt_CafeAvatarCreationDialog_btn_skin" name="Kolor skóry" />
+		<text id="tt_CafeAvatarCreationDialog_btn_tops" name="Góra" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook" name="Gotuj ekspresowo" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="Nie możesz juz dzisiaj używać funkcji &apos;gotuj ekspresowo&apos;" />
+		<text id="tt_CafeClearStoveDialog_instantButton" name="Ugotuj ekspresowo" />
+		<text id="tt_CafeCookBookDialog_0" name="Słodycze" />
+		<text id="tt_CafeCookBookDialog_1" name="Główne potrawy" />
+		<text id="tt_CafeCookBookDialog_2" name="Przekąski" />
+		<text id="tt_CafeCookBookDialog_3" name="Sałata" />
+		<text id="tt_CafeCookBookDialog_4" name="Wegetariańskie" />
+		<text id="tt_CafeCookBookDialog_5" name="Przekąski" />
+		<text id="tt_CafeCookBookDialog_btn_cook" name="Gotuj" />
+		<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="Brakuje Ci składników" />
+		<text id="tt_CafeCookBookDialog_btn_mastery" name="jeszcze {0} do poziomu {1} gwiazdek Kliknij aby zobaczyć detale" />
+		<text id="tt_CafeCookBookDialog_btn_shop" name="Sklep ze składnikami" />
+		<text id="tt_CafeDekoShopPanel_btn_close" name="Powrót do Café" />
+		<text id="tt_CafeDekoShopPanel_btn_deko" name="Urządź" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Chair" name="Krzesła" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="Dekoracje" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Door" name="Drzwi" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Table" name="Stoły" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Tiles" name="Podłogi" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wall" name="Ściany" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wallobject" name="Dekoracje ściany" />
+		<text id="tt_CafeDekoShopPanel_btn_expansion" name="Poszerzenia" />
+		<text id="tt_CafeDekoShopPanel_btn_functional" name="Funkcjonalne" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Counter" name="Blaty" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Extras" name="Dodatki" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Fridge" name="Lodówki" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Stove" name="Kuchenki" />
+		<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="Potrzebujesz {0} sieciowych znajomych aby kupić to poszerzenie!" />
+		<text id="tt_CafeDekoShopPanel_btn_sell" name="Przeciągnij tutaj obiekty do sprzedaży" />
+		<text id="tt_CafeDekoShopPanel_cashexpansion" name="Musisz mieć poziom {0} aby kupić to poszerzenie za café dolary!" />
+		<text id="tt_CafeDekoShopPanel_dragItem" name="Przyjmij mnie do swojej café" />
+		<text id="tt_CafeDekoShopPanel_invalidexpansion" name="Potrzebujesz mniejszych poszerzeń zanim kupisz to duże." />
+		<text id="tt_CafeIngredientShopDialog_btn_addcash" name="Dodaj cafédolary/złoto" />
+		<text id="tt_CafeIngredientShopDialog_btn_all" name="Wszystko" />
+		<text id="tt_CafeIngredientShopDialog_btn_buy" name="Kup" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat1" name="Zwierzęce" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat2" name="Warzywa" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat3" name="Owoce" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat4" name="Fantazyjne składniki." />
+		<text id="tt_CafeIngredientShopDialog_btn_cat5" name="Specjalne" />
+		<text id="tt_CafeIngredientShopDialog_btn_fridge" name="Lodówka" />
+		<text id="tt_CafeIngredientShopDialog_btn_help" name="Czym są fantazyjne składniki?" />
+		<text id="tt_CafeIngredientShopDialog_btn_sell" name="Sprzedaj" />
+		<text id="tt_CafeIngredientShopDialog_btn_shop" name="Sklep" />
+		<text id="tt_CafeIngredientShopDialog_btn_unlock" name="Kurier" />
+		<text id="tt_CafeIngredientShopDialog_btn_wheel" name="Dostępny tylko w kole fortuny!" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_help" name="Pomoc przy pracy" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_refill" name="Napełnij uprawnienia do pracy" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_sign" name="Zarejestruj się/odrejestruj się jako szukający pracy" />
+		<text id="tt_CafeMasteryDialog_broncestar" name="Ugotuj więcej porcji!" />
+		<text id="tt_CafeMasteryDialog_goldstar" name="Gotuj szybciej!" />
+		<text id="tt_CafeMasteryDialog_silverstar" name="Otrzymaj więcej punktów XP!" />
+		<text id="tt_CafeNamePanel_mc_luxury" name="Poziom luksusu Twojej Café" />
+		<text id="tt_CafeNamePanel_mc_rating" name="Popularność Twojej café" />
+		<text id="tt_CafeOptionPanel_btn_blockfriends" name="Zablokuj zaproszenie" />
+		<text id="tt_CafeOptionPanel_btn_bugreport" name="Zgłoś nam błąd" />
+		<text id="tt_CafeOptionPanel_btn_changePass" name="Zmień hasło" />
+		<text id="tt_CafeOptionPanel_btn_custom" name="Zmień ubranie" />
+		<text id="tt_CafeOptionPanel_btn_faq" name="Pytania i odpowiedzi" />
+		<text id="tt_CafeOptionPanel_btn_fullscreen" name="Pełny ekran" />
+		<text id="tt_CafeOptionPanel_btn_help" name="Pomoc" />
+		<text id="tt_CafeOptionPanel_btn_logout" name="Wyloguj się" />
+		<text id="tt_CafeOptionPanel_btn_messages" name="Wiadomości" />
+		<text id="tt_CafeOptionPanel_btn_music" name="Włącz/wyłącz muzykę" />
+		<text id="tt_CafeOptionPanel_btn_news" name="Forum" />
+		<text id="tt_CafeOptionPanel_btn_options" name="Ustawienia" />
+		<text id="tt_CafeOptionPanel_btn_screenshot" name="Foto" />
+		<text id="tt_CafeOptionPanel_btn_sfx" name="Włącz/wyłącz muzykę" />
+		<text id="tt_CafeOptionPanel_btn_socialgroup" name="Grupa" />
+		<text id="tt_CafeOptionPanel_btn_sound" name="Muzyka" />
+		<text id="tt_CafeOptionPanel_btn_support" name="Support" />
+		<text id="tt_CafeOptionPanel_btn_verifyemail" name="Odbierz nagrodę" />
+		<text id="tt_CafeOptionPanel_btn_wantfriends" name="Dopuść zaproszenie" />
+		<text id="tt_CafeOptionPanel_btn_zoom" name="Zoom" />
+		<text id="tt_CafeOptionPanel_btn_zoomIn" name="Powiększ" />
+		<text id="tt_CafeOptionPanel_btn_zoomOut" name="Zmniejsz" />
+		<text id="tt_CafeRegisterPanel_btn_register" name="Zapisz &amp;Zarejestruj się" />
+		<text id="tt_CafeSmoothiemaker_btn_mix" name="Miksuj" />
+		<text id="tt_CafeSmoothiemaker_serve" name="Serwuj napój" />
+		<text id="tt_CafeSocialPanel_btn_buddies" name="Przyjaciele" />
+		<text id="tt_CafeSocialPanel_btn_buddiesincafe" name="Obecni gracze" />
+		<text id="tt_CafeSocialPanel_btn_chat" name="Chat" />
+		<text id="tt_CafeSocialPanel_btn_findbuddies" name="Zaproś znajomych" />
+		<text id="tt_CafeSocialPanel_btn_muteplayer" name="Wycisz" />
+		<text id="tt_CafeStaffDialog_rename" name="Zmień kelnera" />
+		<text id="tt_CafeUserStatePanel_btn_adddollar" name="Dodaj cafédolary/złoto" />
+		<text id="tt_CafeUserStatePanel_btn_refill" name="Napełnij uprawnienia do pracy" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} XP do następnego poziomu" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="XP" />
+		<text id="tt_highscore_luxury" name="Sortuj według poziomu luksusu" />
+		<text id="tt_highscore_xp" name="Sortuj według XP" />
+		<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="Odznaczenia" />
+		<text id="tt_PlayerActionChoicesComponent_btn_addfriend" name="Oferta przyjaźni" />
+		<text id="tt_PlayerActionChoicesComponent_btn_info" name="Info" />
+		<text id="tt_PlayerActionChoicesComponent_btn_job" name="Zatrudnij" />
+		<text id="tt_PlayerActionChoicesComponent_btn_kick" name="Wyrzuć" />
+		<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="Zakończ przyjaźń" />
+		<text id="tt_PlayerActionChoicesComponent_btn_visit" name="Odwiedź café" />
+		<text id="tt_Social_Achievement_Friendscount" name="Liczba przyjaciół na NK" />
+	</tooltips>
+	<tutorial>
+		<text id="tut_buymissingingredient_copy" name="Liczba  0 przy cebuli obok lodówki oznacza ilość danego produktu w Twoim magazynie, w tym przypadku jego brak. Pod spodem zobaczysz ceny  Kup cebulę!" />
+		<text id="tut_cafeopen_copy" name="Nieźle! Pierwszy gość nie każe długo na siebie czekać Teraz znasz już podstawy aby dowiedzieć się trochę więcej  rozejrzyj się dookoła  Powodzenia!" />
+		<text id="tut_cookmeal_copy" name="Przejdźmy do rzeczy!\nPokaż sałatkę!" />
+		<text id="tut_cookopenshop_copy" name="Tutaj mozesz zobaczyc potrawy z potrzebnymi składnikami i  czasem przygotowania.\nO nie! Nie masz cebuli potrzebnej do sałatki ale zawsze możesz ją kupić w naszym sklepie." />
+		<text id="tut_cookpreparecook_copy" name="Najważniejsze jest jedzenie. Pozwól nam przyrządzić sałatkę. Kliknij na kuchenkę!" />
+		<text id="tut_instantcook2_copy" name="Korzystaj z &apos;ekspresowego gotowania&apos;\nTo kosztuje złoto ale jest bardzo praktyczne!" />
+		<text id="tut_instantcook_copy" name="Normalnie potrzebujesz 3 minut aby przyrządźic sałatke. Istnieje jednak możliwość skrócenia czasu przygotowania, co teraz zostanie pokazane ." />
+		<text id="tut_preparesteps_copy" name="Kliknij kilka razy na kuchenkę aby śledzic kolejne kroki przygotowania potrawy." />
+		<text id="tut_servedish_copy" name="Dobrze zrobione!\nTeraz musisz zaserwować jedzenie\nDziesięć porcji może szybko się zepsuć, nie zapomnij aby zatroszczyć sie o zaopatrzenie!" />
+		<text id="tut_start_copy" name="Serdecznie witamy w Twojej café, {0}!\nTo krótkie wprowadzenie pomoże Ci odnaleźć się w cudownym świecie gastronomii." />
+		<text id="tut_title" name="Wprowadzenie!" />
+		<text id="tut_welcome_title" name="Witamy!" />
+	</tutorial>
+	<generic_flash>
+		<alert>
+			<text id="generic_alert_bug" name="Błąd" />
+			<text id="generic_alert_connection_failed_copy" name="Na grze prowadzone są teraz prace. Spróbuj później !" />
+			<text id="generic_alert_connection_failed_title" name="Prace w toku" />
+			<text id="generic_alert_connection_lost_copy" name="Połączenie z grą zostanie przerwane. Spróbuj ponownie się połączyć." />
+			<text id="generic_alert_connection_lost_description" name="Właśnie trwają prace remontowe w celu wprowadzenia nowej aktualizacji, opcji w grze lub usuwania błędów. &lt;br&gt;&lt;br&gt; Pracujemy tak szybko jak jest to możliwe abyś mógł/a szybko zagrać w grę." />
+			<text id="generic_alert_connection_lost_promo" name="Może w międzyczasie zobaczysz nasze inne gry?" />
+			<text id="generic_alert_connection_lost_thanks" name="Dziękujemy za zrozumienie!" />
+			<text id="generic_alert_connection_lost_title" name="Połączenie przerwane!" />
+			<text id="generic_alert_error" name="Błąd" />
+			<text id="generic_alert_information" name="Wskazówka" />
+			<text id="generic_alert_loggedout_copy" name="Właśnie się wylogowałeś ale nie zapomnij: każdego dnia czeka na Ciebie login bonus!" />
+			<text id="generic_alert_loggedout_title" name="Do zobaczenia!" />
+			<text id="generic_alert_warning" name="Uwaga!" />
+			<text id="generic_alert_watchout" name="Uwaga!" />
+			<text id="generic_alert_win7chromebug" name="Jeśli tekst nie jest widoczny prosimy wcisnąć Ctrl." />
+			<text id="generic_invalid_email_provider" name="Adres E-mail od tego dostawcy jest zabroniony!" />
+			<text id="generic_js_alert_firstsessiontracking_loading" name="Twoje połączenie internetowe jest za wolne. Spróbuj później!" />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="Podoba Ci się gra?Jak możemy ją ulepszyć? Napisz nam swoje zdanie na forum lub grupie Goodgame!" />
+			<text id="generic_js_alert_firstsessiontracking_unregistered" name="Uwaga: stan gry zostanie zapisany jeśli się zarejestrujesz!" />
+			<text id="generic_register_error_invalidemail" name="Adres e-mail jest niepoprawny" />
+			<text id="generic_report_muted_chattry" name="W tej chwili nie możesz korzystać z chatu, ponieważ zostałeś zablokowany" />
+		</alert>
+		<button>
+			<text id="generic_btn_accept" name="Przyjmij" />
+			<text id="generic_btn_cancel" name="Przerwij" />
+			<text id="generic_btn_close" name="Zamknij" />
+			<text id="generic_btn_continue" name="Dalej" />
+			<text id="generic_btn_end" name="Zakończ" />
+			<text id="generic_btn_endnow" name="Zakończ natychmiast" />
+			<text id="generic_btn_goback" name="Wstecz" />
+			<text id="generic_btn_no" name="Nie" />
+			<text id="generic_btn_noshare" name="Jeszcze nie!" />
+			<text id="generic_btn_notaccept" name="Odrzuć" />
+			<text id="generic_btn_okay" name="Ok" />
+			<text id="generic_btn_reconnect" name="Połącz ponownie" />
+			<text id="generic_btn_refresh" name="Aktualizacja" />
+			<text id="generic_btn_report" name="Zgłoś" />
+			<text id="generic_btn_search" name="Szukaj" />
+			<text id="generic_btn_share" name="Podziel się!" />
+			<text id="generic_btn_skip" name="Przeskocz" />
+			<text id="generic_btn_start" name="Start" />
+			<text id="generic_btn_topayment" name="Daj to!" />
+			<text id="generic_btn_yes" name="Tak" />
+		</button>
+		<chat>
+			<text id="generic_chat_writeable" name="Tylko osoby zarejestrowane, które osiągneły 1 poziom mogą uzywać czatu." />
+		</chat>
+		<common>
+			<text id="generic_admin" name="Admin" />
+			<text id="generic_animation" name="Pokazuj animacje" />
+			<text id="generic_bugreport" name="Zgłoś nam błąd" />
+			<text id="generic_changePass" name="Zmień hasło" />
+			<text id="generic_comma" name="." />
+			<text id="generic_conningsoon" name="*Już niedługo*" />
+			<text id="generic_date" name="Fakt" />
+			<text id="generic_day" name="dzień" />
+			<text id="generic_dayformat" name="{0}.{1}." />
+			<text id="generic_days" name="dni" />
+			<text id="generic_day_short" name="Dn" />
+			<text id="generic_decimalseparator" name="." />
+			<text id="generic_email" name="E-mail" />
+			<text id="generic_faq" name="Pytania i odpowiedzi" />
+			<text id="generic_forum" name="Forum" />
+			<text id="generic_friend" name="Znajomy" />
+			<text id="generic_friends" name="Znajomy" />
+			<text id="generic_general" name="Ustawienia Ogólne" />
+			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_group" name="Grupa" />
+			<text id="generic_guest" name="Gość" />
+			<text id="generic_help" name="Pomoc" />
+			<text id="generic_high" name="Wysoka" />
+			<text id="generic_hour" name="godzina" />
+			<text id="generic_hours" name="Godziny" />
+			<text id="generic_hour_short" name="G" />
+			<text id="generic_limited" name="Limitowane" />
+			<text id="generic_logout" name="Wyloguj się" />
+			<text id="generic_low" name="Niska" />
+			<text id="generic_medium" name="Średnia" />
+			<text id="generic_minute" name="minuta" />
+			<text id="generic_minutes" name="minuty" />
+			<text id="generic_minute_short" name="mój" />
+			<text id="generic_moderator" name="Mod" />
+			<text id="generic_month" name="Miesiąc" />
+			<text id="generic_months" name="Miesięcy" />
+			<text id="generic_music" name="Muzyka on/off" />
+			<text id="generic_name" name="Imię" />
+			<text id="generic_news" name="Nowe hasło" />
+			<text id="generic_options" name="Ustawienia" />
+			<text id="generic_quality" name="Jakość" />
+			<text id="generic_register" name="Zapisz i zarejestruj się" />
+			<text id="generic_second" name="sekunda" />
+			<text id="generic_seconds" name="sekundy" />
+			<text id="generic_second_short" name="Sek" />
+			<text id="generic_sound" name="Dźwięk on/off" />
+			<text id="generic_support" name="Support" />
+			<text id="generic_today" name="Dzisiaj" />
+			<text id="generic_tomorrow" name="Jutro" />
+			<text id="generic_tutorial" name="Tutorial" />
+			<text id="generic_username" name="Imię gracza" />
+			<text id="generic_xp" name="XP" />
+			<text id="generic_yesterday" name="Wczoraj" />
+		</common>
+		<error>
+			<text id="generic_versioncheck_error" name="Stara wersja!" />
+			<text id="generic_versioncheck_errorcode_1" name="Aktualizuj stronę" />
+		</error>
+		<feeds id="" />
+		<friends>
+			<text id="generic_friends_add_copy" name="Czy chcesz dodać {0} do listy przyjaciół?" />
+			<text id="generic_friends_add_title" name="Zaproszenie do znajomych" />
+			<text id="generic_friends_buddy_btn_morefriends" name="Więcej przyjaciół!" />
+			<text id="generic_friends_denied_copy" name="{0} odrzucił Twoje zapytanie." />
+			<text id="generic_friends_denied_title" name="Zapytanie odrzucone!" />
+			<text id="generic_friends_invite_badword_copy" name="Podana nazwa jest niedopuszczalna!" />
+			<text id="generic_friends_invite_badword_title" name="Uwaga!" />
+			<text id="generic_friends_invite_error_copy" name="Możesz zaprosić innych graczy tylko jako zarejestrowany użytkownik." />
+			<text id="generic_friends_invite_error_title" name="Najpierw zarejestruj się" />
+		</friends>
+		<fullscreen>
+			<text id="generic_fullscreen_error_copy" name="Moduł pełnoekranowy niemożliwy" />
+		</fullscreen>
+		<languages>
+			<text id="generic_language_cs" name="Czeski" />
+			<text id="generic_language_da" name="Duński" />
+			<text id="generic_language_de" name="Niemiecki" />
+			<text id="generic_language_el" name="Grecki" />
+			<text id="generic_language_en" name="Angielski" />
+			<text id="generic_language_es" name="Hiszpański" />
+			<text id="generic_language_fi" name="Fiński" />
+			<text id="generic_language_fr" name="Francuski" />
+			<text id="generic_language_hu" name="Węgierski" />
+			<text id="generic_language_id" name="Indonezyjski" />
+			<text id="generic_language_it" name="Włoski" />
+			<text id="generic_language_ja" name="Japoński" />
+			<text id="generic_language_ko" name="Koreański" />
+			<text id="generic_language_nl" name="Niderlandzki" />
+			<text id="generic_language_no" name="Norweski" />
+			<text id="generic_language_pl" name="Polski" />
+			<text id="generic_language_pt" name="Portugalski" />
+			<text id="generic_language_pt_BR" name="Brazylijski" />
+			<text id="generic_language_ru" name="Rosyjski" />
+			<text id="generic_language_sv" name="Szwedzki" />
+			<text id="generic_language_tr" name="Turecki" />
+			<text id="generic_language_zh_CN" name="Chiński (uproszczony)" />
+			<text id="generic_language_zh_TW" name="Chiński (tradycyjny)" />
+		</languages>
+		<login>
+			<text id="generic_login_banned" name="Twoje konto zostało zablokowane! Proszę zgłoś się do Support&apos;u!" />
+			<text id="generic_login_banned_2" name="Twoje konto zostało zdeaktywowane!  Deaktywacja trwa do: {0}  Jeśli masz pytania dotyczące deaktywacji, prosimy skontaktować się z pomocą." />
+			<text id="generic_login_banned_3" name="Twoje konto zostało zablokowane na stałe. Jeśli masz jakieś pytania dotyczące blokady, prosimy skontaktować się z pomocą." />
+			<text id="generic_login_banned_permanent" name="stały" />
+			<text id="generic_login_facebook" name="Zaloguj się przez Facebooka!" />
+			<text id="generic_login_login" name="LOGIN" />
+			<text id="generic_login_loginname" name="Nazwa użytkownika/ E-Mail" />
+			<text id="generic_login_lostpassword" name="Nie pamiętasz hasła?" />
+			<text id="generic_login_lostpassword_copy" name="Podaj swój adres e-mail a my przyslemy Ci hasło." />
+			<text id="generic_login_lostpassword_title" name="Nie pamiętam hasła" />
+			<text id="generic_login_newplayer" name="Jesteś nowy?" />
+			<text id="generic_login_password" name="Hasło" />
+			<text id="generic_login_play" name="GRAJ TERAZ" />
+			<text id="generic_login_playnow" name="Graj teraz!" />
+			<text id="generic_login_register" name="Rejestracja" />
+			<text id="generic_login_rememberpassword" name="Zapisz hasło" />
+			<text id="generic_login_wronglogin" name="Nazwa użytkownika lub hasło niepoprawne!" />
+		</login>
+		<logout>
+			<text id="generic_logout_guest_copy" name="Zarejestruj się aby zapisać stan gry!" />
+			<text id="generic_logout_guest_title" name="Rejestracja" />
+		</logout>
+		<notification>
+			<text id="servershutdownpremonition_backin_copy" name="Sława będzie dostępna ponownie najpoźniej w ciągu {0}" />
+			<text id="servershutdownpremonition_copy" name="Serwer zostanie wyłączony za {0}. Wyloguj się lub zarejestruj aby zapisać stan gry." />
+			<text id="servershutdownpremonition_registered_copy" name="Serwer gry jest zamknięty w {0} z powodu prac konserwacyjnych." />
+			<text id="servershutdown_copy" name="Serwer zostanie wyłączony. Za kilka minut można się ponownie zalogować." />
+			<text id="welcomeback_copy" name="Miło Cię tu znowu widzieć! Otrzymujesz mały podarunek aby pomóc Ci podwyższyć poziom!" />
+			<text id="welcomeback_title" name="Znowu tutaj!" />
+		</notification>
+		<password>
+			<text id="generic_change_password_copy_newpass" name="Nowe hasło:" />
+			<text id="generic_change_password_copy_oldpass" name="Stare hasło:" />
+			<text id="generic_change_password_copy_send" name="Twoje nowe hasło zostało wysłane na adres e-mail" />
+			<text id="generic_change_password_error_failed" name="Sorry, ale to nie jest Twoje stare hasło." />
+			<text id="generic_change_password_error_success" name="Hasło zostało zmienione" />
+			<text id="generic_change_password_faild_copy" name="Twoje nowe hasło musi zawierać więcej niż 2 znaki a stare powinno zostać poprawnie podane" />
+			<text id="generic_change_password_faild_specialcharacters" name="Twoje hasło nie może być puste i zawierać znaków specjalnych." />
+			<text id="generic_change_password_faild_title" name="Podaj hasło" />
+			<text id="generic_change_password_title" name="Zmiana hasła" />
+			<text id="generic_guest_change_password_faild_copy" name="Możesz zmienić hasło tylko jako zarejestrowany gracz!" />
+			<text id="generic_guest_change_password_faild_title" name="Najpierw zarejestruj się" />
+		</password>
+		<payment>
+			<text id="generic_discount_payment_title_general" name="Więcej {0} za monety!" />
+			<text id="generic_payment_48hdiscount_button" name="Więcej złota w przeciągu 48 godzin" />
+			<text id="generic_payment_48hdiscount_button_general" name="Więcej {0} w przeciągu 48 godzin" />
+			<text id="generic_payment_48hdiscount_copy" name="Tylko 48 godzin po rejestracji- kup wybrane pakiety złota i otrzymaj {0}% złota za darmo!" />
+			<text id="generic_payment_48hdiscount_copy_1" name="Tylko 48 godzin po rejestracji- kup pakiet złota i otrzymaj {0}% złota za darmo!" />
+			<text id="generic_payment_48hdiscount_copy_1_general" name="Tylko 48 godzin po rejestracji- kup pakiet {0} i otrzymaj {1}% za darmo!" />
+			<text id="generic_payment_48hdiscount_copy_general" name="Tylko 48 godzin po rejestracji- kup wybrane pakiety {0} i otrzymaj {1}% za darmo!" />
+			<text id="generic_payment_btn" name="Odwiedź sklep" />
+			<text id="generic_payment_copy" name="Zostaniesz przeniesiony do Paymentshopu" />
+			<text id="generic_payment_discount_button" name="Teraz {0}% więcej złota za pieniądze!" />
+			<text id="generic_payment_discount_copy" name="Kup teraz złoto i otrzymaj {0}% bonus!" />
+			<text id="generic_payment_discount_copy_general" name="Kup teraz {0} i otrzymaj bonus w wysokości {1} %!" />
+			<text id="generic_payment_discount_general" name="Otrzymaj {0}% więcej {1} za Twoje pieniądze!" />
+			<text id="generic_payment_discount_generalshort" name="{0}% więcej za złoto!" />
+			<text id="generic_payment_discount_time" name="JESZCZE {0}!" />
+			<text id="generic_payment_discount_title" name="Więcej złota za pieniądze!" />
+			<text id="generic_payment_newPrices" name="Od teraz  permanentnie  obniżamy ceny w naszym sklepie z płatnościami! Dzięki temu zaoszczędzicie dużo pieniędzy!" />
+			<text id="generic_payment_title" name="Sklep z płatnościami" />
+		</payment>
+		<progressbar>
+			<text id="loading_text_1" name="Poszukiwanie tunelu  w przestrzeni kosmicznej" />
+			<text id="loading_text_10" name="Rozłóż pozycje w świecie" />
+			<text id="loading_text_11" name="Rysowanie grafik" />
+			<text id="loading_text_12" name="Kolorowanie guzików" />
+			<text id="loading_text_13" name="Ukryj jajka wielkanocne" />
+			<text id="loading_text_14" name="Zobacz informacje użytkownika" />
+			<text id="loading_text_15" name="Odstraszanie błędów" />
+			<text id="loading_text_16" name="Karmienie programistów" />
+			<text id="loading_text_17" name="Zagraj z klientem" />
+			<text id="loading_text_18" name="Włącz klepsydrę" />
+			<text id="loading_text_19" name="Chłodzenie systemu" />
+			<text id="loading_text_2" name="Olejenie kół zębatych" />
+			<text id="loading_text_20" name="Będzie zrobione niedługo" />
+			<text id="loading_text_3" name="Zakręć kółkiem chomika" />
+			<text id="loading_text_4" name="Rozgrzewanie serwera" />
+			<text id="loading_text_5" name="Mam nadzieję, że wszystko pójdzie dobrze" />
+			<text id="loading_text_6" name="Zadzwoń po tępiciela" />
+			<text id="loading_text_7" name="Kalkulowanie skomplikowanych algorytmów" />
+			<text id="loading_text_8" name="Kalibracja strumienia kompesatorów" />
+			<text id="loading_text_9" name="Pozycja Tinkera" />
+			<text id="loading_text_default" name="Initializacja" />
+			<text id="loading_text_itemXML" name="Ładowanie elementów gry" />
+			<text id="progress_loadfiles" name="Ładowanie aktywów..." />
+			<text id="progress_serverconnection" name="Łączenie z serwerem..." />
+		</progressbar>
+		<register>
+			<text id="generic_register_agb_copy" name="Bez akceptacji zasad użytkowania serwisu nie przejdziesz dalej, musisz je przeczytać i zaakceptować, potem możesz kontynuować!" />
+			<text id="generic_register_agb_read" name="Przeczytaj warunki" />
+			<text id="generic_register_alreadyavatar" name="Ten użytkownik ma już awatara." />
+			<text id="generic_register_badword" name="Nie możesz użyć {0} w nazwie." />
+			<text id="generic_register_btn_agb" name="Akceptuj regulamin" />
+			<text id="generic_register_btn_later" name="Później" />
+			<text id="generic_register_btn_next" name="Dalej" />
+			<text id="generic_register_btn_save" name="Zapisz" />
+			<text id="generic_register_character" name="Stwórz swoją postać" />
+			<text id="generic_register_copy_0" name="Zarejestruj się darmowo!" />
+			<text id="generic_register_copy_1" name="Zapisz stan gry!" />
+			<text id="generic_register_emaillong_copy" name="Twój adres e-mail jest za długi." />
+			<text id="generic_register_emailwrong_copy" name="Podany e-mail jest niepoprawny." />
+			<text id="generic_register_email_copy" name="Adres e-mail nie możne być pusty i zawierać znaków specjalnych." />
+			<text id="generic_register_error" name="Rejestracja zakończona błędem." />
+			<text id="generic_register_errormistake" name="Błąd" />
+			<text id="generic_register_error_accountalreadyexists" name="Pod tym adresem e-mail jest już zarejestrowany gracz, sorry" />
+			<text id="generic_register_forfree" name="Zarejestruj się za darmo!" />
+			<text id="generic_register_forfree1" name="Za darmo!" />
+			<text id="generic_register_letsgo" name="Chodźmy!" />
+			<text id="generic_register_namealreadyused" name="Ta nazwa jest już zajęta." />
+			<text id="generic_register_namenotvalid" name="Nazwa użytkownika jest nieważna." />
+			<text id="generic_register_passwordshort_copy" name="Podane hasło jest za krótkie. Musi  składać się z conajmniej 4 znaków." />
+			<text id="generic_register_passwordwrong_copy" name="Podane hasło jest niepoprawne" />
+			<text id="generic_register_password_copy" name="Twoje hasło nie może być puste i zawierać znaków specjalnych." />
+			<text id="generic_register_receivenews" name="Subskrybcja" />
+			<text id="generic_register_rememberdata" name="Zapamiętaj dane" />
+			<text id="generic_register_reward" name="Subskrybuj za darmo i otrzymaj {0} {1}!" />
+			<text id="generic_register_subscribe" name="Subskrybuj" />
+			<text id="generic_register_success" name="Właśnie się zalogowałeś/aś." />
+			<text id="generic_register_title" name="Błąd rejestracji" />
+			<text id="generic_register_unlock" name="Ta funkcja jest włączona!" />
+		</register>
+		<report>
+			<text id="generic_report_muted_badword1_copy" name="Uważaj na sposób wyrażania się, ponieważ Twój czat może zostać zablokowany lub w najgorszym przypadku Twoje konto.Powód :{0}" />
+			<text id="generic_report_muted_badword2_copy" name="Nie możesz korzystać z czatu przez {0}, ponieważ nie przestrzegałeś reguł naszego portalu. Powód: {1}" />
+			<text id="generic_report_muted_domain1" name="Żadnych adresów internetowych na czacie!" />
+			<text id="generic_report_muted_reported_copy" name="Wielu graczy skarżyło się na Ciebie.Nie możesz korzystać z czatu przez {0}. Powód: {1}" />
+			<text id="generic_report_player_copy" name="Czy chcesz na pewno zarejestrować  gracza {0}? Uwaga! nadużycie tej funkcji może doprowadzić do blokady konta." />
+			<text id="generic_report_player_reason_0" name="Obraza" />
+			<text id="generic_report_player_reason_1" name="Niestosowne treści seksualne" />
+			<text id="generic_report_player_reason_2" name="Rasistowskie opinie" />
+			<text id="generic_report_player_reason_3" name="Groźby/Szantaż" />
+			<text id="generic_report_player_reason_title" name="Powód zgłoszenia:" />
+			<text id="generic_report_player_title" name="Zarejestruj gracza?" />
+			<text id="generic_report_reported_copy" name="Zostałeś zgłoszony przez innego gracza do administratora. Powód: {0}" />
+		</report>
+		<worlds>
+			<text id="generic_connect" name="połączyć" />
+			<text id="generic_select_world" name="Wybierz świat:" />
+			<text id="generic_world" name="Świat: {0}" />
+			<text id="generic_world_international" name="Internacjonalny : {0}" />
+		</worlds>
+	</generic_flash>
+</cafe>

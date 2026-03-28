@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cafe>
+	<achievement>
+		<text id="Basic_Achievement_Boughtdeco" name="koupené dekorace" />
+		<text id="Basic_Achievement_Boughtingredients" name="koupené suroviny" />
+		<text id="Basic_Achievement_Cookingcount" name="usilovný fritovač" />
+		<text id="Basic_Achievement_Coopcount" name="muffin multitask" />
+		<text id="Basic_Achievement_Coopgoldcount" name="snaživý kuchař" />
+		<text id="Basic_Achievement_Curiercount" name="doručeno kurýrem" />
+		<text id="Basic_Achievement_Differentdishes" name="virtuos v ochutnávání" />
+		<text id="Basic_Achievement_Earnedchips" name="výdělek" />
+		<text id="Basic_Achievement_Fancycount" name="skvělý kolega" />
+		<text id="Basic_Achievement_Firenpc" name="vyhození číšníci" />
+		<text id="Basic_Achievement_Instantcount" name="netrpělivý usazeč" />
+		<text id="Basic_Achievement_Jobclean" name="rychlý odklízeč" />
+		<text id="Basic_Achievement_Jobserve" name="rychlý přidělovač" />
+		<text id="Basic_Achievement_Masteies" name="rychlý kráječ" />
+		<text id="Basic_Achievement_Masteriesgold" name="zlatý kráječ" />
+		<text id="Basic_Achievement_Muffinmancash" name="Bohatý muffin" />
+		<text id="Basic_Achievement_Muffinmangold" name="Zlatý muffin" />
+		<text id="Basic_Achievement_Overcookedfoods" name="zkažené porce" />
+		<text id="Basic_Achievement_Servingcountmeals" name="šťavnaté pařené buchty" />
+		<text id="Basic_Achievement_Servingcountsalads" name="čerstvý uchutnavač" />
+		<text id="Basic_Achievement_Servingcountsnacks" name="haptický jedohubkovač" />
+		<text id="Basic_Achievement_Servingcountsoups" name="laxní kuchař polévky" />
+		<text id="Basic_Achievement_Servingcountsweets" name="zaměstnaný pekař" />
+		<text id="Basic_Achievement_Servingcountvegans" name="zakvitlý květák" />
+		<text id="Basic_Achievement_Servingscount" name="vyrobené porce" />
+		<text id="Basic_Achievement_Solditems" name="prodaný nábytek a dekorace" />
+		<text id="Basic_Achievement_Spentchips" name="utracené kavárenské dolary" />
+		<text id="Basic_Achievement_Spentgold" name="utracené zlato" />
+		<text id="Basic_Achievement_Wheeloffortune" name="Točící se dobrota" />
+		<text id="Social_Achievement_Friendscount" name="pozvaní přátelé" />
+	</achievement>
+	<alerts>
+		<text id="alert_addcash_copy" name="Tady si můžeš koupit nebo vydělat zlato/kavárenské dolary." />
+		<text id="alert_addcash_title" name="platby" />
+		<text id="alert_addFriend_copy" name="Chceš si {0} přidat jako přítele?" />
+		<text id="alert_addFriend_denied_copy" name="{0} bohužel odmítnul tvoji žádost." />
+		<text id="alert_addFriend_denied_title" name="žádost odmítnuta" />
+		<text id="alert_addFriend_title" name="žádost o přátelství" />
+		<text id="alert_addgold_copy" name="Aby jsi tady mohl nakupovat, musíš se nejdřív zaregistrovat!" />
+		<text id="alert_addgold_title" name="registrovat" />
+		<text id="alert_avatarcustom_copy" name="Počas práce se nemůžeš převlékat!" />
+		<text id="alert_buytiles_copy" name="1. Vyber si jednu dlaždici z\n\n2. Kliknutím na tlačítko myši si vyber požadovaný předmět do kavárny.\n\n3. Pustit" />
+		<text id="alert_buytiles_title" name="Umístit dlaždice?" />
+		<text id="alert_changePasswordFaild_copy" name="Tvé nové heslo musí být delší než 2 znaky a staré heslo musí být správně zadáno!" />
+		<text id="alert_changePasswordFaild_title" name="zadání hesla" />
+		<text id="alert_clearstove_cancelButton" name="ponechat" />
+		<text id="alert_clearstove_okButton" name="odstranit" />
+		<text id="alert_clearstove_title" name="Na tomto pultu se právě servíruje jídlo. Chceš si ponechat jídlo?" />
+		<text id="alert_counter_outofreach_copy" name="Pult není dostupný. Skus něco přemístit!" />
+		<text id="alert_counter_outofreach_title" name="Pozor!" />
+		<text id="alert_dekoshop_humanwaiter_copy" name="Dokud u tebe v kavárně pracují i jiní hráči, nemůžeš nic měnit v režimu Přestavba." />
+		<text id="alert_dekoshop_humanwaiter_title" name="Nejde to!" />
+		<text id="alert_dekoshop_kickplayer_copy" name="U tebe v kavárně jsou i jiní hráči.Chceš je vyhodit a vyměnit v  menu Přestavba?" />
+		<text id="alert_dekoshop_kickplayer_title" name="Pozor!" />
+		<text id="alert_FancyCooking_copy" name="Chceš okořenit jídlo zábavnou přísadou a získat tak {0} XP a {1} porcí navíc?" />
+		<text id="alert_FancyCooking_title" name="zábavné přísady" />
+		<text id="alert_fancyinfo_copy" name="Jestli okořeníš jídlo odpovídající zábavnou přísadou, můžeš dostat až o 20% víc XP za porci!" />
+		<text id="alert_fancyinfo_title" name="Zábavné přísady!" />
+		<text id="alert_giftboxfull_copy" name="Tvoje schránka na dárky je plná! Nemůžeš přijat žádné další dárky od přátel!" />
+		<text id="alert_giftboxfull_title" name="Už nemáš místo!" />
+		<text id="alert_guestchangepassword_copy" name="Heslo si může změnit jenom registrovaný hráč!" />
+		<text id="alert_guestchangepassword_title" name="nejdřív registrovat" />
+		<text id="alert_guestcoop_copy" name="Aby jsi mohl spolupracovat, musíš se nejdřív zaregistrovat!" />
+		<text id="alert_guestinvitefriend_copy" name="Jenom jako registrovaný hráč můžeš zvát další přítely." />
+		<text id="alert_guestinvitefriend_title" name="nejdřív zaregistrovat" />
+		<text id="alert_guestlogout_copy" name="Zaregistruj se, aby byl uložen stav tvé hry!" />
+		<text id="alert_guestlogout_title" name="Registrovat" />
+		<text id="alert_help_copy" name="Nejdřív si musíš pomoct sám..." />
+		<text id="alert_help_title" name="pomoc" />
+		<text id="alert_invitefriend_confirmed_copy" name="Tvoje pozvánka pro {0} byla odesláná!" />
+		<text id="alert_invitefriend_confirmed_title" name="byl pozvaný!" />
+		<text id="alert_invitefriend_copy" name="Zadej jméno a e-mailovú adresu svého přítela a pozvi ho." />
+		<text id="alert_invitefriend_mail" name="E-mailová adresa přítele:" />
+		<text id="alert_invitefriend_myname" name="Tvoje jméno:" />
+		<text id="alert_invitefriend_name" name="Jméno přítele:" />
+		<text id="alert_invitefriend_title" name="pozvat přítele" />
+		<text id="alert_jobhelp_copy1" name="1.vzít jídlo z pultu\n2.obsloužit čekajícího hosta" />
+		<text id="alert_jobhelp_copy2" name="1.vzít talíř ze stolu \n2.přinést k pultu" />
+		<text id="alert_jobhelp_header1" name="obsluhovat hosty" />
+		<text id="alert_jobhelp_header2" name="odklidit talíře" />
+		<text id="alert_jobhelp_title" name="tvé úkoly" />
+		<text id="alert_jobrefill_copy" name="Aby si mohl pracovat, musíš se nejdřív zaregistrovat." />
+		<text id="alert_jobrefill_title" name="registrovat" />
+		<text id="alert_lostpassword_copy" name="Zadej e-mailovú adresu a my ti pošleme heslo." />
+		<text id="alert_lostpassword_title" name="zapomenuté heslo" />
+		<text id="alert_marketplace_jobcancled_copy" name="{0} tvoji nabídku práce bohužel odmítnul." />
+		<text id="alert_marketplace_jobcancled_title" name="práce odmítnuta" />
+		<text id="alert_marketplace_jobempty_copy" name="Vyčerpal jsi dnešní pracovné povolení." />
+		<text id="alert_marketplace_jobempty_title" name="Pracovné povolení vypršelo!" />
+		<text id="alert_marketplace_jobhired_copy" name="{0} přijal tvoji nabídku práce!" />
+		<text id="alert_marketplace_jobhired_title" name="práce přijata" />
+		<text id="alert_marketplace_job_copy" name="{0} (level {1}) ti nabídnul práci číšníka. Chceš nabídku přijmout?" />
+		<text id="alert_marketplace_job_title" name="Ponuka práce!" />
+		<text id="alert_marketplace_noticeboard_copy" name="Přihlaš se jako hledajíci práci, nebo jestli jsi tak už udělal, můžeš tady doplnit své pracovné povolení." />
+		<text id="alert_marketplace_noticeboard_title" name="pracovné povolení" />
+		<text id="alert_marketplace_playerjobempty_copy" name="Hráč již dnes pracoval dost." />
+		<text id="alert_marketplace_playerjobempty_title" name="práce odmítnuta" />
+		<text id="alert_marketplace_playerleaved_copy" name="Hráč opustil trh." />
+		<text id="alert_marketplace_playerleaved_title" name="Ups" />
+		<text id="alert_nofreecounter_copy" name="Nemáš žádný volný pult." />
+		<text id="alert_nofreecounter_title" name="Ups!" />
+		<text id="alert_nofridge_copy" name="V kavárně ještě nemáš žádnou lednici. Rozhlídni se v režimu Přestavba a vyber si lednici do kavárny." />
+		<text id="alert_nofridge_title" name="Žádná lednice?" />
+		<text id="alert_nojobpermission_copy" name="Jestli se chceš přihlásit jako hledající práci, potřebuješ povolení k práci!" />
+		<text id="alert_nojobpermission_title" name="Pozor!" />
+		<text id="alert_register_agb_copy" name="Bez Všeobecných obchodních podmínek to nejde. Jednoducho přečíst a potvrdit tlačítkem vlevo! Pak můžeš začít." />
+		<text id="alert_register_email_copy" name="E-mailová adresa nesmí být prázdná a nesmí obsahovat zvláštní znaky." />
+		<text id="alert_register_password_copy" name="Heslo nesmí být prázdné a nesmí obsahovat zvláštní znaky." />
+		<text id="alert_register_title" name="chyba v registraci" />
+		<text id="alert_seekingjob_copy" name="Aby si mohl pracovat, musíš se nejdřív zaregistrovat." />
+		<text id="alert_seekingjob_title" name="registrovat" />
+		<text id="alert_selldeco_copy" name="Opravdu chceš tento předmět prodat za {0}?" />
+		<text id="alert_selldeco_title" name="Prodat?" />
+		<text id="alert_sellitem_copy" name="Opravdu chceš tento předmět prodat za {0}?" />
+		<text id="alert_sellitem_title" name="Prodat?" />
+		<text id="alert_smoothiemaker_full_copy" name="Ve Tvém Frosty jsou ještě drinky! Podávej je hostům, pak můžeš namíchat nové!" />
+		<text id="alert_smoothiemaker_outofreach_copy" name="Tvůj Frosty není k dispozici. Zkus něco přestavět!" />
+		<text id="alert_smoothiemaker_storage_copy" name="Ve Tvém Frosty jsou ještě drinky! Jestli ho uskladníš, zbylé porce zmizí!" />
+		<text id="alert_stafffire_copy" name="Chceš svého věrného číšníka opravdu propustit?" />
+		<text id="alert_stafffire_title" name="Propustit číšníka?" />
+		<text id="alert_staffhire_copy" name="Dej svému novému číšníkovi jméno." />
+		<text id="alert_staffhire_title" name="nově přijmout" />
+		<text id="alert_storefull_copy" name="Tvá lednice je plná! Aby jsi měl opět místo, musíš prodat přísady!" />
+		<text id="alert_storefull_title" name="Plná lednice!" />
+		<text id="alert_stove_outofreach_copy" name="Sporák není dostupný. Skus něco přemístit!" />
+		<text id="alert_stove_outofreach_title" name="Pozor!" />
+		<text id="alert_unlockitem_copy" name="Nech si tuto přísadu poslat kurýrem! Něco to ale stojí." />
+		<text id="alert_unlockitem_title" name="Doručit kurýrem?" />
+		<text id="alert_userkicked_copy" name="Byl jsi vyhozen z kavárny." />
+		<text id="alert_userkicked_title" name="Vyhozen!" />
+		<text id="alert_workinghero_copy" name="Kuchař ještě musí pracovat!" />
+		<text id="alert_workinghero_title" name="Počkej!" />
+	</alerts>
+	<commons>
+		<text id="addgold" name="víc zlata" />
+		<text id="buy" name="koupit" />
+		<text id="cash" name="kavárenské dolary" />
+		<text id="comingsoon" name="*Již brzy*" />
+		<text id="day" name="den" />
+		<text id="days" name="dny" />
+		<text id="friends" name="{0} přátelé" />
+		<text id="gold" name="zlato" />
+		<text id="hour" name="hodina" />
+		<text id="hours" name="hodiny" />
+		<text id="level" name="level" />
+		<text id="logout" name="odhlásit" />
+		<text id="mastery" name="hvězdičkový level" />
+		<text id="minute" name="minuta" />
+		<text id="minutes" name="minuty" />
+		<text id="new" name="Nové!" />
+		<text id="second" name="vteřina" />
+		<text id="seconds" name="vteřiny" />
+		<text id="sell" name="prodat" />
+		<text id="usable_character" name="volné postavy" />
+		<text id="XofY" name="{0} z {1}" />
+		<text id="xp" name="XP" />
+	</commons>
+	<cookstep>
+		<text id="cookstep_bananasplit1" name="ochladit zmrzlinu" />
+		<text id="cookstep_bananasplit2" name="krájet banány" />
+		<text id="cookstep_brigadeiro1" name="Melting chocolate" />
+		<text id="cookstep_brigadeiro2" name="Shaping brigadeiros" />
+		<text id="cookstep_blackforestcherrycake1" name="míchat přísady" />
+		<text id="cookstep_blackforestcherrycake2" name="upéct koláč" />
+		<text id="cookstep_pizzasalad1" name="Making pizzas" />
+		<text id="cookstep_pizzasalad2" name="Making salads" />
+		<text id="cookstep_tripleomelette1" name="Mixing eggs strongly" />
+		<text id="cookstep_tripleomelette2" name="Folding everything" />
+		<text id="cookstep_chocolatewaffles1" name="Melting chocolate" />
+		<text id="cookstep_chocolatewaffles2" name="Covering waffles" />
+		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
+		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
+		<text id="cookstep_sausagepasta1" name="Boiling pasta" />
+		<text id="cookstep_sausagepasta2" name="Frying sausages" />
+		<text id="cookstep_applepie1" name="Building pies" />
+		<text id="cookstep_applepie2" name="Baking pies" />
+		<text id="cookstep_ramen1" name="Boiling pasta" />
+		<text id="cookstep_ramen2" name="Adding spices" />
+		<text id="cookstep_corncake1" name="Mixing ingredients" />
+		<text id="cookstep_corncake2" name="Baking cakes" />
+		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
+		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
+		<text id="cookstep_cheeseburger1" name="opéct sekanou" />
+		<text id="cookstep_cheeseburger2" name="obložit burger" />
+		<text id="cookstep_cheesedish1" name="nachystat sýr" />
+		<text id="cookstep_cheesedish2" name="nastrouhat sýr" />
+		<text id="cookstep_cheesefondue1" name="upéct chléb" />
+		<text id="cookstep_cheesefondue2" name="ohřát sýr" />
+		<text id="cookstep_cherriecake1" name="míchat přísady" />
+		<text id="cookstep_cherriecake2" name="upéct koláč" />
+		<text id="cookstep_cherrycompote1" name="uvařit třešně" />
+		<text id="cookstep_cherrycompote2" name="nechat vychladnout" />
+		<text id="cookstep_chickenburger1" name="usmažit kuře" />
+		<text id="cookstep_chickenburger2" name="obložit burger" />
+		<text id="cookstep_chickensalad1" name="opéct kuře" />
+		<text id="cookstep_chickensalad2" name="připravit salát" />
+		<text id="cookstep_chickensoup1" name="opéct slaninu" />
+		<text id="cookstep_chickensoup2" name="uvařit polévku" />
+		<text id="cookstep_chiliconcarne1" name="opéct sekanou" />
+		<text id="cookstep_chiliconcarne2" name="vařit chilli" />
+		<text id="cookstep_chocmousse1" name="míchaní přísad" />
+		<text id="cookstep_chocmousse2" name="vychladit pěnu" />
+		<text id="cookstep_chocolatecake1" name="míchat přísady" />
+		<text id="cookstep_chocolatecake2" name="péct" />
+		<text id="cookstep_chocolatecheesecake1" name="rozpustit čokoládu" />
+		<text id="cookstep_chocolatecheesecake2" name="upéct koláč" />
+		<text id="cookstep_chocolatefondue1" name="rozpustit čokoládu" />
+		<text id="cookstep_chocolatefondue2" name="zamíchat smetanu" />
+		<text id="cookstep_christmasturkey1" name="udusit zeleninu" />
+		<text id="cookstep_christmasturkey2" name="upéct krocana" />
+		<text id="cookstep_cookieplate1" name="vykrajovat těsto" />
+		<text id="cookstep_cookieplate2" name="upéct sušenky" />
+		<text id="cookstep_cornonthecob1" name="uvařit kukuřici" />
+		<text id="cookstep_cornonthecob2" name="připravit salát" />
+		<text id="cookstep_curry1" name="opéct přísady" />
+		<text id="cookstep_curry2" name="přidat kokosový ořech" />
+		<text id="cookstep_duckalorange1" name="naplnit kachnu" />
+		<text id="cookstep_duckalorange2" name="upéct kachnu" />
+		<text id="cookstep_easterdish1" name="rozpustit čokoládu" />
+		<text id="cookstep_easterdish2" name="uvařit vejce" />
+		<text id="cookstep_englishbreakfast1" name="uvařit fazole" />
+		<text id="cookstep_englishbreakfast2" name="opéct párky" />
+		<text id="cookstep_fishandchips1" name="fritovat" />
+		<text id="cookstep_fishandchips2" name="šťouchat hrách" />
+		<text id="cookstep_friedpotatoes1" name="uvařit brambory" />
+		<text id="cookstep_friedpotatoes2" name="upéct brambory" />
+		<text id="cookstep_fruitpudding1" name="nechat odležet těsto" />
+		<text id="cookstep_fruitpudding2" name="péct" />
+		<text id="cookstep_fruitsalad1" name="krájet ovoce" />
+		<text id="cookstep_fruitsalad2" name="přidat dresing" />
+		<text id="cookstep_greensalad1" name="namíchat dresing" />
+		<text id="cookstep_greensalad2" name="nechat odstát salát" />
+		<text id="cookstep_gumbo1" name="udusit přísady" />
+		<text id="cookstep_gumbo2" name="přidat rýži" />
+		<text id="cookstep_hamburger1" name="opéct burger" />
+		<text id="cookstep_hamburger2" name="nachystat burger" />
+		<text id="cookstep_hotcherrywaffles1" name="uvařit třešně" />
+		<text id="cookstep_hotcherrywaffles2" name="upéct vafle" />
+		<text id="cookstep_jamspongepudding1" name="smíchat přísady" />
+		<text id="cookstep_jamspongepudding2" name="péct" />
+		<text id="cookstep_lasagne1" name="opéct sekanou" />
+		<text id="cookstep_lasagne2" name="upéct lasagne" />
+		<text id="cookstep_macncheese1" name="plnit nádobu na kynutí" />
+		<text id="cookstep_macncheese2" name="péct" />
+		<text id="cookstep_maplepancakes1" name="mísit těsto" />
+		<text id="cookstep_maplepancakes2" name="upéct lívance" />
+		<text id="cookstep_marblecake1" name="naplnit formu" />
+		<text id="cookstep_marblecake2" name="péct" />
+		<text id="cookstep_mexicansalad1" name="uvařit fazole" />
+		<text id="cookstep_mexicansalad2" name="smíchat přísady" />
+		<text id="cookstep_minestrone1" name="udusit zeleninu" />
+		<text id="cookstep_minestrone2" name="přidat nudle" />
+		<text id="cookstep_mixedsalad1" name="namíchat dresing" />
+		<text id="cookstep_mixedsalad2" name="nechat odstát salát" />
+		<text id="cookstep_nasigoreng1" name="uvařit kuře" />
+		<text id="cookstep_nasigoreng2" name="udusit zeleninu" />
+		<text id="cookstep_newyorkcheesecake1" name="promíchat nádivku" />
+		<text id="cookstep_newyorkcheesecake2" name="upéct koláč" />
+		<text id="cookstep_noodlesalad1" name="míchat majonézu" />
+		<text id="cookstep_noodlesalad2" name="smíchat přísady" />
+		<text id="cookstep_omelette1" name="kořenit vejce" />
+		<text id="cookstep_omelette2" name="srazit vejce" />
+		<text id="cookstep_onionsoup1" name="udusit cibuli" />
+		<text id="cookstep_onionsoup2" name="zapéct sýr" />
+		<text id="cookstep_peasoup1" name="podusit cibuli" />
+		<text id="cookstep_peasoup2" name="uvařit polévku" />
+		<text id="cookstep_pizza1" name="obložit pizzu" />
+		<text id="cookstep_pizza2" name="upéct pizzu" />
+		<text id="cookstep_pizzahawaii1" name="obložit pizzu" />
+		<text id="cookstep_pizzahawaii2" name="upéct pizzu" />
+		<text id="cookstep_pizzatonno1" name="obložit pizzu" />
+		<text id="cookstep_pizzatonno2" name="upéct pizzu" />
+		<text id="cookstep_porkroastwithcrackling1" name="okořenit maso" />
+		<text id="cookstep_porkroastwithcrackling2" name="opékat" />
+		<text id="cookstep_potatosalad1" name="uvařit brambory" />
+		<text id="cookstep_potatosalad2" name="míchat majonézu" />
+		<text id="cookstep_redberrycompote1" name="zavařit ovocí" />
+		<text id="cookstep_redberrycompote2" name="osladit" />
+		<text id="cookstep_ricepudding1" name="uvařit mléčnou rýži" />
+		<text id="cookstep_ricepudding2" name="uvařit jablečnou kaši" />
+		<text id="cookstep_roastchicken1" name="naplnit kuře" />
+		<text id="cookstep_roastchicken2" name="opékat" />
+		<text id="cookstep_sandwich1" name="namazat chléb" />
+		<text id="cookstep_sandwich2" name="obložit toast" />
+		<text id="cookstep_scouse1" name="uvařit maso" />
+		<text id="cookstep_scouse2" name="přidat červenou řepu" />
+		<text id="cookstep_spagetti1" name="opéct sekanou" />
+		<text id="cookstep_spagetti2" name="uvařit omáčku" />
+		<text id="cookstep_spareribs1" name="naložit maso" />
+		<text id="cookstep_spareribs2" name="opéct maso" />
+		<text id="cookstep_steak1" name="opéct maso" />
+		<text id="cookstep_steak2" name="připravit salát" />
+		<text id="cookstep_steakkidneypie1" name="uvařit nádivku" />
+		<text id="cookstep_steakkidneypie2" name="péct" />
+		<text id="cookstep_stew1" name="opéct rybu" />
+		<text id="cookstep_stew2" name="smažit" />
+		<text id="cookstep_stewedrhubarb1" name="uvařit rebarboru" />
+		<text id="cookstep_stewedrhubarb2" name="nechat vychladnout" />
+		<text id="cookstep_strawberrycake1" name="péct formu" />
+		<text id="cookstep_strawberrycake2" name="obložit koláč" />
+		<text id="cookstep_strawberrymousse1" name="rozmačkat jahody" />
+		<text id="cookstep_strawberrymousse2" name="vyšlehat pěnu" />
+		<text id="cookstep_stuffedpeppers1" name="plnit papriku" />
+		<text id="cookstep_stuffedpeppers2" name="péct papriku" />
+		<text id="cookstep_sundayfeast1" name="naložit maso" />
+		<text id="cookstep_sundayfeast2" name="upéct maso" />
+		<text id="cookstep_sushi1" name="rozdělit přísady" />
+		<text id="cookstep_sushi2" name="srolovat" />
+		<text id="cookstep_toadinhole1" name="mísit těsto" />
+		<text id="cookstep_toadinhole2" name="péct" />
+		<text id="cookstep_toast1" name="obložit toast" />
+		<text id="cookstep_toast2" name="opéct toast" />
+		<text id="cookstep_tofuburger1" name="opéct tofu" />
+		<text id="cookstep_tofuburger2" name="obložit burger" />
+		<text id="cookstep_tomatosoup1" name="opéct cibuli" />
+		<text id="cookstep_tomatosoup2" name="uvařit rajčata" />
+		<text id="cookstep_trifle1" name="uvařit puding" />
+		<text id="cookstep_trifle2" name="vrstvit trifle" />
+		<text id="cookstep_veganstirfry1" name="udusit zeleninu" />
+		<text id="cookstep_veganstirfry2" name="uvařit rýži" />
+		<text id="cookstep_vegetablesoup1" name="opéct cibuli" />
+		<text id="cookstep_vegetablesoup2" name="uvařit polévku" />
+		<text id="cookstep_veggiecurry1" name="uvařit rýži" />
+		<text id="cookstep_veggiecurry2" name="smažit kari" />
+		<text id="cookstep_veggielasagne1" name="vrstvit lasagne" />
+		<text id="cookstep_veggielasagne2" name="upéct lasagne" />
+		<text id="cookstep_whitechoccheesecake1" name="míchat přísady" />
+		<text id="cookstep_whitechoccheesecake2" name="upéct koláč" />
+		<text id="cookstep_whitechocmousse1" name="rozpustit čokoládu" />
+		<text id="cookstep_whitechocmousse2" name="vychladit pěnu" />
+		<text id="cookstep_coxinha1" name="Mixing ingredients" />
+		<text id="cookstep_coxinha2" name="Frying coxinhas" />
+	</cookstep>
+	<coopmission>
+		<text id="coop_desc_long_1" name="Pořádáme kurz vaření, kde se naučíš připravit ještě lepší jídlo. Chceš se zapojit?" />
+		<text id="coop_desc_long_10" name="Tvoje rodina přijede na návštěvu a Ty máš čestnú úlohu připravit vánoční večeři. Nechte si chutnat!" />
+		<text id="coop_desc_long_11" name="Kuchařská bitva je naplánovaná a my potřebujeme velké množství koláčů! Upeč pro nás tolik koláčů, kolik jen můžeš..." />
+		<text id="coop_desc_long_12" name="Pro městskou jídelnu potřebujeme pár druhů polévek. Můžeš jich uvařit několik takových, které budou chutnat všem?" />
+		<text id="coop_desc_long_13" name="Pro asijský tématický večer potřebujeme ještě pár typických asijských jídel. Umíš pár receptů?" />
+		<text id="coop_desc_long_14" name="Pro národní shromáždění stavebních dělníků potřebujeme ještě pár opravdu vydatných jídel. Můžeš pomoct?" />
+		<text id="coop_desc_long_15" name="Je tady návšteva z Londýna, ktérá si přeje několik chutných pokrmů ze svého domova. Můžeš pro ně něco vykouzlit?" />
+		<text id="coop_desc_long_2" name="Plánuji párty v mexickém stylu a potřebuji k tomu i mexické jídlo. Můžeš mi s tím pomoct?" />
+		<text id="coop_desc_long_3" name="Čekám návštěvu sportovního družstva z Hamburku a chci, aby se měli jako doma. Proto potřebuji někoho, kdo umí vařit jídla jako z Hamburku. Pomůžeš?" />
+		<text id="coop_desc_long_4" name="Pořádám velkou párty a potřebuji ještě hodně jídla, aby byli hosté spokojení. Slyšel jsem, že tvůj catering je skvělý. Můžeš mi pomoct?" />
+		<text id="coop_desc_long_5" name="Lyžařský park ve městě pořádá lyřažskú párty a potřebuje velké množství chutného jídla. Můžeš pomoct?" />
+		<text id="coop_desc_long_6" name="Můj šéf dnes přijde na večeři a já chci udělat dojem štyřchodovým menu..Můžeš to vzít do svých rukou?" />
+		<text id="coop_desc_long_7" name="Ve školní jídelně hořelo a děti nedostali jídlo! Můžeš nám pomoct připravit něco chutné k zakousnutí?" />
+		<text id="coop_desc_long_8" name="Můj nejlepší přítel slaví narozeniny a zapomněl se postarat o jídlo. Přijde hodně hladových lidí...Můžeš nám pomoct?" />
+		<text id="coop_desc_long_9" name="J tady italská vesnická slavnost. Jediné, co ještě chybí, je jídlo. Jak to vypadá s tvým kuchařským uměním?" />
+		<text id="coop_desc_short_1" name="Staň se nejlepším ve vaření boloňských špaget!" />
+		<text id="coop_desc_short_10" name="Jíst až do prasknutí kalhot!" />
+		<text id="coop_desc_short_11" name="Každý zásah se počítá!" />
+		<text id="coop_desc_short_12" name="Není nad polévku!" />
+		<text id="coop_desc_short_13" name="Bez rýže to nejde!" />
+		<text id="coop_desc_short_14" name="Maso a brambory máme rádi!" />
+		<text id="coop_desc_short_15" name="Všechno pro Brity z celeho světa!" />
+		<text id="coop_desc_short_2" name="Mexická fiesta se vším, co k tomu patří!" />
+		<text id="coop_desc_short_3" name="Labkaus pro hosty z Hamburku!" />
+		<text id="coop_desc_short_4" name="Toast Hawaii na zahradní oslavu!" />
+		<text id="coop_desc_short_5" name="Skvělá čokoláda a sýr!" />
+		<text id="coop_desc_short_6" name="Nejlepší čokoládová pěna!" />
+		<text id="coop_desc_short_7" name="S plným žaludkem se studuje líp!" />
+		<text id="coop_desc_short_8" name="Upeč pizzu a spolupracuj na oslavě narozenin!" />
+		<text id="coop_desc_short_9" name="Pizza a těstoviny!" />
+		<text id="coop_title_1" name="KURZ VAŘENÍ" />
+		<text id="coop_title_10" name="JSOU VÁNOCE!" />
+		<text id="coop_title_11" name="KUCHAŘSKÁ BITVA!" />
+		<text id="coop_title_12" name="POLÉVKOVÉ VARIACE" />
+		<text id="coop_title_13" name="VŠECHNO ASIJSKÝ" />
+		<text id="coop_title_14" name="BUDE TO OPRAVDU VÝDATNÉ!" />
+		<text id="coop_title_15" name="HODNĚ BRITSKÉ!" />
+		<text id="coop_title_2" name="MEXICKÝ VEČER" />
+		<text id="coop_title_3" name="NÁVŠTĚVA Z HAMBURKU" />
+		<text id="coop_title_4" name="ZAHRADNÍ OSLAVA" />
+		<text id="coop_title_5" name="LYŽAŘSKÁ PÁRTY" />
+		<text id="coop_title_6" name="SLAVNOSTNÍ VEČEŘE" />
+		<text id="coop_title_7" name="ŠKOLSKÁ JÍDELNA" />
+		<text id="coop_title_8" name="OSLAVA NAROZENIN" />
+		<text id="coop_title_9" name="ITALSKÝ BUFET" />
+	</coopmission>
+	<dialogs>
+		<text id="dialogwin_achievement_title" name="vyznamenání" />
+		<text id="dialogwin_avatarcreate_man" />
+		<text id="dialogwin_avatarcreate_random" name="změnit výzor" />
+		<text id="dialogwin_avatarcreate_txt_avatar_name" name="Jméno:" />
+		<text id="dialogwin_avatarcreate_txt_avatar_title" name="vytvoř si postavu" />
+		<text id="dialogwin_avatarcreate_woman" />
+		<text id="dialogwin_avatarnameselect_copy" name="Jméno už bylo použité. Návrhy jmen:" />
+		<text id="dialogwin_avatarnameselect_title" name="Ups!" />
+		<text id="dialogwin_avatar_btn_random" name="Náhoda" />
+		<text id="dialogwin_bonus_copy_achievement" name="Dosáhl jsi stupeň {0} vyznamenání! Srdečné blahopřání!" />
+		<text id="dialogwin_bonus_copy_counter" name="Teď si můžeš koupit další pult." />
+		<text id="dialogwin_bonus_copy_dish" name="Máš přístup k novým receptům:" />
+		<text id="dialogwin_bonus_copy_expand" name="Rozšířila se kavárna! Teď máš víc místa pro tvé hosty, dekorace a mnoho jiného!" />
+		<text id="dialogwin_bonus_copy_fridge" name="Teď si můžeš koupit další lednici." />
+		<text id="dialogwin_bonus_copy_instant" name="Jednou tak rychle vařit. Jednou klikni a jídlo bude připraveno k servírování." />
+		<text id="dialogwin_bonus_copy_level2" name="Už jsi to viděl? Svojí kavárnu můžeš rozšířit a mít tak víc míst pro své hosty!" />
+		<text id="dialogwin_bonus_copy_login" name="Co se stalo, když jsi nebyl v kavárně:" />
+		<text id="dialogwin_bonus_copy_newwaiter" name="Teď máš ve své kavárně nového spolupracovníka! Hosté mohou přijít!" />
+		<text id="dialogwin_bonus_copy_stove" name="Teď si můžeš koupit nový sporák." />
+		<text id="dialogwin_bonus_copy_waiter" name="Teď můžeš přijmout dalšího číšníka." />
+		<text id="dialogwin_bonus_title_achievement" name="nové vyznamenání" />
+		<text id="dialogwin_bonus_title_counter" name="nový pult" />
+		<text id="dialogwin_bonus_title_dish" name="nové recepty" />
+		<text id="dialogwin_bonus_title_expand" name="Hurá!" />
+		<text id="dialogwin_bonus_title_fridge" name="nová lednice" />
+		<text id="dialogwin_bonus_title_instant" name="častější instatní vaření" />
+		<text id="dialogwin_bonus_title_level2" name="Rozšířit!" />
+		<text id="dialogwin_bonus_title_login" name="Opět zde!" />
+		<text id="dialogwin_bonus_title_newwaiter" name="gratulace" />
+		<text id="dialogwin_bonus_title_stove" name="nový sporák" />
+		<text id="dialogwin_bonus_title_waiter" name="víc personálu" />
+		<text id="dialogwin_buytile_copy" name="Chceš koupit {0} obkládaček za {1}?" />
+		<text id="dialogwin_buytile_title" name="Koupit obkládačky?" />
+		<text id="dialogwin_changepassword_copy_newpass" name="Nové heslo:" />
+		<text id="dialogwin_changepassword_copy_oldpass" name="Staré heslo:" />
+		<text id="dialogwin_changepassword_title" name="změnit heslo" />
+		<text id="dialogwin_clearcounter_cancelButton" name="ponechat" />
+		<text id="dialogwin_clearcounter_okButton" name="zahodit" />
+		<text id="dialogwin_clearcounter_title" name="Na tomto pultu se právě servíruje jídlo. Co s ním chceš udělat?" />
+		<text id="dialogwin_clearstove_btn_cancel" name="ponechat" />
+		<text id="dialogwin_clearstove_btn_ok" name="zahodit" />
+		<text id="dialogwin_clearstove_copy" name="Dnes ještě můžeš {0}krát použít &apos;ihned uvařit&apos;." />
+		<text id="dialogwin_clearstove_title" name="Na tomto sporáku se právě uvařilo jídlo. Co s ním chceš udělat?" />
+		<text id="dialogwin_cookbook_income" name="{0} na porci" />
+		<text id="dialogwin_cookbook_readyin" name="Hotovo za: {0}" />
+		<text id="dialogwin_cookbook_servings" name="Porce: {0}" />
+		<text id="dialogwin_coopextend_nomoney" name="Nemáš dostatek zlata na prodloužení spolupráce!" />
+		<text id="dialogwin_coopreward_finish_0" name="zlato" />
+		<text id="dialogwin_coopreward_finish_1" name="stříbro" />
+		<text id="dialogwin_coopreward_finish_2" name="bronz" />
+		<text id="dialogwin_coopreward_title_fail" name="Spolupráce se nezdařila!" />
+		<text id="dialogwin_coopreward_title_success" name="spolupráce s {0} se zdařila" />
+		<text id="dialogwin_coopshelp_copy" name="Tady můžeš spolu s přitely plnit zakázky a vydělat tak XP a kavárenské dolary navíc.\n Čím rychleji splníte zakázku, tím lepší bude odměna!\n Jesti nebude stačit čas, je možné ho kdykoliv prodloužit!\n Ale mysli na to, že odměnu dostaneš jenom jestli budeš taky spolupracovat!" />
+		<text id="dialogwin_coopshelp_title" name="Co je to spolupráce?" />
+		<text id="dialogwin_coop_btn_action" name="detaily" />
+		<text id="dialogwin_coop_btn_activecoops" name="aktivní" />
+		<text id="dialogwin_coop_btn_join" name="připojit se k spolupráci" />
+		<text id="dialogwin_coop_btn_newcoop" name="SPUSTI SPOLUPRÁCI" />
+		<text id="dialogwin_coop_btn_quit" name="přerušit spolupráci" />
+		<text id="dialogwin_coop_extendtime_copy" name="Chceč prodloužit spolupráci za {0} zlata? Zlatý čas: {1} hodin Stříbrný čas: {2} hodin Bronzový čas: {3} hodin" />
+		<text id="dialogwin_coop_extendtime_title" name="Víc času?" />
+		<text id="dialogwin_coop_maxdone" name="Dnes už máš jednu spolupráci! S další můžeš začít až zítra!" />
+		<text id="dialogwin_coop_maxuser" name="Maximální počet účastníků: {0}" />
+		<text id="dialogwin_coop_member" name="Účastníci spolupráce:" />
+		<text id="dialogwin_coop_minlevel" name="Minimální level účasti: {0}" />
+		<text id="dialogwin_coop_quit_copy" name="Opravdu chceš přerušit tento typ spolupráce?" />
+		<text id="dialogwin_coop_subtitle" name="Tohle musíte uvařit:" />
+		<text id="dialogwin_coop_timeInfo" name="V čase:" />
+		<text id="dialogwin_coop_timeleft" name="Zbývající čas:" />
+		<text id="dialogwin_coop_txt_noactive" name="Momentálně nejsou aktivní žádné spolupráce.\nZačni spolupráci!" />
+		<text id="dialogwin_coop_txt_title" name="spolupráce" />
+		<text id="dialogwin_decoshophelp_copy" name="Jestli svůj nábytek nebo dekorace přesuneš na lištu a ne na pokladnu, budou uloženy. Když je potom znova přesuneš do kavárny, nebude Tě to nic stát. Počet kusů jednotlivých věcí uvidíš v červeném políčku." />
+		<text id="dialogwin_decoshophelp_copy_1" name="Nábytek a dekorace, které mají vysokou úroveň určitě zvíší i úroveň kavárny! Jak luxusní je tvoje kavárna?" />
+		<text id="dialogwin_decoshophelp_title" name="Uložit nábytek/dekorace?" />
+		<text id="dialogwin_decoshophelp_title_1" name="Úroveň luxusu?" />
+		<text id="dialogwin_dishmastery_copy_0" name="Za {0} jsi obdržel jednu hvězičku!" />
+		<text id="dialogwin_dishmastery_copy_1" name="Dej svým přátelům pár porci navíc!" />
+		<text id="dialogwin_dishmastery_info" name="S každou hvězdičkou bude tvůj pokrm ziskovější!" />
+		<text id="dialogwin_dishmastery_title" name="Nová hvězdička!" />
+		<text id="dialogwin_fancycooking_title" name="Chceš okořenit jídlo pomoci {0}?" />
+		<text id="dialogwin_featureUnlocked_coop" name="Jdi do spolupráce se svými přáteli!" />
+		<text id="dialogwin_featureUnlocked_decoration" name="Nové dekorace odblokované pro Tebe!" />
+		<text id="dialogwin_featureUnlocked_fancy" name="Dodej pokrmům extra koření pomocí zábavných přísad!" />
+		<text id="dialogwin_featureUnlocked_frosty" name="Objev Frosty a uhaš žízen hostů!" />
+		<text id="dialogwin_featureUnlocked_marketplace" name="Najdi nové přátelé na trhu!" />
+		<text id="dialogwin_featureUnlocked_muffinman" name="Zkus svoje štěstí v Muffin Man!" />
+		<text id="dialogwin_featureUnlocked_ranking" name="Navštiv jiné hráče pomocí žebříčku pořadí!" />
+		<text id="dialogwin_featureUnlocked_staff" name="Najmi nového číšníka, aby obsloužil Tvé hosty!" />
+		<text id="dialogwin_featureUnlocked_wheeloffortune" name="Zkus svoje štěstí v kole štěstí!" />
+		<text id="dialogwin_FriendShop_copy" name="Potřebuješ ještě {0} síťových přátel, kteří ti pomohou při budování tvé kavárny! Ale můžes si taky najmout řemeslníka za {1} zlata!" />
+		<text id="dialogwin_FriendShop_title" name="noví přátelé" />
+		<text id="dialogwin_giftbox_close" name="zavřít" />
+		<text id="dialogwin_giftbox_friendlist_empty" name="Každému síťovému příteli můžeš poslat jenom jeden dárek denně." />
+		<text id="dialogwin_giftbox_friendlist_notavailable" name="Dárky pro přátele můžeš posílat až o zítra!" />
+		<text id="dialogwin_giftbox_ggsgifts_empty" name="Žádné dárky! S denním bonusem můžeš dostat nové dárky!" />
+		<text id="dialogwin_giftbox_mygifts_empty" name="Nedostal jsi žádné dárky. Pošli nějaké přátelům, možná ti taky něco pošlou." />
+		<text id="dialogwin_giftbox_remove" name="dát pryč" />
+		<text id="dialogwin_giftbox_send" name="darovat" />
+		<text id="dialogwin_giftbox_sendablegifts_empty" name="Dnes bohužel nejsou žádné dárky." />
+		<text id="dialogwin_giftbox_title" name="Dárky!" />
+		<text id="dialogwin_giftbox_use" name="použít" />
+		<text id="dialogwin_highscore_luxury" name="luxus" />
+		<text id="dialogwin_highscore_name" name="jméno" />
+		<text id="dialogwin_highscore_rank" name="pořadí" />
+		<text id="dialogwin_highscore_searchtext" name="hledat jméno/pořadí" />
+		<text id="dialogwin_highscore_title" name="žebříček" />
+		<text id="dialogwin_ingamehelp_1_1" name="Jak uvařím jídlo?" />
+		<text id="dialogwin_ingamehelp_1_2" name="Na sporáku připravuješ jídla pro své hosty. Proto si musíš vybrat recept a připravit ho pomocí více kliknutí." />
+		<text id="dialogwin_ingamehelp_1_3" name="V kuchařské knize najdeš přehled receptů a seznam potřebných přísad." />
+		<text id="dialogwin_ingamehelp_1_4" name="Přísady potřebné na recept najdeš v obchodě s přísadami." />
+		<text id="dialogwin_ingamehelp_1_5" name="Když už máš všechny přísady, klikni na „uvařit“ a připrav tak jídlo." />
+		<text id="dialogwin_ingamehelp_1_6" name="Jestli je jídlo hotové po stanoveném čase, můžeš ho položit na pult a připravit ho k servírování." />
+		<text id="dialogwin_ingamehelp_1_7" name="Použité nadobí je špinavé a před dalším použitím ho musíš umýt." />
+		<text id="dialogwin_ingamehelp_2_1" name="Co musím vědět o přísadách?" />
+		<text id="dialogwin_ingamehelp_2_2" name="Sem uložíš zakoupené přísady. Každá lednice má omezenou kapacitu. Nemůžeš nakupovat do zásoby." />
+		<text id="dialogwin_ingamehelp_2_3" name="Zábavné přísady slouží jako koření pro Tvé jídla. Když je použiješ, získáš víc porcií a XP. Kromě toho nezabírají žádné místo v lednici." />
+		<text id="dialogwin_ingamehelp_2_4" name="Některé přísady občas nejsou k dispozici. Proto Ti může pomoct kurýr. Za malou odměnu budeš mít vždy všechno poruce." />
+		<text id="dialogwin_ingamehelp_2_5" name="Tyto přísady jsou pořád k dispozici:" />
+		<text id="dialogwin_ingamehelp_3_1" name="Cena a hodnota" />
+		<text id="dialogwin_ingamehelp_3_2" name="Body za zkušenosti  dostaneš za servírování jídel. Další možnosti jsou: práce jako číšník, úspěšná spolupráce, vyznamenání nebo servírování nápojů." />
+		<text id="dialogwin_ingamehelp_3_3" name="Tvoje oblíbenost určuje kolik hostí Tě navštíví. Tvoje oblíbenost stoupá, když odcházejí spokojení. Ale může i klesat, když jsou hosté nespokojení. Hosté jsou spokojení, když dostanou něco k jídlu." />
+		<text id="dialogwin_ingamehelp_3_4" name="Kavárenské dolary vyděláš prodejem jídel. Další možnosti jsou: pracovat jako číšník, úspěšné spolupráce nebo vyznamenání." />
+		<text id="dialogwin_ingamehelp_3_5" name="Každý předmět v menu přestavby má luxusní hodnotu. To se ukáže na oblíbenosti kavárny. Čím luxusnější, tím vyšší oblíbenost..." />
+		<text id="dialogwin_ingamehelp_3_6" name="V menu přestavby najdeš sporáky, pulty, stoly a mnoho jiných předmětů. Buď kreativní!" />
+		<text id="dialogwin_ingamehelp_3_7" name="Jestli je Tvá kavárna malá, máš možnost přestavět jí a získat tak víc místa pro hosty." />
+		<text id="dialogwin_ingamehelp_4_1" name="Co bych ještě měl vědět?" />
+		<text id="dialogwin_ingamehelp_4_2" name="Na trhu poznáš nové přátelé, můžeš najít novou práci nebo chatovat s jinými hráči." />
+		<text id="dialogwin_ingamehelp_4_3" name="Vyznamenání dostaneš za různé akce, jsou doplňkovým zdrojem XP a kavárenských dolarů." />
+		<text id="dialogwin_ingamehelp_4_4" name="Na trhu můžeš najmout jiné hráče jako číšniky do své kavárny nebo se nechat sám najmout jako číšník." />
+		<text id="dialogwin_ingamehelp_4_5" name="Spolupráce je společný projekt, který můžeš hrát se svými přáteli. V případě úspěchu získaš odměnu." />
+		<text id="dialogwin_ingamehelp_4_6" name="Tvoji číšníci servírují čekajícím hostům hotové jídla a odnášejí špinavé nádobí ze stolů." />
+		<text id="dialogwin_ingamehelp_4_7" name="Uvařené jídla, které se na pult nedostanou včas se zkazí." />
+		<text id="dialogwin_ingamehelp_ingredients" name="Přísady" />
+		<text id="dialogwin_ingredient_all" name="všechno" />
+		<text id="dialogwin_ingredient_emptyfridge" name="Škoda, tvá lednice je prázdná! Aby jsi mohl uvařit něco nové, musíš v obchodě s přísadami koupit přísady." />
+		<text id="dialogwin_ingredient_fancy" name="speciální přísady" />
+		<text id="dialogwin_ingredient_fruits" name="plodiny" />
+		<text id="dialogwin_ingredient_instore" name="x sklad" />
+		<text id="dialogwin_ingredient_meat" name="maso" />
+		<text id="dialogwin_ingredient_notinstock" name="Dnes není!" />
+		<text id="dialogwin_ingredient_shoplayer" name="obchod s přísadami" />
+		<text id="dialogwin_ingredient_storecapacity" name="kapacita:" />
+		<text id="dialogwin_ingredient_storeinused" name="v lednici:" />
+		<text id="dialogwin_ingredient_storelayer" name="lednice" />
+		<text id="dialogwin_ingredient_vegatable" name="vegetariánske" />
+		<text id="dialogwin_instantcooking_copy" name="Chceš Ihned uvařit? Možné ještě {0} krát!" />
+		<text id="dialogwin_instantcooking_title" name="Chceš\n&apos;ihned uvařit&apos;?" />
+		<text id="dialogwin_jobpaycheck_copy" name="Usilovní číšníci budou oceněni! Kromě spropitného můžeš sbírat i zkušenosti." />
+		<text id="dialogwin_jobpaycheck_title" name="účet" />
+		<text id="dialogwin_levelup_copy" name="Dostal jsi se do levelu {0}!" />
+		<text id="dialogwin_levelup_copy_1" name="Tvoje odměna:" />
+		<text id="dialogwin_levelup_copy_2" name="Odblokováno pro Tebe:" />
+		<text id="dialogwin_levelup_title" name="LEVEL UP" />
+		<text id="dialogwin_lonelyingredient_copy" name="Tvůj číšník našel bednu s tajemnou přísadou!\n\Dej ji přátelům!" />
+		<text id="dialogwin_lonelyingredient_title" name="Překvapení!" />
+		<text id="dialogwin_lonelytip_copy" name="Jeden host ti dal obrovské dýško!\n\nDej část z něho přatelům!" />
+		<text id="dialogwin_lonelytip_title" name="Hurá!" />
+		<text id="dialogwin_muffinman_beforebet" name="Zvol si svůj vklad. Jestli vyhraješ, dostaneš dvojnásobek zpátky!" />
+		<text id="dialogwin_muffinman_btn_again" name="Ještě jednou!" />
+		<text id="dialogwin_muffinman_btn_go" name="Do toho!" />
+		<text id="dialogwin_muffinman_header" name="Hrát Najdi nádívku!" />
+		<text id="dialogwin_muffinman_lostbet" name="Škoda. Nejde pořád vyhrávat! Možná příště..." />
+		<text id="dialogwin_muffinman_nomoney" name="Na tento zásah nemáš dostatek kavárenských dolarů/zlata!" />
+		<text id="dialogwin_muffinman_nopayment" name="O zlato můžeš hrát jenom jestli jsi už alespoň jednou nějaké koupil!" />
+		<text id="dialogwin_muffinman_noregister" name="&quot;Najdi nádivku&quot; můžeš hrát jen jako registrovaný hráč!" />
+		<text id="dialogwin_muffinman_nosale" name="Pekárnu muffinů nemůžeš prodat!" />
+		<text id="dialogwin_muffinman_onlyonebuy" name="Do své kavárny můžeš umístit jenom jednu pekárnu muffinů!" />
+		<text id="dialogwin_muffinman_placedbet" name="Velmi dobře! Ve kterém muffinu se nachází nádivka?" />
+		<text id="dialogwin_muffinman_toohighbet" name="Tak moc nemůžeš stavit! Maximální částka činí {0} zlata a {1} kavárenských dolarů!" />
+		<text id="dialogwin_muffinman_wonbet" name="Hmm, chutné! Našel jsi nádivku! Zkus to hned ještě jednou." />
+		<text id="dialogwin_nomoney_avatarchange" name="Nemáš dostatek zlata na převlíknutí!" />
+		<text id="dialogwin_nomoney_clean_copy" name="Na čištění sporáku nemáš dost kavárenských dolarů." />
+		<text id="dialogwin_nomoney_copy" name="Ups, bohužel nemáš dost kavárenských dolarů/zlata ke koupě tohoto předmětu!" />
+		<text id="dialogwin_nomoney_courier" name="Nemáš dostatek kávárenských dolarů/zlata k zaplacení kurýra!" />
+		<text id="dialogwin_nomoney_instantcook_copy" name="Nemáš dostatek kavárenských dolarů k použití ihned uvařit." />
+		<text id="dialogwin_nomoney_moregold" name="koupit kavárenský dolar/zlato" />
+		<text id="dialogwin_nomoney_npchire" name="Nemáš dostatek zlata k přijmutí nového číšníka!" />
+		<text id="dialogwin_nomoney_ok" name="OK" />
+		<text id="dialogwin_nomoney_title" name="nedostatek kavárenských dolarů/zlata" />
+		<text id="dialogwin_noreward_copy" name="Odměnu si už bohužel vyzvedl jiný hráč!" />
+		<text id="dialogwin_noreward_title" name="Škoda!" />
+		<text id="dialogwin_perfectdish_copy" name="Dnes si {0} výborně vařil!\nDej přátelům pár porcí navíc!" />
+		<text id="dialogwin_perfectdish_title" name="Skvelé!" />
+		<text id="dialogwin_presentreceived_copy" name="Tvůj dárek na uvítanou v hodnotě {0} zlata byl připsaný na Tvé konto." />
+		<text id="dialogwin_presentreceived_title" name="Obdržet dárek!" />
+		<text id="dialogwin_presentreminder_btn_send" name="Odeslat" />
+		<text id="dialogwin_presentreminder_copy1" name="Jednoduše klikni na zlatý link v e-mailu a získej {0} zlata!" />
+		<text id="dialogwin_presentreminder_copy2" name="Ano, odeslat {0} zlata na mojí e-mailovou adresu:" />
+		<text id="dialogwin_presentreminder_title" name="{0} zlata pro Tebe!" />
+		<text id="dialogwin_receiveitem_copy" name="Odměna je v dárkovém boxu!" />
+		<text id="dialogwin_receiveitem_title" name="Hurá!" />
+		<text id="dialogwin_receivemoney_copy" name="Odměna ti byla právě připsána!" />
+		<text id="dialogwin_receivemoney_title" name="Gratulace!" />
+		<text id="dialogwin_refreshfood_btn_clean" name="očistit" />
+		<text id="dialogwin_refreshfood_btn_refresh" name="zachránit jídlo" />
+		<text id="dialogwin_refreshfood_title" name="Chceš občerstvit Tvoje jídlo?" />
+		<text id="dialogwin_register_agbs" name="akceptovat Všeobecné\nobchodní podmínky" />
+		<text id="dialogwin_register_mail" name="e-mail" />
+		<text id="dialogwin_register_password" name="heslo" />
+		<text id="dialogwin_register_title" name="registrovat se" />
+		<text id="dialogwin_sendgift_send" name="darovat" />
+		<text id="dialogwin_sendgift_titel" name="darovat..." />
+		<text id="dialogwin_settings_email" name="Zablokovat příjem e-mailů" />
+		<text id="dialogwin_settings_general" name="Obecně" />
+		<text id="dialogwin_settings_high" name="Velké" />
+		<text id="dialogwin_settings_low" name="Malé" />
+		<text id="dialogwin_settings_medium" name="Středné" />
+		<text id="dialogwin_settings_quality" name="Kvalita" />
+		<text id="dialogwin_shippingconfirmation_copy1" name="Klikni na link v e-mailu a vyzvedni si tak zlato." />
+		<text id="dialogwin_shippingconfirmation_copy2" name="Jěště si nedostal e-mail? Může to trvat pár minut. Když pak není ani v části pro spam, pomůže Ti náš support." />
+		<text id="dialogwin_shippingconfirmation_title" name="Zlatý e-mail je venku!" />
+		<text id="dialogwin_smoothiemakerhelp_copy" name="Tady můžeš míchat nápoje a podávat je hostům.  Zvol si nápoj a klikni na &quot;Namíchat&quot;.  Jestli chceš podávat drink, jednoduše klikni na &quot;žíznivé&quot; hosty než najdou místo. &quot;Žíznivé&quot; hosty poznáš podle ikonky nad hlavou." />
+		<text id="dialogwin_smoothiemakerhelp_title" name="Jak prodávám drinky?" />
+		<text id="dialogwin_smoothiemaker_allserved_copy" name="Naservíroval si všechny porce! Počkej než bude Frosty prázdný a připrav nové nápoje!" />
+		<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="Do prodejny" />
+		<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Jestli chceš připravovat nápoje, musíš si nejdřív koupit Frosty!" />
+		<text id="dialogwin_smoothiemaker_nomoney_copy" name="Nemáš dostatek kavárenských dolarů/zlata na tento drink!" />
+		<text id="dialogwin_smoothiemaker_noservings_copy" name="Už nemáš žádné drinky! Namixuj něco nové!" />
+		<text id="dialogwin_smoothiemaker_onlyonebuy" name="Do své kavárny můžeš umístnit jenom jeden Frosty!" />
+		<text id="dialogwin_smoothiemaker_txt_title" name="FROSTY" />
+		<text id="dialogwin_staffmanagement_btn_fire" name="vyhodit" />
+		<text id="dialogwin_staffmanagement_favorite" name="Činnost?" />
+		<text id="dialogwin_staffmanagement_favorite0" name="odklízet" />
+		<text id="dialogwin_staffmanagement_favorite100" name="servírovat" />
+		<text id="dialogwin_staffmanagement_fire" name="Opustit?" />
+		<text id="dialogwin_staffmanagement_renamecopy" name="Dej svému číšníkovi nové jméno:" />
+		<text id="dialogwin_staffmanagement_renametitle" name="přejmenovat" />
+		<text id="dialogwin_staff_hire" name="přijmout" />
+		<text id="dialogwin_staff_management" name="spravovat" />
+		<text id="dialogwin_staff_new" name="nový číšník" />
+		<text id="dialogwin_staff_title" name="tvoji číšníci" />
+		<text id="dialogwin_welcomeback_text" name="Jako dárek dostaneš: {0} zlata" />
+		<text id="dialogwin_welcomeback_text2" name="Jako dárek dostaneš:{0} zlata a 3 skvělé zábavné přísady." />
+		<text id="dialogwin_welcomeback_text3" name="" />
+		<text id="dialogwin_welcomeback_title" name="Vítej zpátky {0}!" />
+		<text id="dialogwin_wheeloffortune_beforespin" name="Otoč kolem štěstí a vyhrej skvělé ceny!" />
+		<text id="dialogwin_wheeloffortune_btn_go" name="Roztočit!" />
+		<text id="dialogwin_wheeloffortune_btn_towheel" name="Na kolo štěstí" />
+		<text id="dialogwin_wheeloffortune_copy1" name="Roztočil jsi už dnes kolo štěstí?" />
+		<text id="dialogwin_wheeloffortune_header" name="KOLO ŠTĚSTÍ!" />
+		<text id="dialogwin_wheeloffortune_info" name="První otočení je zdarma!" />
+		<text id="dialogwin_wheeloffortune_info1" name="Každé další roztočení stojí jedno zlato!" />
+		<text id="dialogwin_wheeloffortune_nomoney" name="Na roztočení kola štěstí nemáš dostatek zlata!" />
+		<text id="dialogwin_wheeloffortune_noregister" name="Roztočit kolo štěstí můžeš jenom jako registrovaný hráč!" />
+		<text id="dialogwin_wheeloffortune_nospace" name="V boxu na dárky nemáš místo na své výhry! Získej místo a pak můžeš točit kolem štěstí!" />
+		<text id="dialogwin_wheeloffortune_title" name="Kolo štěstí!" />
+		<text id="dialogwin_wheeloffortune_tryagain" name="Zkus to rovnou ještě jednou!" />
+		<text id="dialogwin_wheeloffortune_wonbet" name="Gratulujeme! Tvoje výhra:" />
+		<text id="dialogwin_wheeloffortune_woncash" name="Gratulujeme! Tvoje cena Ti byla připsáná k dobru!" />
+		<text id="dialogwin_wheeloffortune_wonfood" name="Gratulujeme!  Tvoje cena se nachází ve Tvém boxu na dárky!" />
+		<text id="dialogwin_wheeloffortune_wongold" name="Vyhrál jsi zlatý hrnec!" />
+		<text id="dialogwin_wheeloffortune_wonitem" name="Gratulujeme! Tvoje cena se nachází ve Tvém skladu!" />
+	</dialogs>
+	<error_codes>
+		<text id="achievement_error" name="vyznamenání" />
+		<text id="achievement_errorcode_1" name="chyba" />
+		<text id="cafechat_errorcode_23" name="Administrátor dočasně deaktivoval funkci chat." />
+		<text id="cafechat_errorcode_24" name="Prosím nespamuj na chatu!" />
+		<text id="cafewalk_errorcode_1" name="Pozor!" />
+		<text id="cafewalk_errorcode_23" name="Na tohle místo nemůžeš běžet." />
+		<text id="cafe_error" name="Pozor!" />
+		<text id="changepassword_error" name="změna hesla" />
+		<text id="changepassword_errorcode_0" name="Heslo bylo uspěšně změněno!" />
+		<text id="changepassword_errorcode_1" name="chyba" />
+		<text id="changepassword_errorcode_10" name="Je nám líto, ale tohle není tvé staré heslo." />
+		<text id="coop_errorcode_3" name="V tvém levelu není tento typ spolupráce jěště možný.\nMusíš vydat minimálně jedno jídlo." />
+		<text id="coop_errorcode_7" name="Tento typ spolupráce je možný jen do levelu {0}." />
+		<text id="coop_errorcode_85" name="Tato spolupráce je již plně obsazená." />
+		<text id="courier_error" name="problémy s doručením" />
+		<text id="courier_errorcode_40" name="Kapacita tvého skladu je nedostačující!" />
+		<text id="courier_errorcode_42" name="Přísada je už k dostání i v běžném obchodu, rychle se podívej!" />
+		<text id="courier_errorcode_43" name="Kurýr je přetížen a nemůže doručit tvůj tovar." />
+		<text id="createavatar_error" name="Pozor!" />
+		<text id="createavatar_errorcode_12" name="Jméno je již zadáno." />
+		<text id="createavatar_errorcode_15" name="Uživatel již má avatara." />
+		<text id="createavatar_errorcode_18" name="Zadané jméno je neplatné." />
+		<text id="createavatar_error_invalide" name="Tvé uživatelské jméno nesmí být prázdné a nesmí obsahovat zvláštní znaky." />
+		<text id="createavatar_error_nogender" name="Vyber si jednu postavu!" />
+		<text id="editbuy_errorcode_1" name="Pozor!" />
+		<text id="editbuy_errorcode_3" name="Ještě jsi nedosáhl nejnižší možný level pro koupi tohoto zboží!" />
+		<text id="editbuy_errorcode_38" name="Svou kavárnu můžeš měnit jenom v režimu přestavba." />
+		<text id="editbuy_errorcode_39" name="Pozice je neplatná, přesuň objekt na volné místo v tvé kavárně." />
+		<text id="editextend_errorcode_1" name="Pozor!" />
+		<text id="editextend_errorcode_38" name="Svou kavárnu můžeš měnit jenom v režimu přestavba." />
+		<text id="editextend_errorcode_53" name="Tohle rozšíření už máš." />
+		<text id="editextend_errorcode_54" name="Tohle rozšíření nemůžeš koupit." />
+		<text id="editmode_errorcode_1" name="Pozor!" />
+		<text id="editmoveobj_errorcode_1" name="Pozor!" />
+		<text id="editmoveobj_errorcode_38" name="Svou kavárnu můžeš měnit jenom v režimu přestavba." />
+		<text id="editmoveobj_errorcode_39" name="Pozice je neplatná, přesuň předmět na volné místo v kavárně." />
+		<text id="editrotateobj_errorcode_1" name="Pozor!" />
+		<text id="editrotateobj_errorcode_38" name="Svou kavárnu můžeš měnit jenom v režimu přestavba." />
+		<text id="editrotateobj_errorcode_39" name="Pozice je neplatná, přesuň předmět na volné místo v kavárně." />
+		<text id="editsell_errorcode_1" name="Pozor!" />
+		<text id="editsell_errorcode_32" name="Toto zboží ve skladu není." />
+		<text id="editsell_errorcode_38" name="Svou kavárnu můžeš měnit jenom v režimu přestavba." />
+		<text id="editsell_errorcode_39" name="Pozice je neplatná, přesuň předmět na volné místo v kavárně." />
+		<text id="editstoreobj_errorcode_1" name="Pozor!" />
+		<text id="editstoreobj_errorcode_37" name="Ještě je tady jídlo!" />
+		<text id="editstoreobj_errorcode_38" name="Svou kavárnu můžeš měnit jenom v režimu přestavba." />
+		<text id="editstoreobj_errorcode_39" name="Pozice je neplatná, přesuň předmět na volné místo v kavárně." />
+		<text id="editstoreobj_errorcode_51" name="Pole je prázdné, není tady nic na prodej." />
+		<text id="editstoreobj_removefailmin_counter" name="Musíš mít minimálně jeden pult." />
+		<text id="editstoreobj_removefailmin_fridge" name="Musíš mít minimálně jednu lednici." />
+		<text id="editstoreobj_removefailmin_stove" name="Musíš mít minimálně jeden sporák." />
+		<text id="editstoreobj_removefailmin_title" name="Pozor!" />
+		<text id="editstoreobj_removefail_counter" name="Pult musí být prázdný." />
+		<text id="editstoreobj_removefail_door" name="Musíš podržet dveře." />
+		<text id="editstoreobj_removefail_fridge" name="Máš příliš mnoho přísad." />
+		<text id="editstoreobj_removefail_stove" name="Sporák musí být prázdný." />
+		<text id="editstoreobj_removefail_title" name="Pozor!" />
+		<text id="edit_error" name="Pozor!" />
+		<text id="error" name="chyba" />
+		<text id="fullscreenerror_msg_copy" name="režim celé obrazovky není možný" />
+		<text id="fullscreenerror_msg_title" name="Celá obrazovka:" />
+		<text id="gift_error" name="Nejde to!" />
+		<text id="gift_errorcode_20" name="Nemáš volný žádný pult na servírování tohoto jídla." />
+		<text id="gift_errorcode_40" name="V lednici nemáš místo na uskladnění potravin." />
+		<text id="gift_errorcode_5" name="Akce nemůže proběhnout. Neznámý dárek." />
+		<text id="invitefriend_error" name="Nezdařilo se." />
+		<text id="invitefriend_errorcode_13" name="Tento hráč je již registrován!" />
+		<text id="invitefriend_errorcode_14" name="Neplatná e-mailová adresa!" />
+		<text id="jobrefill_error" name="Nejde to!" />
+		<text id="jobrefill_errorcode_1" name="Pracovné povolení jsou vyprodány." />
+		<text id="jobrefill_errorcode_61" name="Pracovné povolení můžeš doplňovat jenom jednou denně." />
+		<text id="joincafe_error" name="Nejde to!" />
+		<text id="joincafe_errorcode_20" name="Zavřený obchod!" />
+		<text id="joincafe_errorcode_21" name="Ty už přece jseš v kavárně!" />
+		<text id="joincafe_errorcode_22" name="Kavárna bohužel neexistuje!" />
+		<text id="level_error" name="Kavárna není v pořádku. Informuj prosím Support." />
+		<text id="level_errorcode_1" name="Tvou kavárnu nebylo možné otevřít. Obrať se prosím na Goodgame Studios-Support." />
+		<text id="login_error" name="Pozor!" />
+		<text id="login_errorcode_1" name="chyba" />
+		<text id="login_errorcode_12" name="Uživatel je již přihlášen." />
+		<text id="login_errorcode_13" name="Uživatel je již přihlášen." />
+		<text id="login_errorcode_14" name="Jméno nebo heslo uživatele je nesprávné!" />
+		<text id="login_errorcode_15" name="již příhlášen" />
+		<text id="login_errorcode_16" name="Tvůj avatar je chybný.Prosím obrať se na Support." />
+		<text id="login_errorcode_wronglogin" name="Jméno nebo heslo uživetele je nesprávné!" />
+		<text id="lostpassword_error" name="Pozor!" />
+		<text id="lostpassword_errorcode_1" name="chyba" />
+		<text id="lostpassword_errorcode_11" name="Pod touto adresou není registrován žádný uživatel!" />
+		<text id="marketplace_error" name="trh" />
+		<text id="marketplace_errorcode_20" name="Trh je bohužel plný, skus to ještě jednou později." />
+		<text id="marketplace_errorcode_21" name="Již jsi na trhu." />
+		<text id="npcfire_errorcode_1" name="Tvůj číšník nemůže dostat výpověď." />
+		<text id="npchire_errorcode_1" name="Nový číšník nemůže být přijat." />
+		<text id="npcrename_errorcode_12" name="Jméno je neplatné!" />
+		<text id="npc_error" name="Pozor!" />
+		<text id="register_error" name="registrace se nezdařila" />
+		<text id="register_errorcode_1" name="chyba" />
+		<text id="register_errorcode_10" name="Zadané heslo není správne." />
+		<text id="register_errorcode_13" name="Pod touto e-mailovou adresou je již registrován jiný hráč. Je nám to líto." />
+		<text id="register_errorcode_14" name="Zadaná e-mailová adresa není správná." />
+		<text id="server_msg_10" name="Server bude nově spuštěn. Hned bude pokračovat.\nAby se stránka opět načetla, stlač F5." />
+		<text id="server_msg_title" name="zpráva ze serveru:" />
+		<text id="shopbuy_error" name="Není místo!" />
+		<text id="shopbuy_errorcode_40" name="Tvá lednice je již plná!" />
+		<text id="shopdelete_errorcode_41" name="zboží není dostupné" />
+		<text id="smoothiemaker_error_alreadyserved" name="Tohoto hosta si již obsloužil!" />
+		<text id="useraction_error" name="Pozor!" />
+		<text id="useraction_errorcode_2" name="Padla! Už jsi pracoval dost!" />
+		<text id="useraction_errorcode_62" name="Nejdřiv musíš přinést jídlo z pultu." />
+		<text id="useraction_errorcode_63" name="Dřívě než budeš odklízet, přines jídlo pro hostě nebo ho přines zpět na pult." />
+		<text id="versioncheck_error" name="Stará verze!" />
+		<text id="versioncheck_errorcode_1" name="Aktualizuj stránku." />
+		<text id="waiter_name_invalide" name="Toto jméno číšníka není povoleno." />
+	</error_codes>
+	<feature>
+		<text id="featureDialog_0_text_0" name="Nové dekorace, aby byla tvoje kavárna ještě hezčí!" />
+		<text id="featureDialog_0_text_0_sozial" name="Nech si ocenit svou práci v kavárně!" />
+		<text id="featureDialog_0_text_1" name="Nech si svou práci extra ocenit: kavárenské dolary, XP, nebo zlato!" />
+		<text id="featureDialog_0_text_1_sozial" name="Nové dekorace v obchodě!" />
+		<text id="featureDialog_0_text_2" name="Zjisti, kdo ještě hrá kavárnu!" />
+		<text id="featureDialog_0_text_2_sozial" name="Zjisti, kdo ještě hraje kavárnu!" />
+		<text id="featureDialog_10_text_0" name="Potřebuješ víc místa pro tvé hosty nebo pro dekorace? Obstarej si nové rozšíření!" />
+		<text id="featureDialog_11_text_0" name="Nový a zajímavý typ spolupráce pro tebe a tvé přátele!" />
+		<text id="featureDialog_16_text_0" name="Taková pastva pro uši! Zkus kavárnu se zvukem!" />
+		<text id="featureDialog_16_text_1" name="Staň se pekařem s novými pekařskými dekoracemi!" />
+		<text id="featureDialog_17_text_0" name="Veselé Vánoce! Přenes si díky nádherným vánočním dekoracím severní pól přímo do kavárny!" />
+		<text id="featureDialog_18_text_0" name="Duch Vánoc se tady potuluje s novými vánočními recepty a novými spoluprácemi!" />
+		<text id="featureDialog_19_text_0" name="Udělej ze svoji kavárny tu nejluxusnější široko daleko s novým luxusním nábytkem a dekoracemi!" />
+		<text id="featureDialog_1_text_0" name="Nech si ocenit svou práci v kavárně!" />
+		<text id="featureDialog_1_text_1" name="Nové dekorace v obchodě!" />
+		<text id="featureDialog_1_text_2" name="Zjisti, kdo ještě hraje kavárnu!" />
+		<text id="featureDialog_20_text_0" name="Udělej ze svých pokrmů chutné hvězdičkové menu!" />
+		<text id="featureDialog_20_text_1" name="Poslední šance na vánoční pokrmy a vánoční dekorace!\nUž jenom týden!" />
+		<text id="featureDialog_21_text_0" name="Nadchni své hosty novými chutnými pokrmi." />
+		<text id="featureDialog_22_text_0" name="Čekají na Tebe nové vyznamenání, díky kterým budeš ještě úspěšnější!" />
+		<text id="featureDialog_23_text_0" name="Teď ještě víc společného vaření! Nové typy spolupráce čekají právě na Tebe!" />
+		<text id="featureDialog_24_text_0" name="Velikonoční zajíček byl usilovný! Nové velikonoční dekorace jsou tady!" />
+		<text id="featureDialog_24_text_1" name="Drůbež se eště nikdy tak nevyplatila! Objev kachnu na pomerančích!" />
+		<text id="featureDialog_25_text_0" name="Jsi dítě štěstěny? Zkus svoje štěstí v nové pekárně muffinů!" />
+		<text id="featureDialog_26_text_0" name="Stojí štěstěna u Tebe? Zjisti to na novém kole šťestí na trhu!" />
+		<text id="featureDialog_27_text_0" name="Zvyš svojí oblíbenost pomocí přístroje na výrobu cukrové vaty! Získat ho můžeš v kole štěstí!" />
+		<text id="featureDialog_28_text_0" name="Přístroj na výrobu cukrové vaty je v kole štěstí k dispozici už jenom dnes!" />
+		<text id="featureDialog_29_text_0" name="Od teď můžeš svojí postavu kdykoliv převlíknout!" />
+		<text id="featureDialog_2_text_0" name="Potkej se a chatuj s dalšími hráči!" />
+		<text id="featureDialog_2_text_1" name="Nová úprava poledního menu!" />
+		<text id="featureDialog_2_text_2" name="Buduj svoji kavárnu dál!" />
+		<text id="featureDialog_30_text_0" name="Víc místa v Tvojí lednici! Od teď se zábavné přísady nepočítají do kapacity lednice. Můžeš jich skladovat kolik chceš." />
+		<text id="featureDialog_30_text_1" name="Od teď můžeš nakupovat rozšíření i za kavárenské dolary!" />
+		<text id="featureDialog_31_text_0" name="Víc místa v Tvojí lednici! Od teď se zábavné přísady nepočítají do kapacity lednice. Můžeš jich skladovat kolik chceš." />
+		<text id="featureDialog_31_text_1" name="Od teď jsou rozšíření zdarma, jestli budeš mít dostatek přátel!" />
+		<text id="featureDialog_32_text_0" name="Hosté mají žízeň? Tak si rychle vyzvedni Frosty a osvěž hosty!" />
+		<text id="featureDialog_33_text_0" name="Objev omeletu! Nové a velmi rychlé jídlo ve Tvé kuchařské knižce!" />
+		<text id="featureDialog_3_text_0" name="Vydělej si jako číšník v jiné kavárně kavárenské dolary a XP navíc!" />
+		<text id="featureDialog_3_text_1" name="Nová chutná jídla, která nadchnou hosty." />
+		<text id="featureDialog_4_text_0" name="Poznej na trhu nové přátely!" />
+		<text id="featureDialog_4_text_1" name="Nové polední dekorace! Tvoje kavárna bude ještě originálnější!" />
+		<text id="featureDialog_5_text_0" name="Zvětši svoji výhru a XP tvých jídel pomoci nových zábavných přísad!" />
+		<text id="featureDialog_6_text_0" name="Dostávej a posílej dárky pomoci nového dárkového boxu!" />
+		<text id="featureDialog_6_text_1" name="Zvětši svoji výhru a XP tvých jídel pomoci nových zabavných přísad!" />
+		<text id="featureDialog_7_text_0" name="Přines do Kavárny kousek divokého západu pomoci nových salonních úprav!" />
+		<text id="featureDialog_8_text_0" name="Nová skvělá jídla, která nadchnou tvé přatelé!" />
+		<text id="featureDialog_9_text_0" name="Zjisti, jak na tom jsi v novém žebříčku!" />
+		<text id="featureDialog_9_text_1" name="V týmu budeš silnější! Vyskoušej nové typy spolupráce!" />
+		<text id="featureDialog_9_text_2" name="Připrav se na pořádnu dávku vyděšení s novou halloweenskou úpravou!" />
+		<text id="featureDialog_title" name="nové vlastnosti" />
+		<text id="limitedfeatureDialog_12_copy_0" name="Koupit halloweenské dekorace!\nDostupné jenom omezenou dobu!" />
+		<text id="limitedfeatureDialog_12_copy_1" name="JEŠTĚ 4 DNY!" />
+		<text id="limitedfeatureDialog_13_copy_0" name="Koupit halloweenské dekorace!\nDostupné jenom omezenou dobu!" />
+		<text id="limitedfeatureDialog_13_copy_1" name="JEŠTĚ 3 DNY!" />
+		<text id="limitedfeatureDialog_14_copy_0" name="Koupit halloweenské dekorace!\nDostupné jenom omezenou dobu!" />
+		<text id="limitedfeatureDialog_14_copy_1" name="JEŠTĚ 2 DNY!" />
+		<text id="limitedfeatureDialog_15_copy_0" name="Koupit halloweenské dekorace!\nDostupné jenom omezenou dobu!" />
+		<text id="limitedfeatureDialog_15_copy_1" name="UŽ JENOM DNES!" />
+		<text id="limitedfeatureDialog_2_copy_0" name="Koupit halloweenské dekorace!\nDostupné jenom omezenou dobu!" />
+		<text id="limitedfeatureDialog_3_copy_0" name="Blíží se konec zimy! Zimní dekorace budou k dostáni už jen krátky čas!" />
+		<text id="limitedfeatureDialog_5_copy_0" name="Nakup velikonočné dekorace teď hned! Dostupné jenom omezený čas!" />
+		<text id="limitedfeatureDialog_time" name="JEŠTĚ {0} DNY!" />
+		<text id="limitedfeatureDialog_time_single" name="UŽ JENOM DNES!" />
+		<text id="limitedfeatureDialog_title" name="Dávej pozor!" />
+	</feature>
+	<feeds>
+		<text id="descriptionfeedcafe" name="Právě jsem nainstaloval Goodgame Café. Chceš si taky otevřít vlastní kavárnu a vařit chutné jídla? Tak to skus!" />
+		<text id="descriptionlongcafe" name="Hra Goodgame Café je žhavá novinka od Goodgame Studios. Otevři vlastní kavárnu a a nadchni hosty svím kuchřským uměním. Sám rozhodni, jaké jídla budou na tvém jídelním lístku a nakupuj čerstvé přísady pro tvé recepty. Zaměstnej své kamarády jako číšníky a udělej ze své kavárny nejvyhlášenější místo setkání ve městě." />
+	</feeds>
+	<ingame_tooltips>
+		<text id="fridgetooltip_line1" name="lednice" />
+		<text id="fridgetooltip_line2" name="klikni na otevření" />
+		<text id="muffinmantooltip_line1" name="Pekárna muffinů" />
+		<text id="muffinmantooltip_line2" name="Klikni a hrej!" />
+		<text id="player_action" name="Akce:" />
+		<text id="player_working" name="Pracovní doba" />
+		<text id="preparestep_cleaning" name="očistit sporák" />
+		<text id="preparestep_serving" name="připravit pokrm" />
+		<text id="smoothiemaker_line1" name="Frosty" />
+		<text id="smoothiemaker_line2" name="Klikni na namíchání!" />
+		<text id="stovetooltip_clean1" name="špinavý sporák" />
+		<text id="stovetooltip_clean2" name="klikn na čistění" />
+		<text id="stovetooltip_empty1" name="prázdný pult" />
+		<text id="stovetooltip_empty2" name="uvař něco" />
+		<text id="stovetooltip_free" name="klikni na vaření" />
+		<text id="stovetooltip_full1" name="připraveno k servírování" />
+		<text id="stovetooltip_full2" name="porce" />
+		<text id="stovetooltip_prepare1" name="klikni na" />
+		<text id="stovetooltip_ready1" name="než se jídlo zkazí" />
+		<text id="stovetooltip_ready2" name="klikni na servírování" />
+		<text id="stovetooltip_spoiled1" name="zkažený" />
+		<text id="stovetooltip_spoiled2" name="klikni na čistění" />
+		<text id="wheeloffortunetooltip_line1" name="Kolo štěstí!" />
+		<text id="wheeloffortunetooltip_line2" name="Klikni a hrej!" />
+		<text id="wheeloffortunetooltip_line3" name="Jedna hra zdarma" />
+	</ingame_tooltips>
+	<ingredients>
+		<text id="ingredient_cookfest" name="Event Ingredients" />
+		<text id="ingredient_apple" name="jablka" />
+		<text id="ingredient_bacon" name="slanina" />
+		<text id="ingredient_bakingmix" name="směs na pečení" />
+		<text id="ingredient_ballpepper" name="paprika" />
+		<text id="ingredient_banana" name="banány" />
+		<text id="ingredient_basil" name="bazalka" />
+		<text id="ingredient_beans" name="fazole" />
+		<text id="ingredient_beetroot" name="červená řepa" />
+		<text id="ingredient_butter" name="máslo" />
+		<text id="ingredient_carrots" name="mrkev" />
+		<text id="ingredient_cheese" name="sýr" />
+		<text id="ingredient_cherries" name="třešně" />
+		<text id="ingredient_chicken" name="kuře" />
+		<text id="ingredient_chili" name="chili" />
+		<text id="ingredient_chocolate" name="čokoláda" />
+		<text id="ingredient_cinnamon" name="skořice" />
+		<text id="ingredient_cocktailcherry" name="koktejlová třešeň" />
+		<text id="ingredient_coconut" name="kokosové ořechy" />
+		<text id="ingredient_cookies" name="sušenky" />
+		<text id="ingredient_coriander" name="koriandr" />
+		<text id="ingredient_cream" name="smetana" />
+		<text id="ingredient_cucumber" name="okurky" />
+		<text id="ingredient_curryspice" name="kari" />
+		<text id="ingredient_duck" name="kachna" />
+		<text id="ingredient_eggplant" name="lilek" />
+		<text id="ingredient_eggs" name="vejce" />
+		<text id="ingredient_fish" name="ryba" />
+		<text id="ingredient_flour" name="mouka" />
+		<text id="ingredient_garlic" name="česnek" />
+		<text id="ingredient_horseradish" name="křen" />
+		<text id="ingredient_kidney" name="ledvinky" />
+		<text id="ingredient_lettuce" name="salát" />
+		<text id="ingredient_maplesyrup" name="javorový sirup" />
+		<text id="ingredient_meat" name="maso" />
+		<text id="ingredient_milk" name="mléko" />
+		<text id="ingredient_mincemeat" name="sekaná" />
+		<text id="ingredient_nutmeg" name="muškátový oříšek" />
+		<text id="ingredient_oil" name="olej" />
+		<text id="ingredient_onion" name="cibule" />
+		<text id="ingredient_orange" name="pomeranče" />
+		<text id="ingredient_parsley" name="petrželka" />
+		<text id="ingredient_pasta" name="nudle" />
+		<text id="ingredient_peas" name="hrách" />
+		<text id="ingredient_pinapple" name="ananas" />
+		<text id="ingredient_potato" name="brambory" />
+		<text id="ingredient_quark" name="tvaroh" />
+		<text id="ingredient_rhubarb" name="rebarbora" />
+		<text id="ingredient_rice" name="rýže" />
+		<text id="ingredient_rosemary" name="rozmarýn" />
+		<text id="ingredient_sausages" name="párky" />
+		<text id="ingredient_spicemix" name="směs koření" />
+		<text id="ingredient_strawberry" name="jahody" />
+		<text id="ingredient_sugar" name="cukr" />
+		<text id="ingredient_sweetcorn" name="kukuřice" />
+		<text id="ingredient_tofu" name="tofu" />
+		<text id="ingredient_tomato" name="rajčata" />
+		<text id="ingredient_turkeymix" name="směs na přípravu krocana" />
+		<text id="ingredient_vanilla" name="vanilka" />
+		<text id="ingredient_vegiemix" name="zeleninová směs" />
+		<text id="ingredient_whitechocolat" name="bílá čokoláda" />
+	</ingredients>
+	<loggedin_msg id="" />
+	<panels>
+		<text id="panelwin_buddy_btn_morefriends" name="Víc přátel!" />
+		<text id="panelwin_deco_dragtip_copy" name="Aby si mohl použít tento předmět, vem ho do kavárny." />
+		<text id="panelwin_deco_dragtip_title" name="upozornění" />
+		<text id="panelwin_deco_nomore_expansion" name="Zatím nejsou k dispozici žádné další rozšíření." />
+		<text id="panelwin_deco_objectcount_counter" name="Aby sis mohl koupit nový pult, musíš dosáhnout level {0}.Nebo dej starý pult pryč z kavárny a kup jiný pult." />
+		<text id="panelwin_deco_objectcount_fridge" name="Aby sis mohl koupit novou lednici, músíš dosáhnout level {0}. Nebo dej starou lednici pryč z kavárny a kup jinou." />
+		<text id="panelwin_deco_objectcount_nomore_counter" name="Nemůžeš koupit žádný další pult!" />
+		<text id="panelwin_deco_objectcount_nomore_fridge" name="Nemůžeš koupit žádnou další lednici!" />
+		<text id="panelwin_deco_objectcount_nomore_stove" name="Nemůžeš koupit žádný další sporák!" />
+		<text id="panelwin_deco_objectcount_stove" name="Aby sis mohl koupit nový sporák, musíš dosáhnout level {0}. Nebo dej starý sporák pryč z kavárny a kup jiný sporák." />
+		<text id="panelwin_login_email" name="přihlasovací jméno/ e-mail" />
+		<text id="panelwin_login_login" name="přihlásit se" />
+		<text id="panelwin_login_lostpassword" name="zapomněli jste heslo?" />
+		<text id="panelwin_login_password" name="heslo" />
+		<text id="panelwin_login_play" name="okamžitě hrát" />
+		<text id="panelwin_login_register" name="registrovat se" />
+		<text id="panelwin_login_rememberpassword" name="uložit heslo" />
+		<text id="panelwin_name_cafe" name="kavárna" />
+		<text id="panelwin_social_bot" name="chat kavárny" />
+		<text id="panelwin_social_comein" name="vstoupil do kavárny" />
+		<text id="panelwin_social_comeinmarketplace" name="vstoupil na trh" />
+		<text id="panelwin_social_goout" name="opustil kavárnu" />
+		<text id="panelwin_social_gooutmarketplace" name="opustil trh" />
+		<text id="panelwin_social_noingamefriends" name="Ještě nemáš žádné přátele!" />
+		<text id="panelwin_social_noplayerincafe" name="Momentálně jsi tady sám." />
+		<text id="panelwin_social_say" name=":" />
+		<text id="panelwin_social_standardanswer" name="Brzy tady budeš moct chatovat s ostatními hráči v tvé kavárně!" />
+		<text id="panelwin_social_welcome_marketplace" name="Vítej! Klikni na černou tabuli, jestli hledáš práci!" />
+		<text id="panelwin_social_welcome_mycafe" name="vítejte" />
+		<text id="panelwin_social_writeable" name="Jenom registrovaní hráči od levelu 1 mohou používat chat." />
+	</panels>
+	<preparestep>
+		<text id="preparestep_bananasplit_banana" name="oloupat banány" />
+		<text id="preparestep_bananasplit_chocolate" name="nasekat čokoládu" />
+		<text id="preparestep_brigadeiro_chocolate" name="Cut chocolate" />
+		<text id="preparestep_brigadeiro_cream" name="Mix cream" />
+		<text id="preparestep_brigadeiro_vanilla" name="Shave vanilla" />
+		<text id="preparestep_bananasplit_cream" name="šlehat smetanu" />
+		<text id="preparestep_bananasplit_milk" name="odměřit mléko" />
+		<text id="preparestep_bananasplit_sugar" name="zvážit cukr" />
+		<text id="preparestep_blackforestcherrycake_chocolate" name="strouhat čokoládu" />
+		<text id="preparestep_blackforestcherrycake_cocktailcherry" name="očistit třešně" />
+		<text id="preparestep_blackforestcherrycake_cream" name="šlehat smetanu" />
+		<text id="preparestep_pizzasalad_tomato" name="Cut tomatoes" />
+		<text id="preparestep_pizzasalad_onion" name="Cut onions" />
+		<text id="preparestep_pizzasalad_lettuce" name="Wash lettuce" />
+		<text id="preparestep_pizzasalad_cheese" name="Grate cheese" />
+		<text id="preparestep_pizzasalad_flour" name="Sift flour" />
+		<text id="preparestep_tripleomelette_eggs" name="Crack eggs strongly" />
+		<text id="preparestep_tripleomelette_chili" name="Make it spicy" />
+		<text id="preparestep_chocolatewaffles_flour" name="Measure flour" />
+		<text id="preparestep_chocolatewaffles_cream" name="Whip cream" />
+		<text id="preparestep_chocolatewaffles_eggs" name="Crack eggs softly" />
+		<text id="preparestep_chocolatewaffles_chocolate" name="Melt chocolate" />
+		<text id="preparestep_chocolatewaffles_vanilla" name="Add vanilla extract" />
+		<text id="preparestep_spanishomelette_potato" name="Peel potatoes" />
+		<text id="preparestep_spanishomelette_onion" name="Chop onions" />
+		<text id="preparestep_spanishomelette_eggs" name="Crack eggs in Spanish" />
+		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
+		<text id="preparestep_sausagepasta_pasta" name="Boil pasta" />
+		<text id="preparestep_sausagepasta_sausages" name="Chop sausages" />
+		<text id="preparestep_sausagepasta_tomato" name="Make tomato sauce" />
+		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
+		<text id="preparestep_applepie_cream" name="Whip cream" />
+		<text id="preparestep_applepie_eggs" name="Crack eggs elegantly" />
+		<text id="preparestep_applepie_flour" name="Measure flour" />
+		<text id="preparestep_applepie_apple" name="Think about apple economy" />
+		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_ramen_pasta" name="Boil pasta" />
+		<text id="preparestep_ramen_eggs" name="Boil eggs" />
+		<text id="preparestep_ramen_bacon" name="Chop bacon" />
+		<text id="preparestep_ramen_chili" name="Make it spicy" />
+		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
+		<text id="preparestep_corncake_butter" name="Melt butter" />
+		<text id="preparestep_corncake_eggs" name="Mix eggs" />
+		<text id="preparestep_corncake_milk" name="Add milk" />
+		<text id="preparestep_corncake_sugar" name="Mix sugar in the dough" />
+		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_feijoada_beans" name="Boil beans" />
+		<text id="preparestep_feijoada_bacon" name="Chop bacon chunks" />
+		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
+		<text id="preparestep_feijoada_onion" name="Chop onions" />
+		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
+		<text id="preparestep_feijoada_coriander" name="Add coriander" />
+		<text id="preparestep_blackforestcherrycake_flour" name="prosít mouku" />
+		<text id="preparestep_cheeseburger_cheese" name="nakrájet sýr" />
+		<text id="preparestep_cheeseburger_flour" name="prosít mouku" />
+		<text id="preparestep_cheeseburger_mincemeat" name="okořenit sekanou" />
+		<text id="preparestep_cheeseburger_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_cheesedish_cheese" name="rozkrojit sýr" />
+		<text id="preparestep_cheesefondue_cheese" name="rozpustit sýr" />
+		<text id="preparestep_cheesefondue_flour" name="prosít mouku" />
+		<text id="preparestep_cheesefondue_garlic" name="rozetřet česnek" />
+		<text id="preparestep_cherriecake_cherries" name="uvařit třešně" />
+		<text id="preparestep_cherriecake_cream" name="šlehat smetanu" />
+		<text id="preparestep_cherriecake_flour" name="prosít mouku" />
+		<text id="preparestep_cherriecake_sugar" name="zvážit cukr" />
+		<text id="preparestep_cherrycompote_cherries" name="odpeckovat třešně" />
+		<text id="preparestep_cherrycompote_sugar" name="karamelizovat cukr" />
+		<text id="preparestep_chickenburger_chicken" name="porcovat kuře" />
+		<text id="preparestep_chickenburger_cucumber" name="nakrájet okurku" />
+		<text id="preparestep_chickenburger_flour" name="prosít mouku" />
+		<text id="preparestep_chickenburger_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_chickensalad_chicken" name="připravit kuře" />
+		<text id="preparestep_chickensalad_lettuce" name="umýt salát" />
+		<text id="preparestep_chickensalad_onion" name="nasekat cibuli" />
+		<text id="preparestep_chickensalad_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_chickensoup_bacon" name="krájet slaninu" />
+		<text id="preparestep_chickensoup_chicken" name="porcovat kuře" />
+		<text id="preparestep_chickensoup_onion" name="nasekat cibuli" />
+		<text id="preparestep_chickensoup_pasta" name="odvážit nudle" />
+		<text id="preparestep_chiliconcarne_bacon" name="nakrájet slaninu" />
+		<text id="preparestep_chiliconcarne_beans" name="namočit fazole" />
+		<text id="preparestep_chiliconcarne_mincemeat" name="okořenit sekanou" />
+		<text id="preparestep_chiliconcarne_onion" name="nasekat cibuli" />
+		<text id="preparestep_chiliconcarne_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_chocmousse_chocolate" name="rozpustit čokoládu" />
+		<text id="preparestep_chocmousse_cream" name="šlehat smetanu" />
+		<text id="preparestep_chocmousse_eggs" name="oddělit žloutek od bílku" />
+		<text id="preparestep_chocolatecake_chocolate" name="rozpustit čokoládu" />
+		<text id="preparestep_chocolatecake_cream" name="šlehat smetanu" />
+		<text id="preparestep_chocolatecake_eggs" name="oddělit žloutek od bílku" />
+		<text id="preparestep_chocolatecake_flour" name="prosít mouku" />
+		<text id="preparestep_chocolatecheesecake_chocolate" name="nasekat čokoládu" />
+		<text id="preparestep_chocolatecheesecake_cookies" name="rozdrobit sušenky" />
+		<text id="preparestep_chocolatecheesecake_milk" name="odměřit mléko" />
+		<text id="preparestep_chocolatecheesecake_quark" name="rozmíchat tvaroh" />
+		<text id="preparestep_chocolatefondue_chocolate" name="ochutnat čokoládu" />
+		<text id="preparestep_chocolatefondue_cream" name="odměřit smetanu" />
+		<text id="preparestep_chocolatefondue_strawberry" name="očistit jahody" />
+		<text id="preparestep_christmasturkey_turkeymix" name="připravit krocana" />
+		<text id="preparestep_christmasturkey_vegiemix" name="rozmrazit zeleninu" />
+		<text id="preparestep_cookieplate_butter" name="rozpustit máslo" />
+		<text id="preparestep_cookieplate_chocolate" name="nasekat čokoládu" />
+		<text id="preparestep_cookieplate_flour" name="prosít mouku" />
+		<text id="preparestep_cookieplate_sugar" name="karamelizovat cukr" />
+		<text id="preparestep_cornonthecob_butter" name="nakrájet máslo na plátky" />
+		<text id="preparestep_cornonthecob_lettuce" name="umýt salát" />
+		<text id="preparestep_cornonthecob_sweetcorn" name="očistit kukuřici" />
+		<text id="preparestep_curry_ballpepper" name="nakrájet papriku" />
+		<text id="preparestep_curry_coconut" name="rozlousknout kokosový ořech" />
+		<text id="preparestep_curry_curryspice" name="odměřit kari" />
+		<text id="preparestep_curry_meat" name="nakrájet maso" />
+		<text id="preparestep_curry_peas" name="uvařit hrách" />
+		<text id="preparestep_duckalorange_butter" name="rozpustit máslo" />
+		<text id="preparestep_duckalorange_duck" name="připravit kachnu" />
+		<text id="preparestep_duckalorange_onion" name="nasekat cibuli" />
+		<text id="preparestep_duckalorange_orange" name="oloupat pomeranče" />
+		<text id="preparestep_easterdish_chocolate" name="ochutnat čokoládu" />
+		<text id="preparestep_easterdish_eggs" name="spočítat vejce" />
+		<text id="preparestep_englishbreakfast_beans" name="uvařit fazole" />
+		<text id="preparestep_englishbreakfast_eggs" name="rozbít vajíčka" />
+		<text id="preparestep_englishbreakfast_flour" name="prosít mouku" />
+		<text id="preparestep_englishbreakfast_sausages" name="spočítat párky" />
+		<text id="preparestep_fishandchips_fish" name="připravit rybu" />
+		<text id="preparestep_fishandchips_flour" name="prosít mouku" />
+		<text id="preparestep_fishandchips_oil" name="rozpálit olej" />
+		<text id="preparestep_fishandchips_peas" name="uvařit hrách" />
+		<text id="preparestep_fishandchips_potato" name="oloupat brambory" />
+		<text id="preparestep_friedpotatoes_bacon" name="opéct slaninu" />
+		<text id="preparestep_friedpotatoes_onion" name="nasekat cibuli" />
+		<text id="preparestep_friedpotatoes_potato" name="oloupat brambory" />
+		<text id="preparestep_fruitpudding_bakingmix" name="namíchat směs" />
+		<text id="preparestep_fruitpudding_spicemix" name="odvážit koření" />
+		<text id="preparestep_fruitsalad_apple" name="oloupat jablka" />
+		<text id="preparestep_fruitsalad_banana" name="oloupat babány" />
+		<text id="preparestep_fruitsalad_cherries" name="odpeckovat třešně" />
+		<text id="preparestep_fruitsalad_orange" name="oloupat pomeranče" />
+		<text id="preparestep_greensalad_lettuce" name="umýt salát" />
+		<text id="preparestep_greensalad_onion" name="nasekat cibuli" />
+		<text id="preparestep_greensalad_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_gumbo_curryspice" name="opéct kari" />
+		<text id="preparestep_gumbo_fish" name="nakrájet rybu" />
+		<text id="preparestep_gumbo_onion" name="nasekat cibuli" />
+		<text id="preparestep_gumbo_rice" name="uvařit rýži" />
+		<text id="preparestep_hamburger_flour" name="prosít mouku" />
+		<text id="preparestep_hamburger_mincemeat" name="okořenit sekanou" />
+		<text id="preparestep_hamburger_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_hotcherrywaffles_cherries" name="odpeckovat třešně" />
+		<text id="preparestep_hotcherrywaffles_cream" name="šlehat smetanu" />
+		<text id="preparestep_hotcherrywaffles_eggs" name="oddělit žloutek od bílku" />
+		<text id="preparestep_hotcherrywaffles_flour" name="prosít mouku" />
+		<text id="preparestep_hotcherrywaffles_milk" name="ohřát mléko" />
+		<text id="preparestep_jamspongepudding_flour" name="prosít mouku" />
+		<text id="preparestep_jamspongepudding_milk" name="ohřát mléko" />
+		<text id="preparestep_jamspongepudding_strawberry" name="očistit jahody" />
+		<text id="preparestep_jamspongepudding_sugar" name="karamelizovat cukr" />
+		<text id="preparestep_lasagne_cheese" name="nastrouhat sýr" />
+		<text id="preparestep_lasagne_mincemeat" name="okořenit sekanou" />
+		<text id="preparestep_lasagne_pasta" name="uvařit nudle" />
+		<text id="preparestep_lasagne_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_macncheese_cheese" name="nastrouhat sýr" />
+		<text id="preparestep_macncheese_cream" name="odměřit smetanu" />
+		<text id="preparestep_macncheese_pasta" name="uvařit nudle" />
+		<text id="preparestep_maplepancakes_eggs" name="oddělit žloutek od bílku" />
+		<text id="preparestep_maplepancakes_flour" name="prosít mouku" />
+		<text id="preparestep_maplepancakes_maple" name="skusit javorový sirup" />
+		<text id="preparestep_maplepancakes_milk" name="odměřit mléko" />
+		<text id="preparestep_marblecake_butter" name="rozpustit máslo" />
+		<text id="preparestep_marblecake_chocolate" name="rozpustit čokoládu" />
+		<text id="preparestep_marblecake_flour" name="prosít mouku" />
+		<text id="preparestep_marblecake_sugar" name="zvážit cukr" />
+		<text id="preparestep_mexicansalad_bacon" name="opéct slaninu" />
+		<text id="preparestep_mexicansalad_beans" name="namočit fazole" />
+		<text id="preparestep_mexicansalad_onion" name="opéct cibuli" />
+		<text id="preparestep_mexicansalad_sweetcorn" name="uvařit kukuřici" />
+		<text id="preparestep_minestrone_eggplant" name="nakrájet lilek" />
+		<text id="preparestep_minestrone_pasta" name="uvařit nudle" />
+		<text id="preparestep_minestrone_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_mixedsalad_lettuce" name="umýt salát" />
+		<text id="preparestep_mixedsalad_peas" name="uvařit hrách" />
+		<text id="preparestep_mixedsalad_sweetcorn" name="uvařit kukuřici" />
+		<text id="preparestep_mixedsalad_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_nasigoreng_chicken" name="naporcovat kuře" />
+		<text id="preparestep_nasigoreng_eggs" name="uvařit vajíčka" />
+		<text id="preparestep_nasigoreng_onion" name="nasekat cibuli" />
+		<text id="preparestep_nasigoreng_pinapple" name="nakrájet ananas" />
+		<text id="preparestep_nasigoreng_rice" name="uvařit rýži" />
+		<text id="preparestep_newyorkcheesecake_cookies" name="rozdrobit sušenky" />
+		<text id="preparestep_newyorkcheesecake_cream" name="šlehat smetanu" />
+		<text id="preparestep_newyorkcheesecake_quark" name="míchat tvaroh" />
+		<text id="preparestep_newyorkcheesecake_sugar" name="odvážit cukr" />
+		<text id="preparestep_noodlesalad_eggs" name="oddělit žloutek od bílku" />
+		<text id="preparestep_noodlesalad_oil" name="vyšlehat olej" />
+		<text id="preparestep_noodlesalad_pasta" name="uvařit nudle" />
+		<text id="preparestep_noodlesalad_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_omelette_eggs" name="spočítat vejce" />
+		<text id="preparestep_onionsoup_cheese" name="nastrouhat sýr" />
+		<text id="preparestep_onionsoup_garlic" name="rozetřet česnek" />
+		<text id="preparestep_onionsoup_onion" name="nasekat cibuli" />
+		<text id="preparestep_peasoup_bacon" name="opéct slaninu" />
+		<text id="preparestep_peasoup_garlic" name="rozetřet česnek" />
+		<text id="preparestep_peasoup_onion" name="nasekat cibuli" />
+		<text id="preparestep_peasoup_peas" name="očistit hrách" />
+		<text id="preparestep_pizzahawaii_bacon" name="nakrájet slaninu" />
+		<text id="preparestep_pizzahawaii_cheese" name="nastrouhat sýr" />
+		<text id="preparestep_pizzahawaii_flour" name="prosít mouku" />
+		<text id="preparestep_pizzahawaii_pinapple" name="nakrájet ananas" />
+		<text id="preparestep_pizzahawaii_tomato" name="rozmačkat rajčata" />
+		<text id="preparestep_pizzatonno_cheese" name="nastrouhat sýr" />
+		<text id="preparestep_pizzatonno_fish" name="nakrájet rybu" />
+		<text id="preparestep_pizzatonno_flour" name="prosít mouku" />
+		<text id="preparestep_pizzatonno_onion" name="nakrájet cibuli" />
+		<text id="preparestep_pizzatonno_tomato" name="rozmačkat rajčata" />
+		<text id="preparestep_pizza_cheese" name="nastrouhat sýr" />
+		<text id="preparestep_pizza_flour" name="prosít mouku" />
+		<text id="preparestep_pizza_tomato" name="rozmačkat rajčata" />
+		<text id="preparestep_porkroastwithcrackling_carrots" name="oloupat mrkev" />
+		<text id="preparestep_porkroastwithcrackling_garlic" name="rozetřet česnek" />
+		<text id="preparestep_porkroastwithcrackling_meat" name="nakrájet maso" />
+		<text id="preparestep_porkroastwithcrackling_onion" name="nasekat cibuli" />
+		<text id="preparestep_potatosalad_cucumber" name="rozkrojit okurky" />
+		<text id="preparestep_potatosalad_oil" name="vyšlehat olej" />
+		<text id="preparestep_pizza_sausages" name="Slice sausages" />
+		<text id="preparestep_potatosalad_potato" name="oloupat brambory" />
+		<text id="preparestep_redberrycompote_cherries" name="očistit třešně" />
+		<text id="preparestep_redberrycompote_rhubarb" name="očistit rebarboru" />
+		<text id="preparestep_redberrycompote_strawberry" name="očistit jahody" />
+		<text id="preparestep_redberrycompote_sugar" name="karamelizovat cukr" />
+		<text id="preparestep_ricepudding_apple" name="oloupat jablka" />
+		<text id="preparestep_ricepudding_cream" name="šlehat smetanu" />
+		<text id="preparestep_ricepudding_milk" name="odměřit mléko" />
+		<text id="preparestep_ricepudding_rice" name="zvážit rýži" />
+		<text id="preparestep_roastchicken_butter" name="rozpustit máslo" />
+		<text id="preparestep_roastchicken_chicken" name="připravit kuře" />
+		<text id="preparestep_roastchicken_onion" name="nasekat cibuli" />
+		<text id="preparestep_sandwich_bacon" name="krájet slaninu" />
+		<text id="preparestep_sandwich_butter" name="zvážit máslo" />
+		<text id="preparestep_sandwich_cheese" name="rozkrojit sýr" />
+		<text id="preparestep_sandwich_flour" name="prosít mouku" />
+		<text id="preparestep_sandwich_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_scouse_beetroot" name="nakrájet červenou řepu" />
+		<text id="preparestep_scouse_cucumber" name="nakládat okurky" />
+		<text id="preparestep_scouse_eggs" name="opéct vájíčka" />
+		<text id="preparestep_scouse_meat" name="nakrájet maso" />
+		<text id="preparestep_spagetti_mincemeat" name="okořenit sekanou" />
+		<text id="preparestep_spagetti_pasta" name="uvařit nudle" />
+		<text id="preparestep_spagetti_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_spareribs_meat" name="nakrájet maso" />
+		<text id="preparestep_spareribs_oil" name="odměřit olej" />
+		<text id="preparestep_spareribs_onion" name="nasekat cibuli" />
+		<text id="preparestep_spareribs_tomato" name="rozmačkat rajčata" />
+		<text id="preparestep_steakkidneypie_flour" name="prosít mouku" />
+		<text id="preparestep_steakkidneypie_kidney" name="rozdělit ledvinky" />
+		<text id="preparestep_steakkidneypie_meat" name="nakrájet maso" />
+		<text id="preparestep_steakkidneypie_onion" name="nasekat cibuli" />
+		<text id="preparestep_steak_butter" name="nakrájet máslo na plátky" />
+		<text id="preparestep_steak_lettuce" name="umýt salát" />
+		<text id="preparestep_steak_meat" name="nakrájet maso" />
+		<text id="preparestep_steak_potato" name="oloupat brambory" />
+		<text id="preparestep_steak_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_stewedrhubarb_rhubarb" name="nakrájet rebarboru" />
+		<text id="preparestep_stewedrhubarb_sugar" name="karamelizovat cukr" />
+		<text id="preparestep_stew_meat" name="nakrájet maso" />
+		<text id="preparestep_stew_oil" name="rozpálit olej" />
+		<text id="preparestep_stew_onion" name="nasekat cibuli" />
+		<text id="preparestep_strawberrycake_cream" name="šlehat smetanu" />
+		<text id="preparestep_strawberrycake_flour" name="prosít mouku" />
+		<text id="preparestep_strawberrycake_strawberry" name="očistit jahody" />
+		<text id="preparestep_strawberrymousse_cream" name="šlehat smetanu" />
+		<text id="preparestep_strawberrymousse_eggs" name="oddělit žloutek od bílku" />
+		<text id="preparestep_strawberrymousse_strawberry" name="očistit jahody" />
+		<text id="preparestep_strawberrymousse_sugar" name="zvážit cukr" />
+		<text id="preparestep_stuffedpeppers_ballpepper" name="vydlabat papriku" />
+		<text id="preparestep_stuffedpeppers_eggs" name="rozbít vejce" />
+		<text id="preparestep_stuffedpeppers_rice" name="uvařit rýži" />
+		<text id="preparestep_sundayfeast_carrots" name="oloupat mrkev" />
+		<text id="preparestep_sundayfeast_meat" name="nakrájet maso" />
+		<text id="preparestep_sundayfeast_peas" name="uvařit hrách" />
+		<text id="preparestep_sundayfeast_potato" name="oloupat brambory" />
+		<text id="preparestep_sushi_cucumber" name="nakrájet okurku" />
+		<text id="preparestep_sushi_fish" name="nakrájet rybu" />
+		<text id="preparestep_sushi_rice" name="uvařit rýži" />
+		<text id="preparestep_toadinhole_flour" name="prosít mouku" />
+		<text id="preparestep_toadinhole_onion" name="nasekat cibuli" />
+		<text id="preparestep_toadinhole_sausages" name="spočítat párky" />
+		<text id="preparestep_toast_cheese" name="nastrouhat sýr" />
+		<text id="preparestep_toast_flour" name="prosít mouku" />
+		<text id="preparestep_toast_pinapple" name="nakrájet ananas" />
+		<text id="preparestep_tofuburger_flour" name="prosít mouku" />
+		<text id="preparestep_tofuburger_lettuce" name="umýt salát" />
+		<text id="preparestep_tofuburger_tofu" name="pasírovat tofu" />
+		<text id="preparestep_tofuburger_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_tomatosoup_cream" name="šlehat smetanu" />
+		<text id="preparestep_tomatosoup_onion" name="nasekat cibuli" />
+		<text id="preparestep_tomatosoup_tomato" name="oloupat rajčata" />
+		<text id="preparestep_trifle_cookies" name="odvážit sušenky" />
+		<text id="preparestep_trifle_cream" name="šlehat smetanu" />
+		<text id="preparestep_trifle_strawberry" name="očistit jahody" />
+		<text id="preparestep_trifle_sugar" name="odměřit cukr" />
+		<text id="preparestep_veganstirfry_carrots" name="strouhat mrkev" />
+		<text id="preparestep_veganstirfry_peas" name="uvařit hrách" />
+		<text id="preparestep_veganstirfry_rice" name="zvážit rýži" />
+		<text id="preparestep_veganstirfry_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_vegetablesoup_onion" name="nasekat cibuli" />
+		<text id="preparestep_vegetablesoup_potato" name="oloupat brambory" />
+		<text id="preparestep_vegetablesoup_tomato" name="nakrájet rajčata" />
+		<text id="preparestep_veggiecurry_ballpepper" name="nakrájet papriku" />
+		<text id="preparestep_veggiecurry_coconut" name="rozlousknout kokosový ořech" />
+		<text id="preparestep_veggiecurry_curryspice" name="odmeřit kari" />
+		<text id="preparestep_veggiecurry_eggplant" name="nakrájet lilek" />
+		<text id="preparestep_veggiecurry_rice" name="zvážit rýži" />
+		<text id="preparestep_veggielasagne_cheese" name="nastrouhat sýr" />
+		<text id="preparestep_veggielasagne_eggplant" name="nakrájet lilek" />
+		<text id="preparestep_veggielasagne_pasta" name="uvařit nudle" />
+		<text id="preparestep_veggielasagne_tomato" name="rozmačkat rajčata" />
+		<text id="preparestep_whitechoccheesecake_cookies" name="rozdrobit sušenky" />
+		<text id="preparestep_whitechoccheesecake_cream" name="šlehat smetanu" />
+		<text id="preparestep_whitechoccheesecake_milk" name="ohřát mléko" />
+		<text id="preparestep_whitechoccheesecake_quark" name="rozmíchat tvaroh" />
+		<text id="preparestep_whitechoccheesecake_whitechocolat" name="zvážit čokoládu" />
+		<text id="preparestep_whitechocmousse_cream" name="šlehat smetanu" />
+		<text id="preparestep_whitechocmousse_eggs" name="oddělit žloutek od bílku" />
+		<text id="preparestep_whitechocmousse_whitechocolat" name="rozpustit čokoládu" />
+		<text id="preparestep_coxinha_flour" name="Spread flour" />
+		<text id="preparestep_coxinha_chicken" name="Shred chicken" />
+		<text id="preparestep_coxinha_onion" name="Chop onions" />
+		<text id="preparestep_coxinha_cream" name="Make cream cheese" />
+		<text id="preparestep_coxinha_oil" name="Heat oil" />
+		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
+	</preparestep>
+	<preparestep_fancy>
+		<text id="preparestep_bananasplit_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_blackforestcherrycake_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_pizzasalad_chili" name="Chop chili" />
+		<text id="preparestep_cheeseburger_chili" name="krájet chili" />
+		<text id="preparestep_cheesedish_parsley" name="nasekat petrželku" />
+		<text id="preparestep_cheesefondue_chili" name="krájet chili" />
+		<text id="preparestep_cherriecake_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_cherrycompote_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_chickenburger_chili" name="nasekat chilli" />
+		<text id="preparestep_chickensalad_chili" name="krájet chili" />
+		<text id="preparestep_chickensoup_parsley" name="nasekat petrželku" />
+		<text id="preparestep_chiliconcarne_chili" name="nasekat chilli" />
+		<text id="preparestep_chocmousse_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_chocolatecake_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_chocolatecheesecake_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_chocolatefondue_cinnamon" name="poprášit skořicí" />
+		<text id="preparestep_christmasturkey_rosemary" name="nasekat rozmarýn" />
+		<text id="preparestep_cookieplate_cinnamon" name="semlít skořici" />
+		<text id="preparestep_cornonthecob_parsley" name="nasekat petrželku" />
+		<text id="preparestep_curry_coriander" name="nasekat koriandr" />
+		<text id="preparestep_duckalorange_cinnamon" name="semlít skořici" />
+		<text id="preparestep_easterdish_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_englishbreakfast_chili" name="krájet chili" />
+		<text id="preparestep_fishandchips_parsley" name="nasekat petrželku" />
+		<text id="preparestep_friedpotatoes_rosemary" name="nasekat rozmarýn" />
+		<text id="preparestep_fruitpudding_cinnamon" name="semlít skořici" />
+		<text id="preparestep_fruitsalad_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_gardensalad_parsley" name="nasekat petrželku" />
+		<text id="preparestep_greensalad_parsley" name="nasekat petrželku" />
+		<text id="preparestep_gumbo_chili" name="krájet chili" />
+		<text id="preparestep_hamburger_chili" name="krájet chili" />
+		<text id="preparestep_hotcherrywaffles_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_jamspongepudding_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_lasagne_basil" name="otrhat listy bazalky" />
+		<text id="preparestep_macncheese_nutmeg" name="nastrouhat muškátový oříšek" />
+		<text id="preparestep_maplepancakes_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_marblecake_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_mexicansalad_chili" name="krájet chili" />
+		<text id="preparestep_minestrone_basil" name="otrhat listy bazalky" />
+		<text id="preparestep_mixedsalad_parsley" name="nasekat petrželku" />
+		<text id="preparestep_nasigoreng_chili" name="krájet chili" />
+		<text id="preparestep_newyorkcheesecake_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_noodlesalad_parsley" name="nasekat petrželku" />
+		<text id="preparestep_omelette_chili" name="nasekat chilli" />
+		<text id="preparestep_onionsoup_chili" name="krájet chili" />
+		<text id="preparestep_peasoup_parsley" name="nasekat petrželku" />
+		<text id="preparestep_pizzahawaii_chili" name="nasekat chilli" />
+		<text id="preparestep_pizzatonno_horseradish" name="nastrouhat křen" />
+		<text id="preparestep_pizza_chili" name="krájet chili" />
+		<text id="preparestep_porkroastwithcrackling_rosemary" name="nasekat rozmarýn" />
+		<text id="preparestep_potatosalad_parsley" name="nasekat petrželku" />
+		<text id="preparestep_redberrycompote_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_ricepudding_cinnamon" name="semlít skořici" />
+		<text id="preparestep_roastchicken_parsley" name="nasekat petrželku" />
+		<text id="preparestep_sandwich_parsley" name="nasekat petrželku" />
+		<text id="preparestep_scouse_parsley" name="nasekat petrželku" />
+		<text id="preparestep_spagetti_basil" name="otrhat listy bazalky" />
+		<text id="preparestep_spareribs_chili" name="krájet chili" />
+		<text id="preparestep_steakkidneypie_parsley" name="nasekat petrželku" />
+		<text id="preparestep_steak_parsley" name="nasekat petrželku" />
+		<text id="preparestep_stewedrhubarb_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_stew_chili" name="krájet chili" />
+		<text id="preparestep_strawberrycake_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_strawberrymousse_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_stuffedpeppers_parsley" name="nasekat petrželku" />
+		<text id="preparestep_sundayfeast_rosemary" name="nasekat rozmarýn" />
+		<text id="preparestep_sushi_horseradish" name="nastrouhat křen" />
+		<text id="preparestep_toadinhole_rosemary" name="nasekat rozmarýn" />
+		<text id="preparestep_toast_chili" name="krájet chili" />
+		<text id="preparestep_tofuburger_chili" name="nasekat chilli" />
+		<text id="preparestep_tomatosoup_basil" name="otrhat listy bazalky" />
+		<text id="preparestep_trifle_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_veganstirfry_chili" name="krájet chili" />
+		<text id="preparestep_vegetablesoup_basil" name="otrhat listy bazalky" />
+		<text id="preparestep_veggiecurry_coriander" name="nasekat koriandr" />
+		<text id="preparestep_veggielasagne_basil" name="otrhat listy bazalky" />
+		<text id="preparestep_whitechoccheesecake_vanilla" name="vyškrábat vanilku" />
+		<text id="preparestep_whitechocmousse_vanilla" name="vyškrábat vanilku" />
+	</preparestep_fancy>
+	<recipe>
+		<text id="recipe_bananasplit" name="Bananasplit" />
+		<text id="recipe_brigadeiro" name="Brigadeiro" />
+		<text id="recipe_beefstew" name="guláš" />
+		<text id="recipe_pizzasalad" name="Pizza with Salad" />
+		<text id="recipe_tripleomelette" name="Triple Omelette" />
+		<text id="recipe_chocolatewaffles" name="Chocolate Waffles" />
+		<text id="recipe_spanishomelette" name="Spanish Omelette" />
+		<text id="recipe_sausagepasta" name="Sausage Spaghetti" />
+		<text id="recipe_applepie" name="Apple Pie" />
+		<text id="recipe_ramen" name="Ramen" />
+		<text id="recipe_corncake" name="Corn Cake" />
+		<text id="recipe_feijoada" name="Feijoada" />
+		<text id="recipe_blackforestcherrycake" name="švarcvaldský višňový dort" />
+		<text id="recipe_cheeseburger" name="cheeseburger" />
+		<text id="recipe_cheesedish" name="sýrový talíř" />
+		<text id="recipe_cheesefondue" name="sýrové fondue" />
+		<text id="recipe_cherriecake" name="Třešňový koláč" />
+		<text id="recipe_cherrycompote" name="třešňový kompot" />
+		<text id="recipe_chickenburger" name="kuřecí burger" />
+		<text id="recipe_chickensalad" name="kuřecí salát" />
+		<text id="recipe_chickensoup" name="kuřecí polévka" />
+		<text id="recipe_chiliconcarne" name="chilli con carne" />
+		<text id="recipe_chocmousse" name="čokoládová pěna" />
+		<text id="recipe_chocolatecake" name="čokoládový koláč" />
+		<text id="recipe_chocolatecheesecake" name="tvarohovo čokoládový koláč" />
+		<text id="recipe_chocolatefondue" name="čokoládové fondue" />
+		<text id="recipe_christmasturkey" name="vánoční pečeně" />
+		<text id="recipe_cookieplate" name="tác sušenek" />
+		<text id="recipe_cornonthecob" name="kukuřičný klas" />
+		<text id="recipe_curry" name="kari" />
+		<text id="recipe_duckalorange" name="kachna na pomerančích" />
+		<text id="recipe_easterdish" name="gurmánský velikonoční talíř" />
+		<text id="recipe_englishbreakfast" name="anglická snídaně" />
+		<text id="recipe_fishandchips" name="fish and chips" />
+		<text id="recipe_friedpotatoes" name="opékané brambory" />
+		<text id="recipe_fruitpudding" name="ovocný koláč" />
+		<text id="recipe_fruitsalad" name="ovocný salát" />
+		<text id="recipe_greensalad" name="zahradní salát" />
+		<text id="recipe_gumbo" name="Gumbo" />
+		<text id="recipe_hamburger" name="hamburger" />
+		<text id="recipe_hotcherrywaffles" name="vafle s horkými třešněmi" />
+		<text id="recipe_jamspongepudding" name="meruňkový puding" />
+		<text id="recipe_lasagne" name="lasagne" />
+		<text id="recipe_macncheese" name="Mac&apos;n&apos;Cheese" />
+		<text id="recipe_maplepancakes" name="lívance s javorovým sirupem" />
+		<text id="recipe_marblecake" name="bábovka" />
+		<text id="recipe_mexicansalad" name="mexický fazolový salát" />
+		<text id="recipe_minestrone" name="minestrone" />
+		<text id="recipe_mixedsalad" name="míchaný salát" />
+		<text id="recipe_nasigoreng" name="Nasi Goreng" />
+		<text id="recipe_newyorkcheesecake" name="New York Cheescake" />
+		<text id="recipe_noodlesalad" name="těstovinový salát" />
+		<text id="recipe_omelette" name="Omeleta" />
+		<text id="recipe_onionsoup" name="zapekaná cibulová polévka" />
+		<text id="recipe_peasoup" name="hrachová polévka" />
+		<text id="recipe_pizza" name="pizza" />
+		<text id="recipe_pizzahawaii" name="pizza Hawai" />
+		<text id="recipe_pizzatonno" name="pizza Tonno" />
+		<text id="recipe_porkroastwithcrackling" name="pečeně" />
+		<text id="recipe_potatosalad" name="bramborový salát" />
+		<text id="recipe_redberrycompote" name="ovocný krém" />
+		<text id="recipe_ricepudding" name="mléčná rýže s jablečnou kaší" />
+		<text id="recipe_roastchicken" name="pečené kuře" />
+		<text id="recipe_sandwich" name="sendvič" />
+		<text id="recipe_scouse" name="labskaus" />
+		<text id="recipe_spagetti" name="boloňské špagety" />
+		<text id="recipe_spareribs" name="marinované žebírka" />
+		<text id="recipe_steak" name="steakové menu" />
+		<text id="recipe_steakkidneypie" name="steak a ledvinkový koláč" />
+		<text id="recipe_stewedrhubarb" name="rebarborový kompot" />
+		<text id="recipe_strawberrycake" name="jahodový koláč" />
+		<text id="recipe_strawberrymousse" name="jahodová pěna" />
+		<text id="recipe_stuffedpeppers" name="plněná paprika" />
+		<text id="recipe_sundayfeast" name="nedělní jídlo" />
+		<text id="recipe_sushi" name="sushi" />
+		<text id="recipe_toadinahole" name="hovězí v těstě" />
+		<text id="recipe_toast" name="toast Hawaii" />
+		<text id="recipe_tofuburger" name="tofu burger" />
+		<text id="recipe_tomatosoup" name="rajčatová polévka" />
+		<text id="recipe_trifle" name="Trifle" />
+		<text id="recipe_veganstirfry" name="vegánska pánvička" />
+		<text id="recipe_vegetablesoup" name="zeleninová polévka" />
+		<text id="recipe_veggiecurry" name="zelenina na kari" />
+		<text id="recipe_veggielasagne" name="zeleninové lasagne" />
+		<text id="recipe_whitechoccheesecake" name="cheesecake s bílou čokoládou" />
+		<text id="recipe_whitechocmousse" name="pěna z bílé čokolády" />
+		<text id="recipe_coxinha" name="Coxinha" />
+	</recipe>
+	<recipes_fastfood>
+		<text id="recipe_smoothiemaker_greensmoothie" name="Zelený smoothie" />
+		<text id="recipe_smoothiemaker_kiba" name="Višňovo-babánový smoothie" />
+		<text id="recipe_smoothiemaker_pinacolada" name="Virgin Colada" />
+		<text id="recipe_smoothiemaker_tomatojuice" name="rajčatová šťáva" />
+	</recipes_fastfood>
+	<server>
+		<mail>
+			<text id="mail_invite_friend" name="Ahoj!%s!&lt;br /&gt;&lt;br /&gt;Právě jsem objevil skvělou on-line hru &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Přes tento link se dostaneš přímo ke hře:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Přihlaš se přes tento link a zdarma si založ vlastní Kavárnu na &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Zjisti, jaké je to mít vlastní kavárnu. Podávej dobré jídlo, obsluhuj hosty a připravuj kafe podlé své chuti!&lt;br /&gt;&lt;br /&gt;Hodně zábavy u hry, %s" />
+			<text id="mail_lost_pw" name="Ahoj%s!&lt;br /&gt;&lt;br /&gt;Tento automatický e-mail je odpovědí na tvou žádost o přidělení hesla.&lt;br /&gt;Tvé heslo: %s&lt;br /&gt;&lt;br /&gt;Přes tento link se dostaneš přímo ke hře:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;V případě otázek nebo potíží se obrať na support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Přejeme Ti hodně zábavy u hry!&lt;br /&gt;&lt;br /&gt;Tvůj tým z&lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_registration" name="Ahoj,&lt;br /&gt;&lt;br /&gt;děkujeme za přihlášení a vítame Tě v &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt; Kdykoliv se můžeš přihlásit pomocí těchto dat:&lt;br /&gt;E-mail: %s&lt;br /&gt;Heslo: %s&lt;br /&gt;&lt;br /&gt;Přes tento link se dostaneš přimo ke hře:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;V případě otázek nebo potíží se obrať na support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Přejeme Ti hodně zábavy u hry!&lt;br /&gt;&lt;br /&gt;Tvůj tým z&lt;br /&gt;Goodgamestudios.com" />
+		</mail>
+		<misc>
+			<text id="marketplace" name="trh" />
+		</misc>
+	</server>
+	<std_buttons>
+		<text id="btn_text_accept" name="přijmout" />
+		<text id="btn_text_cancle" name="přerušit" />
+		<text id="btn_text_goback" name="zpět" />
+		<text id="btn_text_no" name="ne" />
+		<text id="btn_text_notaccept" name="odmítnout" />
+		<text id="btn_text_okay" name="OK" />
+		<text id="btn_text_payment" name="koupit zlato/ kavárenské dolary" />
+		<text id="btn_text_share" name="Sděl to svým přátelům!" />
+		<text id="btn_text_srchips" name="vydělat kavárenské dolary" />
+		<text id="btn_text_srgold" name="vydělat zlato" />
+		<text id="btn_text_yes" name="ano" />
+	</std_buttons>
+	<tooltips>
+		<text id="tt_Basic_Achievement_Boughtdeco" name="počet koupených dekorací" />
+		<text id="tt_Basic_Achievement_Boughtingredients" name="počet koupených přísad" />
+		<text id="tt_Basic_Achievement_Cookingcount" name="počet uvařených pokrmů" />
+		<text id="tt_Basic_Achievement_Coopcount" name="počet realizovaných spoluprací" />
+		<text id="tt_Basic_Achievement_Coopgoldcount" name="počet realizovaných zlatých spoluprací" />
+		<text id="tt_Basic_Achievement_Curiercount" name="počet objednání kurýra" />
+		<text id="tt_Basic_Achievement_Differentdishes" name="počet uvařených pokrmů" />
+		<text id="tt_Basic_Achievement_Earnedchips" name="vydělané kavárenské dolary" />
+		<text id="tt_Basic_Achievement_Fancycount" name="počet použitých zábavních přísad" />
+		<text id="tt_Basic_Achievement_Firenpc" name="počet propuštených číšníků" />
+		<text id="tt_Basic_Achievement_Instantcount" name="počet ihned rychle uvařených pokrmů" />
+		<text id="tt_Basic_Achievement_Jobclean" name="talíř odklizen" />
+		<text id="tt_Basic_Achievement_Jobserve" name="talíř odklizen" />
+		<text id="tt_Basic_Achievement_Masteies" name="počet obdržených hvězdiček" />
+		<text id="tt_Basic_Achievement_Masteriesgold" name="počet obdržených zlatých hvězdiček" />
+		<text id="tt_Basic_Achievement_Muffinmancash" name="Vyhrát kavárenské dolary v pekárně muffinů" />
+		<text id="tt_Basic_Achievement_Muffinmangold" name="Vyhrál jsi zlato v pekárně muffinů" />
+		<text id="tt_Basic_Achievement_Overcookedfoods" name="počet pokažených jídel" />
+		<text id="tt_Basic_Achievement_Servingcountmeals" name="počet uvařených hlavních jídel" />
+		<text id="tt_Basic_Achievement_Servingcountsalads" name="počet připravených salátů" />
+		<text id="tt_Basic_Achievement_Servingcountsnacks" name="počet připravených svačin" />
+		<text id="tt_Basic_Achievement_Servingcountsoups" name="počet uvařených polévek" />
+		<text id="tt_Basic_Achievement_Servingcountsweets" name="počet uvařených sladkých jídel" />
+		<text id="tt_Basic_Achievement_Servingcountvegans" name="počet uvařených bezmasích pokrmů" />
+		<text id="tt_Basic_Achievement_Servingscount" name="počet prodaných porcí" />
+		<text id="tt_Basic_Achievement_Solditems" name="počet prodaných dekorací a nábytku" />
+		<text id="tt_Basic_Achievement_Spentchips" name="vynaložené kavárenské dolary" />
+		<text id="tt_Basic_Achievement_Spentgold" name="vynaložené zlato" />
+		<text id="tt_Basic_Achievement_Wheeloffortune" name="Počet výher na kole štěstí" />
+		<text id="tt_byAmount" name="{0} z {1}" />
+		<text id="tt_byLevel" name="od levelu {0}" />
+		<text id="tt_CafeActionPanel_btn_achievements" name="vyznamenání" />
+		<text id="tt_CafeActionPanel_btn_cookbook" name="kuchařská kniha" />
+		<text id="tt_CafeActionPanel_btn_coop" name="spolupráce" />
+		<text id="tt_CafeActionPanel_btn_decoshop" name="přestavět" />
+		<text id="tt_CafeActionPanel_btn_gifts" name="dárky" />
+		<text id="tt_CafeActionPanel_btn_ingredientshop" name="obchod s přísadami" />
+		<text id="tt_CafeActionPanel_btn_market" name="trh" />
+		<text id="tt_CafeActionPanel_btn_owncafe" name="moje kavárna" />
+		<text id="tt_CafeActionPanel_btn_staff" name="personál" />
+		<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="Dolné díly" />
+		<text id="tt_CafeAvatarCreationDialog_btn_boy" name="Kluk" />
+		<text id="tt_CafeAvatarCreationDialog_btn_girl" name="Holka" />
+		<text id="tt_CafeAvatarCreationDialog_btn_hair" name="Barva vlasů" />
+		<text id="tt_CafeAvatarCreationDialog_btn_skin" name="Barva pleti" />
+		<text id="tt_CafeAvatarCreationDialog_btn_tops" name="Horné díly" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook" name="ihned uvařit" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="Dnes už nemůžeš použít ´ihned uvařit&apos;" />
+		<text id="tt_CafeClearStoveDialog_instantButton" name="ihned uvařit" />
+		<text id="tt_CafeCookBookDialog_0" name="sladké jídla" />
+		<text id="tt_CafeCookBookDialog_1" name="hlavní jídla" />
+		<text id="tt_CafeCookBookDialog_2" name="polévky" />
+		<text id="tt_CafeCookBookDialog_3" name="saláty" />
+		<text id="tt_CafeCookBookDialog_4" name="vegetariánske" />
+		<text id="tt_CafeCookBookDialog_5" name="svačiny" />
+		<text id="tt_CafeCookBookDialog_btn_cook" name="vařit" />
+		<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="Chybí ti přísady!" />
+		<text id="tt_CafeCookBookDialog_btn_mastery" name="ještě {0} do hvězdičkového levelu {1} klikni pro detaily" />
+		<text id="tt_CafeCookBookDialog_btn_shop" name="obchod s přísadami" />
+		<text id="tt_CafeDekoShopPanel_btn_close" name="zpět do kavárny" />
+		<text id="tt_CafeDekoShopPanel_btn_deko" name="upravit" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Chair" name="židle" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="dekorace" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Door" name="dveře" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Table" name="stoly" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Tiles" name="podlahy" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wall" name="zdi" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wallobject" name="nástenné dekorace" />
+		<text id="tt_CafeDekoShopPanel_btn_expansion" name="rozšíření" />
+		<text id="tt_CafeDekoShopPanel_btn_functional" name="spotřebiče" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Counter" name="pulty" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Extras" name="Extra" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Fridge" name="lednice" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Stove" name="sporáky" />
+		<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="Jestli si chceš koupit toto rozšíření, potřebuješ ještě {0} síťových přátel!" />
+		<text id="tt_CafeDekoShopPanel_btn_sell" name="vzít předmět na prodej" />
+		<text id="tt_CafeDekoShopPanel_cashexpansion" name="Jestli si chceš koupit toto rozšíření za kavárenské dolary, musíš dosáhnout level {0}." />
+		<text id="tt_CafeDekoShopPanel_dragItem" name="vem mě do Kavárny" />
+		<text id="tt_CafeDekoShopPanel_invalidexpansion" name="Než si vyzvedneš další rozšíření, potřebuješ to předchozí." />
+		<text id="tt_CafeIngredientShopDialog_btn_addcash" name="přidat kavárenské dolary/zlato" />
+		<text id="tt_CafeIngredientShopDialog_btn_all" name="všechno" />
+		<text id="tt_CafeIngredientShopDialog_btn_buy" name="koupit" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat1" name="syrové" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat2" name="zelenina" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat3" name="ovoce" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat4" name="zábavné přísady" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat5" name="ostatní" />
+		<text id="tt_CafeIngredientShopDialog_btn_fridge" name="lednice" />
+		<text id="tt_CafeIngredientShopDialog_btn_help" name="Co jsou zábavné přísady?" />
+		<text id="tt_CafeIngredientShopDialog_btn_sell" name="prodat" />
+		<text id="tt_CafeIngredientShopDialog_btn_shop" name="obchod s přísadami" />
+		<text id="tt_CafeIngredientShopDialog_btn_unlock" name="kurýr" />
+		<text id="tt_CafeIngredientShopDialog_btn_wheel" name="K dostání jenom v kole štěstí!" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_help" name="výpomoc" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_refill" name="doplnit pracovné povolení" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_sign" name="příhlásit se/odhlásit se jako hledajíci práci" />
+		<text id="tt_CafeMasteryDialog_broncestar" name="Uvař více porcí!" />
+		<text id="tt_CafeMasteryDialog_goldstar" name="Vař rychleji!" />
+		<text id="tt_CafeMasteryDialog_silverstar" name="Získej víc XP!" />
+		<text id="tt_CafeNamePanel_mc_luxury" name="luxusní úroveň tvojí kavárny" />
+		<text id="tt_CafeNamePanel_mc_rating" name="oblíbenost kavárny" />
+		<text id="tt_CafeOptionPanel_btn_blockfriends" name="blokovat žádosti o přátelství" />
+		<text id="tt_CafeOptionPanel_btn_bugreport" name="nahlaš nám chyby" />
+		<text id="tt_CafeOptionPanel_btn_changePass" name="změnit heslo" />
+		<text id="tt_CafeOptionPanel_btn_custom" name="Převlíknout postavu" />
+		<text id="tt_CafeOptionPanel_btn_faq" name="otázky a odpovědi" />
+		<text id="tt_CafeOptionPanel_btn_fullscreen" name="celá obrazovka" />
+		<text id="tt_CafeOptionPanel_btn_help" name="pomoc" />
+		<text id="tt_CafeOptionPanel_btn_logout" name="odhlásit" />
+		<text id="tt_CafeOptionPanel_btn_messages" name="zprávy" />
+		<text id="tt_CafeOptionPanel_btn_music" name="zapnout/vypnout hudbu" />
+		<text id="tt_CafeOptionPanel_btn_news" name="novinky" />
+		<text id="tt_CafeOptionPanel_btn_options" name="nastavení" />
+		<text id="tt_CafeOptionPanel_btn_screenshot" name="fotka" />
+		<text id="tt_CafeOptionPanel_btn_sfx" name="zapnout/vypnout efekty" />
+		<text id="tt_CafeOptionPanel_btn_socialgroup" name="skupina" />
+		<text id="tt_CafeOptionPanel_btn_sound" name="zvuk" />
+		<text id="tt_CafeOptionPanel_btn_support" name="podpora" />
+		<text id="tt_CafeOptionPanel_btn_verifyemail" name="Vyzvednout odměnu" />
+		<text id="tt_CafeOptionPanel_btn_wantfriends" name="povolit žádosti o přátelství" />
+		<text id="tt_CafeOptionPanel_btn_zoom" name="přiblížit" />
+		<text id="tt_CafeOptionPanel_btn_zoomIn" name="zvětšit" />
+		<text id="tt_CafeOptionPanel_btn_zoomOut" name="zmenšit" />
+		<text id="tt_CafeRegisterPanel_btn_register" name="uložit a registrovat se" />
+		<text id="tt_CafeSmoothiemaker_btn_mix" name="Namíchat" />
+		<text id="tt_CafeSmoothiemaker_serve" name="Podávat drink" />
+		<text id="tt_CafeSocialPanel_btn_buddies" name="přátelé" />
+		<text id="tt_CafeSocialPanel_btn_buddiesincafe" name="přítomní hráči" />
+		<text id="tt_CafeSocialPanel_btn_chat" name="chat" />
+		<text id="tt_CafeSocialPanel_btn_findbuddies" name="Pozvat přítely" />
+		<text id="tt_CafeSocialPanel_btn_muteplayer" name="ztišit" />
+		<text id="tt_CafeStaffDialog_rename" name="přejmenovat číšníka" />
+		<text id="tt_CafeUserStatePanel_btn_adddollar" name="přidat kavárenské dolary/zlato" />
+		<text id="tt_CafeUserStatePanel_btn_refill" name="doplnit pracovné povolení" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} XP do postupu z levelu" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="XP" />
+		<text id="tt_highscore_luxury" name="Roztřídit podle úrovně luxusu" />
+		<text id="tt_highscore_xp" name="Roztřídit podle XP" />
+		<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="vyznamenání" />
+		<text id="tt_PlayerActionChoicesComponent_btn_addfriend" name="žádost o přátelství" />
+		<text id="tt_PlayerActionChoicesComponent_btn_info" name="info" />
+		<text id="tt_PlayerActionChoicesComponent_btn_job" name="najmout" />
+		<text id="tt_PlayerActionChoicesComponent_btn_kick" name="kopnout" />
+		<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="ukončit přátelství" />
+		<text id="tt_PlayerActionChoicesComponent_btn_visit" name="navštívit kavárnu" />
+		<text id="tt_Social_Achievement_Friendscount" name="počet síťových přátel" />
+	</tooltips>
+	<tutorial>
+		<text id="tut_buymissingingredient_copy" name="Podle &apos;0&apos; vedle malé lednice u cibule poznáš, že už v lednici žádnou nemáš.\n Dole vidíš její cenu.\nKup si cibuli!" />
+		<text id="tut_cafeopen_copy" name="Paráda!První hosté na sebe nenechají dlouho čekat.\n Teď víš všechno, co na začátku musíš vědět. Ještě se trochu rozhlídni kolem.\n\nPříjemnou zábavu!" />
+		<text id="tut_cookmeal_copy" name="A teď konečně k věci!\nUkaž, co v tobě je!" />
+		<text id="tut_cookopenshop_copy" name="Tady vidíš jídla s informacemi o potřebných přísadách a době přípravy.\nAle ne!Nemáš dostatek cibule na zahradní salát- ale můžeš si ji koupit." />
+		<text id="tut_cookpreparecook_copy" name="Nejdůležitější je samozřejmě jídlo. Nech nás připravit zahradní salát. Klikni na sporák!" />
+		<text id="tut_instantcook2_copy" name="Použij &apos;ihned uvařit&apos;.\nPlatí se zlatem a je to velmi praktické." />
+		<text id="tut_instantcook_copy" name="Za normálních okolností potřebuješ na přípravu zahradního salátu 6 minut. Existuje možnost tento čas zkrátit. To teď uděláme." />
+		<text id="tut_preparesteps_copy" name="Klikni několik krát na sporák, aby jsi podstoupil jednotlivé kroky přípravy." />
+		<text id="tut_servedish_copy" name="Výborně!\nTeď musíš jídlo naservírovat.\n Deset porcí ale nevydrží dlouho, proto nezapomeň na doplnění!" />
+		<text id="tut_start_copy" name="Vítej v kavárně, {0}!\nTento krátky úvod ti pomůže poznat úžasný svět gastronomie." />
+		<text id="tut_title" name="Úvod!" />
+		<text id="tut_welcome_title" name="Vítejte!" />
+	</tutorial>
+	<generic_flash>
+		<alert>
+			<text id="generic_alert_bug" name="Chyba" />
+			<text id="generic_alert_connection_failed_copy" name="Právě probíhají údržbové práce. Zkus to za chvíli ještě jednou!" />
+			<text id="generic_alert_connection_failed_title" name="Údržbové práce!" />
+			<text id="generic_alert_connection_lost_copy" name="Spojení s hracím servrem bylo přerušeno. Prosím, zkus to za chvíli jěště jednou." />
+			<text id="generic_alert_connection_lost_description" name="Zrovna se provádí údržba, to musí čas od času být. Aby bylo možné nainstalovat aktualizase a nové funkce nebo urovnat chybu.&lt;br&gt;&lt;br&gt; Pracujeme tvrdě, aby jsi mohl zase brzo hrát." />
+			<text id="generic_alert_connection_lost_promo" name="V přestávce vyzkoušej jinou hru." />
+			<text id="generic_alert_connection_lost_thanks" name="Děkujeme za pochopení!" />
+			<text id="generic_alert_connection_lost_title" name="Spojení ztraceno!" />
+			<text id="generic_alert_error" name="Chyba" />
+			<text id="generic_alert_information" name="Odkaz" />
+			<text id="generic_alert_loggedout_copy" name="Úspěšně jsi se odregistroval. Nezapomeň: každý den na tebe čeká login bonus!" />
+			<text id="generic_alert_loggedout_title" name="Tak zatím!" />
+			<text id="generic_alert_warning" name="Varování" />
+			<text id="generic_alert_watchout" name="Pozor!" />
+			<text id="generic_alert_win7chromebug" name="Pokud není možné zapsat text, prosím stiskni klávesu Ctrl." />
+			<text id="generic_invalid_email_provider" name="E-mailová adresa tohoto provozovatele není povolena!" />
+			<text id="generic_js_alert_firstsessiontracking_loading" name="Tvé internetové spojení je pomalé. Zkus to za cvhíli jěště jednou!" />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="Jak se ti líbí hra a co by se dalo vylepšit? Napiš nám svůj názor do Goodgame fóra popř. skupiny!" />
+			<text id="generic_js_alert_firstsessiontracking_unregistered" name="Pozor: Průběh hry se pouze uloží, pokud se zaregistruješ!" />
+			<text id="generic_register_error_invalidemail" name="Zadaná emailová adresa není správná." />
+			<text id="generic_report_muted_chattry" name="Z důvodu zablokování nemůžeš nyní používat Chat." />
+		</alert>
+		<button>
+			<text id="generic_btn_accept" name="Přijmout" />
+			<text id="generic_btn_cancel" name="Přerušit" />
+			<text id="generic_btn_close" name="Zavřít" />
+			<text id="generic_btn_continue" name="Dále" />
+			<text id="generic_btn_end" name="Ukončit" />
+			<text id="generic_btn_endnow" name="Okamžitě ukončit" />
+			<text id="generic_btn_goback" name="Zpět" />
+			<text id="generic_btn_no" name="Ne" />
+			<text id="generic_btn_noshare" name="Ale ne!" />
+			<text id="generic_btn_notaccept" name="Odmítnout" />
+			<text id="generic_btn_okay" name="Okay" />
+			<text id="generic_btn_reconnect" name="Znovu se připojit" />
+			<text id="generic_btn_refresh" name="Aktualizovat" />
+			<text id="generic_btn_report" name="Hlášení" />
+			<text id="generic_btn_search" name="Hledat" />
+			<text id="generic_btn_share" name="Dělit se!" />
+			<text id="generic_btn_skip" name="Přeskočit" />
+			<text id="generic_btn_start" name="Začít" />
+			<text id="generic_btn_topayment" name="Sem s tím!" />
+			<text id="generic_btn_yes" name="Ano" />
+		</button>
+		<chat>
+			<text id="generic_chat_writeable" name="Pouze zaregistrovaní hráči od úrovně 1 mohou použivat Chat." />
+		</chat>
+		<common>
+			<text id="generic_admin" name="Správce" />
+			<text id="generic_animation" name="Ukázat animace" />
+			<text id="generic_bugreport" name="Nahlaš chybu" />
+			<text id="generic_changePass" name="Změna hesla" />
+			<text id="generic_comma" name="." />
+			<text id="generic_conningsoon" name="*Pracuje se na tom*" />
+			<text id="generic_date" name="Datum" />
+			<text id="generic_day" name="Den" />
+			<text id="generic_dayformat" name="{0}.{1}" />
+			<text id="generic_days" name="Dny" />
+			<text id="generic_day_short" name="T" />
+			<text id="generic_decimalseparator" name="." />
+			<text id="generic_email" name="Email" />
+			<text id="generic_faq" name="Otázky a odpovědi" />
+			<text id="generic_forum" name="Fórum" />
+			<text id="generic_friend" name="Přítel" />
+			<text id="generic_friends" name="Přátelé" />
+			<text id="generic_general" name="Všeobecně" />
+			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_group" name="Skupina" />
+			<text id="generic_guest" name="Host" />
+			<text id="generic_help" name="Pomoc" />
+			<text id="generic_high" name="Vysoká" />
+			<text id="generic_hour" name="Hodina" />
+			<text id="generic_hours" name="Hodiny" />
+			<text id="generic_hour_short" name="Hod." />
+			<text id="generic_limited" name="Limitované" />
+			<text id="generic_logout" name="Logout" />
+			<text id="generic_low" name="Nízká" />
+			<text id="generic_medium" name="Střední" />
+			<text id="generic_minute" name="Minuta" />
+			<text id="generic_minutes" name="Minuty" />
+			<text id="generic_minute_short" name="Min." />
+			<text id="generic_moderator" name="Moderátor" />
+			<text id="generic_month" name="Měsíc" />
+			<text id="generic_months" name="Měsíce" />
+			<text id="generic_music" name="Hudba on/off" />
+			<text id="generic_name" name="Jméno" />
+			<text id="generic_news" name="Novinky" />
+			<text id="generic_options" name="Nastavení" />
+			<text id="generic_quality" name="Kvalita" />
+			<text id="generic_register" name="Uložit a registrovat" />
+			<text id="generic_second" name="Sekunda" />
+			<text id="generic_seconds" name="Sekundy" />
+			<text id="generic_second_short" name="Sek." />
+			<text id="generic_sound" name="Tón on/off" />
+			<text id="generic_support" name="Podpora" />
+			<text id="generic_today" name="Dnes" />
+			<text id="generic_tomorrow" name="Zítra" />
+			<text id="generic_tutorial" name="Tutoriál" />
+			<text id="generic_username" name="Hrací jméno" />
+			<text id="generic_xp" name="XP" />
+			<text id="generic_yesterday" name="Včera" />
+		</common>
+		<error>
+			<text id="generic_versioncheck_error" name="Stará verze!" />
+			<text id="generic_versioncheck_errorcode_1" name="Aktualizuj stránku." />
+		</error>
+		<feeds id="" />
+		<friends>
+			<text id="generic_friends_add_copy" name="Chceš {0} připojit jako přítele?" />
+			<text id="generic_friends_add_title" name="Žádost o přátelství" />
+			<text id="generic_friends_buddy_btn_morefriends" name="Více přátel!" />
+			<text id="generic_friends_denied_copy" name="{0} tvoji žádost odmítnul." />
+			<text id="generic_friends_denied_title" name="Žádost odmítnuta!" />
+			<text id="generic_friends_invite_badword_copy" name="Zadané jméno není povoleno!" />
+			<text id="generic_friends_invite_badword_title" name="Pozor!" />
+			<text id="generic_friends_invite_error_copy" name="Pouze jako zaregistrovaný hráč můžeš pozvat přátele." />
+			<text id="generic_friends_invite_error_title" name="Teprve zaregistrovaný" />
+		</friends>
+		<fullscreen>
+			<text id="generic_fullscreen_error_copy" name="Režim celé obrazovky není možný" />
+		</fullscreen>
+		<languages>
+			<text id="generic_language_cs" name="Česky" />
+			<text id="generic_language_da" name="Dánsky" />
+			<text id="generic_language_de" name="Německy" />
+			<text id="generic_language_el" name="Řecké" />
+			<text id="generic_language_en" name="Anglicky" />
+			<text id="generic_language_es" name="Španělsky" />
+			<text id="generic_language_fi" name="Finsky" />
+			<text id="generic_language_fr" name="Francouzsky" />
+			<text id="generic_language_hu" name="Maďarsky" />
+			<text id="generic_language_id" name="Indonéský" />
+			<text id="generic_language_it" name="Italsky" />
+			<text id="generic_language_ja" name="Japonsky" />
+			<text id="generic_language_ko" name="Korejsky" />
+			<text id="generic_language_nl" name="Holandsky" />
+			<text id="generic_language_no" name="Norsky" />
+			<text id="generic_language_pl" name="Polsky" />
+			<text id="generic_language_pt" name="Portugalsky" />
+			<text id="generic_language_pt_BR" name="Brazilské" />
+			<text id="generic_language_ru" name="Rusky" />
+			<text id="generic_language_sv" name="Švédsky" />
+			<text id="generic_language_tr" name="Turecky" />
+			<text id="generic_language_zh_CN" name="Čínsky (zjednodušeně)" />
+			<text id="generic_language_zh_TW" name="Čínsky (tradičně)" />
+		</languages>
+		<login>
+			<text id="generic_login_banned" name="Tvoje konto bylo zablokováno! Prosím obrať se na support!" />
+			<text id="generic_login_banned_2" name="Tvé konto bylo uzavřeno!  Zákaz trvá do: {0}  Pokud máš otázky ohledně zákazu, obrať se na support." />
+			<text id="generic_login_banned_3" name="Tvé konto bylo trvale zablokováno.  Pokud máš otázky týkající se zablokování, obrať se na support." />
+			<text id="generic_login_banned_permanent" name="pernamentní" />
+			<text id="generic_login_facebook" name="Přihlásit se přes facebook" />
+			<text id="generic_login_login" name="Login" />
+			<text id="generic_login_loginname" name="Uživatelské jméno/ E-mail" />
+			<text id="generic_login_lostpassword" name="Zapomenuté heslo?" />
+			<text id="generic_login_lostpassword_copy" name="Zadej svoji e-mailovou adresu a my ti zašleme heslo." />
+			<text id="generic_login_lostpassword_title" name="Zapomenuté heslo" />
+			<text id="generic_login_newplayer" name="Jsi tady nový?" />
+			<text id="generic_login_password" name="Heslo" />
+			<text id="generic_login_play" name="OKAMŽITĚ HRÁT" />
+			<text id="generic_login_playnow" name="Nyní hrát!" />
+			<text id="generic_login_register" name="Registrace" />
+			<text id="generic_login_rememberpassword" name="Uložit heslo" />
+			<text id="generic_login_wronglogin" name="Uživatelské jméno nebo heslo jsou neplatné!" />
+		</login>
+		<logout>
+			<text id="generic_logout_guest_copy" name="Zaregistruj se a ulož si svůj stav hry!" />
+			<text id="generic_logout_guest_title" name="Registrace" />
+		</logout>
+		<notification>
+			<text id="servershutdownpremonition_backin_copy" name="Nejpozději za {0} bude hra opět přístupná." />
+			<text id="servershutdownpremonition_copy" name="Hrací server je v {0}ukončován. Prosím odhlaš se nebo se přihlaš, aby jsi zajistil stav hry." />
+			<text id="servershutdownpremonition_registered_copy" name="Hrací server bude z důvodu údržby za {0} vypnut." />
+			<text id="servershutdown_copy" name="Server hry se vypíná. Za pár minut se zase můžeš přihlásit." />
+			<text id="welcomeback_copy" name="Super, tě zase vidět! Malá pozornost, která ti ulehčí návrat do hry!" />
+			<text id="welcomeback_title" name="Opět tady!" />
+		</notification>
+		<password>
+			<text id="generic_change_password_copy_newpass" name="Nové heslo:" />
+			<text id="generic_change_password_copy_oldpass" name="Staré heslo:" />
+			<text id="generic_change_password_copy_send" name="Nové heslo ti bylo zasláno na tvoji emailovou adresu." />
+			<text id="generic_change_password_error_failed" name="Sorry, ale to není tvůj starý passwort." />
+			<text id="generic_change_password_error_success" name="Heslo bylo úspěšně změněno!" />
+			<text id="generic_change_password_faild_copy" name="Tvé nové heslo by mělo být delší než 2 znaky a staré heslo musí být zadané správně" />
+			<text id="generic_change_password_faild_specialcharacters" name="Tvé heslo nesmí být prázné nebo obsahovat speciální znaky." />
+			<text id="generic_change_password_faild_title" name="Zadání hesla" />
+			<text id="generic_change_password_title" name="Změna hesla" />
+			<text id="generic_guest_change_password_faild_copy" name="Pouze jako zaregistrovaný hráč můžeš změnit heslo!" />
+			<text id="generic_guest_change_password_faild_title" name="Teprve zaregistrovaný" />
+		</password>
+		<payment>
+			<text id="generic_discount_payment_title_general" name="Více {0} za peníze!" />
+			<text id="generic_payment_48hdiscount_button" name="V prvních 48 hodinách více zlata" />
+			<text id="generic_payment_48hdiscount_button_general" name="Více {0} v dalších 48 hodinách" />
+			<text id="generic_payment_48hdiscount_copy" name="V následujících 48 hodinách koupit zlato a u vybraných balení obdržet dodatečně {0}%!" />
+			<text id="generic_payment_48hdiscount_copy_1" name="V následujících 48 hodinách při nákupu zlata obdržíš při každém balení extra {0}%!" />
+			<text id="generic_payment_48hdiscount_copy_1_general" name="V prvních 48 hodinách {0} koupit a u všech balíků obdržet {1}% extra!" />
+			<text id="generic_payment_48hdiscount_copy_general" name="V prvních 48 hodinách {0} koupit a u vybraných paketů obdržet {1}% extra!" />
+			<text id="generic_payment_btn" name="K obchodu" />
+			<text id="generic_payment_copy" name="Budeš převeden na platební oddělení." />
+			<text id="generic_payment_discount_button" name="Nyní {0}% více zlata za peníze!" />
+			<text id="generic_payment_discount_copy" name="Kup nyní zlato a obdrž {0}% bonus!" />
+			<text id="generic_payment_discount_copy_general" name="Nyní {0} koupit a obdržet {1}% bonus!" />
+			<text id="generic_payment_discount_general" name="Nyní {0}% více {1} za peníze!" />
+			<text id="generic_payment_discount_generalshort" name="{0}% více za peníze!" />
+			<text id="generic_payment_discount_time" name="JEŠTĚ {0}!" />
+			<text id="generic_payment_discount_title" name="Více zlata za peníze!" />
+			<text id="generic_payment_newPrices" name="Od teď! Dlouhodobé snížení cen v splátkovém obchodě! Ušetři peníze!" />
+			<text id="generic_payment_title" name="Platební oddělení" />
+		</payment>
+		<progressbar>
+			<text id="loading_text_1" name="Najdi tunel přes Cyberspace" />
+			<text id="loading_text_10" name="Rozmísti předměty po světě" />
+			<text id="loading_text_11" name="Namaluj grafiky" />
+			<text id="loading_text_12" name="Vybarvi tlačítka" />
+			<text id="loading_text_13" name="Schovej velikonoční vajíčka" />
+			<text id="loading_text_14" name="Vyhledej uživatelská data" />
+			<text id="loading_text_15" name="Zažeň chyby" />
+			<text id="loading_text_16" name="Nakrm programátory" />
+			<text id="loading_text_17" name="Prověř klienta" />
+			<text id="loading_text_18" name="Otoč přesýpací hodiny" />
+			<text id="loading_text_19" name="Ochlaď systém" />
+			<text id="loading_text_2" name="Namaž olejem ozubená kola" />
+			<text id="loading_text_20" name="Ukonči to" />
+			<text id="loading_text_3" name="Otoč kolem pro křečka" />
+			<text id="loading_text_4" name="Zahřej server" />
+			<text id="loading_text_5" name="Doufám, že vše probíhá dobře" />
+			<text id="loading_text_6" name="Vyzvedni deratizátora" />
+			<text id="loading_text_7" name="Vypočítej komplikované algoritmy" />
+			<text id="loading_text_8" name="Kalibruj proudící kompenzátory" />
+			<text id="loading_text_9" name="Vyrob předměty" />
+			<text id="loading_text_default" name="Inicializace" />
+			<text id="loading_text_itemXML" name="Stáhnout herní prvky" />
+			<text id="progress_loadfiles" name="Herní grafiky jsou stahovány..." />
+			<text id="progress_serverconnection" name="Spojit s hracím serverem..." />
+		</progressbar>
+		<register>
+			<text id="generic_register_agb_copy" name="Bez všeobecných podmínek by to nešlo. Jednoduše přečíst a tlačítkem na levo potvrdit. Pak se bude pokračovat!" />
+			<text id="generic_register_agb_read" name="Pročíst VOP" />
+			<text id="generic_register_alreadyavatar" name="Uživatel již má avatara." />
+			<text id="generic_register_badword" name="Nesmíš {0} používat ve svém jménu." />
+			<text id="generic_register_btn_agb" name="Akceptovat VOP" />
+			<text id="generic_register_btn_later" name="Později" />
+			<text id="generic_register_btn_next" name="Dále" />
+			<text id="generic_register_btn_save" name="Uložit" />
+			<text id="generic_register_character" name="Vytvoř vlastní charakter" />
+			<text id="generic_register_copy_0" name="Nyní se zaregistruj zdarma!" />
+			<text id="generic_register_copy_1" name="Ulož si stav hry!" />
+			<text id="generic_register_emaillong_copy" name="Tvoje emailová adresa je bohužel krátká." />
+			<text id="generic_register_emailwrong_copy" name="Zadaná emailová adresa není správná." />
+			<text id="generic_register_email_copy" name="E-mailová adresa nesmí být prázdná nebo obsahovat speciální znaky." />
+			<text id="generic_register_error" name="Registrace selhala" />
+			<text id="generic_register_errormistake" name="Chyba" />
+			<text id="generic_register_error_accountalreadyexists" name="Pod touto emailovou adresou je již přihlášen jeden hráč, sorry." />
+			<text id="generic_register_forfree" name="Zdarma se přihlásit!" />
+			<text id="generic_register_forfree1" name="Zdarma" />
+			<text id="generic_register_letsgo" name="Jdem na to!" />
+			<text id="generic_register_namealreadyused" name="Jméno je již zadané." />
+			<text id="generic_register_namenotvalid" name="Zadané jméno je neplatné." />
+			<text id="generic_register_passwordshort_copy" name="Zadané heslo je příliš krátké. Musí se skládat nejméně ze 4 znaků." />
+			<text id="generic_register_passwordwrong_copy" name="Zadané heslo je neplatné." />
+			<text id="generic_register_password_copy" name="Tvé heslo nesmí být prázdné nebo obsahovat speciální znaky." />
+			<text id="generic_register_receivenews" name="Obdržet novinky" />
+			<text id="generic_register_rememberdata" name="Zaznamenat data" />
+			<text id="generic_register_reward" name="Přihlaš se zdarma a obdržíš {0} {1} jako dárek!" />
+			<text id="generic_register_subscribe" name="Přihlášení" />
+			<text id="generic_register_success" name="Úspěšně jsi se zaregistroval." />
+			<text id="generic_register_title" name="Chyba v registraci" />
+			<text id="generic_register_unlock" name="Tato funkce neproběhla!" />
+		</register>
+		<report>
+			<text id="generic_report_muted_badword1_copy" name="Prosím davej pozor na své vyjadřování. Jinak hrozí zablokování Chatu nebo časové zablokování konta. Důvod: {0}" />
+			<text id="generic_report_muted_badword2_copy" name="Po dobu dní {0} nesmíš z důvodu opakovaného chybného chování používat Chat. Důvod: {1}" />
+			<text id="generic_report_muted_domain1" name="Žádné e-mailové adresy na chatu!" />
+			<text id="generic_report_muted_reported_copy" name="Nekolik hráčů si na tebe stěžovalo. Po dobu {0} nemůžeš používat Chat. Důvod: {1}" />
+			<text id="generic_report_player_copy" name="Opravdu cheš hráče {0} nahlásit?\nPozor! Zneužití této funkce může způsobit zablokování konta." />
+			<text id="generic_report_player_reason_0" name="Urážka" />
+			<text id="generic_report_player_reason_1" name="Sexuální obtěžování" />
+			<text id="generic_report_player_reason_2" name="Rasistický výrok" />
+			<text id="generic_report_player_reason_3" name="Hrozba/Vydírání" />
+			<text id="generic_report_player_reason_title" name="Důvod zprávy:" />
+			<text id="generic_report_player_title" name="Nahlásit hráče?" />
+			<text id="generic_report_reported_copy" name="Jiný hráč tě nahlásil u správce. Důvod: {0}" />
+		</report>
+		<worlds>
+			<text id="generic_connect" name="Spojit" />
+			<text id="generic_select_world" name="Zvol svět:" />
+			<text id="generic_world" name="Svět: {0}" />
+			<text id="generic_world_international" name="Mezinárodní: {0}" />
+		</worlds>
+	</generic_flash>
+</cafe>

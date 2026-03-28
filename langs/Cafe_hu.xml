@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cafe>
+	<achievement>
+		<text id="Basic_Achievement_Boughtdeco" name="Belső Szépítész" />
+		<text id="Basic_Achievement_Boughtingredients" name="Belevaló Hozzávalók" />
+		<text id="Basic_Achievement_Cookingcount" name="Sürgő sütő" />
+		<text id="Basic_Achievement_Coopcount" name="Az Együtt Működő" />
+		<text id="Basic_Achievement_Coopgoldcount" name="Arany Ember" />
+		<text id="Basic_Achievement_Curiercount" name="Gyors étterem" />
+		<text id="Basic_Achievement_Differentdishes" name="Kóstolgató virtuóz" />
+		<text id="Basic_Achievement_Earnedchips" name="Pénzes Fazék" />
+		<text id="Basic_Achievement_Fancycount" name="Kívánatos kolléga" />
+		<text id="Basic_Achievement_Firenpc" name="Forrófejű főnök" />
+		<text id="Basic_Achievement_Instantcount" name="Türelmetlen tökéletlen" />
+		<text id="Basic_Achievement_Jobclean" name="Pattogós pakoló" />
+		<text id="Basic_Achievement_Jobserve" name="Szolgálatkész kiszolgáló" />
+		<text id="Basic_Achievement_Masteies" name="Kopogó koppanó" />
+		<text id="Basic_Achievement_Masteriesgold" name="Arany lapát" />
+		<text id="Basic_Achievement_Muffinmancash" name="Muffin Morzsa" />
+		<text id="Basic_Achievement_Muffinmangold" name="Arany muffin" />
+		<text id="Basic_Achievement_Overcookedfoods" name="Rontó Tündér" />
+		<text id="Basic_Achievement_Servingcountmeals" name="Gömbölyödő gőzgombóc" />
+		<text id="Basic_Achievement_Servingcountsalads" name="Kosztos kostoló" />
+		<text id="Basic_Achievement_Servingcountsnacks" name="Falásnyi falatka" />
+		<text id="Basic_Achievement_Servingcountsoups" name="Levesszürcsölő" />
+		<text id="Basic_Achievement_Servingcountsweets" name="Dolgos pék" />
+		<text id="Basic_Achievement_Servingcountvegans" name="Zöldellő zöldség" />
+		<text id="Basic_Achievement_Servingscount" name="Nagy Kanál" />
+		<text id="Basic_Achievement_Solditems" name="Fűszeres Ószeres" />
+		<text id="Basic_Achievement_Spentchips" name="Kiadós Kávézós" />
+		<text id="Basic_Achievement_Spentgold" name="Aranyszájú Költő" />
+		<text id="Basic_Achievement_Wheeloffortune" name="Szerencsegyerek" />
+		<text id="Social_Achievement_Friendscount" name="Főző híresség" />
+	</achievement>
+	<alerts>
+		<text id="alert_addcash_copy" name="Itt aranyat vagy Cafédollárt vásárolhatsz." />
+		<text id="alert_addcash_title" name="Fizetés" />
+		<text id="alert_addFriend_copy" name="Szeretnéd, hogy {0} a barátod legyen?" />
+		<text id="alert_addFriend_denied_copy" name="{0} elutasította a felkérésedet." />
+		<text id="alert_addFriend_denied_title" name="Felkérés elutasítva!" />
+		<text id="alert_addFriend_title" name="Barátkozás" />
+		<text id="alert_addgold_copy" name="Csak regisztrálás után tudsz itt vásárolni!" />
+		<text id="alert_addgold_title" name="Regisztrálás" />
+		<text id="alert_avatarcustom_copy" name="Nem öltözhetsz át, amíg dolgozol!" />
+		<text id="alert_buytiles_copy" name="1. Válassz egy burkolatot\n2. Az egér nyomvatartásával kijelölheted a Cafédban annak helyét.\n3. Majd engedd el." />
+		<text id="alert_buytiles_title" name="Burkolat elhelyezése?" />
+		<text id="alert_changePasswordFaild_copy" name="Az új jelszavad több mint két karakteres legyen és a régi jelszót helyesen kell beadnod!" />
+		<text id="alert_changePasswordFaild_title" name="Jelszóbevitel" />
+		<text id="alert_clearstove_cancelButton" name="Megtartani" />
+		<text id="alert_clearstove_okButton" name="Kidobni" />
+		<text id="alert_clearstove_title" name="A pultról éppen tálalnak. Megtartod az ételt?" />
+		<text id="alert_counter_outofreach_copy" name="A pult nem elérhető. Rendezd át!" />
+		<text id="alert_counter_outofreach_title" name="Figyelem!" />
+		<text id="alert_dekoshop_humanwaiter_copy" name="Amíg másik játékos pincéreskedik nálad, nem válthatsz átépítés üzemmódba." />
+		<text id="alert_dekoshop_humanwaiter_title" name="Nem megy!" />
+		<text id="alert_dekoshop_kickplayer_copy" name="Van pár másik játékos a Cafédban. Ha most át akarsz építeni, akkor ezzel kirúgod őket a Cafédból." />
+		<text id="alert_dekoshop_kickplayer_title" name="Figyelem!" />
+		<text id="alert_FancyCooking_copy" name="Nem kívánod az ételeidet a különleges hozzávalókkal ízletesebbé tenni és ezáltal további {0} XP-hez és {1} adaghoz jutni?" />
+		<text id="alert_FancyCooking_title" name="Különleges hozzávalók" />
+		<text id="alert_fancyinfo_copy" name="Ha az ételedet a megfelelő különleges hozzávalóval fűszerezed, 20%-kal több XP-t és adagot kaphatsz! Ezek a különleges hozzávalók nem foglalnak helyet a hűtődben." />
+		<text id="alert_fancyinfo_title" name="Különleges hozzávalók!" />
+		<text id="alert_giftboxfull_copy" name="Az ajándékdoboz tele van! A barátaidtól nem fogadhatsz el több ajándékot!" />
+		<text id="alert_giftboxfull_title" name="Nincs több hely!" />
+		<text id="alert_guestchangepassword_copy" name="Csak regisztrált játékosként változtathatod meg a jelszavadat!" />
+		<text id="alert_guestchangepassword_title" name="Először regisztrálj!" />
+		<text id="alert_guestcoop_copy" name="Először regisztrálnod kell, hogy összefoghass valakivel." />
+		<text id="alert_guestinvitefriend_copy" name="Csak regisztrált játékosként hívhatod meg a barátaidat." />
+		<text id="alert_guestinvitefriend_title" name="Először regisztrálj" />
+		<text id="alert_guestlogout_copy" name="Regisztrálj a játékod mentéséhez" />
+		<text id="alert_guestlogout_title" name="Regisztrálás" />
+		<text id="alert_help_copy" name="Segíts magadon..." />
+		<text id="alert_help_title" name="Súgó" />
+		<text id="alert_invitefriend_confirmed_copy" name="{0}nak elküldted a meghívódat." />
+		<text id="alert_invitefriend_confirmed_title" name="Elküldted a meghívót!" />
+		<text id="alert_invitefriend_copy" name="Ha meg kívánod hívni, add meg a barátod nevét és e-mailcímét." />
+		<text id="alert_invitefriend_mail" name="Barátod e-mailcíme:" />
+		<text id="alert_invitefriend_myname" name="Neved:" />
+		<text id="alert_invitefriend_name" name="Barátod neve:" />
+		<text id="alert_invitefriend_title" name="Meghívó" />
+		<text id="alert_jobhelp_copy1" name="1. Az ételt vedd el a pultról \n2. A várakozó vendégnek vidd oda." />
+		<text id="alert_jobhelp_copy2" name="1. A tányért szedd le az asztalról (akár többet is) \n2. Tedd a pultra." />
+		<text id="alert_jobhelp_header1" name="Kiszolgálni a vendégeket" />
+		<text id="alert_jobhelp_header2" name="Leszedni a tányérokat" />
+		<text id="alert_jobhelp_title" name="Feladataid" />
+		<text id="alert_jobrefill_copy" name="Ha dolgozni akarsz, előbb regisztrálj!" />
+		<text id="alert_jobrefill_title" name="Regisztrálás" />
+		<text id="alert_lostpassword_copy" name="Add meg az e-mailcímedet és elküldjük a jelszavadat." />
+		<text id="alert_lostpassword_title" name="Elfelejtett jelszó" />
+		<text id="alert_marketplace_jobcancled_copy" name="{0} sajnos elutasította az állásajánlatodat." />
+		<text id="alert_marketplace_jobcancled_title" name="Állás elutasítva" />
+		<text id="alert_marketplace_jobempty_copy" name="Mára felhasználtad a munkaengedélyedet." />
+		<text id="alert_marketplace_jobempty_title" name="Munkaengedély felhasználva!" />
+		<text id="alert_marketplace_jobhired_copy" name="{0} elfogadta az állásajánlatodat." />
+		<text id="alert_marketplace_jobhired_title" name="Állás elfogadva" />
+		<text id="alert_marketplace_job_copy" name="{0} ({1} szint) pincérállást ajánlott. Elfogadod?" />
+		<text id="alert_marketplace_job_title" name="Állásajánlat!" />
+		<text id="alert_marketplace_noticeboard_copy" name="Jelentkezz be álláskeresőnek vagy ha elég szorgalmas voltál, kérhetsz új munkaengedélyt." />
+		<text id="alert_marketplace_noticeboard_title" name="Munkaengedély" />
+		<text id="alert_marketplace_playerjobempty_copy" name="A játékos ma már eleget dolgozott." />
+		<text id="alert_marketplace_playerjobempty_title" name="Munka elutasítva" />
+		<text id="alert_marketplace_playerleaved_copy" name="A játékos elhagyta a piacteret." />
+		<text id="alert_marketplace_playerleaved_title" name="Hoppá!" />
+		<text id="alert_nofreecounter_copy" name="Nincs szabad pult." />
+		<text id="alert_nofreecounter_title" name="Oh, jaj!" />
+		<text id="alert_nofridge_copy" name="Nincs hűtőszekrényed! Válts átépítés üzemmódba és húzz egy hűtőszekrényt a Café-dba." />
+		<text id="alert_nofridge_title" name="Nincs hűtőszekrény?" />
+		<text id="alert_nojobpermission_copy" name="Munkaengedélyre van szükséged, hogy álláskeresőnek jelentkezhess." />
+		<text id="alert_nojobpermission_title" name="Figyelem!" />
+		<text id="alert_register_agb_copy" name="Az ÁSZF nélkül nem megy. Csak olvasd el, a baloldali gombbal hagyd jóvá, és kész!" />
+		<text id="alert_register_email_copy" name="Az e-mailcím nem lehet üres, és nem tartalmazhat speciális karaktereket." />
+		<text id="alert_register_password_copy" name="A jelszavad nem lehet üres és nem tartalmazhat speciális karaktereket." />
+		<text id="alert_register_title" name="Regisztrációs hiba" />
+		<text id="alert_seekingjob_copy" name="Ha dolgozni akarsz, előbb regisztrálj!" />
+		<text id="alert_seekingjob_title" name="Regisztrálás" />
+		<text id="alert_selldeco_copy" name="Tényleg el kívánod adni ezt {0}-ért?" />
+		<text id="alert_selldeco_title" name="Eladod?" />
+		<text id="alert_sellitem_copy" name="Tényleg el kívánod adni darabját {0}-ért?" />
+		<text id="alert_sellitem_title" name="Eladod?" />
+		<text id="alert_smoothiemaker_full_copy" name="Frostydban még van néhány ital. Szolgáld fel a vendégeidnek és utána mixelj újat!" />
+		<text id="alert_smoothiemaker_outofreach_copy" name="A Smoothie készítő nem elérhető. Próbálj valamit áthelyezni." />
+		<text id="alert_smoothiemaker_storage_copy" name="A frostydban vannak még italok! Ha raktározod őket, a maradék adagokat elveszted." />
+		<text id="alert_stafffire_copy" name="A hűséges pincéredet tényleg meneszted?" />
+		<text id="alert_stafffire_title" name="Kirúgod a pincéredet?" />
+		<text id="alert_staffhire_copy" name="Nevezd el az új pincéredet." />
+		<text id="alert_staffhire_title" name="Felvétel" />
+		<text id="alert_storefull_copy" name="Tele van a hűtőszekrényed! Adj el néhány terméket, hogy legyen helyed." />
+		<text id="alert_storefull_title" name="Tele van a hűtőszekrényed." />
+		<text id="alert_stove_outofreach_copy" name="A tűzhely nem elérhető. Rendezd át!" />
+		<text id="alert_stove_outofreach_title" name="Figyelem!" />
+		<text id="alert_unlockitem_copy" name="A hozzávalókat futár is elszállíthatja, de ennek ára van!" />
+		<text id="alert_unlockitem_title" name="Hívsz futárt?" />
+		<text id="alert_userkicked_copy" name="Kidobtak a Caféból!" />
+		<text id="alert_userkicked_title" name="Kirúgva!" />
+		<text id="alert_workinghero_copy" name="A szakács még dolgozik." />
+		<text id="alert_workinghero_title" name="Várj!" />
+	</alerts>
+	<commons>
+		<text id="addgold" name="több arany" />
+		<text id="buy" name="Vásárlás" />
+		<text id="cash" name="Cafédollár" />
+		<text id="comingsoon" name="*Hamarosan*" />
+		<text id="day" name="nap" />
+		<text id="days" name="nap" />
+		<text id="friends" name="{0} barát" />
+		<text id="gold" name="Arany" />
+		<text id="hour" name="óra" />
+		<text id="hours" name="óra" />
+		<text id="level" name="Szint" />
+		<text id="logout" name="Kijelentkezés" />
+		<text id="mastery" name="Csillag szint" />
+		<text id="minute" name="perc" />
+		<text id="minutes" name="perc" />
+		<text id="new" name="Új!" />
+		<text id="second" name="másodperc" />
+		<text id="seconds" name="másodperc" />
+		<text id="sell" name="Eladás" />
+		<text id="usable_character" name="felhasználható karakterek" />
+		<text id="XofY" name="{1}-ből {0}" />
+		<text id="xp" name="XP" />
+	</commons>
+	<cookstep>
+		<text id="cookstep_bananasplit1" name="Fagylaltot hűteni" />
+		<text id="cookstep_bananasplit2" name="Banánt felvágni" />
+		<text id="cookstep_brigadeiro1" name="Melting chocolate" />
+		<text id="cookstep_brigadeiro2" name="Shaping brigadeiros" />
+		<text id="cookstep_blackforestcherrycake1" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_blackforestcherrycake2" name="Sütit sütni" />
+		<text id="cookstep_pizzasalad1" name="Making pizzas" />
+		<text id="cookstep_pizzasalad2" name="Making salads" />
+		<text id="cookstep_tripleomelette1" name="Mixing eggs strongly" />
+		<text id="cookstep_tripleomelette2" name="Folding everything" />
+		<text id="cookstep_chocolatewaffles1" name="Melting chocolate" />
+		<text id="cookstep_chocolatewaffles2" name="Covering waffles" />
+		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
+		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
+		<text id="cookstep_sausagepasta1" name="Boiling pasta" />
+		<text id="cookstep_sausagepasta2" name="Frying sausages" />
+		<text id="cookstep_applepie1" name="Building pies" />
+		<text id="cookstep_applepie2" name="Baking pies" />
+		<text id="cookstep_ramen1" name="Boiling pasta" />
+		<text id="cookstep_ramen2" name="Adding spices" />
+		<text id="cookstep_corncake1" name="Mixing ingredients" />
+		<text id="cookstep_corncake2" name="Baking cakes" />
+		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
+		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
+		<text id="cookstep_cheeseburger1" name="Darált húst sütni" />
+		<text id="cookstep_cheeseburger2" name="Hamburgert összeállítani" />
+		<text id="cookstep_cheesedish1" name="Sajtot tálalni" />
+		<text id="cookstep_cheesedish2" name="Sajtot érlelni" />
+		<text id="cookstep_cheesefondue1" name="Kenyeret sütni" />
+		<text id="cookstep_cheesefondue2" name="Sajtot felhevíteni" />
+		<text id="cookstep_cherriecake1" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_cherriecake2" name="Sütit sütni" />
+		<text id="cookstep_cherrycompote1" name="Cseresznyét főzni" />
+		<text id="cookstep_cherrycompote2" name="lehűteni" />
+		<text id="cookstep_chickenburger1" name="Csirkét megsütni" />
+		<text id="cookstep_chickenburger2" name="Hamburgert összállítani" />
+		<text id="cookstep_chickensalad1" name="Csirkét kisütni" />
+		<text id="cookstep_chickensalad2" name="Salátát összeállítani" />
+		<text id="cookstep_chickensoup1" name="Szalonnát kisütni" />
+		<text id="cookstep_chickensoup2" name="Levest főzni" />
+		<text id="cookstep_chiliconcarne1" name="Darált húst sütni" />
+		<text id="cookstep_chiliconcarne2" name="Chilit főzni" />
+		<text id="cookstep_chocmousse1" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_chocmousse2" name="Krémet hűlni hagyni" />
+		<text id="cookstep_chocolatecake1" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_chocolatecake2" name="Sütés" />
+		<text id="cookstep_chocolatecheesecake1" name="Csokoládét olvasztani" />
+		<text id="cookstep_chocolatecheesecake2" name="Sütit sütni" />
+		<text id="cookstep_chocolatefondue1" name="Csokoládét olvasztani" />
+		<text id="cookstep_chocolatefondue2" name="Habot belekeverni" />
+		<text id="cookstep_christmasturkey1" name="Zöldséget párolni" />
+		<text id="cookstep_christmasturkey2" name="Pulykát sütni" />
+		<text id="cookstep_cookieplate1" name="Tésztát kinyújtani" />
+		<text id="cookstep_cookieplate2" name="Kekszet sütni" />
+		<text id="cookstep_cornonthecob1" name="Kukoricát főzni" />
+		<text id="cookstep_cornonthecob2" name="Salátát összeállítani" />
+		<text id="cookstep_curry1" name="Hozzávalókat összesütni" />
+		<text id="cookstep_curry2" name="Kókuszt hozzáadni" />
+		<text id="cookstep_duckalorange1" name="Kacsát tölteni" />
+		<text id="cookstep_duckalorange2" name="Kacsát sütni" />
+		<text id="cookstep_easterdish1" name="Csokoládét olvasztani" />
+		<text id="cookstep_easterdish2" name="Tojást főzni" />
+		<text id="cookstep_englishbreakfast1" name="Babot főzni" />
+		<text id="cookstep_englishbreakfast2" name="Virslit sütni" />
+		<text id="cookstep_fishandchips1" name="Sütés olajban" />
+		<text id="cookstep_fishandchips2" name="Halat sütni" />
+		<text id="cookstep_friedpotatoes1" name="Krumplit főzni" />
+		<text id="cookstep_friedpotatoes2" name="Krumplit sütni" />
+		<text id="cookstep_fruitpudding1" name="Tésztát pihentetni" />
+		<text id="cookstep_fruitpudding2" name="Sütés" />
+		<text id="cookstep_fruitsalad1" name="Gyümölcsöt felvágni" />
+		<text id="cookstep_fruitsalad2" name="Mártást hozzáadni" />
+		<text id="cookstep_greensalad1" name="Mártást kikeverni" />
+		<text id="cookstep_greensalad2" name="Salátát állni hagyni" />
+		<text id="cookstep_gumbo1" name="Hozzávalókat párolni" />
+		<text id="cookstep_gumbo2" name="Rizst beleforgatni" />
+		<text id="cookstep_hamburger1" name="Hamburgert kisütni" />
+		<text id="cookstep_hamburger2" name="Hamburgert összeállítani" />
+		<text id="cookstep_hotcherrywaffles1" name="Cseresznyét főzni" />
+		<text id="cookstep_hotcherrywaffles2" name="Ostyát sütni" />
+		<text id="cookstep_jamspongepudding1" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_jamspongepudding2" name="Sütés" />
+		<text id="cookstep_lasagne1" name="Darált húst megsütni" />
+		<text id="cookstep_lasagne2" name="Lasagnet sütni" />
+		<text id="cookstep_macncheese1" name="Tálat megtölteni" />
+		<text id="cookstep_macncheese2" name="Sütés" />
+		<text id="cookstep_maplepancakes1" name="Tésztát kikeverni" />
+		<text id="cookstep_maplepancakes2" name="Palacsintát kisütni" />
+		<text id="cookstep_marblecake1" name="Formát megtölteni" />
+		<text id="cookstep_marblecake2" name="sütni" />
+		<text id="cookstep_mexicansalad1" name="Babot főzni" />
+		<text id="cookstep_mexicansalad2" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_minestrone1" name="Zöldséget párolni" />
+		<text id="cookstep_minestrone2" name="Tésztát hozzáadni" />
+		<text id="cookstep_mixedsalad1" name="Mártást megkeverni" />
+		<text id="cookstep_mixedsalad2" name="Salátát állni hagyni" />
+		<text id="cookstep_nasigoreng1" name="Tyúkot főzni" />
+		<text id="cookstep_nasigoreng2" name="Zöldséget párolni" />
+		<text id="cookstep_newyorkcheesecake1" name="Tölteléket kikeverni" />
+		<text id="cookstep_newyorkcheesecake2" name="Sütit sütni" />
+		<text id="cookstep_noodlesalad1" name="Majonézt kikeverni" />
+		<text id="cookstep_noodlesalad2" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_omelette1" name="Tojást fűszerezni" />
+		<text id="cookstep_omelette2" name="Tojást törni" />
+		<text id="cookstep_onionsoup1" name="Hagymát párolni" />
+		<text id="cookstep_onionsoup2" name="Sajtot rásütni" />
+		<text id="cookstep_peasoup1" name="Hagymát párolni" />
+		<text id="cookstep_peasoup2" name="Levest főzni" />
+		<text id="cookstep_pizza1" name="Pizzát megpakolni" />
+		<text id="cookstep_pizza2" name="Pizzát sütni" />
+		<text id="cookstep_pizzahawaii1" name="Pizzát megpakolni" />
+		<text id="cookstep_pizzahawaii2" name="Pizzát sütni" />
+		<text id="cookstep_pizzatonno1" name="Pizzát megpakolni" />
+		<text id="cookstep_pizzatonno2" name="Pizzát sütni" />
+		<text id="cookstep_porkroastwithcrackling1" name="Húst fűszerezni" />
+		<text id="cookstep_porkroastwithcrackling2" name="Sütés" />
+		<text id="cookstep_potatosalad1" name="Krumplit főzni" />
+		<text id="cookstep_potatosalad2" name="Majonézt kikeverni" />
+		<text id="cookstep_redberrycompote1" name="Gyümölcsöt befőzni" />
+		<text id="cookstep_redberrycompote2" name="Édesíteni" />
+		<text id="cookstep_ricepudding1" name="Tejberizst főzni" />
+		<text id="cookstep_ricepudding2" name="Almaszószt főzni" />
+		<text id="cookstep_roastchicken1" name="Tyúkot megtölteni" />
+		<text id="cookstep_roastchicken2" name="Sütés" />
+		<text id="cookstep_sandwich1" name="kenyeret vajazni" />
+		<text id="cookstep_sandwich2" name="Összeállítani" />
+		<text id="cookstep_scouse1" name="Húst főzni" />
+		<text id="cookstep_scouse2" name="Céklát hozzáadni" />
+		<text id="cookstep_spagetti1" name="Darált húst kisütni" />
+		<text id="cookstep_spagetti2" name="Szószt főzni" />
+		<text id="cookstep_spareribs1" name="Húst hozzátenni" />
+		<text id="cookstep_spareribs2" name="Húst megsütni" />
+		<text id="cookstep_steak1" name="Húst kisütni" />
+		<text id="cookstep_steak2" name="Salátát összeállítani" />
+		<text id="cookstep_steakkidneypie1" name="Tölteléket kifőzni" />
+		<text id="cookstep_steakkidneypie2" name="Sütés" />
+		<text id="cookstep_stew1" name="Húst kisütni" />
+		<text id="cookstep_stew2" name="Párolás" />
+		<text id="cookstep_stewedrhubarb1" name="Rebarbarát főzni" />
+		<text id="cookstep_stewedrhubarb2" name="Hűlni hagyni" />
+		<text id="cookstep_strawberrycake1" name="Alját sütni" />
+		<text id="cookstep_strawberrycake2" name="Sütit összeállítani" />
+		<text id="cookstep_strawberrymousse1" name="Epret összenyomkodni" />
+		<text id="cookstep_strawberrymousse2" name="Krémet habosra verni" />
+		<text id="cookstep_stuffedpeppers1" name="Paprikát tölteni" />
+		<text id="cookstep_stuffedpeppers2" name="Paprikát sütni" />
+		<text id="cookstep_sundayfeast1" name="Húst rátenni" />
+		<text id="cookstep_sundayfeast2" name="Húst sütni" />
+		<text id="cookstep_sushi1" name="Hozzávalókat szétosztani" />
+		<text id="cookstep_sushi2" name="Felgöngyölni" />
+		<text id="cookstep_toadinhole1" name="Tésztát kikeverni" />
+		<text id="cookstep_toadinhole2" name="Sütés" />
+		<text id="cookstep_toast1" name="Szendvicset elkészíteni" />
+		<text id="cookstep_toast2" name="Szendvicset megsütni" />
+		<text id="cookstep_tofuburger1" name="Tofuburgert kisütni" />
+		<text id="cookstep_tofuburger2" name="Hamburgert összállítani" />
+		<text id="cookstep_tomatosoup1" name="Hagymát pirítani" />
+		<text id="cookstep_tomatosoup2" name="Paradicsomot főzni" />
+		<text id="cookstep_trifle1" name="Pudingot főzni" />
+		<text id="cookstep_trifle2" name="Krémet rétegezni" />
+		<text id="cookstep_veganstirfry1" name="Zöldséget párolni" />
+		<text id="cookstep_veganstirfry2" name="Rizst főzni" />
+		<text id="cookstep_vegetablesoup1" name="Hagymát pirítani" />
+		<text id="cookstep_vegetablesoup2" name="Levest főzni" />
+		<text id="cookstep_veggiecurry1" name="Rizst főzni" />
+		<text id="cookstep_veggiecurry2" name="Curryt párolni" />
+		<text id="cookstep_veggielasagne1" name="Lasagnet összeállítani" />
+		<text id="cookstep_veggielasagne2" name="Lasagnet sütni" />
+		<text id="cookstep_whitechoccheesecake1" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_whitechoccheesecake2" name="Sütit sütni" />
+		<text id="cookstep_whitechocmousse1" name="Csokoládét olvasztani" />
+		<text id="cookstep_whitechocmousse2" name="Krémet hűlni hagyni" />
+		<text id="cookstep_coxinha1" name="Mixing ingredients" />
+		<text id="cookstep_coxinha2" name="Frying coxinhas" />
+	</cookstep>
+	<coopmission>
+		<text id="coop_desc_long_1" name="Tartunk egy főzőtanfolyamot, hogy az ételeidet tökéletesíthesd. Részt veszel rajta?" />
+		<text id="coop_desc_long_10" name="A családod meglátogat és mesteszakácsként rád hárul a megtisztelő feladat, hogy a karácsonyi ételeket elkészítsd! Jó étvágyat!" />
+		<text id="coop_desc_long_11" name="Egy vacsoracsata várható és szükség lesz sütire minden mennyiségben! Süss nekünk annyi sütit, amennyit csak tudsz!" />
+		<text id="coop_desc_long_12" name="A városi kifőzdébe sok féle levesre lenne szükség. Tudnál néhányat főzni, ami tényleg mindenkinek ízlik?" />
+		<text id="coop_desc_long_13" name="Egy ázsiai esélyre szükség lenne tipikus ázsiai ételekre. Van raktáron néhány recepted?" />
+		<text id="coop_desc_long_14" name="Az építők találkozójára szükség lesz jópár komoly ételre. Mit ajánlanál az igazi férfiak részére?" />
+		<text id="coop_desc_long_15" name="Londonból érkezik vendég és valami normális hazai ételre vágyik. Tudsz ilyet varázsolni?" />
+		<text id="coop_desc_long_2" name="Egy Tex Mex stílusú ünnepséget tervezek és az ehhez illő ételekre lenne szükségem. Tudnál ebben segíteni?" />
+		<text id="coop_desc_long_3" name="Egy hamburgi sportegylet látogat meg engem és szeretném, ha otthonosan éreznék magukat. Ehhez szükségem lenne valakire, aki hamburgi ételeket tud főzni. Tudsz segíteni?" />
+		<text id="coop_desc_long_4" name="Egy kerti partit rendezek és ehhez rengeteg ételre lesz szükségem. Úgy tudom, te a gasztronómia nagymestere vagy. Ugye segítesz?" />
+		<text id="coop_desc_long_5" name="A városi síszálló egy alpesi sípartit rendez és ehhez szüksége lesz rengeteg finomságra. Tudnál segíteni?" />
+		<text id="coop_desc_long_6" name="A főnököm jön ma este vacsorázni hozzám és egy négyfogásos menüvel szeretném meglepni. Kezedbe vennéd az irányítást?" />
+		<text id="coop_desc_long_7" name="Az iskola konyhájában tűz ütött ki és a gyerekek nem kaptak ebédet. Ki tudnál segíteni és valami finomat főzni nekik?" />
+		<text id="coop_desc_long_8" name="A legjobb barátom a szülinapját ünnepli, de az ételekről megfeledkezett. Egy csomó embert meghívott, akik egy rakás éhes emberrel együtt érkeznek. Ugye tudsz segíteni?" />
+		<text id="coop_desc_long_9" name="A helyi ünnep olasz mottó alatt fut. Csak egy dolog hiányzik: az étel! Tudnál rettyinteni valamit?" />
+		<text id="coop_desc_short_1" name="Légy a bolognai spagetti mestere!" />
+		<text id="coop_desc_short_10" name="Pukkanásig egyél!" />
+		<text id="coop_desc_short_11" name="Minden találat számít" />
+		<text id="coop_desc_short_12" name="Semmi nem jobb egy jó levesnél!" />
+		<text id="coop_desc_short_13" name="Csak rizs legyen!" />
+		<text id="coop_desc_short_14" name="Húst és krumpli bármikor jöhet!" />
+		<text id="coop_desc_short_15" name="Mindent a briteknek!" />
+		<text id="coop_desc_short_2" name="Fiesta Mexicana és ami kell hozzá!" />
+		<text id="coop_desc_short_3" name="Labskaus a hamburgi vendégeknek!" />
+		<text id="coop_desc_short_4" name="Hawaii szendvics a kerti partira!" />
+		<text id="coop_desc_short_5" name="Csokival a sajtcsúcsra!" />
+		<text id="coop_desc_short_6" name="A legfinomabb csokikrém!" />
+		<text id="coop_desc_short_7" name="A tanulás a gyomrodra húzódik!" />
+		<text id="coop_desc_short_8" name="Süss pizzaféléket a szülinapi bulira." />
+		<text id="coop_desc_short_9" name="Pizza! Pasta! Basta!" />
+		<text id="coop_title_1" name="Főzőtanfolyam" />
+		<text id="coop_title_10" name="KARÁCSONY VAN!" />
+		<text id="coop_title_11" name="VACSORACSATA!" />
+		<text id="coop_title_12" name="NYAKLEVES" />
+		<text id="coop_title_13" name="MINDEN ÁZSIAI" />
+		<text id="coop_title_14" name="VALAMI KOMOLY KELL!" />
+		<text id="coop_title_15" name="NAGYON BRIT!" />
+		<text id="coop_title_2" name="Tex Mex Est" />
+		<text id="coop_title_3" name="Hamburgi Est" />
+		<text id="coop_title_4" name="Kerti parti" />
+		<text id="coop_title_5" name="Alpesi sí" />
+		<text id="coop_title_6" name="Estély" />
+		<text id="coop_title_7" name="Iskolai étkezés elmaradt" />
+		<text id="coop_title_8" name="Születésnapi buli" />
+		<text id="coop_title_9" name="Olasz büfé" />
+	</coopmission>
+	<dialogs>
+		<text id="dialogwin_achievement_title" name="Kitüntetések" />
+		<text id="dialogwin_avatarcreate_man" />
+		<text id="dialogwin_avatarcreate_random" name="Külső megváltoztatása" />
+		<text id="dialogwin_avatarcreate_txt_avatar_name" name="Név:" />
+		<text id="dialogwin_avatarcreate_txt_avatar_title" name="Készítsd el a karakteredet!" />
+		<text id="dialogwin_avatarcreate_woman" />
+		<text id="dialogwin_avatarnameselect_copy" name="A név foglalt. Ajánlat:" />
+		<text id="dialogwin_avatarnameselect_title" name="Oh, jaj!" />
+		<text id="dialogwin_avatar_btn_random" name="Véletlen" />
+		<text id="dialogwin_bonus_copy_achievement" name="Elérted a kitüntetés {0} szintjét! Gratulálunk!" />
+		<text id="dialogwin_bonus_copy_counter" name="Vehetsz egy új pultot." />
+		<text id="dialogwin_bonus_copy_dish" name="Új receptet érhetsz el:" />
+		<text id="dialogwin_bonus_copy_expand" name="Bővítettél! Most több hely jut a vendégeidnek, dekorációknak és oly sok mindennek." />
+		<text id="dialogwin_bonus_copy_fridge" name="Vásárolhatsz új hűtőszekrényt." />
+		<text id="dialogwin_bonus_copy_instant" name="Még egyszer főzhetsz gyorsan. Egy kattintás és az ételt tálalhatod is." />
+		<text id="dialogwin_bonus_copy_level2" name="Láttad már? Bővítheted a kávézódat, hogy a vendégeid kényelmesen elférjenek." />
+		<text id="dialogwin_bonus_copy_login" name="Ez történt a Caféban, amíg nem voltál itt:" />
+		<text id="dialogwin_bonus_copy_newwaiter" name="Egy új kollégával bővült a Café! Jöhetnek a vendégek!" />
+		<text id="dialogwin_bonus_copy_stove" name="Vehetsz egy új tűzhelyet." />
+		<text id="dialogwin_bonus_copy_waiter" name="Felvehetsz új pincért." />
+		<text id="dialogwin_bonus_title_achievement" name="Új kitüntetés" />
+		<text id="dialogwin_bonus_title_counter" name="Új pult" />
+		<text id="dialogwin_bonus_title_dish" name="Új recept" />
+		<text id="dialogwin_bonus_title_expand" name="Hurrá!" />
+		<text id="dialogwin_bonus_title_fridge" name="Új hűtőszekrény" />
+		<text id="dialogwin_bonus_title_instant" name="Még több készre főzés" />
+		<text id="dialogwin_bonus_title_level2" name="Bővítsd a kávézódat!" />
+		<text id="dialogwin_bonus_title_login" name="Újra itt!" />
+		<text id="dialogwin_bonus_title_newwaiter" name="Gratulálunk!" />
+		<text id="dialogwin_bonus_title_stove" name="Új tűzhely" />
+		<text id="dialogwin_bonus_title_waiter" name="Személyzet bővítés" />
+		<text id="dialogwin_buytile_copy" name="Vennél {0} burkolatot {1}-ért?" />
+		<text id="dialogwin_buytile_title" name="Burkolatot vennél?" />
+		<text id="dialogwin_changepassword_copy_newpass" name="Új jelszó:" />
+		<text id="dialogwin_changepassword_copy_oldpass" name="Régi jelszó:" />
+		<text id="dialogwin_changepassword_title" name="Jelszóváltoztatás" />
+		<text id="dialogwin_clearcounter_cancelButton" name="Megtartani" />
+		<text id="dialogwin_clearcounter_okButton" name="Kidobni" />
+		<text id="dialogwin_clearcounter_title" name="Erről a pultról éppen tálalnak. Mit kívánsz az étellel kezdeni?" />
+		<text id="dialogwin_clearstove_btn_cancel" name="Megtartani" />
+		<text id="dialogwin_clearstove_btn_ok" name="Kidobni" />
+		<text id="dialogwin_clearstove_copy" name="Ma még {0} alkalommal használhatod az &apos;Azonnal kész&apos; funkciót." />
+		<text id="dialogwin_clearstove_title" name="Ezen a tűzhelyen főznek. Mit kívánsz ezzel kezdeni?" />
+		<text id="dialogwin_cookbook_income" name="{0} adagonként" />
+		<text id="dialogwin_cookbook_readyin" name="Kész: {0}" />
+		<text id="dialogwin_cookbook_servings" name="Adag: {0}" />
+		<text id="dialogwin_coopextend_nomoney" name="Nincs elég aranyad az együttműködés meghosszabbításához." />
+		<text id="dialogwin_coopreward_finish_0" name="Arany" />
+		<text id="dialogwin_coopreward_finish_1" name="Ezüst" />
+		<text id="dialogwin_coopreward_finish_2" name="Bronz" />
+		<text id="dialogwin_coopreward_title_fail" name="Nem sikerült!" />
+		<text id="dialogwin_coopreward_title_success" name="Sikeres összefogás: {0}" />
+		<text id="dialogwin_coopshelp_copy" name="A barátaiddal együtt megbízásokat teljesíthetsz és ezzel extra XP-t és Cafédollárt szerezhetsz.\nMinél gyorsabban elkészülsz, annál nagyobb díjazás jár érte!\n\nHa szűkös az idő, bármikor meghosszabbíthatod.\n\De ne feledd, csak azt díjazzák, amit el is végzel." />
+		<text id="dialogwin_coopshelp_title" name="Mi az összefogás?" />
+		<text id="dialogwin_coop_btn_action" name="Részletek" />
+		<text id="dialogwin_coop_btn_activecoops" name="Aktív összefogás" />
+		<text id="dialogwin_coop_btn_join" name="Belépés" />
+		<text id="dialogwin_coop_btn_newcoop" name="Összefogást kezdeni" />
+		<text id="dialogwin_coop_btn_quit" name="Kiszállás" />
+		<text id="dialogwin_coop_extendtime_copy" name="Meghosszabbítod az együttműködésedet {0} aranyért? Aranyidő: {1} óra Ezüstidő: {2} óra Bronzidő: {3} óra" />
+		<text id="dialogwin_coop_extendtime_title" name="Még több idő kell?" />
+		<text id="dialogwin_coop_maxdone" name="Ma már kezdtél együttműködést. Majd holnap kezdhetsz egy újat." />
+		<text id="dialogwin_coop_maxuser" name="Max. részvevők száma: {0}" />
+		<text id="dialogwin_coop_member" name="Együttműködés résztvevői:" />
+		<text id="dialogwin_coop_minlevel" name="Min. részvételi szint: {0}" />
+		<text id="dialogwin_coop_quit_copy" name="Tényleg kiszállsz az együttműködésből?" />
+		<text id="dialogwin_coop_subtitle" name="Amit főznöd kell:" />
+		<text id="dialogwin_coop_timeInfo" name="Szükséges idő:" />
+		<text id="dialogwin_coop_timeleft" name="Fennmaradt idő:" />
+		<text id="dialogwin_coop_txt_noactive" name="Jelenleg nincs egy összefogásod se.\nKezdj bele egybe!" />
+		<text id="dialogwin_coop_txt_title" name="Összefogás" />
+		<text id="dialogwin_decoshophelp_copy" name="Ha a bútorodat vagy a dekorációdat NEM a pénztárgépre húzod, akkor csak tárolod őket. \nHa onnan újra a Cafédba húzod, nem kerül semmibe. \nA termék elérhető számát egy piros mezőben látod." />
+		<text id="dialogwin_decoshophelp_copy_1" name="A bútorok és dekorációk értéke nagy, ez a Caféd luxusértékét növeli. Mennyi érték van a Te Cafédban?" />
+		<text id="dialogwin_decoshophelp_title" name="Bútor/dekoráció tárolása?" />
+		<text id="dialogwin_decoshophelp_title_1" name="Luxusérték?" />
+		<text id="dialogwin_dishmastery_copy_0" name="{0}ért csillagot érdemelsz!" />
+		<text id="dialogwin_dishmastery_copy_1" name="Adj barátaidnak néhány adagot!" />
+		<text id="dialogwin_dishmastery_info" name="Minden csillaggal az ételeidért többet kapsz!" />
+		<text id="dialogwin_dishmastery_title" name="Egy újabb csillag!" />
+		<text id="dialogwin_fancycooking_title" name="Szeretnéd az ételedet ezzel fűszerezni: {0}?" />
+		<text id="dialogwin_featureUnlocked_coop" name="A barátaiddal kezdhetnél egy együttműködést!" />
+		<text id="dialogwin_featureUnlocked_decoration" name="Új dekorációkat érhetsz el." />
+		<text id="dialogwin_featureUnlocked_fancy" name="Ízesítsd ételeidet különleges hozzávalókkal." />
+		<text id="dialogwin_featureUnlocked_frosty" name="Fedezd fel a frostyt és oltsd vendégeid szomját a segítségével!" />
+		<text id="dialogwin_featureUnlocked_marketplace" name="A piactéren szerezz új barátokat!" />
+		<text id="dialogwin_featureUnlocked_muffinman" name="Próbálj szerencsét a Muffin Mannél!" />
+		<text id="dialogwin_featureUnlocked_ranking" name="A ranglistán közvetlenül elérsz más játkost is." />
+		<text id="dialogwin_featureUnlocked_staff" name="Vegyél fel még egy pincért, hogy a vendégeidet kiszolgálhasd." />
+		<text id="dialogwin_featureUnlocked_wheeloffortune" name="Próbálj szerencsét a szerencsekeréken!" />
+		<text id="dialogwin_FriendShop_copy" name="Szükséged van {0} barátra, akik a Café átalakításában segítenek.\nVagy alkalmazz egy ezermestert {1} aranyért." />
+		<text id="dialogwin_FriendShop_title" name="Új barátok" />
+		<text id="dialogwin_giftbox_close" name="Bezárás" />
+		<text id="dialogwin_giftbox_friendlist_empty" name="Egy nap egy ajándékot adhatsz egy barátodat." />
+		<text id="dialogwin_giftbox_friendlist_notavailable" name="Majd holnap küldhetsz ajándékot a barátaidnak." />
+		<text id="dialogwin_giftbox_ggsgifts_empty" name="Nincs ajándék! A bejelenkezéskor új ajándék vár majd rád!" />
+		<text id="dialogwin_giftbox_mygifts_empty" name="Nem kaptál ajándékot. Küldj egyet a barátaidnak, hátha küldenek cserébe neked egyet." />
+		<text id="dialogwin_giftbox_remove" name="eladom" />
+		<text id="dialogwin_giftbox_send" name="elajándékozom" />
+		<text id="dialogwin_giftbox_sendablegifts_empty" name="Ma sajnos nincs ajándék." />
+		<text id="dialogwin_giftbox_title" name="Ajándék!" />
+		<text id="dialogwin_giftbox_use" name="felhasználom" />
+		<text id="dialogwin_highscore_luxury" name="Luxus" />
+		<text id="dialogwin_highscore_name" name="Név" />
+		<text id="dialogwin_highscore_rank" name="Helyezés" />
+		<text id="dialogwin_highscore_searchtext" name="Név/rangkeresés" />
+		<text id="dialogwin_highscore_title" name="Ranglista" />
+		<text id="dialogwin_ingamehelp_1_1" name="Hogy tudok főzni valamit?" />
+		<text id="dialogwin_ingamehelp_1_2" name="A vendégeid részére a tűzhelyen készíted el az étkeket. Ehhez válassz ki egy receptet és néhány kattintással készítsd el." />
+		<text id="dialogwin_ingamehelp_1_3" name="A szakácskönyvben áttekintheted a recepteket és a szükséges hozzávalókat." />
+		<text id="dialogwin_ingamehelp_1_4" name="A recepthez szükséges hozzávalókat a hozzávalók boltjában találod meg." />
+		<text id="dialogwin_ingamehelp_1_5" name="Ha minden hozzávalód összegyűlt, akkor a Főzésre kattintva elkezdheted elkészíteni az ételt." />
+		<text id="dialogwin_ingamehelp_1_6" name="Az előre megadott idő leteltével elkészül az étel. Ekkor tedd a pultra, hogy felszolgálható legyen." />
+		<text id="dialogwin_ingamehelp_1_7" name="Egy tűzhely koszos és a következő használat előtt le kell tisztítani." />
+		<text id="dialogwin_ingamehelp_2_1" name="Mit kell a hozzávalókról tudnom?" />
+		<text id="dialogwin_ingamehelp_2_2" name="Itt tárolod a megvásárolt hozzávalókat. Minden hűtőnek korlátozott kapacitása van. De nem árt előre bevásárolni!" />
+		<text id="dialogwin_ingamehelp_2_3" name="Különleges hozzávalók az ételeid ízesítésére szolgálnak. Használatukkal több adagot készítesz és több XP-t kapsz értük. És nem foglalnak helyet a hűtőben!" />
+		<text id="dialogwin_ingamehelp_2_4" name="Néhány hozzávaló néha nem kapható. Ekkor a futár segít. Egy kis borravalóért mindig kéznél lesz minden." />
+		<text id="dialogwin_ingamehelp_2_5" name="Ezek a hozzávalók mindig elérhetőek:" />
+		<text id="dialogwin_ingamehelp_3_1" name="Értékek stb." />
+		<text id="dialogwin_ingamehelp_3_2" name="Tapasztalati ponthoz jutsz az ételek felszolgálásakor. további lehetőség: más Caféban tudsz pincéreskedni, eredményes együttműködéskor, kitüntetéssel vagy italok elszolgálásakor." />
+		<text id="dialogwin_ingamehelp_3_3" name="A kedveltséged mutatja, hány vendéged látogat el hozzád. Akkor nő, ha a vendég elégedetten távozik. A kedveltséged csökkenhet, ha nem elégedett a vendéged. Ha kapott enni, akkor viszont boldog." />
+		<text id="dialogwin_ingamehelp_3_4" name="Az ételek eladásával szerezhetsz Cafédollárt. További lehetőség: ha pincérként dolgozol, sikeres együttműködésben veszel részt vagy kitüntetést kapsz." />
+		<text id="dialogwin_ingamehelp_3_5" name="Az átépítés módban lévő tárgyaknak luxusértéke van. Ez hatással van a kedveltségedre. Minél értékesebb, annál kedveltebb..." />
+		<text id="dialogwin_ingamehelp_3_6" name="Az átépítés módban találsz tűzhelyet, pultot, asztalokat és sok berendezési tárgyat. Légy kreatív!" />
+		<text id="dialogwin_ingamehelp_3_7" name="Ha a Caféd túl kicsi, át is építheted, hogy több helyed legyen a vendégeid számára." />
+		<text id="dialogwin_ingamehelp_4_1" name="Mit is kell még tudnom?" />
+		<text id="dialogwin_ingamehelp_4_2" name="A piactéren megismerkedhetsz új játékosokkal, munkát kereshetsz vagy chatelhetsz másokkal." />
+		<text id="dialogwin_ingamehelp_4_3" name="Kitüntetés jár minden munkáért és lehetőséget nyújt további XP és Cafédollár szerzésére." />
+		<text id="dialogwin_ingamehelp_4_4" name="A piactéren felvehetsz pincérnek más játékostársadat, vagy te magad mehetsz máshová dolgozni." />
+		<text id="dialogwin_ingamehelp_4_5" name="Az együttműködés egy közös főző projekt, amit a többi játékossal együtt végezhetsz el. Ha végeztetek, jutalom jár érte." />
+		<text id="dialogwin_ingamehelp_4_6" name="A pincérek felszolgálják a kész ételeket a vendégeid részére és elviszik a használt tányérokat." />
+		<text id="dialogwin_ingamehelp_4_7" name="Ha az elkészített étel nincs időben a pultra helyezve, tönkre megy." />
+		<text id="dialogwin_ingamehelp_ingredients" name="Hozzávalók" />
+		<text id="dialogwin_ingredient_all" name="Összes" />
+		<text id="dialogwin_ingredient_emptyfridge" name="Sajnos, a hűtőszekrényed üres. Ha valami újat kívánsz főzni, a boltból hozzávalókat kell beszerezned." />
+		<text id="dialogwin_ingredient_fancy" name="Speciális" />
+		<text id="dialogwin_ingredient_fruits" name="Gyümölcsök" />
+		<text id="dialogwin_ingredient_instore" name="x tárolva" />
+		<text id="dialogwin_ingredient_meat" name="Hús" />
+		<text id="dialogwin_ingredient_notinstock" name="Ma nincs!" />
+		<text id="dialogwin_ingredient_shoplayer" name="Bolt" />
+		<text id="dialogwin_ingredient_storecapacity" name="Kapacitás:" />
+		<text id="dialogwin_ingredient_storeinused" name="A hűtőszekrényben:" />
+		<text id="dialogwin_ingredient_storelayer" name="Hűtőszekrény" />
+		<text id="dialogwin_ingredient_vegatable" name="Vegetáriánus" />
+		<text id="dialogwin_instantcooking_copy" name="Szeretnéd azonnal elkészíteni? Még {0} alkalommal megteheted." />
+		<text id="dialogwin_instantcooking_title" name="Szeretnéd\n készre főzni?" />
+		<text id="dialogwin_jobpaycheck_copy" name="A szorgalmas pincéreket jutalmazzák! A borravaló mellé még tapasztalatot is gyűjthetsz." />
+		<text id="dialogwin_jobpaycheck_title" name="Elszámolás" />
+		<text id="dialogwin_levelup_copy" name="{0} szintre értél!" />
+		<text id="dialogwin_levelup_copy_1" name="A jutalmad:" />
+		<text id="dialogwin_levelup_copy_2" name="Elérhető számodra:" />
+		<text id="dialogwin_levelup_title" name="ÚJ SZINT" />
+		<text id="dialogwin_lonelyingredient_copy" name="A pincéred talált egy ládát tele titokzatos hozzávalókkal!\n\nAdd a barátaidnak!" />
+		<text id="dialogwin_lonelyingredient_title" name="Meglepetés!" />
+		<text id="dialogwin_lonelytip_copy" name="Egy vendéged óriási borravalót adott! Osszd meg a barátaiddal!" />
+		<text id="dialogwin_lonelytip_title" name="Hurrá!" />
+		<text id="dialogwin_muffinman_beforebet" name="Válassz tétet. Ha nyersz duplát kapsz vissza." />
+		<text id="dialogwin_muffinman_btn_again" name="Újra!" />
+		<text id="dialogwin_muffinman_btn_go" name="Nosza!" />
+		<text id="dialogwin_muffinman_header" name="Találd meg a tölteléket!" />
+		<text id="dialogwin_muffinman_lostbet" name="Kár! Nem lehet folyton nyerni! Talán legközelebb..." />
+		<text id="dialogwin_muffinman_nomoney" name="Nincs elég Cafédollárod/aranyod a téthez!" />
+		<text id="dialogwin_muffinman_nopayment" name="Ha az aranyért akarsz játszani, legalább a 10. szinten kell legyél." />
+		<text id="dialogwin_muffinman_noregister" name="Csak regisztrált játékosként játszhatsz &quot;Találd meg a tölteléket!&quot;" />
+		<text id="dialogwin_muffinman_nosale" name="A muffinkészítődet nem adhatod el." />
+		<text id="dialogwin_muffinman_onlyonebuy" name="A Cafédba csak egy muffinkészítőt helyezhetsz el." />
+		<text id="dialogwin_muffinman_placedbet" name="Nagyon jó! Melyik muffinban van töltelék?" />
+		<text id="dialogwin_muffinman_toohighbet" name="Ennyit nem tehetsz fel! A maximális tét{0} arany és {1} Farmdollár." />
+		<text id="dialogwin_muffinman_wonbet" name="Hmm, fincsi! Megtaláltad a tölteléket! Próbálj szerencsét újra!" />
+		<text id="dialogwin_nomoney_avatarchange" name="Nincs elég aranyad, hogy átöltözz!" />
+		<text id="dialogwin_nomoney_clean_copy" name="Nincs elég Cafédollárod, hogy megtisztítsd a tűzhelyedet!" />
+		<text id="dialogwin_nomoney_copy" name="Ajjaj nem elég a Cafédollár/arany készleted, hogy ezt megvehesd!" />
+		<text id="dialogwin_nomoney_courier" name="Nincs elég Cafédollár/aranyad, hogy kifizesd a futárt." />
+		<text id="dialogwin_nomoney_instantcook_copy" name="Nincs elég aranyad, hogy azonnal elkészüljön az ételed." />
+		<text id="dialogwin_nomoney_moregold" name="Cafédollár/arany vásárlás" />
+		<text id="dialogwin_nomoney_npchire" name="Nincs elég aranyad, hogy új pincért vehess fel." />
+		<text id="dialogwin_nomoney_ok" name="OK" />
+		<text id="dialogwin_nomoney_title" name="A Cafédollár/arany készleted nem elég" />
+		<text id="dialogwin_noreward_copy" name="A jutalmat már sajnos egy másik játékos megkaparintotta." />
+		<text id="dialogwin_noreward_title" name="De kár!" />
+		<text id="dialogwin_perfectdish_copy" name="Ma {0} tökéletesen sikerült!\nAdj belőle néhány adagot a barátaidnak is!" />
+		<text id="dialogwin_perfectdish_title" name="Kitűnő!" />
+		<text id="dialogwin_presentreceived_copy" name="{0} arany üdvözlő ajándékot a fiókodban találod." />
+		<text id="dialogwin_presentreceived_title" name="Ajándék megérkezett!" />
+		<text id="dialogwin_presentreminder_btn_send" name="Küldés" />
+		<text id="dialogwin_presentreminder_copy1" name="Kattints egyszerűen az arany-linkre az e-mailedben és hozd el a {0} aranyat." />
+		<text id="dialogwin_presentreminder_copy2" name="Igen, most {0} aranyat küldj az e-mail címemre." />
+		<text id="dialogwin_presentreminder_title" name="{0} aranyat kapsz!" />
+		<text id="dialogwin_receiveitem_copy" name="A jutalmadat az ajándékaid között találod!" />
+		<text id="dialogwin_receiveitem_title" name="Hurrá!" />
+		<text id="dialogwin_receivemoney_copy" name="A jutalmadat már jóváírtuk!" />
+		<text id="dialogwin_receivemoney_title" name="Gratulálunk!" />
+		<text id="dialogwin_refreshfood_btn_clean" name="Takarítás" />
+		<text id="dialogwin_refreshfood_btn_refresh" name="Mentsd meg!" />
+		<text id="dialogwin_refreshfood_title" name="Szeretnéd az ételedet\n\nmegmenteni?" />
+		<text id="dialogwin_register_agbs" name="ÁSZF elfogadása" />
+		<text id="dialogwin_register_mail" name="E-mail" />
+		<text id="dialogwin_register_password" name="Jelszó" />
+		<text id="dialogwin_register_title" name="Regisztrálás" />
+		<text id="dialogwin_sendgift_send" name="elajándékozom" />
+		<text id="dialogwin_sendgift_titel" name="elajándékozom:" />
+		<text id="dialogwin_settings_email" name="E-mail fogadás letiltása" />
+		<text id="dialogwin_settings_general" name="Általános" />
+		<text id="dialogwin_settings_high" name="Magas" />
+		<text id="dialogwin_settings_low" name="Kevés" />
+		<text id="dialogwin_settings_medium" name="Közepes" />
+		<text id="dialogwin_settings_quality" name="Minőségs" />
+		<text id="dialogwin_shippingconfirmation_copy1" name="Kattints az e-mailben található linkre, és hozd el az aranyat." />
+		<text id="dialogwin_shippingconfirmation_copy2" name="Nem kaptad meg az e-mailt? Egy pár percig eltarthat. Lehet, hogy a spam könyvtárba került? Ha ott sincs, a support szívesen segít." />
+		<text id="dialogwin_shippingconfirmation_title" name="Arany e-mail úton van!" />
+		<text id="dialogwin_smoothiemakerhelp_copy" name="Itt italokat mixelhetsz és felszolgálhatod a vendégeidnek. Válassz ki egy italt és kattints a &quot;Mixálás&quot;-ra.  A felszolgáláshoz csak kattints egy szomjas vendégre, mielőtt helyet foglalna. A vendég feje feletti jelből látod, ha szomjas." />
+		<text id="dialogwin_smoothiemakerhelp_title" name="Hogy adhatok el italt?" />
+		<text id="dialogwin_smoothiemaker_allserved_copy" name="Minden adagot felszolgáltál! Várd meg amíg a frostyd üres lesz, hogy új italt készíthess." />
+		<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="Boltba" />
+		<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Vegyél egy frostyt, ha italokat akarsz felszolgálni." />
+		<text id="dialogwin_smoothiemaker_nomoney_copy" name="Nincs elég Cafédollárod/aranyad ehhez az italhoz!" />
+		<text id="dialogwin_smoothiemaker_noservings_copy" name="Nincs több italod. Mixelj néhányat!" />
+		<text id="dialogwin_smoothiemaker_onlyonebuy" name="Csupán egy frostyt helyezhetsz a Cafédba." />
+		<text id="dialogwin_smoothiemaker_txt_title" name="FROSTY" />
+		<text id="dialogwin_staffmanagement_btn_fire" name="Kirúgni" />
+		<text id="dialogwin_staffmanagement_favorite" name="Teendő?" />
+		<text id="dialogwin_staffmanagement_favorite0" name="Leszedni az asztalt" />
+		<text id="dialogwin_staffmanagement_favorite100" name="Felszolgálni" />
+		<text id="dialogwin_staffmanagement_fire" name="Elbocsátod?" />
+		<text id="dialogwin_staffmanagement_renamecopy" name="Adj a pincérednek új nevet:" />
+		<text id="dialogwin_staffmanagement_renametitle" name="Átnevezed?" />
+		<text id="dialogwin_staff_hire" name="Felveszed" />
+		<text id="dialogwin_staff_management" name="Kezelés" />
+		<text id="dialogwin_staff_new" name="Új pincér" />
+		<text id="dialogwin_staff_title" name="A pincéred" />
+		<text id="dialogwin_welcomeback_text" name="Ajándékod:{0} arany" />
+		<text id="dialogwin_welcomeback_text2" name="Ajándékként kapsz: {0} aranyat és 3 különleges hozzávalót" />
+		<text id="dialogwin_welcomeback_text3" name="" />
+		<text id="dialogwin_welcomeback_title" name="Üdvözlünk ismét {0}!" />
+		<text id="dialogwin_wheeloffortune_beforespin" name="Forgasd meg a kereket és szerezz csodás nyereményeket!" />
+		<text id="dialogwin_wheeloffortune_btn_go" name="Forgatás" />
+		<text id="dialogwin_wheeloffortune_btn_towheel" name="Szerencsekerék" />
+		<text id="dialogwin_wheeloffortune_copy1" name="Ma már megforgattad a szerencsekereket?" />
+		<text id="dialogwin_wheeloffortune_header" name="SZERENCSEKERÉK" />
+		<text id="dialogwin_wheeloffortune_info" name="Naponta az első forgatás ingyenes" />
+		<text id="dialogwin_wheeloffortune_info1" name="Minden további forgatás egy aranyadba kerül!" />
+		<text id="dialogwin_wheeloffortune_nomoney" name="Nincs elég aranyad a szerencsekerék megforgatásához" />
+		<text id="dialogwin_wheeloffortune_noregister" name="Csak regisztrált játékosként forgathatod meg a szerencsekereket." />
+		<text id="dialogwin_wheeloffortune_nospace" name="Nincs helyed az ajándékdobozodban a nyereményednek.  Csinálj egy kis helyet és megforgathatod a kereket!" />
+		<text id="dialogwin_wheeloffortune_title" name="Szerencsekerék" />
+		<text id="dialogwin_wheeloffortune_tryagain" name="Próbáld meg újra!" />
+		<text id="dialogwin_wheeloffortune_wonbet" name="Gratulálunk! A nyereményed:" />
+		<text id="dialogwin_wheeloffortune_woncash" name="Gratulálunk! A jutalmadat jóváírtuk." />
+		<text id="dialogwin_wheeloffortune_wonfood" name="Gratulálunk! A jutalmadat az ajándékok között találod." />
+		<text id="dialogwin_wheeloffortune_wongold" name="Nyertél egy arany edényt!" />
+		<text id="dialogwin_wheeloffortune_wonitem" name="Gratulálunk! A jutalmadat a raktárban találod." />
+	</dialogs>
+	<error_codes>
+		<text id="achievement_error" name="Kitüntetés" />
+		<text id="achievement_errorcode_1" name="Hiba" />
+		<text id="cafechat_errorcode_23" name="A csevegést az Administrator egyelőre deaktiválta." />
+		<text id="cafechat_errorcode_24" name="Kérlek, ne reklámozz csevegés közben!" />
+		<text id="cafewalk_errorcode_1" name="Figyelem!" />
+		<text id="cafewalk_errorcode_23" name="Erre a pontra nem léphetsz." />
+		<text id="cafe_error" name="Figyelem!" />
+		<text id="changepassword_error" name="Jelszóváltoztatás" />
+		<text id="changepassword_errorcode_0" name="Jelszavadat sikeresen megváltoztattad!" />
+		<text id="changepassword_errorcode_1" name="Hiba" />
+		<text id="changepassword_errorcode_10" name="Sajnos, nem ez a régi jelszavad." />
+		<text id="coop_errorcode_3" name="Túl alacsony szinten állsz, hogy részvehess az együttműködésben.\n Legalább egy új ételt kellene kapnod." />
+		<text id="coop_errorcode_7" name="Csak a {0} szintig vehetsz részt ebben az együttműködésben." />
+		<text id="coop_errorcode_85" name="Ez az együttműködés már foglalt." />
+		<text id="courier_error" name="Szállítási gondok" />
+		<text id="courier_errorcode_40" name="A tárolókapacitásod nem elegendő." />
+		<text id="courier_errorcode_42" name="Közben a termék az egyik boltban elérhető. Nézz utána gyorsan!" />
+		<text id="courier_errorcode_43" name="A futár túlterhelt és nem tudja kiszállítani az árudat." />
+		<text id="createavatar_error" name="Figyelem!" />
+		<text id="createavatar_errorcode_12" name="A név már foglalt." />
+		<text id="createavatar_errorcode_15" name="A felhasználónak már van egy avatarja" />
+		<text id="createavatar_errorcode_18" name="A megadott név érvénytelen" />
+		<text id="createavatar_error_invalide" name="A felhasználó neved nem lehet üres és nem tartalmazhat speciális karaktert." />
+		<text id="createavatar_error_nogender" name="Válassz karaktert!" />
+		<text id="editbuy_errorcode_1" name="Figyelem!" />
+		<text id="editbuy_errorcode_3" name="Még nem érted el azt a szintet, ahol ezt a tárgyat megvásárolhatod." />
+		<text id="editbuy_errorcode_38" name="Csak az átépítés üzemmódban tudsz változtatni a Cafén." />
+		<text id="editbuy_errorcode_39" name="Hibás elhelyezés. Húzd a tárgyat a Café egyik üres pontjára." />
+		<text id="editextend_errorcode_1" name="Figyelem!" />
+		<text id="editextend_errorcode_38" name="Csak az átépítés üzemmódban tudsz változtatni a Cafén." />
+		<text id="editextend_errorcode_53" name="Ezt a bővítést már felhasználtad." />
+		<text id="editextend_errorcode_54" name="Ezt a bővítést még nem veheted meg." />
+		<text id="editmode_errorcode_1" name="Figyelem!" />
+		<text id="editmoveobj_errorcode_1" name="Figyelem!" />
+		<text id="editmoveobj_errorcode_38" name="Csak az átépítés üzemmódban tudsz változtatni a Cafén." />
+		<text id="editmoveobj_errorcode_39" name="Hibás elhelyezés. Húzd a tárgyat a Café egyik üres pontjára." />
+		<text id="editrotateobj_errorcode_1" name="Figyelem!" />
+		<text id="editrotateobj_errorcode_38" name="Csak az átépítés üzemmódban tudsz változtatni a Cafén." />
+		<text id="editrotateobj_errorcode_39" name="Hibás elhelyezés. Húzd a tárgyat a Café egyik üres pontjára." />
+		<text id="editsell_errorcode_1" name="Figyelem!" />
+		<text id="editsell_errorcode_32" name="Ez a tárgy nincs tárolva." />
+		<text id="editsell_errorcode_38" name="Csak az átépítés üzemmódban tudsz változtatni a Cafén." />
+		<text id="editsell_errorcode_39" name="Hibás elhelyezés. Húzd a tárgyat a Café egyik üres pontjára." />
+		<text id="editstoreobj_errorcode_1" name="Figyelem!" />
+		<text id="editstoreobj_errorcode_37" name="Ezen még van egy étel!" />
+		<text id="editstoreobj_errorcode_38" name="Csak az átépítés üzemmódban tudsz változtatni a Cafén." />
+		<text id="editstoreobj_errorcode_39" name="Hibás elhelyezés. Húzd a tárgyat a Café egyik üres pontjára." />
+		<text id="editstoreobj_errorcode_51" name="Ez a mező üres, itt nem tudsz semmit eladni." />
+		<text id="editstoreobj_removefailmin_counter" name="Szükséges van legalább egy pultra." />
+		<text id="editstoreobj_removefailmin_fridge" name="Szükséges van legalább egy hűtőszekrényre." />
+		<text id="editstoreobj_removefailmin_stove" name="Szükséges van legalább egy tűzhelyre." />
+		<text id="editstoreobj_removefailmin_title" name="Figyelem!" />
+		<text id="editstoreobj_removefail_counter" name="A pult legyen üres." />
+		<text id="editstoreobj_removefail_door" name="Meg kell tartanod az ajtódat." />
+		<text id="editstoreobj_removefail_fridge" name="Túl sok terméked van." />
+		<text id="editstoreobj_removefail_stove" name="A tűzhely legyen üres." />
+		<text id="editstoreobj_removefail_title" name="Figyelem!" />
+		<text id="edit_error" name="Figyelem!" />
+		<text id="error" name="Hiba!" />
+		<text id="fullscreenerror_msg_copy" name="Teljes képernyő nem lehetséges" />
+		<text id="fullscreenerror_msg_title" name="Teljes képernyő:" />
+		<text id="gift_error" name="Nem megy!" />
+		<text id="gift_errorcode_20" name="Nincs üres pultod az étel tálalására." />
+		<text id="gift_errorcode_40" name="Nincs hely a hűtőszekrényedben a hozzávaló tárolására." />
+		<text id="gift_errorcode_5" name="Nem tudod megcsinálni. Ismeretlen ajándék." />
+		<text id="invitefriend_error" name="A barátod meghívása nem sikerült" />
+		<text id="invitefriend_errorcode_13" name="Ez már regisztrált játékos!" />
+		<text id="invitefriend_errorcode_14" name="Érvénytelen e-mailcím!" />
+		<text id="jobrefill_error" name="Nem megy!" />
+		<text id="jobrefill_errorcode_1" name="A munkaengedélyek egyelőre elfogytak." />
+		<text id="jobrefill_errorcode_61" name="Naponta csak egy munkaengedélyt kérhetsz." />
+		<text id="joincafe_error" name="Ez nem megy!" />
+		<text id="joincafe_errorcode_20" name="Zárt körű társaság. Már senki nem fér be, sajnos." />
+		<text id="joincafe_errorcode_21" name="Te már ebben a Caféban vagy!" />
+		<text id="joincafe_errorcode_22" name="Ez a Café nincs is!" />
+		<text id="level_error" name="A Café hibás. Kérlek jelezd a Support-nak" />
+		<text id="level_errorcode_1" name="A Café nem nyitható meg. Fordulj a Goodgamee Studios Support-hoz!" />
+		<text id="login_error" name="Figyelem!" />
+		<text id="login_errorcode_1" name="Hiba" />
+		<text id="login_errorcode_12" name="Ez a felhasználó már bejelentkezett" />
+		<text id="login_errorcode_13" name="Ez a felhasználó már bejelentkezett" />
+		<text id="login_errorcode_14" name="Hibás felhasználó név vagy jelszó" />
+		<text id="login_errorcode_15" name="Már bejelentkeztél" />
+		<text id="login_errorcode_16" name="Az avatarod hibás. Fordulj a Support-hoz" />
+		<text id="login_errorcode_wronglogin" name="Hibás felhasználó név vagy jelszó" />
+		<text id="lostpassword_error" name="Figyelem!" />
+		<text id="lostpassword_errorcode_1" name="Hiba" />
+		<text id="lostpassword_errorcode_11" name="Ezen a címen nincs regisztrált felhasználó!" />
+		<text id="marketplace_error" name="Piactér" />
+		<text id="marketplace_errorcode_20" name="Sajnos, tele van a piactér. Próbálkozz később." />
+		<text id="marketplace_errorcode_21" name="Már a piactéren vagy" />
+		<text id="npcfire_errorcode_1" name="Nem mondhatsz fel a pincérednek." />
+		<text id="npchire_errorcode_1" name="Új pincért nem tudtál felvenni." />
+		<text id="npcrename_errorcode_12" name="A név nem érvényes." />
+		<text id="npc_error" name="Figyelem!" />
+		<text id="register_error" name="Sikertelen regisztrálás" />
+		<text id="register_errorcode_1" name="Hiba" />
+		<text id="register_errorcode_10" name="A megadott jelszó nem helyes." />
+		<text id="register_errorcode_13" name="Sajnos, ezen az e-mailcímen már bejelentkezett egy játékos." />
+		<text id="register_errorcode_14" name="A megadott e-mailcím helytelen." />
+		<text id="server_msg_10" name="A szerver újraindul. Hamarosan folytatjuk. Légyszi, lépj ki!" />
+		<text id="server_msg_title" name="Szerverüzenet:" />
+		<text id="shopbuy_error" name="Nincs hely!" />
+		<text id="shopbuy_errorcode_40" name="Tele a hűtőszekrény!" />
+		<text id="shopdelete_errorcode_41" name="Nincs ilyen tárgy" />
+		<text id="smoothiemaker_error_alreadyserved" name="A vendégedet már kiszolgáltad." />
+		<text id="useraction_error" name="Figyelem!" />
+		<text id="useraction_errorcode_2" name="Vége a munkaidőnek! Mára elég volt!" />
+		<text id="useraction_errorcode_62" name="Előbb hozz egy ételt a pultról." />
+		<text id="useraction_errorcode_63" name="Mielőtt leszeded az asztalt, fogj egy ételt és vagy vidd a vendéghez, vagy vissza a pultra." />
+		<text id="versioncheck_error" name="Régi verzió!" />
+		<text id="versioncheck_errorcode_1" name="Frissítsd az oldalt!" />
+		<text id="waiter_name_invalide" name="Ez a pincérnév nem megengedett" />
+	</error_codes>
+	<feature>
+		<text id="featureDialog_0_text_0" name="Még több dekoráció, hogy a Café még szebb legyen." />
+		<text id="featureDialog_0_text_0_sozial" name="Díjazzuk a munkádat!" />
+		<text id="featureDialog_0_text_1" name="Cafédollár, XP vagy arany lehet a munkád jutalma!" />
+		<text id="featureDialog_0_text_1_sozial" name="Új dekoráció a Boltban" />
+		<text id="featureDialog_0_text_2" name="Találd meg azokat, akik szintén Caféval játszanak!" />
+		<text id="featureDialog_0_text_2_sozial" name="Találd meg azokat, akik szintén Caféval játszanak!" />
+		<text id="featureDialog_10_text_0" name="Szükséged van nagyobb helyre a vendégeid és a dekorációid számára? Itt az idő bővíteni!" />
+		<text id="featureDialog_11_text_0" name="Új és izgalmas együttműködések neked és barátaidnak." />
+		<text id="featureDialog_16_text_0" name="Micsoda zenebona! Élvezd a Cafédat hangokkal!" />
+		<text id="featureDialog_16_text_1" name="Légy cukrász a legújabb cukrász dekorációval!" />
+		<text id="featureDialog_17_text_0" name="Booooldog Karácsonyt! Hozd el az Északi-sarkot a Cafédba a csodás karácsonyi dekoráció segítségével!" />
+		<text id="featureDialog_18_text_0" name="A Karácsony szelleme új karácsonyi fogásokkal és együttműködéssel érkezett közénk." />
+		<text id="featureDialog_19_text_0" name="Légy közkedvelt és közel, s távolban nem található szebb Café mint a tied a luxusértékű bútorokkal és dekorációkkal." />
+		<text id="featureDialog_1_text_0" name="Díjazzuk a munkádat!" />
+		<text id="featureDialog_1_text_1" name="Új dekorációk a Boltban!" />
+		<text id="featureDialog_1_text_2" name="Találd meg azokat, akik szintén Caféval játszanak!" />
+		<text id="featureDialog_20_text_0" name="Készíts az ételeidből ízletes csillagos menüket!" />
+		<text id="featureDialog_20_text_1" name="Az utolsó esély a karácsonyi és téli dekorációk megszerzésére!\nCsak egy hét!!!" />
+		<text id="featureDialog_21_text_0" name="Kápráztasd el vendégeidet új és ízletes ételekkel!" />
+		<text id="featureDialog_22_text_0" name="Új kitüntetések várnak rád, amelyek segítenek a sikeredhez." />
+		<text id="featureDialog_23_text_0" name="Még több közös főzés! Az úgy együttműködések már várnak rád!" />
+		<text id="featureDialog_24_text_0" name="A húsvéti nyuszi szorgalmas volt!\nMegérkeztek a húsvéti dekorációk." />
+		<text id="featureDialog_24_text_1" name="Egy szárnyas sem ért még ennyit!\nFedezd fel a narancsos kacsát!" />
+		<text id="featureDialog_25_text_0" name="Szerencsés vagy? Próbálj szerencsét a Muffin sütéssel!" />
+		<text id="featureDialog_26_text_0" name="Szerencsés flótás vagy? Próbálkozz a szerencsekerékkel a Piactéren." />
+		<text id="featureDialog_27_text_0" name="A kedveltségedet a vattacukorgéppel növelheted! A szerencsekerékkel szerezhetsz egyet!" />
+		<text id="featureDialog_28_text_0" name="A vattacukorgép csak MA szerezheted meg a szerencsekerékkel!" />
+		<text id="featureDialog_29_text_0" name="Bármikor átöltöztetheted a karakteredet." />
+		<text id="featureDialog_2_text_0" name="Találkozz és csevegj más játékossal is!" />
+		<text id="featureDialog_2_text_1" name="Új Diner berendezés!" />
+		<text id="featureDialog_2_text_2" name="Építsd ki a Cafédat még tovább!" />
+		<text id="featureDialog_30_text_0" name="A hűtődben több a hely! A különleges hozzávalók nem foglalnak többé helyet! Annyit gyűjthetsz belőlük, amennyit csak akarsz!" />
+		<text id="featureDialog_30_text_1" name="Mostantól Cafédollárért is bővíthetsz." />
+		<text id="featureDialog_31_text_0" name="Helyet a hűtőben! Mostantól a különleges hozzávalók nem foglalnak helyet a hűtődben. Annyit rakhatsz be belőlük, amennyit csak akarsz." />
+		<text id="featureDialog_31_text_1" name="Mostantól megvásárolhatod a bövítéseidet ingyen, ha elég barátot szerzel!" />
+		<text id="featureDialog_32_text_0" name="Szomjasak a vendégeid? Akkor szerezz be egy frostyt és frissítsd fel a vendégeidet!" />
+		<text id="featureDialog_33_text_0" name="Készíts omlettet! A receptkönyvedben megtalálod ezt az új és szuper gyors ételt!" />
+		<text id="featureDialog_3_text_0" name="Dolgozz pincérként más Caféjában és keress extra Cafédollárt és XP-t!" />
+		<text id="featureDialog_3_text_1" name="Újabb finomságok, amivel a vendégeket elkápráztathatod." />
+		<text id="featureDialog_4_text_0" name="Barátkozz a piactéren!" />
+		<text id="featureDialog_4_text_1" name="Új Diner dekorációk, hogy a Caféd még egyénibb legyen!" />
+		<text id="featureDialog_5_text_0" name="Növeld nyereségedet és az ételeid XP-jét az új különleges hozzávalókkal!" />
+		<text id="featureDialog_6_text_0" name="Az új ajándékdobozzal kaphatsz és küldhetsz ajándékokat." />
+		<text id="featureDialog_6_text_1" name="Növeld nyereségedet és az ételeid XP-jét az új különleges hozzávalókkal!" />
+		<text id="featureDialog_7_text_0" name="Hozd el a Cafédba a vadnyugatot az új szalon berendezéssel." />
+		<text id="featureDialog_8_text_0" name="Újabb lélegzetelállító ételek a vendégeid elbűvölésére." />
+		<text id="featureDialog_9_text_0" name="Keresd meg, hol állsz a ranglistán!" />
+		<text id="featureDialog_9_text_1" name="Csapatban erősebb vagy! Próbáld ki az erődet egy új együttműködésben!" />
+		<text id="featureDialog_9_text_2" name="Készülj fel a borzongásra a rémísztő Halloween berendezésekkel." />
+		<text id="featureDialog_title" name="Új lehetőségek" />
+		<text id="limitedfeatureDialog_12_copy_0" name="Vásárolj most Halloween dekorációt.\nMár csak rövid ideig kapható!" />
+		<text id="limitedfeatureDialog_12_copy_1" name="MÉG 4 NAP!" />
+		<text id="limitedfeatureDialog_13_copy_0" name="Vásárolj most Halloween dekorációt.\nMár csak rövid ideig kapható!" />
+		<text id="limitedfeatureDialog_13_copy_1" name="MÉG 3 NAP!" />
+		<text id="limitedfeatureDialog_14_copy_0" name="Vásárolj most Halloween dekorációt.\nMár csak rövid ideig kapható!" />
+		<text id="limitedfeatureDialog_14_copy_1" name="MÉG 2 NAP!" />
+		<text id="limitedfeatureDialog_15_copy_0" name="Vásárolj most Halloween dekorációt.\nMár csak rövid ideig kapható!" />
+		<text id="limitedfeatureDialog_15_copy_1" name="CSAK MA!" />
+		<text id="limitedfeatureDialog_2_copy_0" name="Halloween dekorációt vásárolhat most!\nNagyon rövid ideig elérhetőek!" />
+		<text id="limitedfeatureDialog_3_copy_0" name="Hamarosan vége a télnek. A téli dekorációk hamarosan kifutnak." />
+		<text id="limitedfeatureDialog_5_copy_0" name="Most vásárolj húsvéti dekorációt! Már nem sokáig teheted meg!" />
+		<text id="limitedfeatureDialog_time" name="MÉG {0} NAP!" />
+		<text id="limitedfeatureDialog_time_single" name="CSAK MA!" />
+		<text id="limitedfeatureDialog_title" name="Vigyázz!" />
+	</feature>
+	<feeds>
+		<text id="descriptionfeedcafe" name="Éppen most telepítettem a Goodgame Cafét. Te is nyithatnál saját kávézót és készíthetnél ízletes fogásokat. Gyere és nézd meg magad!" />
+		<text id="descriptionlongcafe" name="A Goodgame Café a Goodgame Studios teljesen új játéka. Nyiss saját Cafét és lepd meg vendégeidet főzőtudományoddal. Magad döntheted el, mi álljon az étlapon, mit vásárolsz az ételeidhez. Barátaidat befoghatod pincérnek. A te Caféd lehet a város leghíresebb találkahelye." />
+	</feeds>
+	<ingame_tooltips>
+		<text id="fridgetooltip_line1" name="Hűtőszekrény" />
+		<text id="fridgetooltip_line2" name="Kattints, hogy kinyíljon" />
+		<text id="muffinmantooltip_line1" name="Muffin-sütő" />
+		<text id="muffinmantooltip_line2" name="Találd meg a tölteléket!" />
+		<text id="player_action" name="Történések:" />
+		<text id="player_working" name="Munkaidő" />
+		<text id="preparestep_cleaning" name="Tűzhely tisztítás" />
+		<text id="preparestep_serving" name="Tálalás" />
+		<text id="smoothiemaker_line1" name="Frosty" />
+		<text id="smoothiemaker_line2" name="Kattints a mixeléshez." />
+		<text id="stovetooltip_clean1" name="Koszos a tűzhely" />
+		<text id="stovetooltip_clean2" name="Kattints a tisztításhoz" />
+		<text id="stovetooltip_empty1" name="Üres pult" />
+		<text id="stovetooltip_empty2" name="Főzz valamit" />
+		<text id="stovetooltip_free" name="Kattints, hogy tudj\nfőzni" />
+		<text id="stovetooltip_full1" name="Most tálalható" />
+		<text id="stovetooltip_full2" name="adag" />
+		<text id="stovetooltip_prepare1" name="Kattints, hogy tudj:" />
+		<text id="stovetooltip_ready1" name="még és tönkre megy" />
+		<text id="stovetooltip_ready2" name="Kattints a tálaláshoz" />
+		<text id="stovetooltip_spoiled1" name="Tönkre ment" />
+		<text id="stovetooltip_spoiled2" name="Kattints a tisztításhoz" />
+		<text id="wheeloffortunetooltip_line1" name="Szerencsekerék" />
+		<text id="wheeloffortunetooltip_line2" name="Kattints és játsz!" />
+		<text id="wheeloffortunetooltip_line3" name="Egy játék ingyenes" />
+	</ingame_tooltips>
+	<ingredients>
+		<text id="ingredient_cookfest" name="Event Ingredients" />
+		<text id="ingredient_apple" name="Alma" />
+		<text id="ingredient_bacon" name="Szalonna" />
+		<text id="ingredient_bakingmix" name="Tésztapor" />
+		<text id="ingredient_ballpepper" name="Paprika" />
+		<text id="ingredient_banana" name="Banán" />
+		<text id="ingredient_basil" name="Bazsalikom" />
+		<text id="ingredient_beans" name="Bab" />
+		<text id="ingredient_beetroot" name="Cékla" />
+		<text id="ingredient_butter" name="Vaj" />
+		<text id="ingredient_carrots" name="Répa" />
+		<text id="ingredient_cheese" name="Sajt" />
+		<text id="ingredient_cherries" name="Cseresznye" />
+		<text id="ingredient_chicken" name="Tyúk" />
+		<text id="ingredient_chili" name="Chili" />
+		<text id="ingredient_chocolate" name="Csokoládé" />
+		<text id="ingredient_cinnamon" name="Fahéj" />
+		<text id="ingredient_cocktailcherry" name="Koktélcseresznye" />
+		<text id="ingredient_coconut" name="Kókusz" />
+		<text id="ingredient_cookies" name="Keksz" />
+		<text id="ingredient_coriander" name="Koriander" />
+		<text id="ingredient_cream" name="Tejszín" />
+		<text id="ingredient_cucumber" name="Uborka" />
+		<text id="ingredient_curryspice" name="Curry" />
+		<text id="ingredient_duck" name="Kacsa" />
+		<text id="ingredient_eggplant" name="Padlizsán" />
+		<text id="ingredient_eggs" name="Tojás" />
+		<text id="ingredient_fish" name="Hal" />
+		<text id="ingredient_flour" name="Liszt" />
+		<text id="ingredient_garlic" name="Fokhagyma" />
+		<text id="ingredient_horseradish" name="Torma" />
+		<text id="ingredient_kidney" name="Vese" />
+		<text id="ingredient_lettuce" name="Saláta" />
+		<text id="ingredient_maplesyrup" name="Juharszirup" />
+		<text id="ingredient_meat" name="Hús" />
+		<text id="ingredient_milk" name="Tej" />
+		<text id="ingredient_mincemeat" name="Darált hús" />
+		<text id="ingredient_nutmeg" name="Szerecsendió" />
+		<text id="ingredient_oil" name="Olaj" />
+		<text id="ingredient_onion" name="Hagyma" />
+		<text id="ingredient_orange" name="Narancs" />
+		<text id="ingredient_parsley" name="Petrezselyem" />
+		<text id="ingredient_pasta" name="Tészta" />
+		<text id="ingredient_peas" name="Borsó" />
+		<text id="ingredient_pinapple" name="Ananász" />
+		<text id="ingredient_potato" name="Krumpli" />
+		<text id="ingredient_quark" name="Túró" />
+		<text id="ingredient_rhubarb" name="Rebarbara" />
+		<text id="ingredient_rice" name="Rizs" />
+		<text id="ingredient_rosemary" name="Rozmaring" />
+		<text id="ingredient_sausages" name="Virsli" />
+		<text id="ingredient_spicemix" name="Fűszerkeverék" />
+		<text id="ingredient_strawberry" name="Eper" />
+		<text id="ingredient_sugar" name="Cukor" />
+		<text id="ingredient_sweetcorn" name="Kukorica" />
+		<text id="ingredient_tofu" name="Tofu" />
+		<text id="ingredient_tomato" name="Paradicsom" />
+		<text id="ingredient_turkeymix" name="Pulykakeverék" />
+		<text id="ingredient_vanilla" name="Vanília" />
+		<text id="ingredient_vegiemix" name="Zöldségkeverék" />
+		<text id="ingredient_whitechocolat" name="Fehér csokoládé" />
+	</ingredients>
+	<loggedin_msg id="" />
+	<panels>
+		<text id="panelwin_buddy_btn_morefriends" name="Több barát!" />
+		<text id="panelwin_deco_dragtip_copy" name="Ha ezt a tárgyat szeretnéd használni, húzd a Caféba" />
+		<text id="panelwin_deco_dragtip_title" name="Tudnivaló" />
+		<text id="panelwin_deco_nomore_expansion" name="Jelenleg nem áll rendelkezésedre további bővítési lehetőség." />
+		<text id="panelwin_deco_objectcount_counter" name="Előbb el kell érned a {0} szintet, hogy új pultot vásárolhass. Vagy idehúzhatsz egy régit, hogy új pultot vehess helyette." />
+		<text id="panelwin_deco_objectcount_fridge" name="Előbb el kell érned a {0} szintet, hogy új hűtőszekrényt vásárolhass. Vagy idehúzhatsz egy régit, hogy új hűtőszekrényt vehess helyette." />
+		<text id="panelwin_deco_objectcount_nomore_counter" name="Egyelőre nem vehetsz új pultot." />
+		<text id="panelwin_deco_objectcount_nomore_fridge" name="Egyelőre nem vehetsz új hűtőszekrényt." />
+		<text id="panelwin_deco_objectcount_nomore_stove" name="Egyelőre nem vehetsz új tűzhelyet." />
+		<text id="panelwin_deco_objectcount_stove" name="Előbb el kell érned a {0} szintet, hogy új tűzhelyet vásárolhass. Vagy idehúzhatsz egy régit, hogy új tűzhelyet vehess helyette." />
+		<text id="panelwin_login_email" name="Felhasználó név/E-mail" />
+		<text id="panelwin_login_login" name="BEJELENTKEZÉS" />
+		<text id="panelwin_login_lostpassword" name="Elfelejtetted a jelszavadat?" />
+		<text id="panelwin_login_password" name="Jelszó" />
+		<text id="panelwin_login_play" name="JÁTSZHATSZ" />
+		<text id="panelwin_login_register" name="REGISZTRÁLÁS" />
+		<text id="panelwin_login_rememberpassword" name="Jelszómentés" />
+		<text id="panelwin_name_cafe" name="CAFÉ" />
+		<text id="panelwin_social_bot" name="Café-csevegés" />
+		<text id="panelwin_social_comein" name="belépett a Caféba" />
+		<text id="panelwin_social_comeinmarketplace" name="belépett a piactérre" />
+		<text id="panelwin_social_goout" name="elhagyta a Cafét" />
+		<text id="panelwin_social_gooutmarketplace" name="elhagyta a piacteret" />
+		<text id="panelwin_social_noingamefriends" name="Még nincs barátod!" />
+		<text id="panelwin_social_noplayerincafe" name="Egyelőre csak te vagy itt." />
+		<text id="panelwin_social_say" name=":" />
+		<text id="panelwin_social_standardanswer" name="Hamarosan tudsz a többi játékossal csevegni!" />
+		<text id="panelwin_social_welcome_marketplace" name="Üdvözlet! Kattints a fekete táblára, ha munkát keresel!" />
+		<text id="panelwin_social_welcome_mycafe" name="Üdvözlünk!" />
+		<text id="panelwin_social_writeable" name="Csak a regisztrált első szintű játékosok használhatják a csevegést." />
+	</panels>
+	<preparestep>
+		<text id="preparestep_bananasplit_banana" name="Banánt hámozni" />
+		<text id="preparestep_bananasplit_chocolate" name="Csokoládét darabolni" />
+		<text id="preparestep_brigadeiro_chocolate" name="Cut chocolate" />
+		<text id="preparestep_brigadeiro_cream" name="Mix cream" />
+		<text id="preparestep_brigadeiro_vanilla" name="Shave vanilla" />
+		<text id="preparestep_bananasplit_cream" name="Habot verni" />
+		<text id="preparestep_bananasplit_milk" name="Tejet kimérni" />
+		<text id="preparestep_bananasplit_sugar" name="Cukrot lemérni" />
+		<text id="preparestep_blackforestcherrycake_chocolate" name="Csokoládét reszelni" />
+		<text id="preparestep_blackforestcherrycake_cocktailcherry" name="Cseresznyét tisztítani" />
+		<text id="preparestep_blackforestcherrycake_cream" name="Habot verni" />
+		<text id="preparestep_pizzasalad_tomato" name="Cut tomatoes" />
+		<text id="preparestep_pizzasalad_onion" name="Cut onions" />
+		<text id="preparestep_pizzasalad_lettuce" name="Wash lettuce" />
+		<text id="preparestep_pizzasalad_cheese" name="Grate cheese" />
+		<text id="preparestep_pizzasalad_flour" name="Sift flour" />
+		<text id="preparestep_tripleomelette_eggs" name="Crack eggs strongly" />
+		<text id="preparestep_tripleomelette_chili" name="Make it spicy" />
+		<text id="preparestep_chocolatewaffles_flour" name="Measure flour" />
+		<text id="preparestep_chocolatewaffles_cream" name="Whip cream" />
+		<text id="preparestep_chocolatewaffles_eggs" name="Crack eggs softly" />
+		<text id="preparestep_chocolatewaffles_chocolate" name="Melt chocolate" />
+		<text id="preparestep_chocolatewaffles_vanilla" name="Add vanilla extract" />
+		<text id="preparestep_spanishomelette_potato" name="Peel potatoes" />
+		<text id="preparestep_spanishomelette_onion" name="Chop onions" />
+		<text id="preparestep_spanishomelette_eggs" name="Crack eggs in Spanish" />
+		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
+		<text id="preparestep_sausagepasta_pasta" name="Boil pasta" />
+		<text id="preparestep_sausagepasta_sausages" name="Chop sausages" />
+		<text id="preparestep_sausagepasta_tomato" name="Make tomato sauce" />
+		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
+		<text id="preparestep_applepie_cream" name="Whip cream" />
+		<text id="preparestep_applepie_eggs" name="Crack eggs elegantly" />
+		<text id="preparestep_applepie_flour" name="Measure flour" />
+		<text id="preparestep_applepie_apple" name="Think about apple economy" />
+		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_ramen_pasta" name="Boil pasta" />
+		<text id="preparestep_ramen_eggs" name="Boil eggs" />
+		<text id="preparestep_ramen_bacon" name="Chop bacon" />
+		<text id="preparestep_ramen_chili" name="Make it spicy" />
+		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
+		<text id="preparestep_corncake_butter" name="Melt butter" />
+		<text id="preparestep_corncake_eggs" name="Mix eggs" />
+		<text id="preparestep_corncake_milk" name="Add milk" />
+		<text id="preparestep_corncake_sugar" name="Mix sugar in the dough" />
+		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_feijoada_beans" name="Boil beans" />
+		<text id="preparestep_feijoada_bacon" name="Chop bacon chunks" />
+		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
+		<text id="preparestep_feijoada_onion" name="Chop onions" />
+		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
+		<text id="preparestep_feijoada_coriander" name="Add coriander" />
+		<text id="preparestep_blackforestcherrycake_flour" name="Lisztet szitálni" />
+		<text id="preparestep_cheeseburger_cheese" name="Sajtot felvágni" />
+		<text id="preparestep_cheeseburger_flour" name="Lisztet szitálni" />
+		<text id="preparestep_cheeseburger_mincemeat" name="Darált húst fűszerezni" />
+		<text id="preparestep_cheeseburger_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_cheesedish_cheese" name="Sajtot felvágni" />
+		<text id="preparestep_cheesefondue_cheese" name="Sajtot olvasztani" />
+		<text id="preparestep_cheesefondue_flour" name="Lisztet szitálni" />
+		<text id="preparestep_cheesefondue_garlic" name="Fokhagymát zúzni" />
+		<text id="preparestep_cherriecake_cherries" name="Cseresznyét főzni" />
+		<text id="preparestep_cherriecake_cream" name="Habot verni" />
+		<text id="preparestep_cherriecake_flour" name="Lisztet szitálni" />
+		<text id="preparestep_cherriecake_sugar" name="Cukrot kimérni" />
+		<text id="preparestep_cherrycompote_cherries" name="Cseresznyét magozni" />
+		<text id="preparestep_cherrycompote_sugar" name="Cukrot karamelizálni" />
+		<text id="preparestep_chickenburger_chicken" name="Tyúkot felvágni" />
+		<text id="preparestep_chickenburger_cucumber" name="Uborkát felvágni" />
+		<text id="preparestep_chickenburger_flour" name="Lisztet szitálni" />
+		<text id="preparestep_chickenburger_tomato" name="Paradicsomot felvágni" />
+		<text id="preparestep_chickensalad_chicken" name="Tyúkot előkészíteni" />
+		<text id="preparestep_chickensalad_lettuce" name="Salátát megmosni" />
+		<text id="preparestep_chickensalad_onion" name="Hagymát vágni" />
+		<text id="preparestep_chickensalad_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_chickensoup_bacon" name="Szalonnát felvágni" />
+		<text id="preparestep_chickensoup_chicken" name="Tyúkot felvágni" />
+		<text id="preparestep_chickensoup_onion" name="Hagymát felvágni" />
+		<text id="preparestep_chickensoup_pasta" name="Tésztát lemérni" />
+		<text id="preparestep_chiliconcarne_bacon" name="Szalonnát felvágni" />
+		<text id="preparestep_chiliconcarne_beans" name="Babot beáztatni" />
+		<text id="preparestep_chiliconcarne_mincemeat" name="Darált húst fűszerezni" />
+		<text id="preparestep_chiliconcarne_onion" name="Hagymát felvágni" />
+		<text id="preparestep_chiliconcarne_tomato" name="Paradicsomot felvágni" />
+		<text id="preparestep_chocmousse_chocolate" name="Csokoládét olvasztani" />
+		<text id="preparestep_chocmousse_cream" name="Habot verni" />
+		<text id="preparestep_chocmousse_eggs" name="Tojást feltörni" />
+		<text id="preparestep_chocolatecake_chocolate" name="Csokoládét olvasztani" />
+		<text id="preparestep_chocolatecake_cream" name="Habot verni" />
+		<text id="preparestep_chocolatecake_eggs" name="Tojást feltörni" />
+		<text id="preparestep_chocolatecake_flour" name="Lisztet szitálni" />
+		<text id="preparestep_chocolatecheesecake_chocolate" name="Csokoládét darabolni" />
+		<text id="preparestep_chocolatecheesecake_cookies" name="Kekszet összetörni" />
+		<text id="preparestep_chocolatecheesecake_milk" name="Tejet kimérni" />
+		<text id="preparestep_chocolatecheesecake_quark" name="Túrót kikeverni" />
+		<text id="preparestep_chocolatefondue_chocolate" name="Csokoládét megkóstolni" />
+		<text id="preparestep_chocolatefondue_cream" name="Habot kimérni" />
+		<text id="preparestep_chocolatefondue_strawberry" name="Epret tisztítani" />
+		<text id="preparestep_christmasturkey_turkeymix" name="Pulykamixet előkészíteni" />
+		<text id="preparestep_christmasturkey_vegiemix" name="Gyümölcsöt felolvasztani" />
+		<text id="preparestep_cookieplate_butter" name="Vajat olvasztani" />
+		<text id="preparestep_cookieplate_chocolate" name="Csokoládét darabolni" />
+		<text id="preparestep_cookieplate_flour" name="Lisztet szitálni" />
+		<text id="preparestep_cookieplate_sugar" name="Cukrot karamellizálni" />
+		<text id="preparestep_cornonthecob_butter" name="Vajat habosra kikeverni" />
+		<text id="preparestep_cornonthecob_lettuce" name="Salátát megmosni" />
+		<text id="preparestep_cornonthecob_sweetcorn" name="Kukoricát megtisztítani" />
+		<text id="preparestep_curry_ballpepper" name="Paprikát felvágni" />
+		<text id="preparestep_curry_coconut" name="Kókuszt feltörni" />
+		<text id="preparestep_curry_curryspice" name="Curryt kimérni" />
+		<text id="preparestep_curry_meat" name="Húst felvágni" />
+		<text id="preparestep_curry_peas" name="Borsót főzni" />
+		<text id="preparestep_duckalorange_butter" name="Vajat olvasztani" />
+		<text id="preparestep_duckalorange_duck" name="Kacsát előkészíteni" />
+		<text id="preparestep_duckalorange_onion" name="Hagymát vágni" />
+		<text id="preparestep_duckalorange_orange" name="Narancsot hámozni" />
+		<text id="preparestep_easterdish_chocolate" name="Csokit megkóstolni" />
+		<text id="preparestep_easterdish_eggs" name="Tojást számolni" />
+		<text id="preparestep_englishbreakfast_beans" name="Babot főzni" />
+		<text id="preparestep_englishbreakfast_eggs" name="Tojást felverni" />
+		<text id="preparestep_englishbreakfast_flour" name="Lisztet szitálni" />
+		<text id="preparestep_englishbreakfast_sausages" name="Virslit megszámolni" />
+		<text id="preparestep_fishandchips_fish" name="Halat előkészíteni" />
+		<text id="preparestep_fishandchips_flour" name="Lisztet szitálni" />
+		<text id="preparestep_fishandchips_oil" name="Olajat melegíteni" />
+		<text id="preparestep_fishandchips_peas" name="Borsót főzni" />
+		<text id="preparestep_fishandchips_potato" name="Krumplit hámozni" />
+		<text id="preparestep_friedpotatoes_bacon" name="Szalonnát kisütni" />
+		<text id="preparestep_friedpotatoes_onion" name="Hagymát vágni" />
+		<text id="preparestep_friedpotatoes_potato" name="Krumplit hámozni" />
+		<text id="preparestep_fruitpudding_bakingmix" name="Összekeverni" />
+		<text id="preparestep_fruitpudding_spicemix" name="Fűszereket kimérni" />
+		<text id="preparestep_fruitsalad_apple" name="Almát hámozni" />
+		<text id="preparestep_fruitsalad_banana" name="Banánt hámozni" />
+		<text id="preparestep_fruitsalad_cherries" name="Cseresznyét magozni" />
+		<text id="preparestep_fruitsalad_orange" name="Narancsot hámozni" />
+		<text id="preparestep_greensalad_lettuce" name="Salátát mosni" />
+		<text id="preparestep_greensalad_onion" name="Hagymát vágni" />
+		<text id="preparestep_greensalad_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_gumbo_curryspice" name="Curryt pirítani" />
+		<text id="preparestep_gumbo_fish" name="Halat vágni" />
+		<text id="preparestep_gumbo_onion" name="Hagymát vágni" />
+		<text id="preparestep_gumbo_rice" name="Rizst főzni" />
+		<text id="preparestep_hamburger_flour" name="Lisztet szitálni" />
+		<text id="preparestep_hamburger_mincemeat" name="Darált hús fűszerezni" />
+		<text id="preparestep_hamburger_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_hotcherrywaffles_cherries" name="Cseresznyét magozni" />
+		<text id="preparestep_hotcherrywaffles_cream" name="Habot verni" />
+		<text id="preparestep_hotcherrywaffles_eggs" name="Tojást feltörni" />
+		<text id="preparestep_hotcherrywaffles_flour" name="Lisztet szitálni" />
+		<text id="preparestep_hotcherrywaffles_milk" name="Tejet forralni" />
+		<text id="preparestep_jamspongepudding_flour" name="Lisztet szitálni" />
+		<text id="preparestep_jamspongepudding_milk" name="Tejet melegíteni" />
+		<text id="preparestep_jamspongepudding_strawberry" name="Epret tisztítani" />
+		<text id="preparestep_jamspongepudding_sugar" name="Cukrot karamellizálni" />
+		<text id="preparestep_lasagne_cheese" name="Sajtot reszelni" />
+		<text id="preparestep_lasagne_mincemeat" name="Darált húst fűszerezni" />
+		<text id="preparestep_lasagne_pasta" name="Tésztát főzni" />
+		<text id="preparestep_lasagne_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_macncheese_cheese" name="Sajtot reszelni" />
+		<text id="preparestep_macncheese_cream" name="Habot kimérni" />
+		<text id="preparestep_macncheese_pasta" name="Tésztát főzni" />
+		<text id="preparestep_maplepancakes_eggs" name="Tojást feltörni" />
+		<text id="preparestep_maplepancakes_flour" name="Lisztet szitálni" />
+		<text id="preparestep_maplepancakes_maple" name="Juharszirupot megkóstolni" />
+		<text id="preparestep_maplepancakes_milk" name="Tejet kimérni" />
+		<text id="preparestep_marblecake_butter" name="Vajat olvasztani" />
+		<text id="preparestep_marblecake_chocolate" name="Csokoládét olvasztani" />
+		<text id="preparestep_marblecake_flour" name="Lisztet szitálni" />
+		<text id="preparestep_marblecake_sugar" name="Cukrot lemérni" />
+		<text id="preparestep_mexicansalad_bacon" name="Szalonnát sütni" />
+		<text id="preparestep_mexicansalad_beans" name="Babot beáztatni" />
+		<text id="preparestep_mexicansalad_onion" name="Hagymát pirítani" />
+		<text id="preparestep_mexicansalad_sweetcorn" name="Szalonnát sütni" />
+		<text id="preparestep_minestrone_eggplant" name="Padlizsánt szeletelni" />
+		<text id="preparestep_minestrone_pasta" name="Tésztát főzni" />
+		<text id="preparestep_minestrone_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_mixedsalad_lettuce" name="Salátát megmosni" />
+		<text id="preparestep_mixedsalad_peas" name="Borsót főzni" />
+		<text id="preparestep_mixedsalad_sweetcorn" name="Kukoricát főzni" />
+		<text id="preparestep_mixedsalad_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_nasigoreng_chicken" name="Tyúkot bontani" />
+		<text id="preparestep_nasigoreng_eggs" name="Tojást főzni" />
+		<text id="preparestep_nasigoreng_onion" name="Hagymát vágni" />
+		<text id="preparestep_nasigoreng_pinapple" name="Ananászt felvágni" />
+		<text id="preparestep_nasigoreng_rice" name="Rizst főzni" />
+		<text id="preparestep_newyorkcheesecake_cookies" name="Kekszet összetörni" />
+		<text id="preparestep_newyorkcheesecake_cream" name="Habot verni" />
+		<text id="preparestep_newyorkcheesecake_quark" name="Túrót kikeverni" />
+		<text id="preparestep_newyorkcheesecake_sugar" name="Cukrot lemérni" />
+		<text id="preparestep_noodlesalad_eggs" name="Tojást feltörni" />
+		<text id="preparestep_noodlesalad_oil" name="Olajat felverni" />
+		<text id="preparestep_noodlesalad_pasta" name="Tésztát főzni" />
+		<text id="preparestep_noodlesalad_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_omelette_eggs" name="Tojást számolni" />
+		<text id="preparestep_onionsoup_cheese" name="Sajtot reszelni" />
+		<text id="preparestep_onionsoup_garlic" name="Fokhagymát zúzni" />
+		<text id="preparestep_onionsoup_onion" name="Hagymát vágni" />
+		<text id="preparestep_peasoup_bacon" name="Szalonnát sütni" />
+		<text id="preparestep_peasoup_garlic" name="Fokhagymát zúzni" />
+		<text id="preparestep_peasoup_onion" name="Hagymát vágni" />
+		<text id="preparestep_peasoup_peas" name="Borsót pucolni" />
+		<text id="preparestep_pizzahawaii_bacon" name="Szalonnát felvágni" />
+		<text id="preparestep_pizzahawaii_cheese" name="Sajtot reszelni" />
+		<text id="preparestep_pizzahawaii_flour" name="Lisztet szitálni" />
+		<text id="preparestep_pizzahawaii_pinapple" name="Ananászt felvágni" />
+		<text id="preparestep_pizzahawaii_tomato" name="Paradicsomot összenyomni" />
+		<text id="preparestep_pizzatonno_cheese" name="Sajtot reszelni" />
+		<text id="preparestep_pizzatonno_fish" name="Halat felszeletelni" />
+		<text id="preparestep_pizzatonno_flour" name="Lisztet szitálni" />
+		<text id="preparestep_pizzatonno_onion" name="Hagymát felvágni" />
+		<text id="preparestep_pizzatonno_tomato" name="Paradicsomot összenyomkodni" />
+		<text id="preparestep_pizza_cheese" name="Sajtot reszelni" />
+		<text id="preparestep_pizza_flour" name="Lisztet szitálni" />
+		<text id="preparestep_pizza_tomato" name="Paradicsomot passzírozni" />
+		<text id="preparestep_porkroastwithcrackling_carrots" name="Répát hámozni" />
+		<text id="preparestep_porkroastwithcrackling_garlic" name="Fokhagymát zúzni" />
+		<text id="preparestep_porkroastwithcrackling_meat" name="Húst felvágni" />
+		<text id="preparestep_porkroastwithcrackling_onion" name="Hagymát vágni" />
+		<text id="preparestep_potatosalad_cucumber" name="Uborkát szeletelni" />
+		<text id="preparestep_potatosalad_oil" name="Olajat felverni" />
+		<text id="preparestep_pizza_sausages" name="Slice sausages" />
+		<text id="preparestep_potatosalad_potato" name="Krumplit hámozni" />
+		<text id="preparestep_redberrycompote_cherries" name="Cseresznyét tisztítani" />
+		<text id="preparestep_redberrycompote_rhubarb" name="Rebarbarát tisztítani" />
+		<text id="preparestep_redberrycompote_strawberry" name="Epret tisztítani" />
+		<text id="preparestep_redberrycompote_sugar" name="Cukrot karamelizálni" />
+		<text id="preparestep_ricepudding_apple" name="Almát hámozni" />
+		<text id="preparestep_ricepudding_cream" name="Habot verni" />
+		<text id="preparestep_ricepudding_milk" name="Tejet kimérni" />
+		<text id="preparestep_ricepudding_rice" name="Rizst kimérni" />
+		<text id="preparestep_roastchicken_butter" name="Vajat olvasztani" />
+		<text id="preparestep_roastchicken_chicken" name="Tyúkot előkészíteni" />
+		<text id="preparestep_roastchicken_onion" name="Hagymát vágni" />
+		<text id="preparestep_sandwich_bacon" name="Szalonnát felvágni" />
+		<text id="preparestep_sandwich_butter" name="Vajat kimérni" />
+		<text id="preparestep_sandwich_cheese" name="Sajtot felvágni" />
+		<text id="preparestep_sandwich_flour" name="Lisztet szitálni" />
+		<text id="preparestep_sandwich_tomato" name="Paradicsomot felvágni" />
+		<text id="preparestep_scouse_beetroot" name="Céklát felvágni" />
+		<text id="preparestep_scouse_cucumber" name="Uborkát beletenni" />
+		<text id="preparestep_scouse_eggs" name="Tojást sütni" />
+		<text id="preparestep_scouse_meat" name="Húst felvágni" />
+		<text id="preparestep_spagetti_mincemeat" name="Darált húst fűszerezni" />
+		<text id="preparestep_spagetti_pasta" name="Tésztát főzni" />
+		<text id="preparestep_spagetti_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_spareribs_meat" name="Húst felvágni" />
+		<text id="preparestep_spareribs_oil" name="Olajat kimérni" />
+		<text id="preparestep_spareribs_onion" name="Hagymát vágni" />
+		<text id="preparestep_spareribs_tomato" name="Paradicsomot passzírozni" />
+		<text id="preparestep_steakkidneypie_flour" name="Lisztet szitálni" />
+		<text id="preparestep_steakkidneypie_kidney" name="Vesét felvágni" />
+		<text id="preparestep_steakkidneypie_meat" name="Húst felvágni" />
+		<text id="preparestep_steakkidneypie_onion" name="Hagymát vágni" />
+		<text id="preparestep_steak_butter" name="Vajat habosra kikeverni" />
+		<text id="preparestep_steak_lettuce" name="Salátát megmosni" />
+		<text id="preparestep_steak_meat" name="Húst felvágni" />
+		<text id="preparestep_steak_potato" name="Krumplit hámozni" />
+		<text id="preparestep_steak_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_stewedrhubarb_rhubarb" name="Rebarbarát felvágni" />
+		<text id="preparestep_stewedrhubarb_sugar" name="Cukrot karamellizálni" />
+		<text id="preparestep_stew_meat" name="Húst felvágni" />
+		<text id="preparestep_stew_oil" name="Olajat melegíteni" />
+		<text id="preparestep_stew_onion" name="Hagymát vágni" />
+		<text id="preparestep_strawberrycake_cream" name="Habot verni" />
+		<text id="preparestep_strawberrycake_flour" name="Lisztet szitálni" />
+		<text id="preparestep_strawberrycake_strawberry" name="Epret tisztítani" />
+		<text id="preparestep_strawberrymousse_cream" name="Habot verni" />
+		<text id="preparestep_strawberrymousse_eggs" name="Tojást feltörni" />
+		<text id="preparestep_strawberrymousse_strawberry" name="Epret tisztítani" />
+		<text id="preparestep_strawberrymousse_sugar" name="Cukrot kimérni" />
+		<text id="preparestep_stuffedpeppers_ballpepper" name="Paprikát kicsumázni" />
+		<text id="preparestep_stuffedpeppers_eggs" name="Tojást verni" />
+		<text id="preparestep_stuffedpeppers_rice" name="Rizst főzni" />
+		<text id="preparestep_sundayfeast_carrots" name="Répát hámozni" />
+		<text id="preparestep_sundayfeast_meat" name="Húst felvágni" />
+		<text id="preparestep_sundayfeast_peas" name="Borsót főzni" />
+		<text id="preparestep_sundayfeast_potato" name="Krumplit hámozni" />
+		<text id="preparestep_sushi_cucumber" name="Uborkát felvágni" />
+		<text id="preparestep_sushi_fish" name="Halat felszeletelni" />
+		<text id="preparestep_sushi_rice" name="Rizst főzni" />
+		<text id="preparestep_toadinhole_flour" name="Lisztet szitálni" />
+		<text id="preparestep_toadinhole_onion" name="Hagymát vágni" />
+		<text id="preparestep_toadinhole_sausages" name="Virslit számolni" />
+		<text id="preparestep_toast_cheese" name="Sajtot reszelni" />
+		<text id="preparestep_toast_flour" name="Lisztet szitálni" />
+		<text id="preparestep_toast_pinapple" name="Ananászt felvágni" />
+		<text id="preparestep_tofuburger_flour" name="Lisztet szitálni" />
+		<text id="preparestep_tofuburger_lettuce" name="Salátát mosni" />
+		<text id="preparestep_tofuburger_tofu" name="Tofut összenyomkodni" />
+		<text id="preparestep_tofuburger_tomato" name="Paradicsomot felvágni" />
+		<text id="preparestep_tomatosoup_cream" name="Habot verni" />
+		<text id="preparestep_tomatosoup_onion" name="Hagymát vágni" />
+		<text id="preparestep_tomatosoup_tomato" name="Paradicsomot hámozni" />
+		<text id="preparestep_trifle_cookies" name="Kekszet lemérni" />
+		<text id="preparestep_trifle_cream" name="Habot verni" />
+		<text id="preparestep_trifle_strawberry" name="Epret tisztítani" />
+		<text id="preparestep_trifle_sugar" name="Cukrot kimérni" />
+		<text id="preparestep_veganstirfry_carrots" name="Répát reszelni" />
+		<text id="preparestep_veganstirfry_peas" name="Borsót főzni" />
+		<text id="preparestep_veganstirfry_rice" name="Rizst kimérni" />
+		<text id="preparestep_veganstirfry_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_vegetablesoup_onion" name="Hagymát vágni" />
+		<text id="preparestep_vegetablesoup_potato" name="Krumplit hámozni" />
+		<text id="preparestep_vegetablesoup_tomato" name="Paradicsomot szeletelni" />
+		<text id="preparestep_veggiecurry_ballpepper" name="Paprikát felvágni" />
+		<text id="preparestep_veggiecurry_coconut" name="Kókuszt feltörni" />
+		<text id="preparestep_veggiecurry_curryspice" name="Curryt lemérni" />
+		<text id="preparestep_veggiecurry_eggplant" name="Padlizsánt szeletelni" />
+		<text id="preparestep_veggiecurry_rice" name="Rizst kimérni" />
+		<text id="preparestep_veggielasagne_cheese" name="Sajtot reszelni" />
+		<text id="preparestep_veggielasagne_eggplant" name="Padlizsánt szeletelni" />
+		<text id="preparestep_veggielasagne_pasta" name="Tésztát főzni" />
+		<text id="preparestep_veggielasagne_tomato" name="Paradicsomot passzírozni" />
+		<text id="preparestep_whitechoccheesecake_cookies" name="Kekszet összetörni" />
+		<text id="preparestep_whitechoccheesecake_cream" name="Habot verni" />
+		<text id="preparestep_whitechoccheesecake_milk" name="Tejet melegíteni" />
+		<text id="preparestep_whitechoccheesecake_quark" name="Túrót kikeverni" />
+		<text id="preparestep_whitechoccheesecake_whitechocolat" name="Csokoládét kimérni" />
+		<text id="preparestep_whitechocmousse_cream" name="Habot verni" />
+		<text id="preparestep_whitechocmousse_eggs" name="Tojást feltörni" />
+		<text id="preparestep_whitechocmousse_whitechocolat" name="Csokoládét olvasztani" />
+		<text id="preparestep_coxinha_flour" name="Spread flour" />
+		<text id="preparestep_coxinha_chicken" name="Shred chicken" />
+		<text id="preparestep_coxinha_onion" name="Chop onions" />
+		<text id="preparestep_coxinha_cream" name="Make cream cheese" />
+		<text id="preparestep_coxinha_oil" name="Heat oil" />
+		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
+	</preparestep>
+	<preparestep_fancy>
+		<text id="preparestep_bananasplit_vanilla" name="Vanília belsejét kikapargatni" />
+		<text id="preparestep_blackforestcherrycake_vanilla" name="Vaníliát kivájni" />
+		<text id="preparestep_pizzasalad_chili" name="Chop chili" />
+		<text id="preparestep_cheeseburger_chili" name="Chilit felvágni" />
+		<text id="preparestep_cheesedish_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_cheesefondue_chili" name="Chilit felvágni" />
+		<text id="preparestep_cherriecake_vanilla" name="Vaníliát kivájni" />
+		<text id="preparestep_cherrycompote_vanilla" name="Vaníliát kivájni" />
+		<text id="preparestep_chickenburger_chili" name="Chilit felvágni" />
+		<text id="preparestep_chickensalad_chili" name="Chilit felvágni" />
+		<text id="preparestep_chickensoup_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_chiliconcarne_chili" name="Chilit felvágni" />
+		<text id="preparestep_chocmousse_vanilla" name="Vanília belsejét kikapargatni" />
+		<text id="preparestep_chocolatecake_vanilla" name="Vanília belsejét kikapargatni" />
+		<text id="preparestep_chocolatecheesecake_vanilla" name="Vaníliát kivájni" />
+		<text id="preparestep_chocolatefondue_cinnamon" name="Fahéjat szórni" />
+		<text id="preparestep_christmasturkey_rosemary" name="Rozmaringot aprítani" />
+		<text id="preparestep_cookieplate_cinnamon" name="Fahéjat őrölni" />
+		<text id="preparestep_cornonthecob_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_curry_coriander" name="Koriandert felvágni" />
+		<text id="preparestep_duckalorange_cinnamon" name="Fahéjat őrölni" />
+		<text id="preparestep_easterdish_vanilla" name="Vaníliát kivájni" />
+		<text id="preparestep_englishbreakfast_chili" name="Chilit felvágni" />
+		<text id="preparestep_fishandchips_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_friedpotatoes_rosemary" name="Rozmaringot felvágni" />
+		<text id="preparestep_fruitpudding_cinnamon" name="Fahéjat őrölni" />
+		<text id="preparestep_fruitsalad_vanilla" name="Vanília belsejét kikapargatni" />
+		<text id="preparestep_gardensalad_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_greensalad_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_gumbo_chili" name="Chilit felvágni" />
+		<text id="preparestep_hamburger_chili" name="Chilit felvágni" />
+		<text id="preparestep_hotcherrywaffles_vanilla" name="Vanília belsejét kikapargatni" />
+		<text id="preparestep_jamspongepudding_vanilla" name="Vanília belsejét kikapargatni" />
+		<text id="preparestep_lasagne_basil" name="Bazsalikom leveleket letépdesni" />
+		<text id="preparestep_macncheese_nutmeg" name="Szerecsendiót reszelni" />
+		<text id="preparestep_maplepancakes_vanilla" name="Vanília belsejét kikapargatni" />
+		<text id="preparestep_marblecake_vanilla" name="Vaníliát kivájni" />
+		<text id="preparestep_mexicansalad_chili" name="Chilit felvágni" />
+		<text id="preparestep_minestrone_basil" name="Bazsalikom leveleket letépdesni" />
+		<text id="preparestep_mixedsalad_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_nasigoreng_chili" name="Chilit felvágni" />
+		<text id="preparestep_newyorkcheesecake_vanilla" name="Vanília belsejét kikapargatni" />
+		<text id="preparestep_noodlesalad_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_omelette_chili" name="Chilit vágni" />
+		<text id="preparestep_onionsoup_chili" name="Chilit felvágni" />
+		<text id="preparestep_peasoup_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_pizzahawaii_chili" name="Chilit felvágni" />
+		<text id="preparestep_pizzatonno_horseradish" name="Tormát reszelni" />
+		<text id="preparestep_pizza_chili" name="Chilit felvágni" />
+		<text id="preparestep_porkroastwithcrackling_rosemary" name="Rozmaringot felvágni" />
+		<text id="preparestep_potatosalad_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_redberrycompote_vanilla" name="Vaníliát kivájni" />
+		<text id="preparestep_ricepudding_cinnamon" name="Fahéjat őrölni" />
+		<text id="preparestep_roastchicken_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_sandwich_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_scouse_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_spagetti_basil" name="Bazsalikom leveleket letépdesni" />
+		<text id="preparestep_spareribs_chili" name="Chilit felvágni" />
+		<text id="preparestep_steakkidneypie_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_steak_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_stewedrhubarb_vanilla" name="Vanília belsejét kikaparni" />
+		<text id="preparestep_stew_chili" name="Chilit felvágni" />
+		<text id="preparestep_strawberrycake_vanilla" name="Vanília belsejét kikapargatni" />
+		<text id="preparestep_strawberrymousse_vanilla" name="Vaníliát kivájni" />
+		<text id="preparestep_stuffedpeppers_parsley" name="Petrezselymet felvágni" />
+		<text id="preparestep_sundayfeast_rosemary" name="Rozmaringot felvágni" />
+		<text id="preparestep_sushi_horseradish" name="Tormát reszelni" />
+		<text id="preparestep_toadinhole_rosemary" name="Rozmaringot felvágni" />
+		<text id="preparestep_toast_chili" name="Chilit felvágni" />
+		<text id="preparestep_tofuburger_chili" name="Chilit felvágni" />
+		<text id="preparestep_tomatosoup_basil" name="Bazsalikom leveleket letépdesni" />
+		<text id="preparestep_trifle_vanilla" name="Vanília belsejét kikapargatni" />
+		<text id="preparestep_veganstirfry_chili" name="Chilit felvágni" />
+		<text id="preparestep_vegetablesoup_basil" name="Bazsalikom leveleket letépdesni" />
+		<text id="preparestep_veggiecurry_coriander" name="Koriandert felvágni" />
+		<text id="preparestep_veggielasagne_basil" name="Bazsalikom leveleket letépdesni" />
+		<text id="preparestep_whitechoccheesecake_vanilla" name="Vaníliát kivájni" />
+		<text id="preparestep_whitechocmousse_vanilla" name="Vaníliát kivájni" />
+	</preparestep_fancy>
+	<recipe>
+		<text id="recipe_bananasplit" name="Banánhajó" />
+		<text id="recipe_brigadeiro" name="Brigadeiro" />
+		<text id="recipe_beefstew" name="Pörkölt" />
+		<text id="recipe_pizzasalad" name="Pizza with Salad" />
+		<text id="recipe_tripleomelette" name="Triple Omelette" />
+		<text id="recipe_chocolatewaffles" name="Chocolate Waffles" />
+		<text id="recipe_spanishomelette" name="Spanish Omelette" />
+		<text id="recipe_sausagepasta" name="Sausage Spaghetti" />
+		<text id="recipe_applepie" name="Apple Pie" />
+		<text id="recipe_ramen" name="Ramen" />
+		<text id="recipe_corncake" name="Corn Cake" />
+		<text id="recipe_feijoada" name="Feijoada" />
+		<text id="recipe_blackforestcherrycake" name="Feketeerdő torta" />
+		<text id="recipe_cheeseburger" name="Sajtos hamburger" />
+		<text id="recipe_cheesedish" name="Sajttál" />
+		<text id="recipe_cheesefondue" name="Sajtfondü" />
+		<text id="recipe_cherriecake" name="Cseresznyés süti" />
+		<text id="recipe_cherrycompote" name="Cseresznyekompót" />
+		<text id="recipe_chickenburger" name="Csirke-burger" />
+		<text id="recipe_chickensalad" name="Csirkesaláta" />
+		<text id="recipe_chickensoup" name="Rakott csirke" />
+		<text id="recipe_chiliconcarne" name="Chili con Carne" />
+		<text id="recipe_chocmousse" name="Csokoládéhab" />
+		<text id="recipe_chocolatecake" name="Csokis süti" />
+		<text id="recipe_chocolatecheesecake" name="Csokis sajttorta" />
+		<text id="recipe_chocolatefondue" name="Csokoládéfondü" />
+		<text id="recipe_christmasturkey" name="Karácsonyi sült" />
+		<text id="recipe_cookieplate" name="Sütis tál" />
+		<text id="recipe_cornonthecob" name="Csöves kukorica" />
+		<text id="recipe_curry" name="Curry" />
+		<text id="recipe_duckalorange" name="Narancsos kacsa" />
+		<text id="recipe_easterdish" name="Húsvéti tál" />
+		<text id="recipe_englishbreakfast" name="Angol reggeli" />
+		<text id="recipe_fishandchips" name="Fish&apos;n&apos;Chips" />
+		<text id="recipe_friedpotatoes" name="Sült krumpli" />
+		<text id="recipe_fruitpudding" name="Gyümölcskenyér" />
+		<text id="recipe_fruitsalad" name="Gyümölcssaláta" />
+		<text id="recipe_greensalad" name="Kerti saláta" />
+		<text id="recipe_gumbo" name="Gumbo" />
+		<text id="recipe_hamburger" name="Hamburger" />
+		<text id="recipe_hotcherrywaffles" name="Forró cseresznyés ostya" />
+		<text id="recipe_jamspongepudding" name="Édes szirupos felfújt" />
+		<text id="recipe_lasagne" name="Lasagne" />
+		<text id="recipe_macncheese" name="Mac&apos;n&apos;Cheese" />
+		<text id="recipe_maplepancakes" name="Palacsinta juharsziruppal" />
+		<text id="recipe_marblecake" name="Kuglóf" />
+		<text id="recipe_mexicansalad" name="Mexikói saláta" />
+		<text id="recipe_minestrone" name="Minesztrone" />
+		<text id="recipe_mixedsalad" name="Vegyes saláta" />
+		<text id="recipe_nasigoreng" name="Nasi Goreng" />
+		<text id="recipe_newyorkcheesecake" name="New York túrótorta" />
+		<text id="recipe_noodlesalad" name="Tésztasaláta" />
+		<text id="recipe_omelette" name="Omlett" />
+		<text id="recipe_onionsoup" name="Sült hagymaleves" />
+		<text id="recipe_peasoup" name="Borsóleves" />
+		<text id="recipe_pizza" name="Pizza" />
+		<text id="recipe_pizzahawaii" name="Pizza Hawaii" />
+		<text id="recipe_pizzatonno" name="Pizza Tonno" />
+		<text id="recipe_porkroastwithcrackling" name="Ropogós sült" />
+		<text id="recipe_potatosalad" name="Krumplisaláta" />
+		<text id="recipe_redberrycompote" name="Vöröskása" />
+		<text id="recipe_ricepudding" name="Rizspuding almaszósszal" />
+		<text id="recipe_roastchicken" name="Sült csirke" />
+		<text id="recipe_sandwich" name="Szendvics" />
+		<text id="recipe_scouse" name="Tatár bífsztek" />
+		<text id="recipe_spagetti" name="Bolognai spagetti" />
+		<text id="recipe_spareribs" name="Marinált oldalas" />
+		<text id="recipe_steak" name="Steak" />
+		<text id="recipe_steakkidneypie" name="Steak és pite" />
+		<text id="recipe_stewedrhubarb" name="Rebarbarakompót" />
+		<text id="recipe_strawberrycake" name="Epres süti" />
+		<text id="recipe_strawberrymousse" name="Eperkrém" />
+		<text id="recipe_stuffedpeppers" name="Töltött paprika" />
+		<text id="recipe_sundayfeast" name="Ünnepi étel" />
+		<text id="recipe_sushi" name="Sushi" />
+		<text id="recipe_toadinahole" name="Virslis lángos" />
+		<text id="recipe_toast" name="Hawaii pirítós" />
+		<text id="recipe_tofuburger" name="Tofuburger" />
+		<text id="recipe_tomatosoup" name="Paradicsomleves" />
+		<text id="recipe_trifle" name="Krémek" />
+		<text id="recipe_veganstirfry" name="Vegatál" />
+		<text id="recipe_vegetablesoup" name="Vegaleves" />
+		<text id="recipe_veggiecurry" name="Vega curry" />
+		<text id="recipe_veggielasagne" name="Vega lasagne" />
+		<text id="recipe_whitechoccheesecake" name="Fehércsokis sajttorta" />
+		<text id="recipe_whitechocmousse" name="Fehér csokikrém" />
+		<text id="recipe_coxinha" name="Coxinha" />
+	</recipe>
+	<recipes_fastfood>
+		<text id="recipe_smoothiemaker_greensmoothie" name="Zöld smoothie" />
+		<text id="recipe_smoothiemaker_kiba" name="Meggyes-Banános Smoothie" />
+		<text id="recipe_smoothiemaker_pinacolada" name="Virgin Colada" />
+		<text id="recipe_smoothiemaker_tomatojuice" name="Paradicsomlé" />
+	</recipes_fastfood>
+	<server>
+		<mail>
+			<text id="mail_invite_friend" name="Szia! %s!&lt;br /&gt;&lt;br /&gt; Felfedeztem egy szuper online játékot: &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Ezzel a linkkel közvetlenül eléred a játékot:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Jelentkezz be a linken és ingyen létrehozhatod a saját Goodgame Cafédat.&lt;br /&gt;&lt;br /&gt;Rájöhetsz, hogy milyen érzés, ha saját Caféd van. Finom ételeket főzhetsz, vendégeket fogadhatsz és a Cafédat saját ízlésed szerint rendezheted be!&lt;br /&gt;&lt;br /&gt;Jó szórakozást! Üdv, %s" />
+			<text id="mail_lost_pw" name="Hello %s!&lt;br /&gt;&lt;br /&gt;Azért kapod ezt az automatikus e-mailt, mert egy új jelszót kértél.&lt;br /&gt;Az új jelszavad: %s&lt;br /&gt;&lt;br /&gt;Erre a linkre kattintva közvetlenül eléred a játékot:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Kérdéseiddel és gondjaiddal fordulj hozzánk:  support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;A továbbiakhoz jó szórakozást kívánunk!&lt;br /&gt;&lt;br /&gt;Goodgamestudios.com&lt;br /&gt; csapata" />
+			<text id="mail_registration" name="Hello!&lt;br /&gt;&lt;br /&gt;Köszönjük jelentkezésedet és üdvözöl a &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;A következő adatokkal bármikor bejelentkezhetsz:&lt;br /&gt;E-Mail: %s&lt;br /&gt;Jelszó: %s&lt;br /&gt;&lt;br /&gt; Erre a linkre kattintva közvetlenül eléred a játékot:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt; Kérdéseiddel és gondjaiddal fordulj hozzánk: support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;A továbbiakhoz jó szórakozást kívánunk!&lt;br /&gt;&lt;br /&gt;Goodgamestudios.com&lt;br /&gt; csapata" />
+		</mail>
+		<misc>
+			<text id="marketplace" name="Piactér" />
+		</misc>
+	</server>
+	<std_buttons>
+		<text id="btn_text_accept" name="Elfogad" />
+		<text id="btn_text_cancle" name="Mégse" />
+		<text id="btn_text_goback" name="Vissza" />
+		<text id="btn_text_no" name="Nem" />
+		<text id="btn_text_notaccept" name="Elutasít" />
+		<text id="btn_text_okay" name="Rendben" />
+		<text id="btn_text_payment" name="Arany/Cafédollárvásárlás" />
+		<text id="btn_text_share" name="Meséld el a barátaidnak!" />
+		<text id="btn_text_srchips" name="Cafédollár keresés" />
+		<text id="btn_text_srgold" name="Arany keresés" />
+		<text id="btn_text_yes" name="Igen" />
+	</std_buttons>
+	<tooltips>
+		<text id="tt_Basic_Achievement_Boughtdeco" name="Megvásárolt dekorációk száma" />
+		<text id="tt_Basic_Achievement_Boughtingredients" name="Megvásárolt hozzávalók száma" />
+		<text id="tt_Basic_Achievement_Cookingcount" name="Elkészített ételek száma" />
+		<text id="tt_Basic_Achievement_Coopcount" name="A sikeres összefogások száma" />
+		<text id="tt_Basic_Achievement_Coopgoldcount" name="Arany szintet elérő összefogások száma" />
+		<text id="tt_Basic_Achievement_Curiercount" name="Futármegrendelések száma" />
+		<text id="tt_Basic_Achievement_Differentdishes" name="Különböző ételek száma" />
+		<text id="tt_Basic_Achievement_Earnedchips" name="Megkeresett Cafédollár" />
+		<text id="tt_Basic_Achievement_Fancycount" name="A felhasznált különleges hozzávalók száma" />
+		<text id="tt_Basic_Achievement_Firenpc" name="Menesztett pincérek száma" />
+		<text id="tt_Basic_Achievement_Instantcount" name="Azonnal elkészített ételek száma" />
+		<text id="tt_Basic_Achievement_Jobclean" name="Pincérként eltakarított tányérok" />
+		<text id="tt_Basic_Achievement_Jobserve" name="Pincérként szétosztott tányérok" />
+		<text id="tt_Basic_Achievement_Masteies" name="Elért csillagok száma" />
+		<text id="tt_Basic_Achievement_Masteriesgold" name="Az elért arany csillagok száma" />
+		<text id="tt_Basic_Achievement_Muffinmancash" name="Muffinsütés során Cafédollárt nyertél" />
+		<text id="tt_Basic_Achievement_Muffinmangold" name="A Muffin-sütőnél aranyat nyertél" />
+		<text id="tt_Basic_Achievement_Overcookedfoods" name="Tönkrement ételek száma" />
+		<text id="tt_Basic_Achievement_Servingcountmeals" name="Elkészített főételek száma" />
+		<text id="tt_Basic_Achievement_Servingcountsalads" name="Elkészített saláták száma" />
+		<text id="tt_Basic_Achievement_Servingcountsnacks" name="Elkészített harapnivalók száma" />
+		<text id="tt_Basic_Achievement_Servingcountsoups" name="Elkészített levesek száma" />
+		<text id="tt_Basic_Achievement_Servingcountsweets" name="Elkészített édességek száma" />
+		<text id="tt_Basic_Achievement_Servingcountvegans" name="Elkészített vegetáriánus ételek száma" />
+		<text id="tt_Basic_Achievement_Servingscount" name="Eladott adagok száma" />
+		<text id="tt_Basic_Achievement_Solditems" name="Eladott dekorációk és bútorok száma" />
+		<text id="tt_Basic_Achievement_Spentchips" name="Elköltött Cafédollár" />
+		<text id="tt_Basic_Achievement_Spentgold" name="Elköltött arany" />
+		<text id="tt_Basic_Achievement_Wheeloffortune" name="A szerencsekerékkel szerzett nyeremények száma" />
+		<text id="tt_byAmount" name="{1}-ből {0}" />
+		<text id="tt_byLevel" name="{0} szinttől" />
+		<text id="tt_CafeActionPanel_btn_achievements" name="Kitüntetések" />
+		<text id="tt_CafeActionPanel_btn_cookbook" name="Szakácskönyv" />
+		<text id="tt_CafeActionPanel_btn_coop" name="Összefogás" />
+		<text id="tt_CafeActionPanel_btn_decoshop" name="Átépítés" />
+		<text id="tt_CafeActionPanel_btn_gifts" name="Ajándékok" />
+		<text id="tt_CafeActionPanel_btn_ingredientshop" name="Bolt" />
+		<text id="tt_CafeActionPanel_btn_market" name="Piactér" />
+		<text id="tt_CafeActionPanel_btn_owncafe" name="Saját Café" />
+		<text id="tt_CafeActionPanel_btn_staff" name="Személyzet" />
+		<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="Alsó" />
+		<text id="tt_CafeAvatarCreationDialog_btn_boy" name="Fiú" />
+		<text id="tt_CafeAvatarCreationDialog_btn_girl" name="Lány" />
+		<text id="tt_CafeAvatarCreationDialog_btn_hair" name="Hajszín" />
+		<text id="tt_CafeAvatarCreationDialog_btn_skin" name="Bőrszín" />
+		<text id="tt_CafeAvatarCreationDialog_btn_tops" name="Felső" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook" name="Azonnal kész" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="Ma már nem használhatod többet az &apos;Azonnal kész&apos; funkciót" />
+		<text id="tt_CafeClearStoveDialog_instantButton" name="Azonnal kész" />
+		<text id="tt_CafeCookBookDialog_0" name="Édességek" />
+		<text id="tt_CafeCookBookDialog_1" name="Főételek" />
+		<text id="tt_CafeCookBookDialog_2" name="Leveles" />
+		<text id="tt_CafeCookBookDialog_3" name="Saláta" />
+		<text id="tt_CafeCookBookDialog_4" name="Vegetáriánus" />
+		<text id="tt_CafeCookBookDialog_5" name="Snack" />
+		<text id="tt_CafeCookBookDialog_btn_cook" name="Főzés" />
+		<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="Hiányzik néhány hozzávaló!" />
+		<text id="tt_CafeCookBookDialog_btn_mastery" name="még {0} a {1} csillaghoz Kattints ide a részletekért" />
+		<text id="tt_CafeCookBookDialog_btn_shop" name="Bolt" />
+		<text id="tt_CafeDekoShopPanel_btn_close" name="Vissza a Caféhoz" />
+		<text id="tt_CafeDekoShopPanel_btn_deko" name="Berendezés" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Chair" name="Székek" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="Dekoráció" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Door" name="Ajtók" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Table" name="Asztalok" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Tiles" name="Padló" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wall" name="Falak" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wallobject" name="Fali dekoráció" />
+		<text id="tt_CafeDekoShopPanel_btn_expansion" name="Bővítés" />
+		<text id="tt_CafeDekoShopPanel_btn_functional" name="Konyhai eszközök" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Counter" name="Pultok" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Extras" name="Extrák" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Fridge" name="Hűtőszekrények" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Stove" name="Tűzhelyek" />
+		<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="{0} hálózati barátra van szükséged, hogy bővítést vásárolhass." />
+		<text id="tt_CafeDekoShopPanel_btn_sell" name="Húzd ide azt, amit el kívánsz adni" />
+		<text id="tt_CafeDekoShopPanel_cashexpansion" name="{0}. szinten kell legyél ahhoz, hogy Cafédollárért bővíthess." />
+		<text id="tt_CafeDekoShopPanel_dragItem" name="Húzz engem a Caféba" />
+		<text id="tt_CafeDekoShopPanel_invalidexpansion" name="Előbb a korábbi bővítést kell kiválasztanod és csak azután vásárolhatsz újat." />
+		<text id="tt_CafeIngredientShopDialog_btn_addcash" name="Cafédollár/arany készlet feltöltés" />
+		<text id="tt_CafeIngredientShopDialog_btn_all" name="Összes" />
+		<text id="tt_CafeIngredientShopDialog_btn_buy" name="Vásárlás" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat1" name="Állati" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat2" name="Zöldség" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat3" name="Gyümölcs" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat4" name="Különleges hozzávalók" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat5" name="Egyéb" />
+		<text id="tt_CafeIngredientShopDialog_btn_fridge" name="Hűtőszekrény" />
+		<text id="tt_CafeIngredientShopDialog_btn_help" name="Mik azok a különleges hozzávalók?" />
+		<text id="tt_CafeIngredientShopDialog_btn_sell" name="Eladás" />
+		<text id="tt_CafeIngredientShopDialog_btn_shop" name="Bolt" />
+		<text id="tt_CafeIngredientShopDialog_btn_unlock" name="Futár" />
+		<text id="tt_CafeIngredientShopDialog_btn_wheel" name="Csak a szerencsekerékkel kaphatod meg." />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_help" name="Segítség" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_refill" name="Munkaengedély kérése" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_sign" name="Munkanélküli ki-/bejelentkezése" />
+		<text id="tt_CafeMasteryDialog_broncestar" name="Több adagot főzz!" />
+		<text id="tt_CafeMasteryDialog_goldstar" name="Főzz gyorsabban!" />
+		<text id="tt_CafeMasteryDialog_silverstar" name="Még több XPt kaphatsz!" />
+		<text id="tt_CafeNamePanel_mc_luxury" name="A Caféd luxusértéke" />
+		<text id="tt_CafeNamePanel_mc_rating" name="Saját Café kedveltsége" />
+		<text id="tt_CafeOptionPanel_btn_blockfriends" name="A baráti megkeresések tiltása" />
+		<text id="tt_CafeOptionPanel_btn_bugreport" name="Hibajelentés" />
+		<text id="tt_CafeOptionPanel_btn_changePass" name="Jelszóváltoztatás" />
+		<text id="tt_CafeOptionPanel_btn_custom" name="Karaktermódosítás" />
+		<text id="tt_CafeOptionPanel_btn_faq" name="Kérdések és válaszok" />
+		<text id="tt_CafeOptionPanel_btn_fullscreen" name="Teljes képernyő" />
+		<text id="tt_CafeOptionPanel_btn_help" name="Súgó" />
+		<text id="tt_CafeOptionPanel_btn_logout" name="Kijelentkezés" />
+		<text id="tt_CafeOptionPanel_btn_messages" name="Üzenet" />
+		<text id="tt_CafeOptionPanel_btn_music" name="Zene be/ki" />
+		<text id="tt_CafeOptionPanel_btn_news" name="Fórum" />
+		<text id="tt_CafeOptionPanel_btn_options" name="Beállítás" />
+		<text id="tt_CafeOptionPanel_btn_screenshot" name="Fotó" />
+		<text id="tt_CafeOptionPanel_btn_sfx" name="Effektek be/ki" />
+		<text id="tt_CafeOptionPanel_btn_socialgroup" name="Csoport" />
+		<text id="tt_CafeOptionPanel_btn_sound" name="Hang" />
+		<text id="tt_CafeOptionPanel_btn_support" name="Támogatás" />
+		<text id="tt_CafeOptionPanel_btn_verifyemail" name="Hozd el a jutalmadat!" />
+		<text id="tt_CafeOptionPanel_btn_wantfriends" name="A baráti megkeresés engedélyezése" />
+		<text id="tt_CafeOptionPanel_btn_zoom" name="zoom" />
+		<text id="tt_CafeOptionPanel_btn_zoomIn" name="Nagyítás" />
+		<text id="tt_CafeOptionPanel_btn_zoomOut" name="kicsinyítés" />
+		<text id="tt_CafeRegisterPanel_btn_register" name="Mentés és regisztrálás" />
+		<text id="tt_CafeSmoothiemaker_btn_mix" name="Mixelés" />
+		<text id="tt_CafeSmoothiemaker_serve" name="Italt felszolgálni" />
+		<text id="tt_CafeSocialPanel_btn_buddies" name="Barátok" />
+		<text id="tt_CafeSocialPanel_btn_buddiesincafe" name="Jelenlévő játékosok" />
+		<text id="tt_CafeSocialPanel_btn_chat" name="Csevegés" />
+		<text id="tt_CafeSocialPanel_btn_findbuddies" name="Meghívó" />
+		<text id="tt_CafeSocialPanel_btn_muteplayer" name="Némára állítás" />
+		<text id="tt_CafeStaffDialog_rename" name="Pincér átnevezése" />
+		<text id="tt_CafeUserStatePanel_btn_adddollar" name="Cafédollár/arany készlet feltöltés" />
+		<text id="tt_CafeUserStatePanel_btn_refill" name="Munkaengedély kérése" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} XP a következő szintig" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="XP" />
+		<text id="tt_highscore_luxury" name="Luxusérték alapján rendez" />
+		<text id="tt_highscore_xp" name="XP alapján rendez" />
+		<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="Kitüntetések" />
+		<text id="tt_PlayerActionChoicesComponent_btn_addfriend" name="Barátkozás" />
+		<text id="tt_PlayerActionChoicesComponent_btn_info" name="Infó" />
+		<text id="tt_PlayerActionChoicesComponent_btn_job" name="Felvenni" />
+		<text id="tt_PlayerActionChoicesComponent_btn_kick" name="Kirúgni" />
+		<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="A barátságnak vége." />
+		<text id="tt_PlayerActionChoicesComponent_btn_visit" name="Café látogatás" />
+		<text id="tt_Social_Achievement_Friendscount" name="Meghívott netes barátok száma" />
+	</tooltips>
+	<tutorial>
+		<text id="tut_buymissingingredient_copy" name="A hagymánál, a kis hűtőszekrény mellett a &apos;0&apos;-ról megtudhatod, hogy nincs belőle a hűtőben.\nAlul láthatod az árat.\nVásárolj egy hagymát." />
+		<text id="tut_cafeopen_copy" name="Csúcs! Az első vendégek nem váratnak magukra.\nMost már végülis mindent tudsz, amire a kezdésnél szükséged van. Nézz kicsit körül.\nJó szórakozást!" />
+		<text id="tut_cookmeal_copy" name="Térjünk a lényegre!\nMutasd meg a salátának, mit tudsz!" />
+		<text id="tut_cookopenshop_copy" name="Itt találod az ételeket a szükséges hozzávalóikkal, elkészítési idővel és árukkal.\nOh, nincs hagymád a kerti salátához, de vásárolhatsz!" />
+		<text id="tut_cookpreparecook_copy" name="A legfontosabb természetesen az evés! Készítsünk el együtt egy kerti salátát. Kattints a tűzhelyre!" />
+		<text id="tut_instantcook2_copy" name="Használd az &apos;Azonnal kész&apos; funkciót.!\nBár arannyal fizetsz érte, de roppant praktikus!" />
+		<text id="tut_instantcook_copy" name="A kerti salátának normál esetben 6 percre van szüksége, hogy elkészüljön,  de van arra lehetőség, hogy ezt lerövidítsd és ezt meg is tesszük." />
+		<text id="tut_preparesteps_copy" name="Kattints párszor a tűzhelyre, hogy az elkészítés lépéseit sorra vedd." />
+		<text id="tut_servedish_copy" name="Remek!\nMost már csak tálalnod kell a főztödet.\nAzonban ez a tíz adag nem tart sokáig, így ne feledkezz meg az utánpótlásról sem!" />
+		<text id="tut_start_copy" name="Üdvözlünk a Saját Café-dban,  {0}!\nEz a kis bevezető segít eligazodni a gasztronómia csodálatos világában." />
+		<text id="tut_title" name="Bevezető!" />
+		<text id="tut_welcome_title" name="Üdvözlünk!" />
+	</tutorial>
+	<generic_flash>
+		<alert>
+			<text id="generic_alert_bug" name="Hiba" />
+			<text id="generic_alert_connection_failed_copy" name="Jelenleg karbantartás folyik. Kérünk, később próbálkozz újra!" />
+			<text id="generic_alert_connection_failed_title" name="Karbantartás" />
+			<text id="generic_alert_connection_lost_copy" name="A játékszerverrel megszakadt a kapcsolat. Kérünk, próbálkozz újra!" />
+			<text id="generic_alert_connection_lost_description" name="Jelenleg karbantartás folyik. Néha ezt is el kell végezni, sajnso. Ilyenkor frissítések és új lehetőségek kerülnek a játékba.&lt;br&gt;&lt;br&gt; Belehúzunk, hogy mielőbb játszhass!" />
+			<text id="generic_alert_connection_lost_promo" name="Addig próbálj ki egy másik játékunkat!" />
+			<text id="generic_alert_connection_lost_thanks" name="Köszönjük, hogy megérted!" />
+			<text id="generic_alert_connection_lost_title" name="Elveszett a kapcsolat" />
+			<text id="generic_alert_error" name="Hiba" />
+			<text id="generic_alert_information" name="Megjegyzés" />
+			<text id="generic_alert_loggedout_copy" name="Sikeresen kijelentkeztél. Ne felejtsd: mindennap vár rád üdvözlő bónusz" />
+			<text id="generic_alert_loggedout_title" name="Viszlát!" />
+			<text id="generic_alert_warning" name="Figyelmeztetés!" />
+			<text id="generic_alert_watchout" name="Figyelem!" />
+			<text id="generic_alert_win7chromebug" name="" />
+			<text id="generic_invalid_email_provider" name="A kiszolgáló e-mail címe nem engedélyezett!" />
+			<text id="generic_js_alert_firstsessiontracking_loading" name="Az internet kapcsolatod éppen elég lassúnak tűnik. Próbáld újra később!" />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="Tetszik a játék, vagy lehetne valamit javítani rajta? Írd meg a véleményedet a Goodgame fórumra vagy a csapatnak!" />
+			<text id="generic_js_alert_firstsessiontracking_unregistered" name="Figyelem! A játékodat akkor mentheted csak, ha regisztrálsz!" />
+			<text id="generic_register_error_invalidemail" name="A megadott e-mail cím nem helyes." />
+			<text id="generic_report_muted_chattry" name="A felfüggesztésed miatt jelenleg nem cseveghetsz." />
+		</alert>
+		<button>
+			<text id="generic_btn_accept" name="Elfogad" />
+			<text id="generic_btn_cancel" name="Mégse" />
+			<text id="generic_btn_close" name="Bezárás" />
+			<text id="generic_btn_continue" name="Tovább" />
+			<text id="generic_btn_end" name="Befejezés" />
+			<text id="generic_btn_endnow" name="Azonnal befejezés" />
+			<text id="generic_btn_goback" name="Vissza" />
+			<text id="generic_btn_no" name="Nem" />
+			<text id="generic_btn_noshare" name="Mégse!" />
+			<text id="generic_btn_notaccept" name="Elutasít" />
+			<text id="generic_btn_okay" name="Rendben" />
+			<text id="generic_btn_reconnect" name="Újra kapcsolódás" />
+			<text id="generic_btn_refresh" name="Aktualizálni" />
+			<text id="generic_btn_report" name="Jelentés" />
+			<text id="generic_btn_search" name="Keresés" />
+			<text id="generic_btn_share" name="Megosztás!" />
+			<text id="generic_btn_skip" name="Átugrás" />
+			<text id="generic_btn_start" name="Kezdés" />
+			<text id="generic_btn_topayment" name="Ide vele!" />
+			<text id="generic_btn_yes" name="Igen" />
+		</button>
+		<chat>
+			<text id="generic_chat_writeable" name="Csak a regisztrált első szintű játékosok használhatják a csevegést." />
+		</chat>
+		<common>
+			<text id="generic_admin" name="Admin" />
+			<text id="generic_animation" name="Animáció mutatása" />
+			<text id="generic_bugreport" name="Jelents hibát" />
+			<text id="generic_changePass" name="Jelszó változtatása" />
+			<text id="generic_comma" name="," />
+			<text id="generic_conningsoon" name="*Hamarosan*" />
+			<text id="generic_date" name="Dátum" />
+			<text id="generic_day" name="nap" />
+			<text id="generic_dayformat" name="{1}.{0}." />
+			<text id="generic_days" name="nap" />
+			<text id="generic_day_short" name="N" />
+			<text id="generic_decimalseparator" name="." />
+			<text id="generic_email" name="E-mail" />
+			<text id="generic_faq" name="Kérdések és válaszok" />
+			<text id="generic_forum" name="Fórum" />
+			<text id="generic_friend" name="Barát" />
+			<text id="generic_friends" name="Barát" />
+			<text id="generic_general" name="Általános" />
+			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_group" name="Csoport" />
+			<text id="generic_guest" name="Vendég" />
+			<text id="generic_help" name="Súgó" />
+			<text id="generic_high" name="Magas" />
+			<text id="generic_hour" name="óra" />
+			<text id="generic_hours" name="óra" />
+			<text id="generic_hour_short" name="óra" />
+			<text id="generic_limited" name="Határolt" />
+			<text id="generic_logout" name="Kijelentkezés" />
+			<text id="generic_low" name="Gyenge" />
+			<text id="generic_medium" name="Közepes" />
+			<text id="generic_minute" name="perc" />
+			<text id="generic_minutes" name="perc" />
+			<text id="generic_minute_short" name="perc" />
+			<text id="generic_moderator" name="Moderator" />
+			<text id="generic_month" name="hónap" />
+			<text id="generic_months" name="hónap" />
+			<text id="generic_music" name="Zene be/ki" />
+			<text id="generic_name" name="Név" />
+			<text id="generic_news" name="Újdonságok" />
+			<text id="generic_options" name="Beállítások" />
+			<text id="generic_quality" name="Minőség" />
+			<text id="generic_register" name="Ments és regisztrálj" />
+			<text id="generic_second" name="másodperc" />
+			<text id="generic_seconds" name="másodperc" />
+			<text id="generic_second_short" name="mp." />
+			<text id="generic_sound" name="Hang be/ki" />
+			<text id="generic_support" name="Support" />
+			<text id="generic_today" name="ma" />
+			<text id="generic_tomorrow" name="holnap" />
+			<text id="generic_tutorial" name="Ismertető" />
+			<text id="generic_username" name="Játékosnév" />
+			<text id="generic_xp" name="XP" />
+			<text id="generic_yesterday" name="tegnap" />
+		</common>
+		<error>
+			<text id="generic_versioncheck_error" name="Régi verzió!" />
+			<text id="generic_versioncheck_errorcode_1" name="Frissítsd az oldalt!" />
+		</error>
+		<feeds id="" />
+		<friends>
+			<text id="generic_friends_add_copy" name="Szeretnéd, hogy {0} a barátod legyen?" />
+			<text id="generic_friends_add_title" name="Barátkozás" />
+			<text id="generic_friends_buddy_btn_morefriends" name="Több barát!" />
+			<text id="generic_friends_denied_copy" name="{0} sajnos elutasította a felkérésedet." />
+			<text id="generic_friends_denied_title" name="Felkérés elutasítva!" />
+			<text id="generic_friends_invite_badword_copy" name="A megadott név nem megengedett!" />
+			<text id="generic_friends_invite_badword_title" name="Figyelem!" />
+			<text id="generic_friends_invite_error_copy" name="Csak regisztrált játékosként hívhatsz meg új barátokat." />
+			<text id="generic_friends_invite_error_title" name="Először regisztrálj" />
+		</friends>
+		<fullscreen>
+			<text id="generic_fullscreen_error_copy" name="A teljes képernyő nem lehetséges" />
+		</fullscreen>
+		<languages>
+			<text id="generic_language_cs" name="cseh" />
+			<text id="generic_language_da" name="dán" />
+			<text id="generic_language_de" name="német" />
+			<text id="generic_language_el" name="görög" />
+			<text id="generic_language_en" name="angol" />
+			<text id="generic_language_es" name="spanyol" />
+			<text id="generic_language_fi" name="finn" />
+			<text id="generic_language_fr" name="francia" />
+			<text id="generic_language_hu" name="magyar" />
+			<text id="generic_language_id" name="indonéz" />
+			<text id="generic_language_it" name="olasz" />
+			<text id="generic_language_ja" name="japán" />
+			<text id="generic_language_ko" name="koreai" />
+			<text id="generic_language_nl" name="holland" />
+			<text id="generic_language_no" name="norvég" />
+			<text id="generic_language_pl" name="lengyel" />
+			<text id="generic_language_pt" name="portugál" />
+			<text id="generic_language_pt_BR" name="brazil" />
+			<text id="generic_language_ru" name="orosz" />
+			<text id="generic_language_sv" name="svéd" />
+			<text id="generic_language_tr" name="török" />
+			<text id="generic_language_zh_CN" name="kínai (egyszerű)" />
+			<text id="generic_language_zh_TW" name="Kínai (tradicionális)" />
+		</languages>
+		<login>
+			<text id="generic_login_banned" name="A számládat zároltuk. Fordulj a Supporthoz!" />
+			<text id="generic_login_banned_2" name="A számládat zároltuk!  A zárolás tart: {0}  Ha a zárolással kapcsolatban kérdésed lenne, fordulj a supporthoz." />
+			<text id="generic_login_banned_3" name="A számládat lezártuk.  Ha a zárolással kapcsolatban kérdésed lenne, fordulj a supporthoz." />
+			<text id="generic_login_banned_permanent" name="véglegesen" />
+			<text id="generic_login_facebook" name="Facebookon keresztül bejelentkezni" />
+			<text id="generic_login_login" name="BELÉPÉS" />
+			<text id="generic_login_loginname" name="Felhasználó név/E-mail" />
+			<text id="generic_login_lostpassword" name="Elfelejtetted a jelszavadat?" />
+			<text id="generic_login_lostpassword_copy" name="Add meg az e-mailcímedet és elküldjük a jelszavadat." />
+			<text id="generic_login_lostpassword_title" name="Elfelejtett jelszó" />
+			<text id="generic_login_newplayer" name="Új vagy?" />
+			<text id="generic_login_password" name="Jelszó" />
+			<text id="generic_login_play" name="JÁTSZHATSZ" />
+			<text id="generic_login_playnow" name="Játssz most!" />
+			<text id="generic_login_register" name="Regisztrálás" />
+			<text id="generic_login_rememberpassword" name="Jelszómentés" />
+			<text id="generic_login_wronglogin" name="Hibás felhasználónév vagy jelszó!" />
+		</login>
+		<logout>
+			<text id="generic_logout_guest_copy" name="Regisztrálj a játékod mentéséhez" />
+			<text id="generic_logout_guest_title" name="Regisztrálás" />
+		</logout>
+		<notification>
+			<text id="servershutdownpremonition_backin_copy" name="Legkésőbb {0} belül a játék ismét elérhetővé válik." />
+			<text id="servershutdownpremonition_copy" name="A játékszervert {0} lezárjuk. Jelentkezz ki vagy regisztrálj, hogy elmentsd a játékodat." />
+			<text id="servershutdownpremonition_registered_copy" name="A játékszervert {0} időre karbantartás miatt leállítjuk." />
+			<text id="servershutdown_copy" name="A játékszervert lezárjuk. Pár perc múlva újra bejelentkezhetsz." />
+			<text id="welcomeback_copy" name="Öröm újra látni! Emitt egy kis apróság, hogy megkönnyítsük az újrakezdést." />
+			<text id="welcomeback_title" name="Újra itt!" />
+		</notification>
+		<password>
+			<text id="generic_change_password_copy_newpass" name="Új jelszó:" />
+			<text id="generic_change_password_copy_oldpass" name="Régi jelszó:" />
+			<text id="generic_change_password_copy_send" name="Az új jelszavadat e-mailben elküldtük." />
+			<text id="generic_change_password_error_failed" name="Sajnos, ez nem a régi jelszavad." />
+			<text id="generic_change_password_error_success" name="A jelszavadat sikeresen megváltoztattad." />
+			<text id="generic_change_password_faild_copy" name="Az új jelszó legyen 2 karakternél hosszabb és a régi jelszót helyesen kell megadni!" />
+			<text id="generic_change_password_faild_specialcharacters" name="A jelszavad nem maradhat üresen és nem tartalmazhat különleges karaktereket." />
+			<text id="generic_change_password_faild_title" name="Jelszó megadása" />
+			<text id="generic_change_password_title" name="Jelszóváltoztatás" />
+			<text id="generic_guest_change_password_faild_copy" name="Csak regisztrált játékosként változtathatod a jelszavadat." />
+			<text id="generic_guest_change_password_faild_title" name="Először regisztrálj" />
+		</password>
+		<payment>
+			<text id="generic_discount_payment_title_general" name="Most plussz {0}!" />
+			<text id="generic_payment_48hdiscount_button" name="Az első 48 órában még több aranyhoz juthatsz." />
+			<text id="generic_payment_48hdiscount_button_general" name="Több {0} az első 48 órában!" />
+			<text id="generic_payment_48hdiscount_copy" name="Az első 48 órában vásárolj aranyat és a kiválasztott csomag után {0}% extra jár!" />
+			<text id="generic_payment_48hdiscount_copy_1" name="Az első 48 órában vásárolj aranyat és minden csomag után {0}% extra jár!" />
+			<text id="generic_payment_48hdiscount_copy_1_general" name="Az első 48 órában vegyél {0}t és minden csomag után {1}%t kapsz hozzá!" />
+			<text id="generic_payment_48hdiscount_copy_general" name="Az első 48 órában vegyél {0}t és a kiválasztott csomagokra {1}%t kapsz hozzá!" />
+			<text id="generic_payment_btn" name="Boltba" />
+			<text id="generic_payment_copy" name="Továbblépsz a Paymentshopra (fizetési hely)." />
+			<text id="generic_payment_discount_button" name="{0}%-kal több aranyat kapsz most a pénzedért!" />
+			<text id="generic_payment_discount_copy" name="Vásárolj most aranyat és {0}% bónuszt kapsz!" />
+			<text id="generic_payment_discount_copy_general" name="Most vásárolj {0} és kapsz {1}% bónuszt!" />
+			<text id="generic_payment_discount_general" name="{0}%-kal több {1}t kapsz most a pénzedért!" />
+			<text id="generic_payment_discount_generalshort" name="{0}%-kal több a pénzedért!" />
+			<text id="generic_payment_discount_time" name="{0} MÉG!" />
+			<text id="generic_payment_discount_title" name="Most plussz arany!" />
+			<text id="generic_payment_newPrices" name="Azonnal! Csökkentett árak a Payment-Shopban! Valódi pénzt spórolhatsz!" />
+			<text id="generic_payment_title" name="Befizetés" />
+		</payment>
+		<progressbar>
+			<text id="loading_text_1" name="Alagút keresése a cyberspace-en" />
+			<text id="loading_text_10" name="Ossz szét tárgyakat a világba" />
+			<text id="loading_text_11" name="Grafika rajzolása" />
+			<text id="loading_text_12" name="A gombok szinezése" />
+			<text id="loading_text_13" name="Húsvéti tojás elrejtése" />
+			<text id="loading_text_14" name="Felhasználó adatainak keresése" />
+			<text id="loading_text_15" name="Csapd le a legyet" />
+			<text id="loading_text_16" name="Etesd meg a programozót" />
+			<text id="loading_text_17" name="Gyűröm az ipart" />
+			<text id="loading_text_18" name="Forgasd a homokórát" />
+			<text id="loading_text_19" name="A rendszer hűtése" />
+			<text id="loading_text_2" name="A fogaskerekek olajozása" />
+			<text id="loading_text_20" name="Mindjárt kész" />
+			<text id="loading_text_3" name="Forgasd a mókuskereket" />
+			<text id="loading_text_4" name="A szerver felmelegítése" />
+			<text id="loading_text_5" name="Remélem, minden rendben" />
+			<text id="loading_text_6" name="Szerezz egy féregirtót" />
+			<text id="loading_text_7" name="Komplikált algoritmus kiszámolása" />
+			<text id="loading_text_8" name="Fluxkompenzátor kalibrálása" />
+			<text id="loading_text_9" name="Kézműves tárgyak" />
+			<text id="loading_text_default" name="Inicializálás" />
+			<text id="loading_text_itemXML" name="A játékelemek töltése..." />
+			<text id="progress_loadfiles" name="A játékgrafika töltése..." />
+			<text id="progress_serverconnection" name="A játékszerverrel összekötve..." />
+		</progressbar>
+		<register>
+			<text id="generic_register_agb_copy" name="Az ÁSZF nélkül nem megy. Csak olvasd el, a baloldali gombbal hagyd jóvá, és kész!" />
+			<text id="generic_register_agb_read" name="ÁSZF olvasása" />
+			<text id="generic_register_alreadyavatar" name="A felhasználónak már van avatarja." />
+			<text id="generic_register_badword" name="{0}t nem használhatod a nevedben." />
+			<text id="generic_register_btn_agb" name="ÁSZF elfogadva" />
+			<text id="generic_register_btn_later" name="Később" />
+			<text id="generic_register_btn_next" name="Tovább" />
+			<text id="generic_register_btn_save" name="Mentés" />
+			<text id="generic_register_character" name="Készítsd el a karakteredet!" />
+			<text id="generic_register_copy_0" name="Regisztrálj ingyen!" />
+			<text id="generic_register_copy_1" name="A játékodat mentsd le." />
+			<text id="generic_register_emaillong_copy" name="Az e-mail címed sajnos túl hosszú." />
+			<text id="generic_register_emailwrong_copy" name="A megadott e-mail cím nem helyes." />
+			<text id="generic_register_email_copy" name="Az e-mailcím nem lehet üres, és nem tartalmazhat speciális karaktereket." />
+			<text id="generic_register_error" name="A regisztráció nem sikerült." />
+			<text id="generic_register_errormistake" name="Hiba" />
+			<text id="generic_register_error_accountalreadyexists" name="Ezzel az e-mail címmel már egy játékos bejelentkezett, sajnos." />
+			<text id="generic_register_forfree" name="Ingyenesen jelentkezhetsz!" />
+			<text id="generic_register_forfree1" name="Ingyenes!" />
+			<text id="generic_register_letsgo" name="Mehet!" />
+			<text id="generic_register_namealreadyused" name="A név már foglalt." />
+			<text id="generic_register_namenotvalid" name="A megadott név érvénytelen." />
+			<text id="generic_register_passwordshort_copy" name="A megadott jelszó túl rövid. Legalább 4 karakterből kell állnia." />
+			<text id="generic_register_passwordwrong_copy" name="A megadott jelszó nem helyes." />
+			<text id="generic_register_password_copy" name="A jelszavad nem lehet üres és nem tartalmazhat speciális karaktereket." />
+			<text id="generic_register_receivenews" name="Hírek fogadása" />
+			<text id="generic_register_rememberdata" name="Adatok megjegyzése" />
+			<text id="generic_register_reward" name="Az ingyenes bejelentkezéskor kapsz {0} {1} ajándékba!" />
+			<text id="generic_register_subscribe" name="Bejelentkezés" />
+			<text id="generic_register_success" name="Sikeresen regisztráltál!" />
+			<text id="generic_register_title" name="Regisztrációs hiba" />
+			<text id="generic_register_unlock" name="A funkció engedélyezése." />
+		</register>
+		<report>
+			<text id="generic_report_muted_badword1_copy" name="Figyelj a szádra, különben felfüggeszthetünk a csevegésből vagy átmenetileg az egész játékból.  Ok: {0}" />
+			<text id="generic_report_muted_badword2_copy" name="A többszöri helytelen viselkedésednek köszönhetően a következő {0} alatt nem cseveghetsz. Ok: {1}" />
+			<text id="generic_report_muted_domain1" name="Internetcím a csevegésben nem megengedett!" />
+			<text id="generic_report_muted_reported_copy" name="Több játékos panaszkodott rád. Ezért a következő {0} alatt nem cseveghetsz. Ok: {1}" />
+			<text id="generic_report_player_copy" name="Biztosan jelented {0} játékost?\nFigyelem! A funkció ok nélküli használata az adatok lezárását vonhatja maga után." />
+			<text id="generic_report_player_reason_0" name="Sértegetés" />
+			<text id="generic_report_player_reason_1" name="Szexuális zaklatás" />
+			<text id="generic_report_player_reason_2" name="Rassziszta megjegyzés" />
+			<text id="generic_report_player_reason_3" name="Fenyegetés/Erőltetés" />
+			<text id="generic_report_player_reason_title" name="A jelentés oka:" />
+			<text id="generic_report_player_title" name="Játékost jelenteni?" />
+			<text id="generic_report_reported_copy" name="Egyik játékos jelentett téged az Administratornak. Ok: {0}" />
+		</report>
+		<worlds>
+			<text id="generic_connect" name="Kapcsolódás" />
+			<text id="generic_select_world" name="Válassz egy világot:" />
+			<text id="generic_world" name="Világ: {0}" />
+			<text id="generic_world_international" name="nemzetközi: {0}" />
+		</worlds>
+	</generic_flash>
+</cafe>

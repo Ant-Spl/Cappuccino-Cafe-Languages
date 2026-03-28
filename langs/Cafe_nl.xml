@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cafe>
+	<achievement>
+		<text id="Basic_Achievement_Boughtdeco" name="Smakelijk Café" />
+		<text id="Basic_Achievement_Boughtingredients" name="Culinaire Cuisine" />
+		<text id="Basic_Achievement_Cookingcount" name="Bedrijvige Bistro" />
+		<text id="Basic_Achievement_Coopcount" name="Multitask Muffin" />
+		<text id="Basic_Achievement_Coopgoldcount" name="Vlijtige Voorman" />
+		<text id="Basic_Achievement_Curiercount" name="Exclusieve Hotpot" />
+		<text id="Basic_Achievement_Differentdishes" name="Geweldige Groente" />
+		<text id="Basic_Achievement_Earnedchips" name="Voorspoedige Vanillepudding" />
+		<text id="Basic_Achievement_Fancycount" name="Verrukkelijk Voorafje" />
+		<text id="Basic_Achievement_Firenpc" name="Grillende Garneerder" />
+		<text id="Basic_Achievement_Instantcount" name="Aardig Aperitiefje" />
+		<text id="Basic_Achievement_Jobclean" name="Bezige Bakker" />
+		<text id="Basic_Achievement_Jobserve" name="Vliegende Hutspot" />
+		<text id="Basic_Achievement_Masteies" name="Fast Food Koning" />
+		<text id="Basic_Achievement_Masteriesgold" name="Gouden Maaltijd Koning" />
+		<text id="Basic_Achievement_Muffinmancash" name="Vrijgevige Muffin" />
+		<text id="Basic_Achievement_Muffinmangold" name="Gouden Muffin" />
+		<text id="Basic_Achievement_Overcookedfoods" name="Vetste Verwenner" />
+		<text id="Basic_Achievement_Servingcountmeals" name="IJverige Chef" />
+		<text id="Basic_Achievement_Servingcountsalads" name="Fancy Beginneling" />
+		<text id="Basic_Achievement_Servingcountsnacks" name="Munchies Muffin" />
+		<text id="Basic_Achievement_Servingcountsoups" name="Slurpende Soep Kok" />
+		<text id="Basic_Achievement_Servingcountsweets" name="Koekjes Collega" />
+		<text id="Basic_Achievement_Servingcountvegans" name="Bloemkool Bloempje" />
+		<text id="Basic_Achievement_Servingscount" name="Voortreffelijke Verkoper" />
+		<text id="Basic_Achievement_Solditems" name="Dinner Dealer" />
+		<text id="Basic_Achievement_Spentchips" name="Spetterend Stoofpotje" />
+		<text id="Basic_Achievement_Spentgold" name="Formidabel Fornuis" />
+		<text id="Basic_Achievement_Wheeloffortune" name="Draaiende Delicatesse" />
+		<text id="Social_Achievement_Friendscount" name="Kokende Celebrity" />
+	</achievement>
+	<alerts>
+		<text id="alert_addcash_copy" name="Hier kun je Cafédollars/Gold kopen." />
+		<text id="alert_addcash_title" name="Betaling Shop" />
+		<text id="alert_addFriend_copy" name="Wil je {0} toevoegen als vriend?" />
+		<text id="alert_addFriend_denied_copy" name="{0} heeft je verzoek afgewezen." />
+		<text id="alert_addFriend_denied_title" name="Verzoek afgewezen!" />
+		<text id="alert_addFriend_title" name="Vriendschapsverzoek" />
+		<text id="alert_addgold_copy" name="Om hier te kunnen shoppen, moet je je eerst aanmelden!" />
+		<text id="alert_addgold_title" name="Aanmelden" />
+		<text id="alert_avatarcustom_copy" name="Je kunt je niet omkleden terwijl je aan het werken bent." />
+		<text id="alert_buytiles_copy" name="1. Kies een tegel\n\n2. Selecteer een gebied in je café terwijl je op de muis klikt\n\n3. Laat dan los" />
+		<text id="alert_buytiles_title" name="Tegels plaatsen?" />
+		<text id="alert_changePasswordFaild_copy" name="Je nieuwe paswoord moet meer dan 2 karakters bevatten en je oude paswoord moet correct ingevoerd worden!" />
+		<text id="alert_changePasswordFaild_title" name="Paswoord invoeren" />
+		<text id="alert_clearstove_cancelButton" name="Bewaren" />
+		<text id="alert_clearstove_okButton" name="Weggooien" />
+		<text id="alert_clearstove_title" name="Via deze toonbank wordt een schotel opgediend. Wil je de schotel bewaren?" />
+		<text id="alert_counter_outofreach_copy" name="Je kunt niet bij je toonbank. Probeer je café opnieuw in te richten." />
+		<text id="alert_counter_outofreach_title" name="Kijk uit!" />
+		<text id="alert_dekoshop_humanwaiter_copy" name="Zo lang er andere spelers in je café aan het werk zijn, kun je niet customizen." />
+		<text id="alert_dekoshop_humanwaiter_title" name="Geen sprake van!" />
+		<text id="alert_dekoshop_kickplayer_copy" name="Er zijn nog spelers in je café. Wil je ze buiten zetten en naar het Customize menu gaan?" />
+		<text id="alert_dekoshop_kickplayer_title" name="Kijk uit!" />
+		<text id="alert_FancyCooking_copy" name="Wil je je gerecht extra lekker maken met dit Luxe Ingrediënt en zo {0} meer XP en {1} meer porties verdienen?" />
+		<text id="alert_FancyCooking_title" name="Luxe ingrediënten" />
+		<text id="alert_fancyinfo_copy" name="Maak je gerecht extra lekker met dit Luxe Ingrediënt en je verdient tot 20% meer XP en porties! Luxe ingrediënten nemen ook geen plaats in beslag in je koelkast!" />
+		<text id="alert_fancyinfo_title" name="Luxe Ingrediënten!" />
+		<text id="alert_giftboxfull_copy" name="Je geschenkdoos is vol! Je kunt geen cadeautjes meer ontvangen van je vrienden!" />
+		<text id="alert_giftboxfull_title" name="Geen plaats meer!" />
+		<text id="alert_guestchangepassword_copy" name="Je kunt je paswoord alleen veranderen als je een aangemelde speler bent!" />
+		<text id="alert_guestchangepassword_title" name="Meld je eerst aan" />
+		<text id="alert_guestcoop_copy" name="Je moet je eerst aanmelden als je Co-Ops wilt spelen!" />
+		<text id="alert_guestinvitefriend_copy" name="Je kunt alleen vrienden uitnodigen als je een aangemelde speler bent." />
+		<text id="alert_guestinvitefriend_title" name="Meld je eerst aan" />
+		<text id="alert_guestlogout_copy" name="Meld je aan om je score te bewaren!" />
+		<text id="alert_guestlogout_title" name="Aanmelden" />
+		<text id="alert_help_copy" name="Eerst moet je jezelf helpen..." />
+		<text id="alert_help_title" name="Help" />
+		<text id="alert_invitefriend_confirmed_copy" name="Je uitnodiging is verstuurd naar {0}!" />
+		<text id="alert_invitefriend_confirmed_title" name="Uitnodiging verstuurd!" />
+		<text id="alert_invitefriend_copy" name="Om een vriend uit te nodigen, moet je zijn/haar naam en E-Mailadres invoeren." />
+		<text id="alert_invitefriend_mail" name="E-Mailadres van je vriend(in):" />
+		<text id="alert_invitefriend_myname" name="Je naam:" />
+		<text id="alert_invitefriend_name" name="Naam van je vriend(in):" />
+		<text id="alert_invitefriend_title" name="Vrienden uitnodigen" />
+		<text id="alert_jobhelp_copy1" name="1. Neem de schotels van de toonbank \n2. Breng ze naar de wachtende klanten." />
+		<text id="alert_jobhelp_copy2" name="1. Ruim de borden op van de tafels (meerdere borden tegelijk kan ook) \n2. Breng ze naar de toonbank" />
+		<text id="alert_jobhelp_header1" name="Eten opdienen" />
+		<text id="alert_jobhelp_header2" name="De afwas doen" />
+		<text id="alert_jobhelp_title" name="Je taken" />
+		<text id="alert_jobrefill_copy" name="Je moet je eerst aanmelden als je wilt werken." />
+		<text id="alert_jobrefill_title" name="Aanmelden" />
+		<text id="alert_lostpassword_copy" name="Voer je E-Mailadres in en dan sturen we je je paswoord." />
+		<text id="alert_lostpassword_title" name="Paswoord vergeten?" />
+		<text id="alert_marketplace_jobcancled_copy" name="{0} heeft de job afgewezen." />
+		<text id="alert_marketplace_jobcancled_title" name="Job afgewezen" />
+		<text id="alert_marketplace_jobempty_copy" name="Je hebt al je job toestemmingen voor vandaag opgebruikt." />
+		<text id="alert_marketplace_jobempty_title" name="Geen job toestemmingen meer over!" />
+		<text id="alert_marketplace_jobhired_copy" name="{0} heeft de job aanvaard!" />
+		<text id="alert_marketplace_jobhired_title" name="Job aanvaard" />
+		<text id="alert_marketplace_job_copy" name="{0} (Level {1}) heeft je een job aangeboden. Wil je het werk aanvaarden?" />
+		<text id="alert_marketplace_job_title" name="Vacature!" />
+		<text id="alert_marketplace_noticeboard_copy" name="Laat anderen zien dat je op zoek bent naar werk. Als je dan toch al druk bezig bent, kun je hier ook je job toestemmingen bijvullen." />
+		<text id="alert_marketplace_noticeboard_title" name="Job toestemmingen" />
+		<text id="alert_marketplace_playerjobempty_copy" name="De speler heeft genoeg gewerkt voor vandaag." />
+		<text id="alert_marketplace_playerjobempty_title" name="Job afgewezen" />
+		<text id="alert_marketplace_playerleaved_copy" name="De speler heeft de markt verlaten." />
+		<text id="alert_marketplace_playerleaved_title" name="Oeps!" />
+		<text id="alert_nofreecounter_copy" name="Er is geen toonbank meer vrij." />
+		<text id="alert_nofreecounter_title" name="Oeps!" />
+		<text id="alert_nofridge_copy" name="Je hebt geen koelkast in je café. In het Customize menu kun je er een halen en naar je café slepen." />
+		<text id="alert_nofridge_title" name="Geen koelkast?!" />
+		<text id="alert_nojobpermission_copy" name="Je hebt job toestemmingen nodig als je een baan zoekt." />
+		<text id="alert_nojobpermission_title" name="Kijk uit!" />
+		<text id="alert_register_agb_copy" name="Je moet eerst de Algemene Voorwaarden lezen en accepteren! Bevestigen met de knop links en je bent klaar!" />
+		<text id="alert_register_email_copy" name="Het E-Mailadres mag niet leeg zijn of spaties bevatten." />
+		<text id="alert_register_password_copy" name="Je paswoord mag niet leeg zijn of speciale karakters bevatten." />
+		<text id="alert_register_title" name="Fout in aanmelding" />
+		<text id="alert_seekingjob_copy" name="Je moet je eerst aanmelden als je wilt werken." />
+		<text id="alert_seekingjob_title" name="Aanmelden" />
+		<text id="alert_selldeco_copy" name="Weet je zeker dat je het item wilt verkopen voor {0} per stuk?" />
+		<text id="alert_selldeco_title" name="Verkopen?" />
+		<text id="alert_sellitem_copy" name="Weet je zeker dat je het item wilt verkopen voor {0} per stuk?" />
+		<text id="alert_sellitem_title" name="Verkopen?" />
+		<text id="alert_smoothiemaker_full_copy" name="Er staan nog steeds drankjes in je Frosty! Waarom serveer je ze niet aan je klanten, dan kun je iets nieuws mixen!" />
+		<text id="alert_smoothiemaker_outofreach_copy" name="Je Frosty is niet beschikbaar. Waarom probeer je niet het een en ander te verplaatsen?" />
+		<text id="alert_smoothiemaker_storage_copy" name="Er staan nog een paar drankjes in je Frosty!  Als je ze opslaat in de opslagruimte, verlies je de overgebleven porties!" />
+		<text id="alert_stafffire_copy" name="Weet je zeker dat je je trouwe ober wilt ontslaan?" />
+		<text id="alert_stafffire_title" name="Ober ontslaan?" />
+		<text id="alert_staffhire_copy" name="Geef je ober een nieuwe naam." />
+		<text id="alert_staffhire_title" name="Huren" />
+		<text id="alert_storefull_copy" name="Je koelkast is vol! Verkoop ingrediënten om weer plaats te maken!" />
+		<text id="alert_storefull_title" name="Koelkast is vol!" />
+		<text id="alert_stove_outofreach_copy" name="Je kunt niet bij je fornuis. Probeer je café opnieuw in te richten." />
+		<text id="alert_stove_outofreach_title" name="Kijk uit!" />
+		<text id="alert_unlockitem_copy" name="Laat het ingrediënt leveren door de stads-koerier. Exclusiviteit is echter niet goedkoop." />
+		<text id="alert_unlockitem_title" name="Levering per koerier?" />
+		<text id="alert_userkicked_copy" name="Je werd uit het café gezet." />
+		<text id="alert_userkicked_title" name="Buiten gezet!" />
+		<text id="alert_workinghero_copy" name="De kok is nog steeds aan het werk!" />
+		<text id="alert_workinghero_title" name="Wacht!" />
+	</alerts>
+	<commons>
+		<text id="addgold" name="meer goud" />
+		<text id="buy" name="Kopen" />
+		<text id="cash" name="Cafédollar" />
+		<text id="comingsoon" name="*Komt binnenkort*" />
+		<text id="day" name="Dag" />
+		<text id="days" name="Dagen" />
+		<text id="friends" name="{0} vrienden" />
+		<text id="gold" name="Goud" />
+		<text id="hour" name="Uur" />
+		<text id="hours" name="Uren" />
+		<text id="level" name="Level" />
+		<text id="logout" name="Logout" />
+		<text id="mastery" name="Mastery-Level" />
+		<text id="minute" name="Minuut" />
+		<text id="minutes" name="Minuten" />
+		<text id="new" name="Nieuw!" />
+		<text id="second" name="Seconde" />
+		<text id="seconds" name="Seconden" />
+		<text id="sell" name="Verkopen" />
+		<text id="usable_character" name="bruikbare lettertekens" />
+		<text id="XofY" name="{0} van {1}" />
+		<text id="xp" name="XP" />
+	</commons>
+	<cookstep>
+		<text id="cookstep_bananasplit1" name="IJs invriezen" />
+		<text id="cookstep_bananasplit2" name="Banaan snijden" />
+		<text id="cookstep_brigadeiro1" name="Melting chocolate" />
+		<text id="cookstep_brigadeiro2" name="Shaping brigadeiros" />
+		<text id="cookstep_blackforestcherrycake1" name="Ingrediënten mengen" />
+		<text id="cookstep_blackforestcherrycake2" name="Cake bakken" />
+		<text id="cookstep_pizzasalad1" name="Making pizzas" />
+		<text id="cookstep_pizzasalad2" name="Making salads" />
+		<text id="cookstep_tripleomelette1" name="Mixing eggs strongly" />
+		<text id="cookstep_tripleomelette2" name="Folding everything" />
+		<text id="cookstep_chocolatewaffles1" name="Melting chocolate" />
+		<text id="cookstep_chocolatewaffles2" name="Covering waffles" />
+		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
+		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
+		<text id="cookstep_sausagepasta1" name="Boiling pasta" />
+		<text id="cookstep_sausagepasta2" name="Frying sausages" />
+		<text id="cookstep_applepie1" name="Building pies" />
+		<text id="cookstep_applepie2" name="Baking pies" />
+		<text id="cookstep_ramen1" name="Boiling pasta" />
+		<text id="cookstep_ramen2" name="Adding spices" />
+		<text id="cookstep_corncake1" name="Mixing ingredients" />
+		<text id="cookstep_corncake2" name="Baking cakes" />
+		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
+		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
+		<text id="cookstep_cheeseburger1" name="Gehakt aanbakken" />
+		<text id="cookstep_cheeseburger2" name="Hamburger samenstellen" />
+		<text id="cookstep_cheesedish1" name="Kaas opdienen" />
+		<text id="cookstep_cheesedish2" name="Kaas laten rijpen" />
+		<text id="cookstep_cheesefondue1" name="Brood bakken" />
+		<text id="cookstep_cheesefondue2" name="Kaas opwarmen" />
+		<text id="cookstep_cherriecake1" name="Ingrediënten mengen" />
+		<text id="cookstep_cherriecake2" name="Cake bakken" />
+		<text id="cookstep_cherrycompote1" name="Kersen stoven" />
+		<text id="cookstep_cherrycompote2" name="Kersen laten afkoelen" />
+		<text id="cookstep_chickenburger1" name="Kip bakken" />
+		<text id="cookstep_chickenburger2" name="Burger beleggen" />
+		<text id="cookstep_chickensalad1" name="Kip braden" />
+		<text id="cookstep_chickensalad2" name="Salade samenstellen" />
+		<text id="cookstep_chickensoup1" name="Spek bakken" />
+		<text id="cookstep_chickensoup2" name="Soep koken" />
+		<text id="cookstep_chiliconcarne1" name="Vlees bakken" />
+		<text id="cookstep_chiliconcarne2" name="Chili koken" />
+		<text id="cookstep_chocmousse1" name="Ingrediënten mengen" />
+		<text id="cookstep_chocmousse2" name="Mousse laten koelen" />
+		<text id="cookstep_chocolatecake1" name="Ingrediënten mengen" />
+		<text id="cookstep_chocolatecake2" name="Bakken" />
+		<text id="cookstep_chocolatecheesecake1" name="Chocolade smelten" />
+		<text id="cookstep_chocolatecheesecake2" name="Cake bakken" />
+		<text id="cookstep_chocolatefondue1" name="Chocolade smelten" />
+		<text id="cookstep_chocolatefondue2" name="Room toevoegen" />
+		<text id="cookstep_christmasturkey1" name="Groenten smoren" />
+		<text id="cookstep_christmasturkey2" name="Kalkoen braden" />
+		<text id="cookstep_cookieplate1" name="Vormpjes uitsnijden" />
+		<text id="cookstep_cookieplate2" name="Koekjes bakken" />
+		<text id="cookstep_cornonthecob1" name="Mais koken" />
+		<text id="cookstep_cornonthecob2" name="Salade samenstellen" />
+		<text id="cookstep_curry1" name="Ingrediënten aanbakken" />
+		<text id="cookstep_curry2" name="Kokos toevoegen" />
+		<text id="cookstep_duckalorange1" name="Eend vullen" />
+		<text id="cookstep_duckalorange2" name="Eend braden" />
+		<text id="cookstep_easterdish1" name="Chocolade smelten" />
+		<text id="cookstep_easterdish2" name="Eieren koken" />
+		<text id="cookstep_englishbreakfast1" name="Bonen koken" />
+		<text id="cookstep_englishbreakfast2" name="Worstjes aanbakken" />
+		<text id="cookstep_fishandchips1" name="Friet bakken" />
+		<text id="cookstep_fishandchips2" name="Vis bakken" />
+		<text id="cookstep_friedpotatoes1" name="Aardappels koken" />
+		<text id="cookstep_friedpotatoes2" name="Aardappels aanbakken" />
+		<text id="cookstep_fruitpudding1" name="Deeg laten rusten" />
+		<text id="cookstep_fruitpudding2" name="Bakken" />
+		<text id="cookstep_fruitsalad1" name="Fruit snijden" />
+		<text id="cookstep_fruitsalad2" name="Dressing toevoegen" />
+		<text id="cookstep_greensalad1" name="Dressing mixen" />
+		<text id="cookstep_greensalad2" name="Salade marineren" />
+		<text id="cookstep_gumbo1" name="Uitjes smoren" />
+		<text id="cookstep_gumbo2" name="Rijst toevoegen" />
+		<text id="cookstep_hamburger1" name="Burger bakken" />
+		<text id="cookstep_hamburger2" name="Hamburger samenstellen" />
+		<text id="cookstep_hotcherrywaffles1" name="Kersen stoven" />
+		<text id="cookstep_hotcherrywaffles2" name="Wafels bakken" />
+		<text id="cookstep_jamspongepudding1" name="Ingrediënten mengen" />
+		<text id="cookstep_jamspongepudding2" name="Bakken" />
+		<text id="cookstep_lasagne1" name="Gehakt aanbakken" />
+		<text id="cookstep_lasagne2" name="Lasagne bakken" />
+		<text id="cookstep_macncheese1" name="Braadpan vullen" />
+		<text id="cookstep_macncheese2" name="Bakken" />
+		<text id="cookstep_maplepancakes1" name="Deeg mixen" />
+		<text id="cookstep_maplepancakes2" name="Pannenkoeken bakken" />
+		<text id="cookstep_marblecake1" name="Cakevorm vullen" />
+		<text id="cookstep_marblecake2" name="Bakken" />
+		<text id="cookstep_mexicansalad1" name="Bonen koken" />
+		<text id="cookstep_mexicansalad2" name="Ingrediënten mengen" />
+		<text id="cookstep_minestrone1" name="Groenten smoren" />
+		<text id="cookstep_minestrone2" name="Pasta toevoegen" />
+		<text id="cookstep_mixedsalad1" name="Dressing roeren" />
+		<text id="cookstep_mixedsalad2" name="Salade marineren" />
+		<text id="cookstep_nasigoreng1" name="Kip koken" />
+		<text id="cookstep_nasigoreng2" name="Groenten smoren" />
+		<text id="cookstep_newyorkcheesecake1" name="Vulling mengen" />
+		<text id="cookstep_newyorkcheesecake2" name="Cake bakken" />
+		<text id="cookstep_noodlesalad1" name="Mayonaise maken" />
+		<text id="cookstep_noodlesalad2" name="Ingrediënten mengen" />
+		<text id="cookstep_omelette1" name="Eieren kruiden" />
+		<text id="cookstep_omelette2" name="Eieren dichtvouwen" />
+		<text id="cookstep_onionsoup1" name="Uitjes fruiten" />
+		<text id="cookstep_onionsoup2" name="Gratineren" />
+		<text id="cookstep_peasoup1" name="Uitjes fruiten" />
+		<text id="cookstep_peasoup2" name="Soep koken" />
+		<text id="cookstep_pizza1" name="Pizza garneren" />
+		<text id="cookstep_pizza2" name="Pizza bakken" />
+		<text id="cookstep_pizzahawaii1" name="Pizza beleggen" />
+		<text id="cookstep_pizzahawaii2" name="Pizza bakken" />
+		<text id="cookstep_pizzatonno1" name="Pizza beleggen" />
+		<text id="cookstep_pizzatonno2" name="Pizza bakken" />
+		<text id="cookstep_porkroastwithcrackling1" name="Vlees kruiden" />
+		<text id="cookstep_porkroastwithcrackling2" name="Braden" />
+		<text id="cookstep_potatosalad1" name="Aardappels koken" />
+		<text id="cookstep_potatosalad2" name="Mayonaise maken" />
+		<text id="cookstep_redberrycompote1" name="Fruit stoven" />
+		<text id="cookstep_redberrycompote2" name="Zoeter maken" />
+		<text id="cookstep_ricepudding1" name="Rijst koken" />
+		<text id="cookstep_ricepudding2" name="Appelmoes maken" />
+		<text id="cookstep_roastchicken1" name="Kip vullen" />
+		<text id="cookstep_roastchicken2" name="Braden" />
+		<text id="cookstep_sandwich1" name="Boter op brood doen" />
+		<text id="cookstep_sandwich2" name="Toast beleggen" />
+		<text id="cookstep_scouse1" name="Vlees klaarmaken" />
+		<text id="cookstep_scouse2" name="Bieten toevoegen" />
+		<text id="cookstep_spagetti1" name="Gehakt aanbakken" />
+		<text id="cookstep_spagetti2" name="Saus koken" />
+		<text id="cookstep_spareribs1" name="Vlees marineren" />
+		<text id="cookstep_spareribs2" name="Vlees aanbakken" />
+		<text id="cookstep_steak1" name="Vlees aanbakken" />
+		<text id="cookstep_steak2" name="Salade samenstellen" />
+		<text id="cookstep_steakkidneypie1" name="Vulling koken" />
+		<text id="cookstep_steakkidneypie2" name="Bakken" />
+		<text id="cookstep_stew1" name="Vlees aanbakken" />
+		<text id="cookstep_stew2" name="Stoven" />
+		<text id="cookstep_stewedrhubarb1" name="Rabarber koken" />
+		<text id="cookstep_stewedrhubarb2" name="Rabarber koken" />
+		<text id="cookstep_strawberrycake1" name="Bakken" />
+		<text id="cookstep_strawberrycake2" name="Ingrediënten mengen" />
+		<text id="cookstep_strawberrymousse1" name="Aardbeien fijnmalen" />
+		<text id="cookstep_strawberrymousse2" name="Mousse stijfkloppen" />
+		<text id="cookstep_stuffedpeppers1" name="Paprika&apos;s vullen" />
+		<text id="cookstep_stuffedpeppers2" name="Paprika&apos;s bakken" />
+		<text id="cookstep_sundayfeast1" name="Vlees marineren" />
+		<text id="cookstep_sundayfeast2" name="Vlees aanbakken" />
+		<text id="cookstep_sushi1" name="Sushi vullen" />
+		<text id="cookstep_sushi2" name="Oprollen" />
+		<text id="cookstep_toadinhole1" name="Deeg mixen" />
+		<text id="cookstep_toadinhole2" name="Bakken" />
+		<text id="cookstep_toast1" name="Toast garneren" />
+		<text id="cookstep_toast2" name="Toast bakken" />
+		<text id="cookstep_tofuburger1" name="Tofu burger bakken" />
+		<text id="cookstep_tofuburger2" name="Burger beleggen" />
+		<text id="cookstep_tomatosoup1" name="Uitjes fruiten" />
+		<text id="cookstep_tomatosoup2" name="Tomaten koken" />
+		<text id="cookstep_trifle1" name="Pudding koken" />
+		<text id="cookstep_trifle2" name="Laagjes Trifle maken" />
+		<text id="cookstep_veganstirfry1" name="Groenten smoren" />
+		<text id="cookstep_veganstirfry2" name="Rijst koken" />
+		<text id="cookstep_vegetablesoup1" name="Uitjes fruiten" />
+		<text id="cookstep_vegetablesoup2" name="Soep koken" />
+		<text id="cookstep_veggiecurry1" name="Rijst koken" />
+		<text id="cookstep_veggiecurry2" name="Curry Stoofpotje" />
+		<text id="cookstep_veggielasagne1" name="Plakjes lasagne-deeg opstapelen" />
+		<text id="cookstep_veggielasagne2" name="Lasagne bakken" />
+		<text id="cookstep_whitechoccheesecake1" name="Ingrediënten mengen" />
+		<text id="cookstep_whitechoccheesecake2" name="Cake bakken" />
+		<text id="cookstep_whitechocmousse1" name="chocolade smelten" />
+		<text id="cookstep_whitechocmousse2" name="Mousse laten afkoelen" />
+		<text id="cookstep_coxinha1" name="Mixing ingredients" />
+		<text id="cookstep_coxinha2" name="Frying coxinhas" />
+	</cookstep>
+	<coopmission>
+		<text id="coop_desc_long_1" name="We hebben een kook-klasje opgericht om onze schotels nog lekkerder te kunnen maken. Wil je ook meedoen?" />
+		<text id="coop_desc_long_10" name="Je familie komt langs voor de kerstdagen en jij bent degene die het kerstmenu gaat klaarmaken. Ik hoop dat het smaakt!" />
+		<text id="coop_desc_long_11" name="Er is een cake-gevecht georganiseerd en we hebben cake nodig! Bak alsjeblieft zoveel mogelijk cakes..." />
+		<text id="coop_desc_long_12" name="De stedelijke soepkeuken heeft een tekort aan soepen. Kun jij een aantal soepen klaarmaken die iedereen lust?" />
+		<text id="coop_desc_long_13" name="Voor een Aziatisch themafeest hebben we nieuwe typisch Aziatische gerechten nodig. Heb jij nog recepten voor ons?" />
+		<text id="coop_desc_long_14" name="De nationale bouw-conferentie gaat van start en we hebben een aantal machtige gerechten nodig. Heb jij iets voor echte mannen?" />
+		<text id="coop_desc_long_15" name="Er komen binnenkort klanten uit Londen en ze willen graag fatsoenlijke Britse maaltijden eten. Kun jij iets klaarmaken?" />
+		<text id="coop_desc_long_2" name="Ik ben een feestje aan het plannen met een Mexicaans thema. Ik heb nog steeds typisch Mexicaans eten nodig. Kun jij me helpen?" />
+		<text id="coop_desc_long_3" name="Een sportclub uit Hamburg komt op bezoek en ik wil ervoor zorgen dat ze zich lekker thuis voelen. Ik heb iemand nodig die typisch eten uit Hamburg kan klaarmaken. Heb jij daar zin in?" />
+		<text id="coop_desc_long_4" name="Ik ben een tuinfeestje aan het plannen met heel veel mensen. Ik heb dus heel erg veel eten nodig. Ik heb gehoord dat jij een echte catering expert bent. Kun je me helpen?" />
+		<text id="coop_desc_long_5" name="Het ski park organiseert een gigantische Aprés ski party en ze hebben dus heel veel lekker eten nodig. Kun je hen helpen?" />
+		<text id="coop_desc_long_6" name="Mijn baas komt vanavond langs en ik wil echt indruk op hem maken met een heerlijk viergangenmenu... Kun jij daar voor zorgen?" />
+		<text id="coop_desc_long_7" name="Er was een brand uitgebroken in de schoolkantine en de kinderen hebben nu niks te eten! Kun jij ons helpen door iets lekkers klaar te maken?" />
+		<text id="coop_desc_long_8" name="Mijn beste vriendin organiseert een supergroot verjaardagsfeest en ik ben vergeten om eten te bestellen. Er komen ontzettend veel mensen... Kun jij ons helpen?" />
+		<text id="coop_desc_long_9" name="De stad heeft een feest georganiseerd met een Italiaans thema. Het enige wat nog ontbreekt, is het eten. Hoe staat het met jouw kookkunsten?" />
+		<text id="coop_desc_short_1" name="Word spaghetti expert!" />
+		<text id="coop_desc_short_10" name="Eet totdat je knopen op springen staan!" />
+		<text id="coop_desc_short_11" name="Elke hit telt!" />
+		<text id="coop_desc_short_12" name="Er is niets zo heerlijk als soep!" />
+		<text id="coop_desc_short_13" name="Voeg altijd een beetje rijst toe!" />
+		<text id="coop_desc_short_14" name="Vlees en aardappelen - daar houden we van!" />
+		<text id="coop_desc_short_15" name="Al het beste voor de Britten!" />
+		<text id="coop_desc_short_2" name="Fiesta Mexicana op zijn best!" />
+		<text id="coop_desc_short_3" name="Labskaus voor mijn gasten uit Hamburg!" />
+		<text id="coop_desc_short_4" name="Toast voor de tuin party!" />
+		<text id="coop_desc_short_5" name="Chocolade naar de kaas-berg dragen!" />
+		<text id="coop_desc_short_6" name="Chocolademousse op zijn best!" />
+		<text id="coop_desc_short_7" name="De smaakpapillen een lesje leren!" />
+		<text id="coop_desc_short_8" name="Bak pizza en co. voor een verjaardagsfeestje!" />
+		<text id="coop_desc_short_9" name="Pizza! Pasta! Basta!" />
+		<text id="coop_title_1" name="KOOK-KLASJE" />
+		<text id="coop_title_10" name="KERST IS HIER!" />
+		<text id="coop_title_11" name="CAKE GEVECHT!" />
+		<text id="coop_title_12" name="DE SOEP-KASPER" />
+		<text id="coop_title_13" name="ALL ASIAN" />
+		<text id="coop_title_14" name="HET WORDT MACHTIG!" />
+		<text id="coop_title_15" name="HEEL BRITS!" />
+		<text id="coop_title_2" name="MEXICAANSE AVOND" />
+		<text id="coop_title_3" name="HAMBURGSE AVOND" />
+		<text id="coop_title_4" name="TUIN PARTY" />
+		<text id="coop_title_5" name="APRÉS SKI" />
+		<text id="coop_title_6" name="DINNER PARTY" />
+		<text id="coop_title_7" name="SCHOOLKANTINE IN VUUR EN VLAM" />
+		<text id="coop_title_8" name="VERJAARDAGSFEESTJE" />
+		<text id="coop_title_9" name="ITALIAANS BUFFET" />
+	</coopmission>
+	<dialogs>
+		<text id="dialogwin_achievement_title" name="Prestaties" />
+		<text id="dialogwin_avatarcreate_man" />
+		<text id="dialogwin_avatarcreate_random" name="Verander uiterlijk" />
+		<text id="dialogwin_avatarcreate_txt_avatar_name" name="Naam:" />
+		<text id="dialogwin_avatarcreate_txt_avatar_title" name="Creëer je speelfiguur" />
+		<text id="dialogwin_avatarcreate_woman" />
+		<text id="dialogwin_avatarnameselect_copy" name="Deze naam is al in gebruik. Andere opties:" />
+		<text id="dialogwin_avatarnameselect_title" name="Oeps!" />
+		<text id="dialogwin_avatar_btn_random" name="Toeval" />
+		<text id="dialogwin_bonus_copy_achievement" name="Je hebt level {0} van deze prestatie bereikt! Gefeliciteerd!" />
+		<text id="dialogwin_bonus_copy_counter" name="Je kunt nu een extra toonbank kopen." />
+		<text id="dialogwin_bonus_copy_dish" name="Er zijn nu nieuwe recepten beschikbaar voor je:" />
+		<text id="dialogwin_bonus_copy_expand" name="Je hebt je Café uitgebreid! Nu heb je meer ruimte voor je gasten, decoraties en nog veel meer!" />
+		<text id="dialogwin_bonus_copy_fridge" name="Je kunt nu een extra koelkast kopen." />
+		<text id="dialogwin_bonus_copy_instant" name="Nog 1 &apos;Instant Koken&apos;. Slechts een klik en je gerecht is klaar om opgediend te worden." />
+		<text id="dialogwin_bonus_copy_level2" name="Bekijk het eens! Je kunt je café ook uitbreiden om meer ruimte te hebben voor je gasten!" />
+		<text id="dialogwin_bonus_copy_login" name="Dit is allemaal gebeurd terwijl je weg was:" />
+		<text id="dialogwin_bonus_copy_newwaiter" name="Je hebt nu een nieuw personeelslid! Kom maar op met die klanten!" />
+		<text id="dialogwin_bonus_copy_stove" name="Je kunt nu een extra fornuis kopen." />
+		<text id="dialogwin_bonus_copy_waiter" name="Je kunt nu een extra ober inhuren." />
+		<text id="dialogwin_bonus_title_achievement" name="Nieuwe prestatie" />
+		<text id="dialogwin_bonus_title_counter" name="Nieuwe toonbank" />
+		<text id="dialogwin_bonus_title_dish" name="Nieuwe recepten" />
+		<text id="dialogwin_bonus_title_expand" name="Hoera!" />
+		<text id="dialogwin_bonus_title_fridge" name="Nieuwe koelkast" />
+		<text id="dialogwin_bonus_title_instant" name="Vaker instant koken" />
+		<text id="dialogwin_bonus_title_level2" name="Uitbreiden!" />
+		<text id="dialogwin_bonus_title_login" name="Je bent er weer!" />
+		<text id="dialogwin_bonus_title_newwaiter" name="Gefeliciteerd" />
+		<text id="dialogwin_bonus_title_stove" name="Nieuw fornuis" />
+		<text id="dialogwin_bonus_title_waiter" name="Meer personeel" />
+		<text id="dialogwin_buytile_copy" name="Wil je {0} tegels kopen voor {1}?" />
+		<text id="dialogwin_buytile_title" name="Tegels kopen?" />
+		<text id="dialogwin_changepassword_copy_newpass" name="Nieuw paswoord:" />
+		<text id="dialogwin_changepassword_copy_oldpass" name="Oude paswoord:" />
+		<text id="dialogwin_changepassword_title" name="Paswoord veranderen" />
+		<text id="dialogwin_clearcounter_cancelButton" name="Bewaren" />
+		<text id="dialogwin_clearcounter_okButton" name="Weggooien" />
+		<text id="dialogwin_clearcounter_title" name="Via deze toonbank wordt een schotel opgediend. Wat wil je er mee doen?" />
+		<text id="dialogwin_clearstove_btn_cancel" name="Bewaren" />
+		<text id="dialogwin_clearstove_btn_ok" name="Weggooien" />
+		<text id="dialogwin_clearstove_copy" name="Je kunt nog {0} keer &apos;Instant Koken&apos;" />
+		<text id="dialogwin_clearstove_title" name="Op dit fornuis wordt een gerecht klaargemaakt. Wat wil je er mee doen?" />
+		<text id="dialogwin_cookbook_income" name="{0} per portie" />
+		<text id="dialogwin_cookbook_readyin" name="Klaar in: {0}" />
+		<text id="dialogwin_cookbook_servings" name="Porties: {0}" />
+		<text id="dialogwin_coopextend_nomoney" name="Je hebt niet genoeg geld om deze Co-Op te verlengen!" />
+		<text id="dialogwin_coopreward_finish_0" name="Goud" />
+		<text id="dialogwin_coopreward_finish_1" name="Zilver" />
+		<text id="dialogwin_coopreward_finish_2" name="Brons" />
+		<text id="dialogwin_coopreward_title_fail" name="Co-Op niet bereikt!" />
+		<text id="dialogwin_coopreward_title_success" name="Co-Op uitgevoerd met {0}" />
+		<text id="dialogwin_coopshelp_copy" name="Hier kun je kook-werkzaamheden samen met je vrienden volbrengen en zo extra XP en Cafédollars verdienen.\nHoe sneller je bent, hoe hoger je beloning!\n\nAls je tijd te kort komt, kun je altijd extra tijd inzetten!\n\nMaar vergeet niet, je kunt de beloning alleen ontvangen als je mee hebt geholpen!" />
+		<text id="dialogwin_coopshelp_title" name="Wat zijn Co-Ops?" />
+		<text id="dialogwin_coop_btn_action" name="Gegevens" />
+		<text id="dialogwin_coop_btn_activecoops" name="ACTIEVE CO-OPS" />
+		<text id="dialogwin_coop_btn_join" name="Meedoen" />
+		<text id="dialogwin_coop_btn_newcoop" name="START CO-OP" />
+		<text id="dialogwin_coop_btn_quit" name="Weggaan" />
+		<text id="dialogwin_coop_extendtime_copy" name="Wil je de Co-Op verlengen voor {0} goud! Gold time: {1} uur Silver time: {2} uren Bronze time: {3} uren" />
+		<text id="dialogwin_coop_extendtime_title" name="Extra Tijd?" />
+		<text id="dialogwin_coop_maxdone" name="Je bent vandaag al begonnen met een co-op! Morgen kun je weer met een nieuwe starten!" />
+		<text id="dialogwin_coop_maxuser" name="Max. deelnemers: {0}" />
+		<text id="dialogwin_coop_member" name="Co-Op Lid:" />
+		<text id="dialogwin_coop_minlevel" name="Min. level om mee te doen in Co-Op: {0}" />
+		<text id="dialogwin_coop_quit_copy" name="Weet je zeker dat je wilt weggaan bij deze Co-Op?" />
+		<text id="dialogwin_coop_subtitle" name="Je moet het volgende eten klaarmaken:" />
+		<text id="dialogwin_coop_timeInfo" name="Klaar in:" />
+		<text id="dialogwin_coop_timeleft" name="Resterende tijd:" />
+		<text id="dialogwin_coop_txt_noactive" name="Er zijn op dit moment geen actieve Co-Ops. \n Waarom begin je er niet een?!" />
+		<text id="dialogwin_coop_txt_title" name="CO-OPS" />
+		<text id="dialogwin_decoshophelp_copy" name="Als je je meubels en decoraties naar dit paneel sleept en niet naar de kassa, worden ze bewaard. Je kunt ze opnieuw gebruiken door ze terug naar je café te slepen. Dit kost je niets. Het nummer van het item is zichtbaar op de rode sticker die er aan vast hangt." />
+		<text id="dialogwin_decoshophelp_copy_1" name="Meubels en decoraties hebben een luxe waarde. Allemaal opgeteld bepaald dit de luxe waarde van je café! Hoe luxueus is jouw café?" />
+		<text id="dialogwin_decoshophelp_title" name="Decoraties opslaan?" />
+		<text id="dialogwin_decoshophelp_title_1" name="Luxe waarde?" />
+		<text id="dialogwin_dishmastery_copy_0" name="Je hebt een ster verdiend voor {0}!" />
+		<text id="dialogwin_dishmastery_copy_1" name="Deel wat extra porties met je vrienden!" />
+		<text id="dialogwin_dishmastery_info" name="Elke mastery die je verdient, maakt je schotels lekkerder!" />
+		<text id="dialogwin_dishmastery_title" name="Een nieuwe Mastery!" />
+		<text id="dialogwin_fancycooking_title" name="Wil je dit gerecht kruiden met {0}?" />
+		<text id="dialogwin_featureUnlocked_coop" name="Start samen met je vrienden een Co-Op!" />
+		<text id="dialogwin_featureUnlocked_decoration" name="Je hebt nu toegang tot nieuwe decoratie thema&apos;s!" />
+		<text id="dialogwin_featureUnlocked_fancy" name="Geef je gerechten wat extra&apos;s met de luxe ingrediënten!" />
+		<text id="dialogwin_featureUnlocked_frosty" name="Ontdek de Frosty en zorg dat je klanten geen dorst meer hebben." />
+		<text id="dialogwin_featureUnlocked_marketplace" name="Vind nieuwe vrienden op de marktplaats!" />
+		<text id="dialogwin_featureUnlocked_muffinman" name="Test je geluk met de Muffin Man!" />
+		<text id="dialogwin_featureUnlocked_ranking" name="Bezoek andere spelers via de ranglijsten!" />
+		<text id="dialogwin_featureUnlocked_staff" name="Huur een nieuwe ober in om extra veel klanten te kunnen bedienen!" />
+		<text id="dialogwin_featureUnlocked_wheeloffortune" name="Test je geluk bij het Rad van Fortuin!" />
+		<text id="dialogwin_FriendShop_copy" name="Je hebt nog steeds {0} netwerk vrienden nodig om je te helpen je café uit te breiden!\nMaar je kunt ook een klusjesman inschakelen voor {1} goud!" />
+		<text id="dialogwin_FriendShop_title" name="Nieuwe vrienden" />
+		<text id="dialogwin_giftbox_close" name="sluiten" />
+		<text id="dialogwin_giftbox_friendlist_empty" name="Je kunt je netwerk-vrienden 1 cadeau per dag sturen." />
+		<text id="dialogwin_giftbox_friendlist_notavailable" name="Vanaf morgen kun je cadeautjes naar je vrienden sturen!" />
+		<text id="dialogwin_giftbox_ggsgifts_empty" name="Geen cadeaus! Met de login bonus kun je nieuwe cadeaus ontvangen!" />
+		<text id="dialogwin_giftbox_mygifts_empty" name="Je hebt vandaag geen cadeaus ontvangen. Stuur wat cadeaus naar je vrienden, misschien sturen ze dan ook wat terug." />
+		<text id="dialogwin_giftbox_remove" name="weggooien" />
+		<text id="dialogwin_giftbox_send" name="sturen" />
+		<text id="dialogwin_giftbox_sendablegifts_empty" name="Geen cadeaus vandaag." />
+		<text id="dialogwin_giftbox_title" name="Cadeaus!" />
+		<text id="dialogwin_giftbox_use" name="gebruiken" />
+		<text id="dialogwin_highscore_luxury" name="Luxe" />
+		<text id="dialogwin_highscore_name" name="Naam" />
+		<text id="dialogwin_highscore_rank" name="Rangschikking" />
+		<text id="dialogwin_highscore_searchtext" name="Zoek Naam/Rangschikking" />
+		<text id="dialogwin_highscore_title" name="Rangschikking" />
+		<text id="dialogwin_ingamehelp_1_1" name="Hoe kook ik een gerecht?" />
+		<text id="dialogwin_ingamehelp_1_2" name="Gebruik het fornuis om gerechten te bereiden voor je gasten. Om dat te doen, moet je een recept kiezen en gaan koken door verschillende keren te klikken." />
+		<text id="dialogwin_ingamehelp_1_3" name="Je vindt een overzicht van alle recepten en de nodige ingrediënten in het kookboek." />
+		<text id="dialogwin_ingamehelp_1_4" name="Je vindt de benodigde ingrediënten voor je recept in de ingrediënten winkel." />
+		<text id="dialogwin_ingamehelp_1_5" name="Als je alle ingrediënten verzameld hebt, kun je op koken klikken en een gerecht klaarmaken." />
+		<text id="dialogwin_ingamehelp_1_6" name="Een gerecht is klaar na een vooropgestelde tijd. Je kunt het dan op de toonbank zetten om op te dienen." />
+		<text id="dialogwin_ingamehelp_1_7" name="Een gebruikte kookplaat is smerig en moet gepoetst worden voordat je hem weer gebruikt." />
+		<text id="dialogwin_ingamehelp_2_1" name="Wat moet ik weten over je ingrediënten?" />
+		<text id="dialogwin_ingamehelp_2_2" name="Dit is waar je de ingrediënten opslaat die je gekocht hebt. Elke koelkast heeft beperkte ruimte. Maar het is altijd verstandig om een beetje op voorraad te hebben." />
+		<text id="dialogwin_ingamehelp_2_3" name="Luxe ingrediënten zorgen voor een beetje extra in je gerechten. Als je ze gebruikt, ontvang je meer porties en XP. Ze nemen ook geen plaats in beslag in de koeling." />
+		<text id="dialogwin_ingamehelp_2_4" name="Soms zijn sommige ingrediënten niet verkrijgbaar. De koerier kan je hiermee helpen. Voor een kleine fooi heb je altijd alles wat je nodig hebt." />
+		<text id="dialogwin_ingamehelp_2_5" name="Deze ingrediënten zijn altijd verkrijgbaar:" />
+		<text id="dialogwin_ingamehelp_3_1" name="Waarde en Co." />
+		<text id="dialogwin_ingamehelp_3_2" name="Je ontvangt ervaringspunten door gerechten op de dienen. Andere opties zijn: opdienen in andere cafés, succesvolle Co=Ops, beloningen of het opdienen van drankjes." />
+		<text id="dialogwin_ingamehelp_3_3" name="Je populariteit bepaalt hoeveel klanten jou bezoeken. Je populariteit stijgt als je klanten tevreden weer vertrekken. Maar als je klanten niet tevreden zijn, kan je populariteit ook zakken. Klanten zijn tevreden als ze iets te eten krijgen." />
+		<text id="dialogwin_ingamehelp_3_4" name="Je verdient Cafédollars door maaltijden te verkopen. Andere opties zijn: werken als een ober, succesvolle Co-Ops en prestaties." />
+		<text id="dialogwin_ingamehelp_3_5" name="Elk item in het renovatie menu heeft een luxe waarde. Dit heeft invloed op je populariteit. Hoe luxueuzer, hoe beter..." />
+		<text id="dialogwin_ingamehelp_3_6" name="Je vindt fornuizen, toonbanken, tafels en andere meubelstukken in het renovatie menu. Wees creatief!" />
+		<text id="dialogwin_ingamehelp_3_7" name="Als je café te klein wordt, heb je de optie om uit te breiden en plaats te maken voor je gasten." />
+		<text id="dialogwin_ingamehelp_4_1" name="Wat moet ik nog meer weten?" />
+		<text id="dialogwin_ingamehelp_4_2" name="Je kunt andere spelers leren kennen, naar werk zoeken of gewoon chatten met andere spelers op de marktplaats." />
+		<text id="dialogwin_ingamehelp_4_3" name="Je krijgt beloningen voor allerlei soorten acties en ze zijn ook een bijkomende bron voor XP en Cafédollars." />
+		<text id="dialogwin_ingamehelp_4_4" name="Door de marktplaats te gebruiken, kun je andere spelers inhuren als personeel of je kunt zelf personeel worden voor een andere speler." />
+		<text id="dialogwin_ingamehelp_4_5" name="Een Co-Op is een collectief kookproject dat je met andere spelers kunt spelen. Er is een beloning als je succesvol bent." />
+		<text id="dialogwin_ingamehelp_4_6" name="Je obers hebben de klaargemaakte gerechten opgediend aan je wachtende klanten en ze hebben ook de tafels afgeruimd." />
+		<text id="dialogwin_ingamehelp_4_7" name="Klaargemaakte schotels die niet op tijd op de toonbank gezet worden, zullen bederven." />
+		<text id="dialogwin_ingamehelp_ingredients" name="Ingrediënten" />
+		<text id="dialogwin_ingredient_all" name="Alle" />
+		<text id="dialogwin_ingredient_emptyfridge" name="Je koelkast is leeg! Als je iets wilt koken, moet je eerst ingrediënten kopen in de shop." />
+		<text id="dialogwin_ingredient_fancy" name="Speciale ingrediënten" />
+		<text id="dialogwin_ingredient_fruits" name="Fruit" />
+		<text id="dialogwin_ingredient_instore" name="x voorraadkast" />
+		<text id="dialogwin_ingredient_meat" name="Vlees" />
+		<text id="dialogwin_ingredient_notinstock" name="Niet op voorraad vandaag!" />
+		<text id="dialogwin_ingredient_shoplayer" name="Ingrediënten Shop" />
+		<text id="dialogwin_ingredient_storecapacity" name="Capaciteit:" />
+		<text id="dialogwin_ingredient_storeinused" name="In je koelkast:" />
+		<text id="dialogwin_ingredient_storelayer" name="Koelkast" />
+		<text id="dialogwin_ingredient_vegatable" name="Vegetarisch" />
+		<text id="dialogwin_instantcooking_copy" name="Wil je Instant Cooking toepassen?  Nog {0} keer mogelijk!" />
+		<text id="dialogwin_instantcooking_title" name="Wil je &apos;Instant Koken&apos; toepassen?" />
+		<text id="dialogwin_jobpaycheck_copy" name="Hardwerkende obers worden goed beloond! Bovenop je fooi heb je ook ervaring opgedaan." />
+		<text id="dialogwin_jobpaycheck_title" name="Rekening" />
+		<text id="dialogwin_levelup_copy" name="Je hebt level {0} bereikt!" />
+		<text id="dialogwin_levelup_copy_1" name="Je beloning:" />
+		<text id="dialogwin_levelup_copy_2" name="Voor jou geactiveerd:" />
+		<text id="dialogwin_levelup_title" name="LEVEL UP" />
+		<text id="dialogwin_lonelyingredient_copy" name="Je ober vond een doos met een mysterieus ingrediënt! \n\nGeef het aan je vrienden!" />
+		<text id="dialogwin_lonelyingredient_title" name="Verrassing!" />
+		<text id="dialogwin_lonelytip_copy" name="Een van je gasten heeft een gigantische fooi achtergelaten!   Geef je vrienden ook wat!" />
+		<text id="dialogwin_lonelytip_title" name="Hoera!" />
+		<text id="dialogwin_muffinman_beforebet" name="Kies je inzet. Als je wint, krijg je het dubbele terug!" />
+		<text id="dialogwin_muffinman_btn_again" name="Opnieuw!" />
+		<text id="dialogwin_muffinman_btn_go" name="Ga!" />
+		<text id="dialogwin_muffinman_header" name="Zoek de vulling!" />
+		<text id="dialogwin_muffinman_lostbet" name="Oh, je kunt niet altijd winnen. Wil je het nog eens proberen?" />
+		<text id="dialogwin_muffinman_nomoney" name="Je hebt niet genoeg Cafédollars/Goud om in te zetten." />
+		<text id="dialogwin_muffinman_nopayment" name="Als je voor Goud wilt spelen, moet je level 10 bereikt hebben!" />
+		<text id="dialogwin_muffinman_noregister" name="Je kunt &quot;zoek de vulling&quot; alleen spelen als je een geregistreerd speler bent!" />
+		<text id="dialogwin_muffinman_nosale" name="Je kunt je muffin-bakker niet verkopen!" />
+		<text id="dialogwin_muffinman_onlyonebuy" name="Je kunt maar één muffin-bakker in je café plaatsen!" />
+		<text id="dialogwin_muffinman_placedbet" name="Heel goed! In welke muffins zit de vulling verstopt?" />
+		<text id="dialogwin_muffinman_toohighbet" name="Zoveel kun je niet inleggen! Je maximum inleg is {0} Goud en {1} Cafédollars!" />
+		<text id="dialogwin_muffinman_wonbet" name="Yumm! Je hebt de vulling gevonden! Probeer het nog eens een keer." />
+		<text id="dialogwin_nomoney_avatarchange" name="Je hebt niet genoeg Goud om van kleding te veranderen!" />
+		<text id="dialogwin_nomoney_clean_copy" name="Je hebt niet genoeg Cafédollars om je fornuis schoon te maken" />
+		<text id="dialogwin_nomoney_copy" name="Oeps, je hebt niet genoeg Cafédollars/Goud om dit item te kopen!" />
+		<text id="dialogwin_nomoney_courier" name="Oeps, je hebt niet genoeg Cafédollars/Goud om de koerier te betalen!" />
+		<text id="dialogwin_nomoney_instantcook_copy" name="Je hebt niet genoeg Goud om instant koken toe te passen." />
+		<text id="dialogwin_nomoney_moregold" name="Cafédollar/Goud kopen" />
+		<text id="dialogwin_nomoney_npchire" name="Je hebt niet genoeg goud om een nieuwe ober in te huren!" />
+		<text id="dialogwin_nomoney_ok" name="OK" />
+		<text id="dialogwin_nomoney_title" name="Niet genoeg Cafédollars/Goud" />
+		<text id="dialogwin_noreward_copy" name="Een andere speler heeft de beloning al weggekaapt!" />
+		<text id="dialogwin_noreward_title" name="Jammer!" />
+		<text id="dialogwin_perfectdish_copy" name="Je hebt je {0} vervolmaakt! \n\nGeef je vrienden wat extra porties!" />
+		<text id="dialogwin_perfectdish_title" name="Perfect!" />
+		<text id="dialogwin_presentreceived_copy" name="Je welkomst geschenk van {0} is op je rekening bijgeschreven." />
+		<text id="dialogwin_presentreceived_title" name="Cadeau ontvangen!" />
+		<text id="dialogwin_presentreminder_btn_send" name="Versturen" />
+		<text id="dialogwin_presentreminder_copy1" name="Klik gewoon op de goud link in de e-mail en ontvang {0} goud!" />
+		<text id="dialogwin_presentreminder_copy2" name="Ja, stuur nu {0} naar mijn e-mail adres:" />
+		<text id="dialogwin_presentreminder_title" name="{0} goud voor jou!" />
+		<text id="dialogwin_receiveitem_copy" name="Je beloning zit in je geschenkdoos!" />
+		<text id="dialogwin_receiveitem_title" name="Hoera!" />
+		<text id="dialogwin_receivemoney_copy" name="Je beloning wordt bijgeschreven!" />
+		<text id="dialogwin_receivemoney_title" name="Gefeliciteerd!" />
+		<text id="dialogwin_refreshfood_btn_clean" name="Poetsen" />
+		<text id="dialogwin_refreshfood_btn_refresh" name="Eten bewaren" />
+		<text id="dialogwin_refreshfood_title" name="Wil je je gerecht bewaren?" />
+		<text id="dialogwin_register_agbs" name="Algemene Voorwaarden\ngeaccepteerd" />
+		<text id="dialogwin_register_mail" name="E-Mail" />
+		<text id="dialogwin_register_password" name="Paswoord" />
+		<text id="dialogwin_register_title" name="Aanmelden" />
+		<text id="dialogwin_sendgift_send" name="Sturen" />
+		<text id="dialogwin_sendgift_titel" name="Stuur naar..." />
+		<text id="dialogwin_settings_email" name="Blokkeer de ontvangst van e-mails" />
+		<text id="dialogwin_settings_general" name="Algemeen" />
+		<text id="dialogwin_settings_high" name="Hoog" />
+		<text id="dialogwin_settings_low" name="Laag" />
+		<text id="dialogwin_settings_medium" name="Medium" />
+		<text id="dialogwin_settings_quality" name="Kwaliteit" />
+		<text id="dialogwin_shippingconfirmation_copy1" name="Klik op de link in de e-mail om het goud te innen." />
+		<text id="dialogwin_shippingconfirmation_copy2" name="Heb je de e-mail nog niet ontvangen? Het kan een aantal minuten duren. Als je het tegen dan ook niet in de junkfolder kunt vinden, kan ons support team je verder helpen." />
+		<text id="dialogwin_shippingconfirmation_title" name="Goud e-mail is onderweg!" />
+		<text id="dialogwin_smoothiemakerhelp_copy" name="Hier kun je drankjes mixen en ze serveren aan je klanten. Kies een drankje en klik &apos;mix&apos;.  Klik gewoon op een &apos;dorstige&apos; klant voordat ze gaan zitten om een drankje te serveren. De &apos;dorstige&apos; klanten herken je aan een icoon dat boven hun hoofd hangt." />
+		<text id="dialogwin_smoothiemakerhelp_title" name="Hoe verkoop ik drankjes?" />
+		<text id="dialogwin_smoothiemaker_allserved_copy" name="Je hebt alle porties opgediend! Wacht tot de Frosty leeg is om nieuwe drankjes te maken!" />
+		<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="Naar de Shop" />
+		<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Je moet een Frosty kopen om drankjes te kunnen serveren!" />
+		<text id="dialogwin_smoothiemaker_nomoney_copy" name="Je hebt niet genoeg Cafédollars/Goud om dit drankje te mixen!" />
+		<text id="dialogwin_smoothiemaker_noservings_copy" name="Je hebt geen drankjes meer over! Mix iets nieuws!" />
+		<text id="dialogwin_smoothiemaker_onlyonebuy" name="Je kunt maar één Frosty in je café plaatsen!" />
+		<text id="dialogwin_smoothiemaker_txt_title" name="FROSTY" />
+		<text id="dialogwin_staffmanagement_btn_fire" name="Ontslaan" />
+		<text id="dialogwin_staffmanagement_favorite" name="Taak?" />
+		<text id="dialogwin_staffmanagement_favorite0" name="Opruimen?" />
+		<text id="dialogwin_staffmanagement_favorite100" name="Opdienen" />
+		<text id="dialogwin_staffmanagement_fire" name="Ontslaan?" />
+		<text id="dialogwin_staffmanagement_renamecopy" name="Geef je ober een nieuwe naam:" />
+		<text id="dialogwin_staffmanagement_renametitle" name="Nieuwe naam geven?" />
+		<text id="dialogwin_staff_hire" name="Huren" />
+		<text id="dialogwin_staff_management" name="Managen" />
+		<text id="dialogwin_staff_new" name="Nieuwe ober" />
+		<text id="dialogwin_staff_title" name="Je obers" />
+		<text id="dialogwin_welcomeback_text" name="Je ontvangt als geschenk: {0} Goud" />
+		<text id="dialogwin_welcomeback_text2" name="Je ontvangt als geschenk: {0} Goud en 3 coole luxe ingrediënten." />
+		<text id="dialogwin_welcomeback_text3" name="" />
+		<text id="dialogwin_welcomeback_title" name="Welkom terug {0}!" />
+		<text id="dialogwin_wheeloffortune_beforespin" name="Draai aan het Rad van Fortuin en win leuke prijzen!" />
+		<text id="dialogwin_wheeloffortune_btn_go" name="Draai!" />
+		<text id="dialogwin_wheeloffortune_btn_towheel" name="Naar het rad" />
+		<text id="dialogwin_wheeloffortune_copy1" name="Heb je al eens aan het Rad van Fortuin gedraaid?" />
+		<text id="dialogwin_wheeloffortune_header" name="RAD VAN FORTUIN!" />
+		<text id="dialogwin_wheeloffortune_info" name="De eerste draai is gratis!" />
+		<text id="dialogwin_wheeloffortune_info1" name="Elke volgende draai kost je een Goud!" />
+		<text id="dialogwin_wheeloffortune_nomoney" name="Je hebt niet genoeg Goud om aan het Rad van Fortuin te draaien!" />
+		<text id="dialogwin_wheeloffortune_noregister" name="Alleen als geregistreerd gebruiker kun je aan het Rad van Fortuin draaien!" />
+		<text id="dialogwin_wheeloffortune_nospace" name="Je hebt geen plek meer om je prijzen op te slaan! Maak wat plaats en dan kun je weer aan het Rad van Fortuin draaien!" />
+		<text id="dialogwin_wheeloffortune_title" name="Het Rad van Fortuin!" />
+		<text id="dialogwin_wheeloffortune_tryagain" name="Probeer het nog een keer!" />
+		<text id="dialogwin_wheeloffortune_wonbet" name="Gefeliciteerd! Jouw prijs:" />
+		<text id="dialogwin_wheeloffortune_woncash" name="Gefeliciteerd! Je prijs is al uitgekeerd!" />
+		<text id="dialogwin_wheeloffortune_wonfood" name="Gefeliciteerd! Je kunt je prijs vinden in je geschenkdoos!" />
+		<text id="dialogwin_wheeloffortune_wongold" name="Je won de pot met Goud!" />
+		<text id="dialogwin_wheeloffortune_wonitem" name="Gefeliciteerd! Je kunt je prijs terugvinden in je inventaris!" />
+	</dialogs>
+	<error_codes>
+		<text id="achievement_error" name="Prestatie" />
+		<text id="achievement_errorcode_1" name="Foutmelding" />
+		<text id="cafechat_errorcode_23" name="De administrator heeft jouw chatfunctie tijdelijk stilgelegd." />
+		<text id="cafechat_errorcode_24" name="Geen spam op de chat a.u.b.!" />
+		<text id="cafewalk_errorcode_1" name="Kijk uit!" />
+		<text id="cafewalk_errorcode_23" name="Hier kun je niet heen gaan." />
+		<text id="cafe_error" name="Kijk uit!" />
+		<text id="changepassword_error" name="Verander paswoord" />
+		<text id="changepassword_errorcode_0" name="Je paswoord is met succes veranderd!" />
+		<text id="changepassword_errorcode_1" name="Foutmelding" />
+		<text id="changepassword_errorcode_10" name="Sorry, maar dit is niet je oude paswoord." />
+		<text id="coop_errorcode_3" name="Jouw level is te laag om mee te doen in deze Co-Op. \nJe moet minstens 1 recept unlocken." />
+		<text id="coop_errorcode_7" name="Je kunt alleen mee doen in deze Co-op tot level: {0}" />
+		<text id="coop_errorcode_85" name="Deze Co-Op is al vol." />
+		<text id="courier_error" name="Problemen met levering" />
+		<text id="courier_errorcode_40" name="Je opslagplaats is niet groot genoeg!" />
+		<text id="courier_errorcode_42" name="Het ingrediënt is nu verkrijgbaar in de gewone winkel. Ga eens kijken!" />
+		<text id="courier_errorcode_43" name="De koerier is overstelpt met werk en kan je bestelling niet aannemen." />
+		<text id="createavatar_error" name="Kijk uit!" />
+		<text id="createavatar_errorcode_12" name="Deze naam is al in gebruik." />
+		<text id="createavatar_errorcode_15" name="Deze speler heeft al een avatar" />
+		<text id="createavatar_errorcode_18" name="Incorrecte naam." />
+		<text id="createavatar_error_invalide" name="Je gebruikersnaam mag niet leeg zijn of speciale karakters bevatten." />
+		<text id="createavatar_error_nogender" name="Kies je speelfiguur!" />
+		<text id="editbuy_errorcode_1" name="Kijk uit!" />
+		<text id="editbuy_errorcode_3" name="Je hebt nog niet het level bereikt om dit item te kunnen vrijmaken." />
+		<text id="editbuy_errorcode_38" name="Je kunt je café alleen veranderen in het Customize menu." />
+		<text id="editbuy_errorcode_39" name="De opstelling is niet geldig. Sleep het item naar een beschikbare plaats in je Café." />
+		<text id="editextend_errorcode_1" name="Kijk uit!" />
+		<text id="editextend_errorcode_38" name="Je kunt je café alleen veranderen in het Customize menu." />
+		<text id="editextend_errorcode_53" name="Je hebt deze uitbreiding al gekocht" />
+		<text id="editextend_errorcode_54" name="Je kunt deze uitbreiding nog niet kopen." />
+		<text id="editmode_errorcode_1" name="Kijk uit!" />
+		<text id="editmoveobj_errorcode_1" name="Kijk uit!" />
+		<text id="editmoveobj_errorcode_38" name="Je kunt je café alleen veranderen in het Customize menu." />
+		<text id="editmoveobj_errorcode_39" name="De opstelling is niet geldig. Sleep het item naar een beschikbare plaats in je Café." />
+		<text id="editrotateobj_errorcode_1" name="Kijk uit!" />
+		<text id="editrotateobj_errorcode_38" name="Je kunt je café alleen veranderen in het Customize menu." />
+		<text id="editrotateobj_errorcode_39" name="De opstelling is niet geldig. Sleep het item naar een beschikbare plaats in je Café." />
+		<text id="editsell_errorcode_1" name="Kijk uit!" />
+		<text id="editsell_errorcode_32" name="Item niet beschikbaar in je opslagplaats." />
+		<text id="editsell_errorcode_38" name="Je kunt je café alleen veranderen in het Customize menu." />
+		<text id="editsell_errorcode_39" name="De opstelling is niet geldig. Sleep het item naar een beschikbare plaats in je Café." />
+		<text id="editstoreobj_errorcode_1" name="Kijk uit!" />
+		<text id="editstoreobj_errorcode_37" name="bezet" />
+		<text id="editstoreobj_errorcode_38" name="Je kunt je café alleen veranderen in het Customize menu." />
+		<text id="editstoreobj_errorcode_39" name="De opstelling is niet geldig. Sleep het item naar een beschikbare plaats in je Café." />
+		<text id="editstoreobj_errorcode_51" name="Dit veld is leeg, eer valt niets te verkopen." />
+		<text id="editstoreobj_removefailmin_counter" name="Je moet minstens één toonbank hebben." />
+		<text id="editstoreobj_removefailmin_fridge" name="Je moet minstens één koelkast hebben." />
+		<text id="editstoreobj_removefailmin_stove" name="Je moet minstens één fornuis hebben." />
+		<text id="editstoreobj_removefailmin_title" name="Kijk uit!" />
+		<text id="editstoreobj_removefail_counter" name="De toonbank moet leeg zijn" />
+		<text id="editstoreobj_removefail_door" name="Je moet minstens één deur houden." />
+		<text id="editstoreobj_removefail_fridge" name="Je hebt teveel ingrediënten" />
+		<text id="editstoreobj_removefail_stove" name="Het fornuis moet leeg zijn" />
+		<text id="editstoreobj_removefail_title" name="Kijk uit!" />
+		<text id="edit_error" name="Kijk uit!" />
+		<text id="error" name="Foutmelding" />
+		<text id="fullscreenerror_msg_copy" name="Fullscreen is niet mogelijk" />
+		<text id="fullscreenerror_msg_title" name="Fullscreen:" />
+		<text id="gift_error" name="Niet mogelijk!" />
+		<text id="gift_errorcode_20" name="Je hebt geen extra toonbank om dit gerecht op te dienen." />
+		<text id="gift_errorcode_40" name="Je hebt geen ruimte in je koelkast om dit ingrediënt te bewaren." />
+		<text id="gift_errorcode_5" name="Deze handeling kan niet verricht worden. Het cadeau is onbekend." />
+		<text id="invitefriend_error" name="Het uitnodigen van een vriend(in) is mislukt" />
+		<text id="invitefriend_errorcode_13" name="Deze speler is al aangemeld!" />
+		<text id="invitefriend_errorcode_14" name="E-Mailadres is niet geldig!" />
+		<text id="jobrefill_error" name="No way!" />
+		<text id="jobrefill_errorcode_1" name="De job toestemmingen zijn momenteel uitverkocht." />
+		<text id="jobrefill_errorcode_61" name="Je kunt je job toestemmingen maar 1 keer per dag bijvullen." />
+		<text id="joincafe_error" name="Niet mogelijk!" />
+		<text id="joincafe_errorcode_20" name="Privé feestje! Er is geen plaats voor meer mensen." />
+		<text id="joincafe_errorcode_21" name="Je bent al op bezoek in het café!" />
+		<text id="joincafe_errorcode_22" name="Dit café bestaat niet!" />
+		<text id="level_error" name="Het café is buiten gebruik. Contacteer Goodgame Studios Support Team." />
+		<text id="level_errorcode_1" name="Je café kan niet geopend worden. Contacteer Goodgame Studios Support Team." />
+		<text id="login_error" name="Kijk uit!" />
+		<text id="login_errorcode_1" name="Foutmelding" />
+		<text id="login_errorcode_12" name="Speler is al aangemeld." />
+		<text id="login_errorcode_13" name="Speler is al aangemeld." />
+		<text id="login_errorcode_14" name="Spelersnaam of paswoord is fout!" />
+		<text id="login_errorcode_15" name="Je bent ingelogd." />
+		<text id="login_errorcode_16" name="Je avatar is niet in orde. Contacteer het Goodgame Studios Support Team." />
+		<text id="login_errorcode_wronglogin" name="Gebruikersnaam of paswoord is fout!" />
+		<text id="lostpassword_error" name="Kijk uit!" />
+		<text id="lostpassword_errorcode_1" name="Foutmelding" />
+		<text id="lostpassword_errorcode_11" name="Niemand is aangemeld met dit adres." />
+		<text id="marketplace_error" name="Markt" />
+		<text id="marketplace_errorcode_20" name="De markt is vol. Kom later nog eens terug." />
+		<text id="marketplace_errorcode_21" name="Je bent al op de markt" />
+		<text id="npcfire_errorcode_1" name="Het was niet mogelijk om je ober te ontslaan." />
+		<text id="npchire_errorcode_1" name="Het was niet mogelijk om een nieuwe ober in te huren." />
+		<text id="npcrename_errorcode_12" name="Naam is niet geldig!" />
+		<text id="npc_error" name="Kijk uit!" />
+		<text id="register_error" name="Aanmelding mislukt" />
+		<text id="register_errorcode_1" name="Foutmelding" />
+		<text id="register_errorcode_10" name="Het E-mail adres dat je gegeven hebt, is niet juist." />
+		<text id="register_errorcode_13" name="Een andere speler heeft zich al aangemeld met dit E-Mailadres, sorry." />
+		<text id="register_errorcode_14" name="Het E-Mailadres dat je hebt ingevoerd, is niet correct." />
+		<text id="server_msg_10" name="De server wordt gereset. Dit duurt eventjes.  Log alsjeblieft uit." />
+		<text id="server_msg_title" name="Server boodschap:" />
+		<text id="shopbuy_error" name="Geen ruimte!" />
+		<text id="shopbuy_errorcode_40" name="Je koelkast is al vol!" />
+		<text id="shopdelete_errorcode_41" name="Item niet verkrijgbaar" />
+		<text id="smoothiemaker_error_alreadyserved" name="Deze gast wordt al bediend!" />
+		<text id="useraction_error" name="Kijk uit!" />
+		<text id="useraction_errorcode_2" name="Laten we er mee ophouden voor vandaag! Genoeg gewerkt!" />
+		<text id="useraction_errorcode_62" name="Je moet eerst een schotel van de toonbank halen." />
+		<text id="useraction_errorcode_63" name="Voordat je gaat opruimen, moet je eerst de schotel serveren of terugbrengen naar de toonbank." />
+		<text id="versioncheck_error" name="Oude versie!" />
+		<text id="versioncheck_errorcode_1" name="Vernieuw de pagina." />
+		<text id="waiter_name_invalide" name="Deze naam kun je niet gebruiken voor je ober" />
+	</error_codes>
+	<feature>
+		<text id="featureDialog_0_text_0" name="Nieuwe decoraties om je Café nog meer te customizen!" />
+		<text id="featureDialog_0_text_0_sozial" name="Ontvang speciale beloningen voor je harde werk!" />
+		<text id="featureDialog_0_text_1" name="Ontvang extra XP, Cafédollars of Goud voor je harde werk!" />
+		<text id="featureDialog_0_text_1_sozial" name="Nieuwe decoraties in je shop!" />
+		<text id="featureDialog_0_text_2" name="Ontdek wie er nog allemaal Café spelen!" />
+		<text id="featureDialog_0_text_2_sozial" name="Ontdek wie er nog allemaal Café spelen!" />
+		<text id="featureDialog_10_text_0" name="Meer ruimte nodig voor je klanten en je decoraties? Maak die ruimte met de nieuwe uitbreidingen!" />
+		<text id="featureDialog_11_text_0" name="Nieuwe spannende Co-Ops voor jou en je vrienden!" />
+		<text id="featureDialog_16_text_0" name="Wat een genoegen! Geniet nu van je café met geluid!" />
+		<text id="featureDialog_16_text_1" name="Word een taartenbakker met ons nieuwe taart-bak-thema!" />
+		<text id="featureDialog_17_text_0" name="Fijne kerstdagen! Bouw je eigen Santa&apos;s workshop en profiteer van de nieuwe kerstmis decoratie items!" />
+		<text id="featureDialog_18_text_0" name="De Kerst-geest is hier en brengt je nieuwe Kerst gerechten en nieuwe Co-Ops!" />
+		<text id="featureDialog_19_text_0" name="Boost je rangorde en maak jouw café het mooiste van de stad door de luxe waarde van je meubels en decoraties te gebruiken!" />
+		<text id="featureDialog_1_text_0" name="Ontvang speciale beloningen voor je harde werk!" />
+		<text id="featureDialog_1_text_1" name="Nieuwe decoraties in je shop!" />
+		<text id="featureDialog_1_text_2" name="Ontdek wie er nog allemaal Café spelen!" />
+		<text id="featureDialog_20_text_0" name="Zorg ervoor dat jouw schotels de beste zijn met Masteries!" />
+		<text id="featureDialog_20_text_1" name="Laatste kans voor Kerst maaltijden en Winter decoraties!\nNog maar 1 week!" />
+		<text id="featureDialog_21_text_0" name="Verbaas je klanten met nieuwe en smakelijke gerechten!" />
+		<text id="featureDialog_22_text_0" name="Nieuwe prestaties wachten op je zodat je nog succesvoller kunt worden!" />
+		<text id="featureDialog_23_text_0" name="Samen koken is veel leuker! De nieuwe Co-Ops wachten op je!" />
+		<text id="featureDialog_24_text_0" name="De paashaas heeft iets voor je achtergelaten in je café!\nKijk maar eens naar de nieuwe Paasdecoraties!" />
+		<text id="featureDialog_24_text_1" name="Nog nooit was gevogelte zo in trek!!\nOntdek de nieuwe Duck à l&apos;Orange!" />
+		<text id="featureDialog_25_text_0" name="Hoeveel geluk heb je? Test je geluk bij de Muffin bakker!" />
+		<text id="featureDialog_26_text_0" name="Hoeveel geluk heb je? Draai aan het Rad van Fortuin op de markt!" />
+		<text id="featureDialog_27_text_0" name="Boost je populariteit met het nieuwe suikerspin machine! Verkrijgbaar bij het Rad van Fortuin!" />
+		<text id="featureDialog_28_text_0" name="ALLEEN VANDAAG! Dit is je laatste kans om aan het rad te draaien en de suikerspin machine te winnen!" />
+		<text id="featureDialog_29_text_0" name="Vanaf nu kun je de kleding van je speelfiguur veranderen wanneer je wilt!" />
+		<text id="featureDialog_2_text_0" name="Ontmoet andere spelers en chat met ze!" />
+		<text id="featureDialog_2_text_1" name="Nieuwe items in diner-thema!" />
+		<text id="featureDialog_2_text_2" name="Breid je café nog verder uit!" />
+		<text id="featureDialog_30_text_0" name="Meer ruimte in je koelkast! Je luxe ingrediënten nemen niet langer plaats in beslag in je koelkast. Je kunt er dus zoveel opslaan als je wilt." />
+		<text id="featureDialog_30_text_1" name="Vanaf nu kun je Cafédollars gebruiken om uitbreidingen te kopen!" />
+		<text id="featureDialog_31_text_0" name="Meer ruimte in je koelkast! Vanaf nu beïnvloeden de luxe ingrediënten niet langer de capaciteit van je koelkast. Je kunt er dus zoveel van opslaan als je wilt." />
+		<text id="featureDialog_31_text_1" name="Vanaf nu ontvang je gratis uitbreidingen zolang je genoeg vrienden hebt." />
+		<text id="featureDialog_32_text_0" name="Hebben je klanten dorst? Zorg voor een Frosty en je kunt hen meteen verfrissen!" />
+		<text id="featureDialog_33_text_0" name="Ontdek de omelet!  Een nieuwe en snelle schotel in je kookboek!" />
+		<text id="featureDialog_3_text_0" name="Verdien extra cafédollars en XP als ober in andere cafés!" />
+		<text id="featureDialog_3_text_1" name="Verrukkelijke nieuwe recepten die je klanten versteld zullen doen staan!" />
+		<text id="featureDialog_4_text_0" name="Ontmoet nieuwe vrienden op de markt en voeg ze toe!" />
+		<text id="featureDialog_4_text_1" name="Nieuwe Diner decoraties om je café nog leuker in te richten!" />
+		<text id="featureDialog_5_text_0" name="Verhoog het inkomen en XP van je gerechten door de NIEUWE Luxe Ingrediënten te gebruiken!" />
+		<text id="featureDialog_6_text_0" name="Verstuur en ontvang cadeaus van je vrienden met de NIEUWE geschenkdoos!" />
+		<text id="featureDialog_6_text_1" name="Verhoog het inkomen en XP van je gerechten door de NIEUWE Luxe Ingrediënten te gebruiken!" />
+		<text id="featureDialog_7_text_0" name="Kom maar op met de cowboys en cowgirls en laat ze wat zien met de NIEUWE Saloon items!" />
+		<text id="featureDialog_8_text_0" name="Nieuwe adembenemende schotels die je klanten versteld zullen doen staan!" />
+		<text id="featureDialog_9_text_0" name="Kom erachter hoe groot de concurrentie is in de nieuwe rangschikking!" />
+		<text id="featureDialog_9_text_1" name="Een team bestaat uit meerdere mensen! Daag jezelf en vrienden uit met de NIEUWE Co-Ops!" />
+		<text id="featureDialog_9_text_2" name="Met de NIEUWE Halloween decoratie kun je je klanten keihard doen schrikken!" />
+		<text id="featureDialog_title" name="Nieuwe Eigenschappen" />
+		<text id="limitedfeatureDialog_12_copy_0" name="Koop nu Halloween decoratie! \nNu nog maar beperkte tijd verkrijgbaar!" />
+		<text id="limitedfeatureDialog_12_copy_1" name="NOG 4 DAGEN!" />
+		<text id="limitedfeatureDialog_13_copy_0" name="Koop nu Halloween decoratie! \nNu nog maar beperkte tijd verkrijgbaar!" />
+		<text id="limitedfeatureDialog_13_copy_1" name="NOG 3 DAGEN!" />
+		<text id="limitedfeatureDialog_14_copy_0" name="Koop nu Halloween decoratie! \nNu nog maar beperkte tijd verkrijgbaar!" />
+		<text id="limitedfeatureDialog_14_copy_1" name="NOG 2 DAGEN!" />
+		<text id="limitedfeatureDialog_15_copy_0" name="Koop nu Halloween decoratie! \nNu nog maar beperkte tijd verkrijgbaar!" />
+		<text id="limitedfeatureDialog_15_copy_1" name="ENKEL VANDAAG NOG!" />
+		<text id="limitedfeatureDialog_2_copy_0" name="Koop nu je Halloween decoratie!\nNog maar een paar dagen mogelijk!" />
+		<text id="limitedfeatureDialog_3_copy_0" name="De winter komt ten einde! Binnenkort zijn de winterdecoraties niet meer verkrijgbaar!" />
+		<text id="limitedfeatureDialog_5_copy_0" name="Koop je Paasdecoraties!  Slechts beperkte tijd mogelijk!" />
+		<text id="limitedfeatureDialog_time" name="{0} resterende dagen!" />
+		<text id="limitedfeatureDialog_time_single" name="Laatste dag!" />
+		<text id="limitedfeatureDialog_title" name="OPGEPAST!" />
+	</feature>
+	<feeds>
+		<text id="descriptionfeedcafe" name="Ik heb Goodgame Café net geïnstalleerd. Wil jij ook je eigen Café openen en heerlijke maaltijden bereiden? Kom eens langs!" />
+		<text id="descriptionlongcafe" name="Goodgame Café is een gloednieuwe titel van Goodgame Studios. Open je eigen Café en verbaas je klanten met je kookkunsten. Huur je vrienden in en begin met het inkopen van ingrediënten! Beslis wat er vandaag op het menu komt te staan en laat je eigen zaak groeien. Jouw Café zal het meest populaire plekje van de stad worden!" />
+	</feeds>
+	<ingame_tooltips>
+		<text id="fridgetooltip_line1" name="Koelkast" />
+		<text id="fridgetooltip_line2" name="Klik om te openen" />
+		<text id="muffinmantooltip_line1" name="Muffin bakker" />
+		<text id="muffinmantooltip_line2" name="Klik om te spelen!" />
+		<text id="player_action" name="Handelingen:" />
+		<text id="player_working" name="Werktijd" />
+		<text id="preparestep_cleaning" name="Fornuis schoonmaken" />
+		<text id="preparestep_serving" name="Gerecht opdienen" />
+		<text id="smoothiemaker_line1" name="Frosty" />
+		<text id="smoothiemaker_line2" name="Klik om te mixen!" />
+		<text id="stovetooltip_clean1" name="Smerig fornuis" />
+		<text id="stovetooltip_clean2" name="Klik om schoon te maken" />
+		<text id="stovetooltip_empty1" name="Lege toonbank" />
+		<text id="stovetooltip_empty2" name="iets koken" />
+		<text id="stovetooltip_free" name="Klik om te koken" />
+		<text id="stovetooltip_full1" name="Klaar om op te dienen:" />
+		<text id="stovetooltip_full2" name="Porties" />
+		<text id="stovetooltip_prepare1" name="Klik om te:" />
+		<text id="stovetooltip_ready1" name="tot de schotel is bedorven" />
+		<text id="stovetooltip_ready2" name="Klik om op te dienen" />
+		<text id="stovetooltip_spoiled1" name="Bedorven" />
+		<text id="stovetooltip_spoiled2" name="Klik om schoon te maken" />
+		<text id="wheeloffortunetooltip_line1" name="Rad van Fortuin!" />
+		<text id="wheeloffortunetooltip_line2" name="Klik om te spelen!" />
+		<text id="wheeloffortunetooltip_line3" name="De eerste draai is gratis" />
+	</ingame_tooltips>
+	<ingredients>
+		<text id="ingredient_cookfest" name="Event Ingredients" />
+		<text id="ingredient_apple" name="Appels" />
+		<text id="ingredient_bacon" name="Spek" />
+		<text id="ingredient_bakingmix" name="Deeg mix" />
+		<text id="ingredient_ballpepper" name="Paprika&apos;s" />
+		<text id="ingredient_banana" name="Bananen" />
+		<text id="ingredient_basil" name="Basilicum" />
+		<text id="ingredient_beans" name="Bonen" />
+		<text id="ingredient_beetroot" name="Rode bieten" />
+		<text id="ingredient_butter" name="Boter" />
+		<text id="ingredient_carrots" name="Wortels" />
+		<text id="ingredient_cheese" name="Kaas" />
+		<text id="ingredient_cherries" name="Kersen" />
+		<text id="ingredient_chicken" name="Kip" />
+		<text id="ingredient_chili" name="Chili" />
+		<text id="ingredient_chocolate" name="Chocolade" />
+		<text id="ingredient_cinnamon" name="Kaneel" />
+		<text id="ingredient_cocktailcherry" name="Cocktail Cherry" />
+		<text id="ingredient_coconut" name="Kokosnoten" />
+		<text id="ingredient_cookies" name="Koekjes" />
+		<text id="ingredient_coriander" name="Koriander" />
+		<text id="ingredient_cream" name="Slagroom" />
+		<text id="ingredient_cucumber" name="Augurken" />
+		<text id="ingredient_curryspice" name="Curry" />
+		<text id="ingredient_duck" name="Eend" />
+		<text id="ingredient_eggplant" name="Aubergine" />
+		<text id="ingredient_eggs" name="Eieren" />
+		<text id="ingredient_fish" name="Vis" />
+		<text id="ingredient_flour" name="Bloem" />
+		<text id="ingredient_garlic" name="Knoflook" />
+		<text id="ingredient_horseradish" name="Mierikswortel" />
+		<text id="ingredient_kidney" name="Niertjes" />
+		<text id="ingredient_lettuce" name="Sla" />
+		<text id="ingredient_maplesyrup" name="Ahornsiroop" />
+		<text id="ingredient_meat" name="Vlees" />
+		<text id="ingredient_milk" name="Melk" />
+		<text id="ingredient_mincemeat" name="Gehakt" />
+		<text id="ingredient_nutmeg" name="Nootmuskaat" />
+		<text id="ingredient_oil" name="Olie" />
+		<text id="ingredient_onion" name="Uien" />
+		<text id="ingredient_orange" name="Sinaasappels" />
+		<text id="ingredient_parsley" name="Peterselie" />
+		<text id="ingredient_pasta" name="Pasta" />
+		<text id="ingredient_peas" name="Erwten" />
+		<text id="ingredient_pinapple" name="Ananassen" />
+		<text id="ingredient_potato" name="Aardappelen" />
+		<text id="ingredient_quark" name="Kwark" />
+		<text id="ingredient_rhubarb" name="Rabarber" />
+		<text id="ingredient_rice" name="Rijst" />
+		<text id="ingredient_rosemary" name="Rozemarijn" />
+		<text id="ingredient_sausages" name="Worstjes" />
+		<text id="ingredient_spicemix" name="Kruidenmix" />
+		<text id="ingredient_strawberry" name="Aardbeien" />
+		<text id="ingredient_sugar" name="Suiker" />
+		<text id="ingredient_sweetcorn" name="Mais" />
+		<text id="ingredient_tofu" name="Tofu" />
+		<text id="ingredient_tomato" name="Tomaten" />
+		<text id="ingredient_turkeymix" name="Kalkoen mix" />
+		<text id="ingredient_vanilla" name="Vanille" />
+		<text id="ingredient_vegiemix" name="Groentenmix" />
+		<text id="ingredient_whitechocolat" name="Witte chocolade" />
+	</ingredients>
+	<loggedin_msg id="" />
+	<panels>
+		<text id="panelwin_buddy_btn_morefriends" name="Meer vrienden!" />
+		<text id="panelwin_deco_dragtip_copy" name="Om dit object te kunnen gebruiken, moet je het naar je café slepen." />
+		<text id="panelwin_deco_dragtip_title" name="Let op" />
+		<text id="panelwin_deco_nomore_expansion" name="Er zijn nog geen verdere uitbreidingen beschikbaar." />
+		<text id="panelwin_deco_objectcount_counter" name="Je moet level {0} bereiken om een extra toonbank te kunnen kopen. Of je kunt je oude toonbank hierheen slepen en een nieuwe kopen." />
+		<text id="panelwin_deco_objectcount_fridge" name="Je moet level {0} bereiken om een extra koelkast te kunnen kopen. Of je kunt je oude koelkast hierheen slepen en een nieuwe kopen." />
+		<text id="panelwin_deco_objectcount_nomore_counter" name="Op dit moment kun je geen extra toonbanken meer kopen!" />
+		<text id="panelwin_deco_objectcount_nomore_fridge" name="Op dit moment kun je geen extra koelkasten meer kopen!" />
+		<text id="panelwin_deco_objectcount_nomore_stove" name="Op dit moment kun je geen extra fornuizen meer kopen!" />
+		<text id="panelwin_deco_objectcount_stove" name="Je moet level {0} bereiken om een extra fornuis te kunnen kopen. Of je kunt je oude fornuis hierheen slepen en een nieuwe kopen." />
+		<text id="panelwin_login_email" name="Gebruikersnaam / E-Mail" />
+		<text id="panelwin_login_login" name="LOGIN" />
+		<text id="panelwin_login_lostpassword" name="Paswoord vergeten?" />
+		<text id="panelwin_login_password" name="Paswoord" />
+		<text id="panelwin_login_play" name="NU SPELEN" />
+		<text id="panelwin_login_register" name="AANMELDEN" />
+		<text id="panelwin_login_rememberpassword" name="Paswoord bewaren" />
+		<text id="panelwin_name_cafe" name="CAFÉ" />
+		<text id="panelwin_social_bot" name="Café-chat" />
+		<text id="panelwin_social_comein" name="is het café binnengekomen" />
+		<text id="panelwin_social_comeinmarketplace" name="is op de markt aangekomen" />
+		<text id="panelwin_social_goout" name="heeft het café verlaten" />
+		<text id="panelwin_social_gooutmarketplace" name="heeft de markt verlaten" />
+		<text id="panelwin_social_noingamefriends" name="Je hebt nog geen vrienden!" />
+		<text id="panelwin_social_noplayerincafe" name="Op dit moment ben je hier alleen." />
+		<text id="panelwin_social_say" name=":" />
+		<text id="panelwin_social_standardanswer" name="Binnenkort kun je chatten met andere spelers in je café!" />
+		<text id="panelwin_social_welcome_marketplace" name="Welkom! Klik op het krijtbord als je op zoek bent naar een job!" />
+		<text id="panelwin_social_welcome_mycafe" name="Welkom" />
+		<text id="panelwin_social_writeable" name="Je moet je aanmelden en level 1 bereikt hebben om te kunnen chatten." />
+	</panels>
+	<preparestep>
+		<text id="preparestep_bananasplit_banana" name="bananen pellen" />
+		<text id="preparestep_bananasplit_chocolate" name="chocolade snijden" />
+		<text id="preparestep_brigadeiro_chocolate" name="Cut chocolate" />
+		<text id="preparestep_brigadeiro_cream" name="Mix cream" />
+		<text id="preparestep_brigadeiro_vanilla" name="Shave vanilla" />
+		<text id="preparestep_bananasplit_cream" name="slagroom kloppen" />
+		<text id="preparestep_bananasplit_milk" name="melk afmeten" />
+		<text id="preparestep_bananasplit_sugar" name="Suiker afwegen" />
+		<text id="preparestep_blackforestcherrycake_chocolate" name="chocolade in stukjes brokkelen" />
+		<text id="preparestep_blackforestcherrycake_cocktailcherry" name="kersen schoonmaken" />
+		<text id="preparestep_blackforestcherrycake_cream" name="slagroom kloppen" />
+		<text id="preparestep_pizzasalad_tomato" name="Cut tomatoes" />
+		<text id="preparestep_pizzasalad_onion" name="Cut onions" />
+		<text id="preparestep_pizzasalad_lettuce" name="Wash lettuce" />
+		<text id="preparestep_pizzasalad_cheese" name="Grate cheese" />
+		<text id="preparestep_pizzasalad_flour" name="Sift flour" />
+		<text id="preparestep_tripleomelette_eggs" name="Crack eggs strongly" />
+		<text id="preparestep_tripleomelette_chili" name="Make it spicy" />
+		<text id="preparestep_chocolatewaffles_flour" name="Measure flour" />
+		<text id="preparestep_chocolatewaffles_cream" name="Whip cream" />
+		<text id="preparestep_chocolatewaffles_eggs" name="Crack eggs softly" />
+		<text id="preparestep_chocolatewaffles_chocolate" name="Melt chocolate" />
+		<text id="preparestep_chocolatewaffles_vanilla" name="Add vanilla extract" />
+		<text id="preparestep_spanishomelette_potato" name="Peel potatoes" />
+		<text id="preparestep_spanishomelette_onion" name="Chop onions" />
+		<text id="preparestep_spanishomelette_eggs" name="Crack eggs in Spanish" />
+		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
+		<text id="preparestep_sausagepasta_pasta" name="Boil pasta" />
+		<text id="preparestep_sausagepasta_sausages" name="Chop sausages" />
+		<text id="preparestep_sausagepasta_tomato" name="Make tomato sauce" />
+		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
+		<text id="preparestep_applepie_cream" name="Whip cream" />
+		<text id="preparestep_applepie_eggs" name="Crack eggs elegantly" />
+		<text id="preparestep_applepie_flour" name="Measure flour" />
+		<text id="preparestep_applepie_apple" name="Think about apple economy" />
+		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_ramen_pasta" name="Boil pasta" />
+		<text id="preparestep_ramen_eggs" name="Boil eggs" />
+		<text id="preparestep_ramen_bacon" name="Chop bacon" />
+		<text id="preparestep_ramen_chili" name="Make it spicy" />
+		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
+		<text id="preparestep_corncake_butter" name="Melt butter" />
+		<text id="preparestep_corncake_eggs" name="Mix eggs" />
+		<text id="preparestep_corncake_milk" name="Add milk" />
+		<text id="preparestep_corncake_sugar" name="Mix sugar in the dough" />
+		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_feijoada_beans" name="Boil beans" />
+		<text id="preparestep_feijoada_bacon" name="Chop bacon chunks" />
+		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
+		<text id="preparestep_feijoada_onion" name="Chop onions" />
+		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
+		<text id="preparestep_feijoada_coriander" name="Add coriander" />
+		<text id="preparestep_blackforestcherrycake_flour" name="bloem zeven" />
+		<text id="preparestep_cheeseburger_cheese" name="kaas snijden" />
+		<text id="preparestep_cheeseburger_flour" name="bloem zeven" />
+		<text id="preparestep_cheeseburger_mincemeat" name="gehakt kruiden" />
+		<text id="preparestep_cheeseburger_tomato" name="tomaten snijden" />
+		<text id="preparestep_cheesedish_cheese" name="kaas snijden" />
+		<text id="preparestep_cheesefondue_cheese" name="kaas smelten" />
+		<text id="preparestep_cheesefondue_flour" name="bloem zeven" />
+		<text id="preparestep_cheesefondue_garlic" name="knoflook persen" />
+		<text id="preparestep_cherriecake_cherries" name="kersen stoven" />
+		<text id="preparestep_cherriecake_cream" name="slagroom kloppen" />
+		<text id="preparestep_cherriecake_flour" name="bloem zeven" />
+		<text id="preparestep_cherriecake_sugar" name="suiker afwegen" />
+		<text id="preparestep_cherrycompote_cherries" name="Kersen ontpitten" />
+		<text id="preparestep_cherrycompote_sugar" name="suiker carameliseren" />
+		<text id="preparestep_chickenburger_chicken" name="kip snijden" />
+		<text id="preparestep_chickenburger_cucumber" name="komkommer in stukjes snijden" />
+		<text id="preparestep_chickenburger_flour" name="bloem zeven" />
+		<text id="preparestep_chickenburger_tomato" name="tomaten snijden" />
+		<text id="preparestep_chickensalad_chicken" name="kip klaarmaken" />
+		<text id="preparestep_chickensalad_lettuce" name="sla wassen" />
+		<text id="preparestep_chickensalad_onion" name="uien snijden" />
+		<text id="preparestep_chickensalad_tomato" name="tomaten snijden" />
+		<text id="preparestep_chickensoup_bacon" name="Spek in stukjes snijden" />
+		<text id="preparestep_chickensoup_chicken" name="kip snijden" />
+		<text id="preparestep_chickensoup_onion" name="uien snijden" />
+		<text id="preparestep_chickensoup_pasta" name="pasta afwegen" />
+		<text id="preparestep_chiliconcarne_bacon" name="Spek in stukjes snijden" />
+		<text id="preparestep_chiliconcarne_beans" name="bonen afspoelen" />
+		<text id="preparestep_chiliconcarne_mincemeat" name="vlees kruiden" />
+		<text id="preparestep_chiliconcarne_onion" name="uien snijden" />
+		<text id="preparestep_chiliconcarne_tomato" name="tomaten snijden" />
+		<text id="preparestep_chocmousse_chocolate" name="chocolade smelten" />
+		<text id="preparestep_chocmousse_cream" name="slagroom kloppen" />
+		<text id="preparestep_chocmousse_eggs" name="eieren scheiden" />
+		<text id="preparestep_chocolatecake_chocolate" name="chocolade smelten" />
+		<text id="preparestep_chocolatecake_cream" name="slagroom kloppen" />
+		<text id="preparestep_chocolatecake_eggs" name="eieren scheiden" />
+		<text id="preparestep_chocolatecake_flour" name="bloem zeven" />
+		<text id="preparestep_chocolatecheesecake_chocolate" name="chocolade snijden" />
+		<text id="preparestep_chocolatecheesecake_cookies" name="koekjes verkruimelen" />
+		<text id="preparestep_chocolatecheesecake_milk" name="melk opwarmen" />
+		<text id="preparestep_chocolatecheesecake_quark" name="kwark mixen" />
+		<text id="preparestep_chocolatefondue_chocolate" name="chocolade proeven" />
+		<text id="preparestep_chocolatefondue_cream" name="slagroom afmeten" />
+		<text id="preparestep_chocolatefondue_strawberry" name="aardbeien schoonmaken" />
+		<text id="preparestep_christmasturkey_turkeymix" name="kalkoenmix voorbereiden" />
+		<text id="preparestep_christmasturkey_vegiemix" name="groenten ontdooien" />
+		<text id="preparestep_cookieplate_butter" name="Boter smelten" />
+		<text id="preparestep_cookieplate_chocolate" name="Chocolade snijden" />
+		<text id="preparestep_cookieplate_flour" name="Bloem zeven" />
+		<text id="preparestep_cookieplate_sugar" name="Suiker karameliseren" />
+		<text id="preparestep_cornonthecob_butter" name="boter toevoegen" />
+		<text id="preparestep_cornonthecob_lettuce" name="sla wassen" />
+		<text id="preparestep_cornonthecob_sweetcorn" name="mais klaarmaken" />
+		<text id="preparestep_curry_ballpepper" name="paprika&apos;s snijden" />
+		<text id="preparestep_curry_coconut" name="kokosnoten openmaken" />
+		<text id="preparestep_curry_curryspice" name="curry afwegen" />
+		<text id="preparestep_curry_meat" name="vlees snijden" />
+		<text id="preparestep_curry_peas" name="erwtjes koken" />
+		<text id="preparestep_duckalorange_butter" name="Boter smelten" />
+		<text id="preparestep_duckalorange_duck" name="Eend klaarmaken" />
+		<text id="preparestep_duckalorange_onion" name="Uien snijden" />
+		<text id="preparestep_duckalorange_orange" name="Sinaasappels pellen" />
+		<text id="preparestep_easterdish_chocolate" name="Chocolade proeven" />
+		<text id="preparestep_easterdish_eggs" name="Eieren tellen" />
+		<text id="preparestep_englishbreakfast_beans" name="bonen koken" />
+		<text id="preparestep_englishbreakfast_eggs" name="eieren kloppen" />
+		<text id="preparestep_englishbreakfast_flour" name="bloem zeven" />
+		<text id="preparestep_englishbreakfast_sausages" name="worstjes tellen" />
+		<text id="preparestep_fishandchips_fish" name="vis klaarmaken" />
+		<text id="preparestep_fishandchips_flour" name="bloem zeven" />
+		<text id="preparestep_fishandchips_oil" name="olie verhitten" />
+		<text id="preparestep_fishandchips_peas" name="erwtjes koken" />
+		<text id="preparestep_fishandchips_potato" name="aardappelen schillen" />
+		<text id="preparestep_friedpotatoes_bacon" name="spek bakken" />
+		<text id="preparestep_friedpotatoes_onion" name="uien snijden" />
+		<text id="preparestep_friedpotatoes_potato" name="aardappelen schillen" />
+		<text id="preparestep_fruitpudding_bakingmix" name="mix roeren" />
+		<text id="preparestep_fruitpudding_spicemix" name="kruiden afwegen" />
+		<text id="preparestep_fruitsalad_apple" name="Appels schillen" />
+		<text id="preparestep_fruitsalad_banana" name="Bananen pellen" />
+		<text id="preparestep_fruitsalad_cherries" name="Kersen klaarmaken" />
+		<text id="preparestep_fruitsalad_orange" name="Sinaasappels pellen" />
+		<text id="preparestep_greensalad_lettuce" name="sla wassen" />
+		<text id="preparestep_greensalad_onion" name="uien snijden" />
+		<text id="preparestep_greensalad_tomato" name="tomaten snijden" />
+		<text id="preparestep_gumbo_curryspice" name="Curry maken" />
+		<text id="preparestep_gumbo_fish" name="vis snijden" />
+		<text id="preparestep_gumbo_onion" name="uien snijden" />
+		<text id="preparestep_gumbo_rice" name="rijst koken" />
+		<text id="preparestep_hamburger_flour" name="bloem zeven" />
+		<text id="preparestep_hamburger_mincemeat" name="gehakt kruiden" />
+		<text id="preparestep_hamburger_tomato" name="tomaten snijden" />
+		<text id="preparestep_hotcherrywaffles_cherries" name="kersen klaarmaken" />
+		<text id="preparestep_hotcherrywaffles_cream" name="slagroom kloppen" />
+		<text id="preparestep_hotcherrywaffles_eggs" name="eieren scheiden" />
+		<text id="preparestep_hotcherrywaffles_flour" name="bloem zeven" />
+		<text id="preparestep_hotcherrywaffles_milk" name="melk opwarmen" />
+		<text id="preparestep_jamspongepudding_flour" name="bloem zeven" />
+		<text id="preparestep_jamspongepudding_milk" name="melk opwarmen" />
+		<text id="preparestep_jamspongepudding_strawberry" name="aardbeien klaarmaken" />
+		<text id="preparestep_jamspongepudding_sugar" name="suiker karameliseren" />
+		<text id="preparestep_lasagne_cheese" name="kaas raspen" />
+		<text id="preparestep_lasagne_mincemeat" name="gehakt kruiden" />
+		<text id="preparestep_lasagne_pasta" name="pasta koken" />
+		<text id="preparestep_lasagne_tomato" name="tomaten snijden" />
+		<text id="preparestep_macncheese_cheese" name="kaas raspen" />
+		<text id="preparestep_macncheese_cream" name="slagroom afmeten" />
+		<text id="preparestep_macncheese_pasta" name="pasta koken" />
+		<text id="preparestep_maplepancakes_eggs" name="eieren scheiden" />
+		<text id="preparestep_maplepancakes_flour" name="bloem zeven" />
+		<text id="preparestep_maplepancakes_maple" name="ahornsiroop proeven" />
+		<text id="preparestep_maplepancakes_milk" name="melk afmeten" />
+		<text id="preparestep_marblecake_butter" name="boter smelten" />
+		<text id="preparestep_marblecake_chocolate" name="chocolade smelten" />
+		<text id="preparestep_marblecake_flour" name="bloem zeven" />
+		<text id="preparestep_marblecake_sugar" name="suiker afwegen" />
+		<text id="preparestep_mexicansalad_bacon" name="spek bakken" />
+		<text id="preparestep_mexicansalad_beans" name="bonen weken" />
+		<text id="preparestep_mexicansalad_onion" name="uitjes fruiten" />
+		<text id="preparestep_mexicansalad_sweetcorn" name="mais koken" />
+		<text id="preparestep_minestrone_eggplant" name="aubergine snijden" />
+		<text id="preparestep_minestrone_pasta" name="pasta koken" />
+		<text id="preparestep_minestrone_tomato" name="tomaten snijden" />
+		<text id="preparestep_mixedsalad_lettuce" name="sla wassen" />
+		<text id="preparestep_mixedsalad_peas" name="erwtjes koken" />
+		<text id="preparestep_mixedsalad_sweetcorn" name="mais koken" />
+		<text id="preparestep_mixedsalad_tomato" name="tomaten snijden" />
+		<text id="preparestep_nasigoreng_chicken" name="kip snijden" />
+		<text id="preparestep_nasigoreng_eggs" name="eieren koken" />
+		<text id="preparestep_nasigoreng_onion" name="uien snijden" />
+		<text id="preparestep_nasigoreng_pinapple" name="ananas snijden" />
+		<text id="preparestep_nasigoreng_rice" name="rijst koken" />
+		<text id="preparestep_newyorkcheesecake_cookies" name="koekjes verkruimelen" />
+		<text id="preparestep_newyorkcheesecake_cream" name="slagroom kloppen" />
+		<text id="preparestep_newyorkcheesecake_quark" name="kwark roeren" />
+		<text id="preparestep_newyorkcheesecake_sugar" name="suiker afwegen" />
+		<text id="preparestep_noodlesalad_eggs" name="eieren scheiden" />
+		<text id="preparestep_noodlesalad_oil" name="olie kloppen" />
+		<text id="preparestep_noodlesalad_pasta" name="pasta koken" />
+		<text id="preparestep_noodlesalad_tomato" name="tomaten snijden" />
+		<text id="preparestep_omelette_eggs" name="Eieren tellen" />
+		<text id="preparestep_onionsoup_cheese" name="kaas raspen" />
+		<text id="preparestep_onionsoup_garlic" name="knoflook persen" />
+		<text id="preparestep_onionsoup_onion" name="uien snijden" />
+		<text id="preparestep_peasoup_bacon" name="spek bakken" />
+		<text id="preparestep_peasoup_garlic" name="knoflook persen" />
+		<text id="preparestep_peasoup_onion" name="uien snijden" />
+		<text id="preparestep_peasoup_peas" name="erwtjes schoonmaken" />
+		<text id="preparestep_pizzahawaii_bacon" name="Spek in stukjes snijden" />
+		<text id="preparestep_pizzahawaii_cheese" name="kaas raspen" />
+		<text id="preparestep_pizzahawaii_flour" name="bloem zeven" />
+		<text id="preparestep_pizzahawaii_pinapple" name="ananas in stukjes snijden" />
+		<text id="preparestep_pizzahawaii_tomato" name="tomaten fijnmalen" />
+		<text id="preparestep_pizzatonno_cheese" name="kaas raspen" />
+		<text id="preparestep_pizzatonno_fish" name="vis snijden" />
+		<text id="preparestep_pizzatonno_flour" name="bloem zeven" />
+		<text id="preparestep_pizzatonno_onion" name="uien snijden" />
+		<text id="preparestep_pizzatonno_tomato" name="tomaten fijnmalen" />
+		<text id="preparestep_pizza_cheese" name="kaas raspen" />
+		<text id="preparestep_pizza_flour" name="bloem zeven" />
+		<text id="preparestep_pizza_tomato" name="tomaten pureren" />
+		<text id="preparestep_porkroastwithcrackling_carrots" name="aardappels schillen" />
+		<text id="preparestep_porkroastwithcrackling_garlic" name="knoflook persen" />
+		<text id="preparestep_porkroastwithcrackling_meat" name="vlees snijden" />
+		<text id="preparestep_porkroastwithcrackling_onion" name="uien snijden" />
+		<text id="preparestep_potatosalad_cucumber" name="komkommer snijden" />
+		<text id="preparestep_potatosalad_oil" name="olie kloppen" />
+		<text id="preparestep_pizza_sausages" name="Slice sausages" />
+		<text id="preparestep_potatosalad_potato" name="aardappelen schillen" />
+		<text id="preparestep_redberrycompote_cherries" name="kersen schoonmaken" />
+		<text id="preparestep_redberrycompote_rhubarb" name="rabarber schoonmaken" />
+		<text id="preparestep_redberrycompote_strawberry" name="aardbeien schoonmaken" />
+		<text id="preparestep_redberrycompote_sugar" name="suiker carameliseren" />
+		<text id="preparestep_ricepudding_apple" name="appels schillen" />
+		<text id="preparestep_ricepudding_cream" name="slagroom kloppen" />
+		<text id="preparestep_ricepudding_milk" name="melk afmeten" />
+		<text id="preparestep_ricepudding_rice" name="rijst afwegen" />
+		<text id="preparestep_roastchicken_butter" name="boter smelten" />
+		<text id="preparestep_roastchicken_chicken" name="kip klaarmaken" />
+		<text id="preparestep_roastchicken_onion" name="uien snijden" />
+		<text id="preparestep_sandwich_bacon" name="spek in stukjes snijden" />
+		<text id="preparestep_sandwich_butter" name="boter afwegen" />
+		<text id="preparestep_sandwich_cheese" name="kaas in stukjes snijden" />
+		<text id="preparestep_sandwich_flour" name="bloem zeven" />
+		<text id="preparestep_sandwich_tomato" name="tomaten snijden" />
+		<text id="preparestep_scouse_beetroot" name="rode bietjes snijden" />
+		<text id="preparestep_scouse_cucumber" name="komkommer pekelen" />
+		<text id="preparestep_scouse_eggs" name="eieren bakken" />
+		<text id="preparestep_scouse_meat" name="vlees snijden" />
+		<text id="preparestep_spagetti_mincemeat" name="gehakt kruiden" />
+		<text id="preparestep_spagetti_pasta" name="pasta koken" />
+		<text id="preparestep_spagetti_tomato" name="tomaten snijden" />
+		<text id="preparestep_spareribs_meat" name="vlees snijden" />
+		<text id="preparestep_spareribs_oil" name="olie afmeten" />
+		<text id="preparestep_spareribs_onion" name="uien snijden" />
+		<text id="preparestep_spareribs_tomato" name="tomaten pureren" />
+		<text id="preparestep_steakkidneypie_flour" name="bloem zeven" />
+		<text id="preparestep_steakkidneypie_kidney" name="niertjes snijden" />
+		<text id="preparestep_steakkidneypie_meat" name="vlees snijden" />
+		<text id="preparestep_steakkidneypie_onion" name="uien snijden" />
+		<text id="preparestep_steak_butter" name="boter toevoegen" />
+		<text id="preparestep_steak_lettuce" name="sla wassen" />
+		<text id="preparestep_steak_meat" name="vlees snijden" />
+		<text id="preparestep_steak_potato" name="aardappelen schillen" />
+		<text id="preparestep_steak_tomato" name="tomaten snijden" />
+		<text id="preparestep_stewedrhubarb_rhubarb" name="rabarber snijden" />
+		<text id="preparestep_stewedrhubarb_sugar" name="suiker karameliseren" />
+		<text id="preparestep_stew_meat" name="vlees snijden" />
+		<text id="preparestep_stew_oil" name="olie verhitten" />
+		<text id="preparestep_stew_onion" name="uien snijden" />
+		<text id="preparestep_strawberrycake_cream" name="slagroom kloppen" />
+		<text id="preparestep_strawberrycake_flour" name="bloem zeven" />
+		<text id="preparestep_strawberrycake_strawberry" name="aardbeien klaarmaken" />
+		<text id="preparestep_strawberrymousse_cream" name="slagroom kloppen" />
+		<text id="preparestep_strawberrymousse_eggs" name="eieren scheiden" />
+		<text id="preparestep_strawberrymousse_strawberry" name="aardbeien schoonmaken" />
+		<text id="preparestep_strawberrymousse_sugar" name="suiker afwegen" />
+		<text id="preparestep_stuffedpeppers_ballpepper" name="paprika&apos;s schoon schrapen" />
+		<text id="preparestep_stuffedpeppers_eggs" name="eieren kloppen" />
+		<text id="preparestep_stuffedpeppers_rice" name="rijst koken" />
+		<text id="preparestep_sundayfeast_carrots" name="wortels schillen" />
+		<text id="preparestep_sundayfeast_meat" name="vlees snijden" />
+		<text id="preparestep_sundayfeast_peas" name="erwtjes koken" />
+		<text id="preparestep_sundayfeast_potato" name="aardappelen schillen" />
+		<text id="preparestep_sushi_cucumber" name="komkommer snijden" />
+		<text id="preparestep_sushi_fish" name="vis snijden" />
+		<text id="preparestep_sushi_rice" name="rijst koken" />
+		<text id="preparestep_toadinhole_flour" name="Bloem zeven" />
+		<text id="preparestep_toadinhole_onion" name="Uien snijden" />
+		<text id="preparestep_toadinhole_sausages" name="Worstjes tellen" />
+		<text id="preparestep_toast_cheese" name="kaas raspen" />
+		<text id="preparestep_toast_flour" name="bloem zeven" />
+		<text id="preparestep_toast_pinapple" name="ananas snijden" />
+		<text id="preparestep_tofuburger_flour" name="bloem zeven" />
+		<text id="preparestep_tofuburger_lettuce" name="sla wassen" />
+		<text id="preparestep_tofuburger_tofu" name="tofu fijnmalen" />
+		<text id="preparestep_tofuburger_tomato" name="Tomaten in blokjes snijden" />
+		<text id="preparestep_tomatosoup_cream" name="slagroom kloppen" />
+		<text id="preparestep_tomatosoup_onion" name="uien snijden" />
+		<text id="preparestep_tomatosoup_tomato" name="tomaten pellen" />
+		<text id="preparestep_trifle_cookies" name="Koekjes afwegen" />
+		<text id="preparestep_trifle_cream" name="Slagroom kloppen" />
+		<text id="preparestep_trifle_strawberry" name="Aardbeien klaarmaken" />
+		<text id="preparestep_trifle_sugar" name="Suiker afwegen" />
+		<text id="preparestep_veganstirfry_carrots" name="wortels raspen" />
+		<text id="preparestep_veganstirfry_peas" name="erwtjes koken" />
+		<text id="preparestep_veganstirfry_rice" name="rijst afwegen" />
+		<text id="preparestep_veganstirfry_tomato" name="tomaten snijden" />
+		<text id="preparestep_vegetablesoup_onion" name="uien snijden" />
+		<text id="preparestep_vegetablesoup_potato" name="aardappelen schillen" />
+		<text id="preparestep_vegetablesoup_tomato" name="tomaten snijden" />
+		<text id="preparestep_veggiecurry_ballpepper" name="paprika&apos;s snijden" />
+		<text id="preparestep_veggiecurry_coconut" name="kokosnoten openmaken" />
+		<text id="preparestep_veggiecurry_curryspice" name="curry afwegen" />
+		<text id="preparestep_veggiecurry_eggplant" name="aubergine snijden" />
+		<text id="preparestep_veggiecurry_rice" name="rijst afwegen" />
+		<text id="preparestep_veggielasagne_cheese" name="kaas raspen" />
+		<text id="preparestep_veggielasagne_eggplant" name="aubergine snijden" />
+		<text id="preparestep_veggielasagne_pasta" name="pasta koken" />
+		<text id="preparestep_veggielasagne_tomato" name="tomaten pureren" />
+		<text id="preparestep_whitechoccheesecake_cookies" name="koekjes verkruimelen" />
+		<text id="preparestep_whitechoccheesecake_cream" name="slagroom kloppen" />
+		<text id="preparestep_whitechoccheesecake_milk" name="melk opwarmen" />
+		<text id="preparestep_whitechoccheesecake_quark" name="kwark mixen" />
+		<text id="preparestep_whitechoccheesecake_whitechocolat" name="chocolade afwegen" />
+		<text id="preparestep_whitechocmousse_cream" name="slagroom kloppen" />
+		<text id="preparestep_whitechocmousse_eggs" name="eieren scheiden" />
+		<text id="preparestep_whitechocmousse_whitechocolat" name="chocolade smelten" />
+		<text id="preparestep_coxinha_flour" name="Spread flour" />
+		<text id="preparestep_coxinha_chicken" name="Shred chicken" />
+		<text id="preparestep_coxinha_onion" name="Chop onions" />
+		<text id="preparestep_coxinha_cream" name="Make cream cheese" />
+		<text id="preparestep_coxinha_oil" name="Heat oil" />
+		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
+	</preparestep>
+	<preparestep_fancy>
+		<text id="preparestep_bananasplit_vanilla" name="Vanillestokjes schrapen" />
+		<text id="preparestep_blackforestcherrycake_vanilla" name="vanillestokjes schrapen" />
+		<text id="preparestep_pizzasalad_chili" name="Chop chili" />
+		<text id="preparestep_cheeseburger_chili" name="Chili snijden" />
+		<text id="preparestep_cheesedish_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_cheesefondue_chili" name="Chili snijden" />
+		<text id="preparestep_cherriecake_vanilla" name="vanillestokjes schrapen" />
+		<text id="preparestep_cherrycompote_vanilla" name="vanillestokjes schrapen" />
+		<text id="preparestep_chickenburger_chili" name="chili fijnhakken" />
+		<text id="preparestep_chickensalad_chili" name="Chili snijden" />
+		<text id="preparestep_chickensoup_parsley" name="peterselie fijnhakken" />
+		<text id="preparestep_chiliconcarne_chili" name="chili fijnhakken" />
+		<text id="preparestep_chocmousse_vanilla" name="Vanillestokjes schrapen" />
+		<text id="preparestep_chocolatecake_vanilla" name="Vanillestokjes schrapen" />
+		<text id="preparestep_chocolatecheesecake_vanilla" name="vanillestokjes schrapen" />
+		<text id="preparestep_chocolatefondue_cinnamon" name="kaneel strooien" />
+		<text id="preparestep_christmasturkey_rosemary" name="rozemarijn fijnsnijden" />
+		<text id="preparestep_cookieplate_cinnamon" name="Kaneel strooien" />
+		<text id="preparestep_cornonthecob_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_curry_coriander" name="Koriander fijnhakken" />
+		<text id="preparestep_duckalorange_cinnamon" name="Kaneel strooien" />
+		<text id="preparestep_easterdish_vanilla" name="Vanille uitschrapen" />
+		<text id="preparestep_englishbreakfast_chili" name="Chili snijden" />
+		<text id="preparestep_fishandchips_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_friedpotatoes_rosemary" name="Rozemarijn fijnhakken" />
+		<text id="preparestep_fruitpudding_cinnamon" name="kaneel strooien" />
+		<text id="preparestep_fruitsalad_vanilla" name="Vanillestokjes schrapen" />
+		<text id="preparestep_gardensalad_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_greensalad_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_gumbo_chili" name="Chili snijden" />
+		<text id="preparestep_hamburger_chili" name="Chili snijden" />
+		<text id="preparestep_hotcherrywaffles_vanilla" name="Vanillestokje schrapen" />
+		<text id="preparestep_jamspongepudding_vanilla" name="Vanillestokjes schrapen" />
+		<text id="preparestep_lasagne_basil" name="Basilicum plukken" />
+		<text id="preparestep_macncheese_nutmeg" name="Nootmuskaat raspen" />
+		<text id="preparestep_maplepancakes_vanilla" name="Vanillestokjes schrapen" />
+		<text id="preparestep_marblecake_vanilla" name="vanillestokjes schrapen" />
+		<text id="preparestep_mexicansalad_chili" name="Chili snijden" />
+		<text id="preparestep_minestrone_basil" name="Basilicum plukken" />
+		<text id="preparestep_mixedsalad_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_nasigoreng_chili" name="Chili snijden" />
+		<text id="preparestep_newyorkcheesecake_vanilla" name="Vanillestokjes schrapen" />
+		<text id="preparestep_noodlesalad_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_omelette_chili" name="Chili fijnhakken" />
+		<text id="preparestep_onionsoup_chili" name="Chili snijden" />
+		<text id="preparestep_peasoup_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_pizzahawaii_chili" name="chili fijnhakken" />
+		<text id="preparestep_pizzatonno_horseradish" name="Mierikswortel raspen" />
+		<text id="preparestep_pizza_chili" name="Chili snijden" />
+		<text id="preparestep_porkroastwithcrackling_rosemary" name="Rozemarijn fijnhakken" />
+		<text id="preparestep_potatosalad_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_redberrycompote_vanilla" name="vanillestokjes schrapen" />
+		<text id="preparestep_ricepudding_cinnamon" name="Kaneel strooien" />
+		<text id="preparestep_roastchicken_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_sandwich_parsley" name="peterselie fijnhakken" />
+		<text id="preparestep_scouse_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_spagetti_basil" name="Basilicum plukken" />
+		<text id="preparestep_spareribs_chili" name="Chili snijden" />
+		<text id="preparestep_steakkidneypie_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_steak_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_stewedrhubarb_vanilla" name="Vanillestokjes schrapen" />
+		<text id="preparestep_stew_chili" name="Chili snijden" />
+		<text id="preparestep_strawberrycake_vanilla" name="Vanillestokjes schrapen" />
+		<text id="preparestep_strawberrymousse_vanilla" name="vanillestokjes schrapen" />
+		<text id="preparestep_stuffedpeppers_parsley" name="Peterselie fijnhakken" />
+		<text id="preparestep_sundayfeast_rosemary" name="Rozemarijn fijnhakken" />
+		<text id="preparestep_sushi_horseradish" name="Mierikswortel raspen" />
+		<text id="preparestep_toadinhole_rosemary" name="Rozemarijn fijnhakken" />
+		<text id="preparestep_toast_chili" name="Chili snijden" />
+		<text id="preparestep_tofuburger_chili" name="chili fijnhakken" />
+		<text id="preparestep_tomatosoup_basil" name="Basilicum plukken" />
+		<text id="preparestep_trifle_vanilla" name="Vanillestokje schrapen" />
+		<text id="preparestep_veganstirfry_chili" name="Chili snijden" />
+		<text id="preparestep_vegetablesoup_basil" name="Basilicum plukken" />
+		<text id="preparestep_veggiecurry_coriander" name="Koriander fijnhakken" />
+		<text id="preparestep_veggielasagne_basil" name="Basilicum plukken" />
+		<text id="preparestep_whitechoccheesecake_vanilla" name="vanillestokjes schrapen" />
+		<text id="preparestep_whitechocmousse_vanilla" name="vanillestokjes schrapen" />
+	</preparestep_fancy>
+	<recipe>
+		<text id="recipe_bananasplit" name="Bananasplit" />
+		<text id="recipe_brigadeiro" name="Brigadeiro" />
+		<text id="recipe_beefstew" name="Stoofpot" />
+		<text id="recipe_pizzasalad" name="Pizza with Salad" />
+		<text id="recipe_tripleomelette" name="Triple Omelette" />
+		<text id="recipe_chocolatewaffles" name="Chocolate Waffles" />
+		<text id="recipe_spanishomelette" name="Spanish Omelette" />
+		<text id="recipe_sausagepasta" name="Sausage Spaghetti" />
+		<text id="recipe_applepie" name="Apple Pie" />
+		<text id="recipe_ramen" name="Ramen" />
+		<text id="recipe_corncake" name="Corn Cake" />
+		<text id="recipe_feijoada" name="Feijoada" />
+		<text id="recipe_blackforestcherrycake" name="Schwarzwalder Kersentaart" />
+		<text id="recipe_cheeseburger" name="Cheeseburger" />
+		<text id="recipe_cheesedish" name="Kaasplankje" />
+		<text id="recipe_cheesefondue" name="Kaasfondue" />
+		<text id="recipe_cherriecake" name="Kersen Cake" />
+		<text id="recipe_cherrycompote" name="Gestoofde kersen" />
+		<text id="recipe_chickenburger" name="Chicken burger" />
+		<text id="recipe_chickensalad" name="Salade met kip" />
+		<text id="recipe_chickensoup" name="Stoofpotje Kip" />
+		<text id="recipe_chiliconcarne" name="Chili con Carne" />
+		<text id="recipe_chocmousse" name="Chocolademousse" />
+		<text id="recipe_chocolatecake" name="Chocolade cake" />
+		<text id="recipe_chocolatecheesecake" name="Chocolade cheesecake" />
+		<text id="recipe_chocolatefondue" name="Chocolade fondue" />
+		<text id="recipe_christmasturkey" name="Kerst gebraad" />
+		<text id="recipe_cookieplate" name="Assortiment koekjes" />
+		<text id="recipe_cornonthecob" name="Mais" />
+		<text id="recipe_curry" name="Curry" />
+		<text id="recipe_duckalorange" name="Eend met sinaasappel" />
+		<text id="recipe_easterdish" name="Prettig Paasmandje" />
+		<text id="recipe_englishbreakfast" name="Engels ontbijt" />
+		<text id="recipe_fishandchips" name="Fish&apos;n&apos;Chips" />
+		<text id="recipe_friedpotatoes" name="Gebakken aardappeltjes" />
+		<text id="recipe_fruitpudding" name="Vruchtencake" />
+		<text id="recipe_fruitsalad" name="Fruitsalade" />
+		<text id="recipe_greensalad" name="Rauwkost salade" />
+		<text id="recipe_gumbo" name="Gumbo" />
+		<text id="recipe_hamburger" name="Hamburger" />
+		<text id="recipe_hotcherrywaffles" name="Wafel met warme kersen" />
+		<text id="recipe_jamspongepudding" name="Sponscake met jam" />
+		<text id="recipe_lasagne" name="Lasagne" />
+		<text id="recipe_macncheese" name="Macaroni met kaas" />
+		<text id="recipe_maplepancakes" name="Pannenkoeken" />
+		<text id="recipe_marblecake" name="Marmercake" />
+		<text id="recipe_mexicansalad" name="Mexicaanse salade" />
+		<text id="recipe_minestrone" name="Minestrone" />
+		<text id="recipe_mixedsalad" name="Gemengde salade" />
+		<text id="recipe_nasigoreng" name="Nasi Goreng" />
+		<text id="recipe_newyorkcheesecake" name="New York kwarktaart" />
+		<text id="recipe_noodlesalad" name="Pasta salade" />
+		<text id="recipe_omelette" name="Omelet" />
+		<text id="recipe_onionsoup" name="Uiensoep" />
+		<text id="recipe_peasoup" name="Erwtensoep" />
+		<text id="recipe_pizza" name="Pizza" />
+		<text id="recipe_pizzahawaii" name="Pizza Hawaii" />
+		<text id="recipe_pizzatonno" name="Pizza Tonijn" />
+		<text id="recipe_porkroastwithcrackling" name="Varkensvlees in een krokant jasje" />
+		<text id="recipe_potatosalad" name="Aaardappelsalade" />
+		<text id="recipe_redberrycompote" name="Rode bessen compote" />
+		<text id="recipe_ricepudding" name="Rijstpudding met appelsaus" />
+		<text id="recipe_roastchicken" name="Kip uit de oven" />
+		<text id="recipe_sandwich" name="Boterham" />
+		<text id="recipe_scouse" name="Labskaus" />
+		<text id="recipe_spagetti" name="Spaghetti bolognese" />
+		<text id="recipe_spareribs" name="Spare ribs" />
+		<text id="recipe_steak" name="Steak" />
+		<text id="recipe_steakkidneypie" name="Taartje met rundvlees en niertjes" />
+		<text id="recipe_stewedrhubarb" name="Gestoofde rabarber" />
+		<text id="recipe_strawberrycake" name="Aardbeien taart" />
+		<text id="recipe_strawberrymousse" name="Aardbeienmousse" />
+		<text id="recipe_stuffedpeppers" name="Gevulde paprika&apos;s" />
+		<text id="recipe_sundayfeast" name="Zondags-eten" />
+		<text id="recipe_sushi" name="Sushi" />
+		<text id="recipe_toadinahole" name="Worstenbroodje" />
+		<text id="recipe_toast" name="Toast Hawaii" />
+		<text id="recipe_tofuburger" name="Tofu burger" />
+		<text id="recipe_tomatosoup" name="Tomatensoep" />
+		<text id="recipe_trifle" name="Trifle" />
+		<text id="recipe_veganstirfry" name="Veganistische Roerbakschotel" />
+		<text id="recipe_vegetablesoup" name="Veggie soep" />
+		<text id="recipe_veggiecurry" name="Veggie curry" />
+		<text id="recipe_veggielasagne" name="Veggie lasagne" />
+		<text id="recipe_whitechoccheesecake" name="Witte Chocolade cheesecake" />
+		<text id="recipe_whitechocmousse" name="Witte chocolademousse" />
+		<text id="recipe_coxinha" name="Coxinha" />
+	</recipe>
+	<recipes_fastfood>
+		<text id="recipe_smoothiemaker_greensmoothie" name="Groene Smoothie" />
+		<text id="recipe_smoothiemaker_kiba" name="Kersen Bananen Smoothie" />
+		<text id="recipe_smoothiemaker_pinacolada" name="Virgin Colada" />
+		<text id="recipe_smoothiemaker_tomatojuice" name="Tomatensap" />
+	</recipes_fastfood>
+	<server>
+		<mail>
+			<text id="mail_invite_friend" name="Hi %s!&lt;br /&gt;&lt;br /&gt;Ik heb net dit fantastische nieuwe spel ontdekt &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Deze link brengt je direct naar het spel:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Meld je nu via de link gratis aan om je eigen café te openen bij &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt; Ontdek hoe leuk het is om je eigen café te hebben. Werk in je eigen zaak, kook heerlijke maaltijden en zie al je tevreden klanten met een volle maag weer vertrekken. &lt;br /&gt;&lt;br /&gt;Veel plezier met het spel en groetjes, %s" />
+			<text id="mail_lost_pw" name="Hi %s!&lt;br /&gt;&lt;br /&gt;Je ontvangt deze e-mail automatisch omdat je een nieuw paswoord hebt aangevraagd.&lt;br /&gt;Je paswoord is: %s&lt;br /&gt;&lt;br /&gt;Deze link brengt je direct naar het spel:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Als je vragen of problemen hebt, kun je mailen naar support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;We hopen dat je nog veel plezier zult beleven met ons spel!&lt;br /&gt;&lt;br /&gt;Jouw team van&lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_registration" name="Hallo,&lt;br /&gt;&lt;br /&gt;bedankt voor je aanmelding en welkom bij &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Je kunt op elk moment  inloggen met de volgende gegevens:&lt;br /&gt;E-Mail: %s&lt;br /&gt;Paswoord: %s&lt;br /&gt;&lt;br /&gt;Deze link brengt je direct naar het spel:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Als je vragen of problemen hebt, kun je mailen naar support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;We hopen dat je geniet van Goodgame Café!&lt;br /&gt;&lt;br /&gt;Jouw team van&lt;br /&gt;Goodgamestudios.com" />
+		</mail>
+		<misc>
+			<text id="marketplace" name="Markt" />
+		</misc>
+	</server>
+	<std_buttons>
+		<text id="btn_text_accept" name="Goedkeuren" />
+		<text id="btn_text_cancle" name="Annuleren" />
+		<text id="btn_text_goback" name="Terug" />
+		<text id="btn_text_no" name="Nee" />
+		<text id="btn_text_notaccept" name="Afwijzen" />
+		<text id="btn_text_okay" name="Okay" />
+		<text id="btn_text_payment" name="Koop Goud/Cafédollars" />
+		<text id="btn_text_share" name="Deel het met je vrienden!" />
+		<text id="btn_text_srchips" name="Verdien Cafédollars" />
+		<text id="btn_text_srgold" name="Verdien goud" />
+		<text id="btn_text_yes" name="Ja" />
+	</std_buttons>
+	<tooltips>
+		<text id="tt_Basic_Achievement_Boughtdeco" name="Aantal gekochte decoraties" />
+		<text id="tt_Basic_Achievement_Boughtingredients" name="Aantal gekochte ingrediënten" />
+		<text id="tt_Basic_Achievement_Cookingcount" name="Aantal gekookte schotels" />
+		<text id="tt_Basic_Achievement_Coopcount" name="Aantal voltooide Co-Ops" />
+		<text id="tt_Basic_Achievement_Coopgoldcount" name="Aantal Co-Ops voltooid met goud status" />
+		<text id="tt_Basic_Achievement_Curiercount" name="Aantal leveringen per koerier" />
+		<text id="tt_Basic_Achievement_Differentdishes" name="Aantal verschillende gekookte maaltijden" />
+		<text id="tt_Basic_Achievement_Earnedchips" name="Verdiende Cafédollars" />
+		<text id="tt_Basic_Achievement_Fancycount" name="Aantal gebruikte luxe ingrediënten" />
+		<text id="tt_Basic_Achievement_Firenpc" name="Aantal ontslagen obers" />
+		<text id="tt_Basic_Achievement_Instantcount" name="Aantal gekookte kant-en-klare maaltijden" />
+		<text id="tt_Basic_Achievement_Jobclean" name="Aantal verzamelde borden bij ober werkzaamheden" />
+		<text id="tt_Basic_Achievement_Jobserve" name="Aantal opgediende schotels tijdens ober werkzaamheden" />
+		<text id="tt_Basic_Achievement_Masteies" name="Aantal bereikte Masteries" />
+		<text id="tt_Basic_Achievement_Masteriesgold" name="Aantal bereikte Goud-Masteries" />
+		<text id="tt_Basic_Achievement_Muffinmancash" name="Aantal Cafédollars bij de Muffin bakker gewonnen" />
+		<text id="tt_Basic_Achievement_Muffinmangold" name="Goud gewonnen bij de muffin bakker" />
+		<text id="tt_Basic_Achievement_Overcookedfoods" name="Aantal bedorven schotels" />
+		<text id="tt_Basic_Achievement_Servingcountmeals" name="Aantal gekookte hoofdschotels" />
+		<text id="tt_Basic_Achievement_Servingcountsalads" name="Aantal gemaakte salades" />
+		<text id="tt_Basic_Achievement_Servingcountsnacks" name="Aantal gekookte snacks" />
+		<text id="tt_Basic_Achievement_Servingcountsoups" name="Aantal gekookte soepen" />
+		<text id="tt_Basic_Achievement_Servingcountsweets" name="Aantal gekookte desserts" />
+		<text id="tt_Basic_Achievement_Servingcountvegans" name="Aantal gekookte vegetarische maaltijden" />
+		<text id="tt_Basic_Achievement_Servingscount" name="Aantal verkochte porties" />
+		<text id="tt_Basic_Achievement_Solditems" name="Aantal verkochte decoraties en meubels" />
+		<text id="tt_Basic_Achievement_Spentchips" name="Uitgegeven Cafédollars" />
+		<text id="tt_Basic_Achievement_Spentgold" name="Uitgegeven Goud" />
+		<text id="tt_Basic_Achievement_Wheeloffortune" name="Aantal keer gewonnen bij het Rad van Fortuin" />
+		<text id="tt_byAmount" name="{0} van {1}" />
+		<text id="tt_byLevel" name="van Level {0}" />
+		<text id="tt_CafeActionPanel_btn_achievements" name="Prestaties" />
+		<text id="tt_CafeActionPanel_btn_cookbook" name="Kookboek" />
+		<text id="tt_CafeActionPanel_btn_coop" name="Co-Ops" />
+		<text id="tt_CafeActionPanel_btn_decoshop" name="Customize" />
+		<text id="tt_CafeActionPanel_btn_gifts" name="Cadeaus" />
+		<text id="tt_CafeActionPanel_btn_ingredientshop" name="Ingrediënten Shop" />
+		<text id="tt_CafeActionPanel_btn_market" name="Markt" />
+		<text id="tt_CafeActionPanel_btn_owncafe" name="Mijn café" />
+		<text id="tt_CafeActionPanel_btn_staff" name="Personeel" />
+		<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="Broeken" />
+		<text id="tt_CafeAvatarCreationDialog_btn_boy" name="Jongen" />
+		<text id="tt_CafeAvatarCreationDialog_btn_girl" name="Meisje" />
+		<text id="tt_CafeAvatarCreationDialog_btn_hair" name="Haarkleur" />
+		<text id="tt_CafeAvatarCreationDialog_btn_skin" name="Huidskleur" />
+		<text id="tt_CafeAvatarCreationDialog_btn_tops" name="Topjes" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook" name="Instant Koken" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="Je kunt vandaag niet meer &apos;Instant Koken&apos;." />
+		<text id="tt_CafeClearStoveDialog_instantButton" name="Instant koken" />
+		<text id="tt_CafeCookBookDialog_0" name="Snoep" />
+		<text id="tt_CafeCookBookDialog_1" name="Hoofdgerechten" />
+		<text id="tt_CafeCookBookDialog_2" name="Soepen" />
+		<text id="tt_CafeCookBookDialog_3" name="Salades" />
+		<text id="tt_CafeCookBookDialog_4" name="Groenten" />
+		<text id="tt_CafeCookBookDialog_5" name="Snacks" />
+		<text id="tt_CafeCookBookDialog_btn_cook" name="koken" />
+		<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="Je hebt ingrediënten nodig!" />
+		<text id="tt_CafeCookBookDialog_btn_mastery" name="nog {0} tot Mastery-Level {1} Klik voor gegevens" />
+		<text id="tt_CafeCookBookDialog_btn_shop" name="Ingrediënten Shop" />
+		<text id="tt_CafeDekoShopPanel_btn_close" name="Terug naar je café" />
+		<text id="tt_CafeDekoShopPanel_btn_deko" name="Customize" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Chair" name="Stoelen" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="Decoratie" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Door" name="Deuren" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Table" name="Tafels" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Tiles" name="Vloertegels" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wall" name="Muren" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wallobject" name="Wanddecoratie" />
+		<text id="tt_CafeDekoShopPanel_btn_expansion" name="Uitbreidingen" />
+		<text id="tt_CafeDekoShopPanel_btn_functional" name="Functionele Items" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Counter" name="Toonbanken" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Extras" name="Extra" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Fridge" name="Koelkasten" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Stove" name="Fornuizen" />
+		<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="Je hebt nog {0} netwerk-vrienden nodig om deze uitbreiding te bouwen!" />
+		<text id="tt_CafeDekoShopPanel_btn_sell" name="Sleep een object naar hier om het te verkopen" />
+		<text id="tt_CafeDekoShopPanel_cashexpansion" name="Je moet bij level {0} zijn om uitbreidingen te kunnen kopen met Cafédollars." />
+		<text id="tt_CafeDekoShopPanel_dragItem" name="Sleep me naar je café" />
+		<text id="tt_CafeDekoShopPanel_invalidexpansion" name="Je moet eerst de vorige uitbreiding hebben voordat je de volgende kunt kopen." />
+		<text id="tt_CafeIngredientShopDialog_btn_addcash" name="Cafédollar/Goud toevoegen" />
+		<text id="tt_CafeIngredientShopDialog_btn_all" name="Alle" />
+		<text id="tt_CafeIngredientShopDialog_btn_buy" name="Kopen" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat1" name="Vlees &amp; Zuivel" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat2" name="Groenten" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat3" name="Fruit" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat4" name="Luxe ingrediënten" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat5" name="Ander(e)" />
+		<text id="tt_CafeIngredientShopDialog_btn_fridge" name="Koelkast" />
+		<text id="tt_CafeIngredientShopDialog_btn_help" name="Wat zijn Luxe Ingrediënten?" />
+		<text id="tt_CafeIngredientShopDialog_btn_sell" name="Verkopen" />
+		<text id="tt_CafeIngredientShopDialog_btn_shop" name="Ingrediënten Shop" />
+		<text id="tt_CafeIngredientShopDialog_btn_unlock" name="Koerier" />
+		<text id="tt_CafeIngredientShopDialog_btn_wheel" name="Alleen verkrijgbaar bij  het Rad van Fortuin!" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_help" name="Job hulp" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_refill" name="Job toestemmingen bijvullen" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_sign" name="Zoek een job" />
+		<text id="tt_CafeMasteryDialog_broncestar" name="Kook meer porties!" />
+		<text id="tt_CafeMasteryDialog_goldstar" name="Kook sneller!" />
+		<text id="tt_CafeMasteryDialog_silverstar" name="Ontvang meer XP!" />
+		<text id="tt_CafeNamePanel_mc_luxury" name="Luxe waarde van je Café" />
+		<text id="tt_CafeNamePanel_mc_rating" name="Populariteit van je Café" />
+		<text id="tt_CafeOptionPanel_btn_blockfriends" name="Vriendschapsverzoeken blokkeren" />
+		<text id="tt_CafeOptionPanel_btn_bugreport" name="Virus Rapport" />
+		<text id="tt_CafeOptionPanel_btn_changePass" name="Paswoord veranderen" />
+		<text id="tt_CafeOptionPanel_btn_custom" name="Verander kleding van de speelfiguur" />
+		<text id="tt_CafeOptionPanel_btn_faq" name="Veel Gestelde Vragen" />
+		<text id="tt_CafeOptionPanel_btn_fullscreen" name="Fullscreen" />
+		<text id="tt_CafeOptionPanel_btn_help" name="Help" />
+		<text id="tt_CafeOptionPanel_btn_logout" name="Logout" />
+		<text id="tt_CafeOptionPanel_btn_messages" name="Nieuws" />
+		<text id="tt_CafeOptionPanel_btn_music" name="Muziek aan/uit" />
+		<text id="tt_CafeOptionPanel_btn_news" name="Forum" />
+		<text id="tt_CafeOptionPanel_btn_options" name="Opties" />
+		<text id="tt_CafeOptionPanel_btn_screenshot" name="Foto" />
+		<text id="tt_CafeOptionPanel_btn_sfx" name="Effecten aan/uit" />
+		<text id="tt_CafeOptionPanel_btn_socialgroup" name="Groep" />
+		<text id="tt_CafeOptionPanel_btn_sound" name="Geluid" />
+		<text id="tt_CafeOptionPanel_btn_support" name="Support" />
+		<text id="tt_CafeOptionPanel_btn_verifyemail" name="Beloning innen" />
+		<text id="tt_CafeOptionPanel_btn_wantfriends" name="Vriendschapsverzoeken toestaan" />
+		<text id="tt_CafeOptionPanel_btn_zoom" name="Zoom" />
+		<text id="tt_CafeOptionPanel_btn_zoomIn" name="zoom in" />
+		<text id="tt_CafeOptionPanel_btn_zoomOut" name="uitzoomen" />
+		<text id="tt_CafeRegisterPanel_btn_register" name="Bewaren &amp; Aanmelden" />
+		<text id="tt_CafeSmoothiemaker_btn_mix" name="Mix" />
+		<text id="tt_CafeSmoothiemaker_serve" name="Drankjes opdienen" />
+		<text id="tt_CafeSocialPanel_btn_buddies" name="Vrienden" />
+		<text id="tt_CafeSocialPanel_btn_buddiesincafe" name="Aanwezige spelers" />
+		<text id="tt_CafeSocialPanel_btn_chat" name="Chat" />
+		<text id="tt_CafeSocialPanel_btn_findbuddies" name="Vrienden uitnodigen" />
+		<text id="tt_CafeSocialPanel_btn_muteplayer" name="Het zwijgen opleggen" />
+		<text id="tt_CafeStaffDialog_rename" name="Nieuwe naam voor je ober" />
+		<text id="tt_CafeUserStatePanel_btn_adddollar" name="Cafédollar/Goud toevoegen" />
+		<text id="tt_CafeUserStatePanel_btn_refill" name="Job toestemmingen bijvullen" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} XP tot Level up" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="XP" />
+		<text id="tt_highscore_luxury" name="Sorteer op Luxe waarde" />
+		<text id="tt_highscore_xp" name="Sorteer op XP" />
+		<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="Prestaties" />
+		<text id="tt_PlayerActionChoicesComponent_btn_addfriend" name="Vriendschapsverzoek" />
+		<text id="tt_PlayerActionChoicesComponent_btn_info" name="Info" />
+		<text id="tt_PlayerActionChoicesComponent_btn_job" name="Huren" />
+		<text id="tt_PlayerActionChoicesComponent_btn_kick" name="Buiten zetten" />
+		<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="Beëindig vriendschap" />
+		<text id="tt_PlayerActionChoicesComponent_btn_visit" name="Bezoek café" />
+		<text id="tt_Social_Achievement_Friendscount" name="Aantal uitgenodigde vrienden" />
+	</tooltips>
+	<tutorial>
+		<text id="tut_buymissingingredient_copy" name="De &apos;0&apos; naast de kleine koelkast geeft aan dat er geen uien meer zijn in je opslagplaats. \nEr onder zie je de prijs.\nKoop 1 unit uien." />
+		<text id="tut_cafeopen_copy" name="Super! Je hoeft niet lang te wachten voordat je eerste gasten arriveren.\nNu ken je de basis om een café te runnen. Veel plezier met het uitzoeken hoe de rest allemaal werkt!" />
+		<text id="tut_cookmeal_copy" name="Laten we beginnen!\nLaat de salade zien wat je allemaal kunt!" />
+		<text id="tut_cookopenshop_copy" name="Hier vind je de nodige ingrediënten, kooktijden en voordelen van elk recept. \nOh nee! Je hebt geen uien meer, maar je kunt er nog wel gaan kopen." />
+		<text id="tut_cookpreparecook_copy" name="Het meest belangrijke, het eten. Laten we een gemengde salade maken. Klik op het fornuis!" />
+		<text id="tut_instantcook2_copy" name="Gebruik &apos;Instant Koken&apos; \nDit kost goud en is echt heel handig." />
+		<text id="tut_instantcook_copy" name="Normaal duurt het 3 minuten om een gemengde salade samen te stellen. Maar we hebben de mogelijkheid om alles wat sneller te laten gaan, en dat doen we nu dan ook." />
+		<text id="tut_preparesteps_copy" name="Klik een aantal keren op het fornuis om alle voorbereidende stappen te doorlopen." />
+		<text id="tut_servedish_copy" name="Goed gedaan!\nNu moet de schotel alleen nog opgediend worden.\nDe 10 porties zullen zo op zijn dus zorg dat je nog meer eten klaarmaakt voor je hongerige klanten!" />
+		<text id="tut_start_copy" name="Hallo {0}, welkom in je nieuwe café!\nDeze korte introductie zal je helpen om de wondere wereld van de gastronomie te betreden." />
+		<text id="tut_title" name="Handleiding" />
+		<text id="tut_welcome_title" name="Welkom!" />
+	</tutorial>
+	<generic_flash>
+		<alert>
+			<text id="generic_alert_bug" name="Fout" />
+			<text id="generic_alert_connection_failed_copy" name="Onderhoud. Probeer het later nog eens!" />
+			<text id="generic_alert_connection_failed_title" name="Werk in uitvoering!" />
+			<text id="generic_alert_connection_lost_copy" name="De server-verbinding doet het niet. Probeer het a.u.b. nog eens." />
+			<text id="generic_alert_connection_lost_description" name="We zijn op dit moment bezig met onderhoudswerk dat af en toe nodig is. Dit doen we om updates of nieuwe features te installeren of fouten te corrigeren. &lt;br&gt;&lt;br&gt;  We werken zo snel we kunnen zodat je niet te lang hoeft te wachten om weer terug te keren naar je spel." />
+			<text id="generic_alert_connection_lost_promo" name="Waarom probeer je ondertussen niet een van onze andere spelletjes?" />
+			<text id="generic_alert_connection_lost_thanks" name="Bedankt voor je begrip!" />
+			<text id="generic_alert_connection_lost_title" name="Verbinding verbroken!" />
+			<text id="generic_alert_error" name="Fout" />
+			<text id="generic_alert_information" name="Melding" />
+			<text id="generic_alert_loggedout_copy" name="Je bent nu uitgelogd. Vergeet niet: Elke dag is er een log-in bonus voor jou!" />
+			<text id="generic_alert_loggedout_title" name="Tot straks!" />
+			<text id="generic_alert_warning" name="Waarschuwing" />
+			<text id="generic_alert_watchout" name="Let op!" />
+			<text id="generic_alert_win7chromebug" name="" />
+			<text id="generic_invalid_email_provider" name="Een e-mail adres van deze provider is niet toegestaan!" />
+			<text id="generic_js_alert_firstsessiontracking_loading" name="Je internet verbinding lijkt nogal langzaam op het moment. Probeer het a.u.b. later nog eens!" />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="Wat vind je van het spel en wat kan nog verbeterd worden? Schrijf je opmerkingen a.u.b. in het Goodgame Forum of de Groep." />
+			<text id="generic_js_alert_firstsessiontracking_unregistered" name="Let op: Je vooruitgang wordt alleen geregistreerd als je je hebt aangemeld!" />
+			<text id="generic_register_error_invalidemail" name="Het ingevoerde e-mail adres is niet correct." />
+			<text id="generic_report_muted_chattry" name="Je kunt de chat functie niet gebruiken omdat je geblokkeerd bent." />
+		</alert>
+		<button>
+			<text id="generic_btn_accept" name="Accepteren" />
+			<text id="generic_btn_cancel" name="Annuleren" />
+			<text id="generic_btn_close" name="Sluiten" />
+			<text id="generic_btn_continue" name="Doorgaan" />
+			<text id="generic_btn_end" name="Einde" />
+			<text id="generic_btn_endnow" name="Nu eindigen" />
+			<text id="generic_btn_goback" name="Terug" />
+			<text id="generic_btn_no" name="Nee" />
+			<text id="generic_btn_noshare" name="Niet draaien" />
+			<text id="generic_btn_notaccept" name="Afwijzen" />
+			<text id="generic_btn_okay" name="OK" />
+			<text id="generic_btn_reconnect" name="Verbind opnieuw" />
+			<text id="generic_btn_refresh" name="Refresh" />
+			<text id="generic_btn_report" name="Melden" />
+			<text id="generic_btn_search" name="Zoeken" />
+			<text id="generic_btn_share" name="Delen!" />
+			<text id="generic_btn_skip" name="Overslaan" />
+			<text id="generic_btn_start" name="Beginnen" />
+			<text id="generic_btn_topayment" name="Geef het aan mij!" />
+			<text id="generic_btn_yes" name="Ja" />
+		</button>
+		<chat>
+			<text id="generic_chat_writeable" name="Je moet je aanmelden en level 1 bereikt hebben om de chat te kunnen gebruiken." />
+		</chat>
+		<common>
+			<text id="generic_admin" name="Admin" />
+			<text id="generic_animation" name="Animaties weergeven" />
+			<text id="generic_bugreport" name="Vertel ons over Fouten" />
+			<text id="generic_changePass" name="Wachtwoord veranderen" />
+			<text id="generic_comma" name="," />
+			<text id="generic_conningsoon" name="*Binnenkort uit*" />
+			<text id="generic_date" name="Datum" />
+			<text id="generic_day" name="Dag" />
+			<text id="generic_dayformat" name="{1}/{0}" />
+			<text id="generic_days" name="Dagen" />
+			<text id="generic_day_short" name="D" />
+			<text id="generic_decimalseparator" name="." />
+			<text id="generic_email" name="E-mail" />
+			<text id="generic_faq" name="Veel Gestelde Vragen" />
+			<text id="generic_forum" name="Forum" />
+			<text id="generic_friend" name="Vriend" />
+			<text id="generic_friends" name="Vrienden" />
+			<text id="generic_general" name="Algemene settings" />
+			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_group" name="Groep" />
+			<text id="generic_guest" name="Gast" />
+			<text id="generic_help" name="Help" />
+			<text id="generic_high" name="Hoog" />
+			<text id="generic_hour" name="Uur" />
+			<text id="generic_hours" name="Uur" />
+			<text id="generic_hour_short" name="U" />
+			<text id="generic_limited" name="Limited" />
+			<text id="generic_logout" name="Log-out" />
+			<text id="generic_low" name="Laag" />
+			<text id="generic_medium" name="Medium" />
+			<text id="generic_minute" name="Minuut" />
+			<text id="generic_minutes" name="Minuten" />
+			<text id="generic_minute_short" name="Min" />
+			<text id="generic_moderator" name="Mod" />
+			<text id="generic_month" name="maand" />
+			<text id="generic_months" name="maanden" />
+			<text id="generic_music" name="Muziek aan/uit" />
+			<text id="generic_name" name="Naam" />
+			<text id="generic_news" name="Nieuwe verhalen" />
+			<text id="generic_options" name="Opties" />
+			<text id="generic_quality" name="Kwaliteit" />
+			<text id="generic_register" name="Bewaren en Aanmelden" />
+			<text id="generic_second" name="Seconde" />
+			<text id="generic_seconds" name="Seconden" />
+			<text id="generic_second_short" name="Sec" />
+			<text id="generic_sound" name="Geluid aan/uit" />
+			<text id="generic_support" name="Support" />
+			<text id="generic_today" name="Vandaag" />
+			<text id="generic_tomorrow" name="Vandaag" />
+			<text id="generic_tutorial" name="Tutorial" />
+			<text id="generic_username" name="Spelernaam" />
+			<text id="generic_xp" name="XP" />
+			<text id="generic_yesterday" name="Gisteren" />
+		</common>
+		<error>
+			<text id="generic_versioncheck_error" name="Oude versie!" />
+			<text id="generic_versioncheck_errorcode_1" name="Pagina updaten." />
+		</error>
+		<feeds id="" />
+		<friends>
+			<text id="generic_friends_add_copy" name="Wil je {0} als vriend toevoegen?" />
+			<text id="generic_friends_add_title" name="Vriendschapsverzoek" />
+			<text id="generic_friends_buddy_btn_morefriends" name="Meer Vrienden!" />
+			<text id="generic_friends_denied_copy" name="{0} heeft je verzoek afgewezen." />
+			<text id="generic_friends_denied_title" name="Verzoek afgewezen!" />
+			<text id="generic_friends_invite_badword_copy" name="De naam die je hebt gekozen is niet toegestaan!" />
+			<text id="generic_friends_invite_badword_title" name="Kijk uit!" />
+			<text id="generic_friends_invite_error_copy" name="Om vrienden te kunnen uitnodigen, moet je je eerst aanmelden." />
+			<text id="generic_friends_invite_error_title" name="Meld je eerst aan" />
+		</friends>
+		<fullscreen>
+			<text id="generic_fullscreen_error_copy" name="Fullscreen niet mogelijk" />
+		</fullscreen>
+		<languages>
+			<text id="generic_language_cs" name="Tsjechisch" />
+			<text id="generic_language_da" name="Deens" />
+			<text id="generic_language_de" name="Duits" />
+			<text id="generic_language_el" name="Grieks" />
+			<text id="generic_language_en" name="Engels" />
+			<text id="generic_language_es" name="Spaans" />
+			<text id="generic_language_fi" name="Fins" />
+			<text id="generic_language_fr" name="Frans" />
+			<text id="generic_language_hu" name="Hongaars" />
+			<text id="generic_language_id" name="Indonesisch" />
+			<text id="generic_language_it" name="Italiaans" />
+			<text id="generic_language_ja" name="Japans" />
+			<text id="generic_language_ko" name="Koreaans" />
+			<text id="generic_language_nl" name="Nederlands" />
+			<text id="generic_language_no" name="Noors" />
+			<text id="generic_language_pl" name="Pools" />
+			<text id="generic_language_pt" name="Portugees" />
+			<text id="generic_language_pt_BR" name="Braziliaans" />
+			<text id="generic_language_ru" name="Russisch" />
+			<text id="generic_language_sv" name="Zweeds" />
+			<text id="generic_language_tr" name="Turks" />
+			<text id="generic_language_zh_CN" name="Chinees (vereenvoudigd)" />
+			<text id="generic_language_zh_TW" name="Chinees (traditioneel)" />
+		</languages>
+		<login>
+			<text id="generic_login_banned" name="Je account is geblokkeerd! Contacteer het support-team!" />
+			<text id="generic_login_banned_2" name="Je account is gedeactiveerd!  Deactivatie tot: {0}  Als je vragen hebt over je deactivatie, contacteer dan onze helpdesk." />
+			<text id="generic_login_banned_3" name="Je account is voorgoed geblokkeerd.   Als je vragen hebt over deze actie, neem dan contact op met support." />
+			<text id="generic_login_banned_permanent" name="permanent" />
+			<text id="generic_login_facebook" name="Login via Facebook" />
+			<text id="generic_login_login" name="LOG-IN" />
+			<text id="generic_login_loginname" name="Spelernaam / E-mail" />
+			<text id="generic_login_lostpassword" name="Wachtwoord vergeten?" />
+			<text id="generic_login_lostpassword_copy" name="Voer je E-mailadres in en dan sturen we je je wachtwoord." />
+			<text id="generic_login_lostpassword_title" name="Wachtwoord vergeten?" />
+			<text id="generic_login_newplayer" name="Ben jij nieuw?" />
+			<text id="generic_login_password" name="Wachtwoord" />
+			<text id="generic_login_play" name="NU SPELEN" />
+			<text id="generic_login_playnow" name="Nu spelen!" />
+			<text id="generic_login_register" name="Aanmelden" />
+			<text id="generic_login_rememberpassword" name="Wachtwoord bewaren" />
+			<text id="generic_login_wronglogin" name="Gebruikersnaam of wachtwoord verkeerd!" />
+		</login>
+		<logout>
+			<text id="generic_logout_guest_copy" name="Meld je aan om je score te bewaren!" />
+			<text id="generic_logout_guest_title" name="Aanmelden" />
+		</logout>
+		<notification>
+			<text id="servershutdownpremonition_backin_copy" name="Het spel zal binnen {0} zeker weer beschikbaar zijn." />
+			<text id="servershutdownpremonition_copy" name="De spelserver is nu even niet bruikbaar {0}. Kun je uitloggen of jezelf aanmelden om je score op te slaan?" />
+			<text id="servershutdownpremonition_registered_copy" name="Wij stoppen de server binnen {0} omwille van onderhoudswerken." />
+			<text id="servershutdown_copy" name="De spelserver is nu even niet bruikbaar. Over een paar minuten kun je inloggen." />
+			<text id="welcomeback_copy" name="Leuk om je weer te zien! Hier is een kleinigheidje om je weer op gang te krijgen!" />
+			<text id="welcomeback_title" name="Je bent er weer!" />
+		</notification>
+		<password>
+			<text id="generic_change_password_copy_newpass" name="Nieuw wachtwoord:" />
+			<text id="generic_change_password_copy_oldpass" name="Oud wachtwoord:" />
+			<text id="generic_change_password_copy_send" name="Je nieuwe wachtwoord is naar je e-mail adres gestuurd." />
+			<text id="generic_change_password_error_failed" name="Sorry, maar dit is niet je oude wachtwoord." />
+			<text id="generic_change_password_error_success" name="Je wachtwoord is met succes veranderd!" />
+			<text id="generic_change_password_faild_copy" name="Je nieuwe wachtwoord moet meer dan twee letters bevatten en je oude wachtwoord moet correct worden ingevoerd!" />
+			<text id="generic_change_password_faild_specialcharacters" name="Je wachtwoord mag niet leeg zijn of speciale tekens bevatten." />
+			<text id="generic_change_password_faild_title" name="Wachtwoord invoeren" />
+			<text id="generic_change_password_title" name="Verander wachtwoord" />
+			<text id="generic_guest_change_password_faild_copy" name="Je kunt je wachtwoord alleen wijzigen als je een geregistreerd speler bent!" />
+			<text id="generic_guest_change_password_faild_title" name="Meld je eerst aan" />
+		</password>
+		<payment>
+			<text id="generic_discount_payment_title_general" name="Meer {0} voor je geld!" />
+			<text id="generic_payment_48hdiscount_button" name="Meer Goud in de eerste 48 uur" />
+			<text id="generic_payment_48hdiscount_button_general" name="Meer {0} in de eerste 48 uur" />
+			<text id="generic_payment_48hdiscount_copy" name="Alleen 48 uur na je registratie - Koop geselecteerde goud pakketten en ontvang {0}% Goud gratis!" />
+			<text id="generic_payment_48hdiscount_copy_1" name="Alleen 48 uur na je aanmelding - Koop goud pakketten en ontvang {0}% extra Goud gratis!" />
+			<text id="generic_payment_48hdiscount_copy_1_general" name="Alleen 48 uur na je registratie - Koop {0} pakketten en ontvang gratis {1}% extra!" />
+			<text id="generic_payment_48hdiscount_copy_general" name="Alleen 48 uur na je aanmelding - Koop geselecteerde {0} pakketten en ontvang gratis {1}% extra!" />
+			<text id="generic_payment_btn" name="Naar de Shop" />
+			<text id="generic_payment_copy" name="Je wordt doorgestuurd naar de betaling shop" />
+			<text id="generic_payment_discount_button" name="Nu {0}% meer goud!" />
+			<text id="generic_payment_discount_copy" name="Koop nu goud en ontvang een bonus van {0}%!" />
+			<text id="generic_payment_discount_copy_general" name="Koop nu {0} en ontvang een {1} % bonus!" />
+			<text id="generic_payment_discount_general" name="Krijg nu {0}% meer {1} voor je geld!" />
+			<text id="generic_payment_discount_generalshort" name="Ontvang {0}% meer voor je geld!" />
+			<text id="generic_payment_discount_time" name="{0} resterende!" />
+			<text id="generic_payment_discount_title" name="Meer goud voor je geld!" />
+			<text id="generic_payment_newPrices" name="Vanaf nu! Permanent verlaagde prijzen in onze betalings-shop! Bespaar echt geld!" />
+			<text id="generic_payment_title" name="Betaling shop" />
+		</payment>
+		<progressbar>
+			<text id="loading_text_1" name="Grafieken voorbereiden" />
+			<text id="loading_text_10" name="Items in de wereld verspreiden" />
+			<text id="loading_text_11" name="Grafieken tekenen" />
+			<text id="loading_text_12" name="De knoppen inkleuren" />
+			<text id="loading_text_13" name="Paaseieren verstoppen" />
+			<text id="loading_text_14" name="Zoek gebruikersinformatie op" />
+			<text id="loading_text_15" name="Insecten wegjagen" />
+			<text id="loading_text_16" name="De programmeur voeren" />
+			<text id="loading_text_17" name="Experimenteer met de klant" />
+			<text id="loading_text_18" name="De zandloper omdraaien" />
+			<text id="loading_text_19" name="Het systeem afkoelen" />
+			<text id="loading_text_2" name="Spelmecahniek berekenen" />
+			<text id="loading_text_20" name="Bijna klaar" />
+			<text id="loading_text_3" name="Het hamsterwiel doen draaien" />
+			<text id="loading_text_4" name="De server opwarmen" />
+			<text id="loading_text_5" name="Hopen dat alles goed gaat" />
+			<text id="loading_text_6" name="De verdelger roepen" />
+			<text id="loading_text_7" name="Calculeer gecompliceerde algoritmes" />
+			<text id="loading_text_8" name="Flux capacitor kalibreren" />
+			<text id="loading_text_9" name="Prutserige items" />
+			<text id="loading_text_default" name="Initialisering" />
+			<text id="loading_text_itemXML" name="Spelelementen laden" />
+			<text id="progress_loadfiles" name="Spelgrafieken worden geladen..." />
+			<text id="progress_serverconnection" name="Verbinden met server..." />
+		</progressbar>
+		<register>
+			<text id="generic_register_agb_copy" name="Je moet eerst de Algemene Voorwaarden lezen en accepteren! Bevestigen met de linkerknop en je bent er klaar voor!" />
+			<text id="generic_register_agb_read" name="Lees de Algemene Voorwaarden" />
+			<text id="generic_register_alreadyavatar" name="Deze gebruiker heeft al een avatar." />
+			<text id="generic_register_badword" name="Het is niet toegestaan om {0} te gebruiken in je naam." />
+			<text id="generic_register_btn_agb" name="Algemene Voorwaarden aanvaarden" />
+			<text id="generic_register_btn_later" name="Later" />
+			<text id="generic_register_btn_next" name="Doorgaan" />
+			<text id="generic_register_btn_save" name="Bewaren" />
+			<text id="generic_register_character" name="Creëer je speelfiguur" />
+			<text id="generic_register_copy_0" name="Meld je nu gratis aan!" />
+			<text id="generic_register_copy_1" name="Bewaar je vooruitgang!" />
+			<text id="generic_register_emaillong_copy" name="Je e-mailadres is helaas te lang." />
+			<text id="generic_register_emailwrong_copy" name="Het e-mailadres dat je hebt opgegeven, is niet correct." />
+			<text id="generic_register_email_copy" name="Het E-mailadres mag niet leeg zijn of spaties bevatten." />
+			<text id="generic_register_error" name="Aanmelding mislukt" />
+			<text id="generic_register_errormistake" name="Fout" />
+			<text id="generic_register_error_accountalreadyexists" name="Een andere speler heeft zich al geregistreerd met dit e-mail adres, sorry." />
+			<text id="generic_register_forfree" name="Meld je gratis aan!" />
+			<text id="generic_register_forfree1" name="Gratis!" />
+			<text id="generic_register_letsgo" name="Hier gaan we!" />
+			<text id="generic_register_namealreadyused" name="Deze naam is al in gebruik." />
+			<text id="generic_register_namenotvalid" name="De naam die je hebt opgegeven, is niet juist." />
+			<text id="generic_register_passwordshort_copy" name="Je wachtwoord is te kort. Het moet tenminste 4 letters bevatten." />
+			<text id="generic_register_passwordwrong_copy" name="Het wachtwoord dat je hebt opgegeven, is niet juist." />
+			<text id="generic_register_password_copy" name="Je wachtwoord mag niet leeg zijn of speciale karakters bevatten." />
+			<text id="generic_register_receivenews" name="Nieuws ontvangen" />
+			<text id="generic_register_rememberdata" name="Onthoud gegevens" />
+			<text id="generic_register_reward" name="Meld je gratis aan en ontvang {0} {1}!" />
+			<text id="generic_register_subscribe" name="Aanmelden" />
+			<text id="generic_register_success" name="Je hebt je met succes aangemeld." />
+			<text id="generic_register_title" name="Registratie fout" />
+			<text id="generic_register_unlock" name="Unlock deze functie!" />
+		</register>
+		<report>
+			<text id="generic_report_muted_badword1_copy" name="Let op je taal en manieren. Anders word je geblokkeerd van de chat en zal je account tijdelijk worden afgesloten. Reden: {0}" />
+			<text id="generic_report_muted_badword2_copy" name="Je kunt de chat functie de volgende {0} niet gebruiken omwille van herhaaldelijk misbruik. Reden:  {1}" />
+			<text id="generic_report_muted_domain1" name="Schrijf geen URL&apos;s in de chat!" />
+			<text id="generic_report_muted_reported_copy" name="Sommige spelers hebben over je geklaagd. Je wordt op de chat geblokkeerd voor de volgende{0}. Reden:  {1}" />
+			<text id="generic_report_player_copy" name="Wil je de speler {0} echt melden? Kijk uit! Misbruik maken van deze functie kan tot gevolg hebben dat je account geblokkeerd wordt." />
+			<text id="generic_report_player_reason_0" name="Belediging" />
+			<text id="generic_report_player_reason_1" name="opmerkingen m.b.t. sex" />
+			<text id="generic_report_player_reason_2" name="racistische opmerking" />
+			<text id="generic_report_player_reason_3" name="Bedreiging / blackmail" />
+			<text id="generic_report_player_reason_title" name="reden van melding" />
+			<text id="generic_report_player_title" name="Speler melden?" />
+			<text id="generic_report_reported_copy" name="Een andere speler heeft jou gemeld bij de administrator. Reden:  {0}" />
+		</report>
+		<worlds>
+			<text id="generic_connect" name="Connect" />
+			<text id="generic_select_world" name="Selecteer wereld:" />
+			<text id="generic_world" name="Wereld: {0}" />
+			<text id="generic_world_international" name="Internationaal: {0}" />
+		</worlds>
+	</generic_flash>
+</cafe>

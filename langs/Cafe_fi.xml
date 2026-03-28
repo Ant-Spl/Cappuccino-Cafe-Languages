@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cafe>
+	<achievement>
+		<text id="Basic_Achievement_Boughtdeco" name="Tyylikäs Kahvila" />
+		<text id="Basic_Achievement_Boughtingredients" name="Kätevä kulinarismi" />
+		<text id="Basic_Achievement_Cookingcount" name="Kiireinen kahvila" />
+		<text id="Basic_Achievement_Coopcount" name="Monipuolinen muffinssi" />
+		<text id="Basic_Achievement_Coopgoldcount" name="Paistettu pomo" />
+		<text id="Basic_Achievement_Curiercount" name="Luksuslähetti" />
+		<text id="Basic_Achievement_Differentdishes" name="Vihannesvirtuoosi" />
+		<text id="Basic_Achievement_Earnedchips" name="Menestyksekäs vanukas" />
+		<text id="Basic_Achievement_Fancycount" name="Maistuva maistelija" />
+		<text id="Basic_Achievement_Firenpc" name="Porukan poisheittäjä" />
+		<text id="Basic_Achievement_Instantcount" name="Ahmatin alkupala" />
+		<text id="Basic_Achievement_Jobclean" name="Lennokas lautastenkerääjä" />
+		<text id="Basic_Achievement_Jobserve" name="Lentävä vesipannu" />
+		<text id="Basic_Achievement_Masteies" name="Pikaruokakuningas" />
+		<text id="Basic_Achievement_Masteriesgold" name="Kultainen ruokakuningas" />
+		<text id="Basic_Achievement_Muffinmancash" name="Muhkea muffinssi" />
+		<text id="Basic_Achievement_Muffinmangold" name="Kultainen muffinssi" />
+		<text id="Basic_Achievement_Overcookedfoods" name="Ylin Ilonpilaaja" />
+		<text id="Basic_Achievement_Servingcountmeals" name="Kookas kokki" />
+		<text id="Basic_Achievement_Servingcountsalads" name="Tuore maistelija" />
+		<text id="Basic_Achievement_Servingcountsnacks" name="Maittava muffinssi" />
+		<text id="Basic_Achievement_Servingcountsoups" name="Kekseliäs keittokokki" />
+		<text id="Basic_Achievement_Servingcountsweets" name="Lennokas leipuri" />
+		<text id="Basic_Achievement_Servingcountvegans" name="Kukkiva kukkakaali" />
+		<text id="Basic_Achievement_Servingscount" name="Murkinan Myyjä" />
+		<text id="Basic_Achievement_Solditems" name="Kalustekauppias" />
+		<text id="Basic_Achievement_Spentchips" name="Tuhlaajan muhennos" />
+		<text id="Basic_Achievement_Spentgold" name="Kultainen keitin" />
+		<text id="Basic_Achievement_Wheeloffortune" name="Pyörivä pottu" />
+		<text id="Social_Achievement_Friendscount" name="Julkkiskokki" />
+	</achievement>
+	<alerts>
+		<text id="alert_addcash_copy" name="Täältä voit ostaa Cafédollareita/Kultaa." />
+		<text id="alert_addcash_title" name="Pelirahakauppa" />
+		<text id="alert_addFriend_copy" name="Haluatko lisätä {0} ystäväksesi?" />
+		<text id="alert_addFriend_denied_copy" name="{0} on hylännyt pyyntösi." />
+		<text id="alert_addFriend_denied_title" name="Pyyntö hylätty!" />
+		<text id="alert_addFriend_title" name="Ystäväpyyntö" />
+		<text id="alert_addgold_copy" name="Sinun tulee rekisteröityä ennen kuin voit tehdä ostoksia täällä!" />
+		<text id="alert_addgold_title" name="Rekisteröidy" />
+		<text id="alert_avatarcustom_copy" name="Et voi vaihtaa sitä, kun olet vielä työskentelemässä!" />
+		<text id="alert_buytiles_copy" name="1. Valitse laatta\n2. Valitse alue kahvilastasi ja pidä hiiren näppäin pohjassa\n3. Päästä sitten irti" />
+		<text id="alert_buytiles_title" name="Sijoita laattoja?" />
+		<text id="alert_changePasswordFaild_copy" name="Uuden salasanasi tulee olla enemmän kuin 2 merkkiä pitkä ja vanhan salasanasi tulee olla annettu oikein!" />
+		<text id="alert_changePasswordFaild_title" name="Anna salasana" />
+		<text id="alert_clearstove_cancelButton" name="Pidä" />
+		<text id="alert_clearstove_okButton" name="Heitä pois" />
+		<text id="alert_clearstove_title" name="Annos tarjoillaan tältä tiskiltä. Haluatko säästää annoksen?" />
+		<text id="alert_counter_outofreach_copy" name="Et ylety käyttämään tiskiä. Sisusta kahvilasi uudelleen." />
+		<text id="alert_counter_outofreach_title" name="Huomio!" />
+		<text id="alert_dekoshop_humanwaiter_copy" name="Niin kauan kuin kahvilassasi on muita pelaajia työskentelemässä, et voi muokata sitä." />
+		<text id="alert_dekoshop_humanwaiter_title" name="Ei käy!" />
+		<text id="alert_dekoshop_kickplayer_copy" name="Kahvilassasi on edelleen muita pelaajia. Haluatko heittää heidät ulos ja vaihtaa Muokkaus-valikkoon?" />
+		<text id="alert_dekoshop_kickplayer_title" name="Huomio!" />
+		<text id="alert_FancyCooking_copy" name="Haluatko maustaa annoksesi erikoisruoka-aineilla ja ansaita {0} XP:tä ja {1} annosta lisää?" />
+		<text id="alert_FancyCooking_title" name="Erikoisruoka-aineet" />
+		<text id="alert_fancyinfo_copy" name="Mausta annoksesi tarvittavalla erikoisruoka-aineella ja ansaitset 20 % enemmän XP:tä ja annoksia! Erikoisruoka-aineet eivät enää vie tilaa jääkaapissasi!" />
+		<text id="alert_fancyinfo_title" name="Erikoisruoka-aineet" />
+		<text id="alert_giftboxfull_copy" name="Lahjaboksisi on täynnä! Et voi enää vastaanottaa lahjoja ystäviltäsi!" />
+		<text id="alert_giftboxfull_title" name="Ei tilaa jäljellä!" />
+		<text id="alert_guestchangepassword_copy" name="Voit vaihtaa salasanasi vain rekisteröityneenä pelaajana!" />
+		<text id="alert_guestchangepassword_title" name="Rekisteröidy ensin" />
+		<text id="alert_guestcoop_copy" name="Sinun tulee rekisteröityä jos haluat pelata Tiimitöitä!" />
+		<text id="alert_guestinvitefriend_copy" name="Voit kutsua ystäviäsi vain rekisteröityneenä pelaajana." />
+		<text id="alert_guestinvitefriend_title" name="Rekisteröidy ensin" />
+		<text id="alert_guestlogout_copy" name="Rekisteröidy tallentaaksesi pelituloksesi!" />
+		<text id="alert_guestlogout_title" name="Rekisteröidy" />
+		<text id="alert_help_copy" name="Ensin sinun tulee ottaa itse.." />
+		<text id="alert_help_title" name="Apu" />
+		<text id="alert_invitefriend_confirmed_copy" name="Kutsusi on lähetetty {0}!" />
+		<text id="alert_invitefriend_confirmed_title" name="Kutsu lähetetty!" />
+		<text id="alert_invitefriend_copy" name="Jos haluat kutsua ystävän, anna hänen nimensä ja sähköpostiosoitteensa." />
+		<text id="alert_invitefriend_mail" name="Ystäväsi sähköpostiosoite:" />
+		<text id="alert_invitefriend_myname" name="Nimesi:" />
+		<text id="alert_invitefriend_name" name="Ystäväsi nimi:" />
+		<text id="alert_invitefriend_title" name="Kutsu ystäviä" />
+		<text id="alert_jobhelp_copy1" name="1. Hae ruoka-annos tiskiltä \n2. Vie se odottavalle asiakkaalle" />
+		<text id="alert_jobhelp_copy2" name="1. Ota lautanen/lautaset pöydältä \n2. Vie tiskille" />
+		<text id="alert_jobhelp_header1" name="Tarjoile ruokaa" />
+		<text id="alert_jobhelp_header2" name="Pese astiat" />
+		<text id="alert_jobhelp_title" name="Tehtäväsi" />
+		<text id="alert_jobrefill_copy" name="Jos haluat työskennellä, sinun täytyy rekisteröityä ensin." />
+		<text id="alert_jobrefill_title" name="Rekisteröidy" />
+		<text id="alert_lostpassword_copy" name="Anna sähköpostiosoitteesi ja lähetämme sinulle salasanasi." />
+		<text id="alert_lostpassword_title" name="Unohditko salasanasi?" />
+		<text id="alert_marketplace_jobcancled_copy" name="{0} on hylännyt työtarjouksen." />
+		<text id="alert_marketplace_jobcancled_title" name="Työ hylätty" />
+		<text id="alert_marketplace_jobempty_copy" name="Olet käyttänyt työlupasi tälle päivälle." />
+		<text id="alert_marketplace_jobempty_title" name="Ei työlupaa jäljellä!" />
+		<text id="alert_marketplace_jobhired_copy" name="{0} otti työn vastaan!" />
+		<text id="alert_marketplace_jobhired_title" name="Työ hyväksytty" />
+		<text id="alert_marketplace_job_copy" name="{0} (Taso {1}) tarjosi sinulle töitä. Haluatko ottaa sen vastaan?" />
+		<text id="alert_marketplace_job_title" name="Työtarjous!" />
+		<text id="alert_marketplace_noticeboard_copy" name="Näytä muut työtä etsivät pelaajat. Jos olet jo ollut kiireinen, voit täydentää työlupasi täällä." />
+		<text id="alert_marketplace_noticeboard_title" name="Työlupa" />
+		<text id="alert_marketplace_playerjobempty_copy" name="Pelaaja on työskennellyt tarpeeksi tänään." />
+		<text id="alert_marketplace_playerjobempty_title" name="Työ hylätty" />
+		<text id="alert_marketplace_playerleaved_copy" name="Pelaaja on lähtenyt torilta." />
+		<text id="alert_marketplace_playerleaved_title" name="Ups!" />
+		<text id="alert_nofreecounter_copy" name="Ei vapaata tiskiä." />
+		<text id="alert_nofreecounter_title" name="Ups!" />
+		<text id="alert_nofridge_copy" name="Sinulla ei ole jääkaappia kahvilassasi. Mene muokkaus-valikkoon ja raahaa jääkaappi kahvilaasi." />
+		<text id="alert_nofridge_title" name="Ei jääkaappia?!" />
+		<text id="alert_nojobpermission_copy" name="Tarvitset työluvan, jos haluat etsiä työtä." />
+		<text id="alert_nojobpermission_title" name="Huomio!" />
+		<text id="alert_register_agb_copy" name="Sinun täytyy lukea ja hyväksyä käyttöehdot ensin! Hyväksy vasemmalla olevalla näppäimellä ja voit jatkaa!" />
+		<text id="alert_register_email_copy" name="Sähköpostiosoite ei saa olla tyhjä tai sisältää välilyöntejä." />
+		<text id="alert_register_password_copy" name="Salasanasi ei saa olla tyhjä tai sisältää erikoismerkkejä." />
+		<text id="alert_register_title" name="Rekisteröitymisvirhe" />
+		<text id="alert_seekingjob_copy" name="Jos haluat työskennellä, sinun täytyy rekisteröityä ensin." />
+		<text id="alert_seekingjob_title" name="Rekisteröidy" />
+		<text id="alert_selldeco_copy" name="Haluatko todella myydä tuotteen {0} per kappale?" />
+		<text id="alert_selldeco_title" name="Myy?" />
+		<text id="alert_sellitem_copy" name="Haluatko todella myydä tuotteen {0} per kappale?" />
+		<text id="alert_sellitem_title" name="Myy?" />
+		<text id="alert_smoothiemaker_full_copy" name="Frostyssa on edelleen joitain juomia! Mikset tarjoilisi niitä asiakkaillesi, jotta voit sekoittaa uusia juomia!" />
+		<text id="alert_smoothiemaker_outofreach_copy" name="Frosty on väärässä kohdassa. Mikset siirtelisi tavaroita hieman?" />
+		<text id="alert_smoothiemaker_storage_copy" name="Frostyn sisällä on edelleen juomia! Jos laitat niitä varastoon, menetät jäljellä olevat annokset!" />
+		<text id="alert_stafffire_copy" name="Haluatko todella irtisanoa uskollisen tarjoilijasi?" />
+		<text id="alert_stafffire_title" name="Irtisano tarjoilija?" />
+		<text id="alert_staffhire_copy" name="Anna tarjoilijallesi uusi nimi." />
+		<text id="alert_staffhire_title" name="Palkkaa" />
+		<text id="alert_storefull_copy" name="Jääkaappisi on täynnä! Myy ruoka-aineita saadaksesi lisätilaa!" />
+		<text id="alert_storefull_title" name="Jääkaappi on täynnä!" />
+		<text id="alert_stove_outofreach_copy" name="Et ylety käyttämään liettä. Sisusta kahvilasi uudelleen." />
+		<text id="alert_stove_outofreach_title" name="Huomio!" />
+		<text id="alert_unlockitem_copy" name="Tilaa ruoka-aine lähetyspalveluna. Luksuksella on tosin hintansa." />
+		<text id="alert_unlockitem_title" name="Lähetyspalvelu?" />
+		<text id="alert_userkicked_copy" name="Sinut heitettiin ulos kahvilasta." />
+		<text id="alert_userkicked_title" name="Heitetty ulos!" />
+		<text id="alert_workinghero_copy" name="Kokin täytyy vielä jatkaa työskentelyä!" />
+		<text id="alert_workinghero_title" name="Odota!" />
+	</alerts>
+	<commons>
+		<text id="addgold" name="enemmän kultaa" />
+		<text id="buy" name="Osta" />
+		<text id="cash" name="Cafédollaria" />
+		<text id="comingsoon" name="*Tulossa Pian*" />
+		<text id="day" name="Päivä" />
+		<text id="days" name="Päivää" />
+		<text id="friends" name="{0} ystävää" />
+		<text id="gold" name="Kulta" />
+		<text id="hour" name="Tunti" />
+		<text id="hours" name="Tuntia" />
+		<text id="level" name="Taso" />
+		<text id="logout" name="Kirjaudu ulos" />
+		<text id="mastery" name="Tähtitaso" />
+		<text id="minute" name="Minuutti" />
+		<text id="minutes" name="Minuuttia" />
+		<text id="new" name="Uusi!" />
+		<text id="second" name="Sekunti" />
+		<text id="seconds" name="Sekuntia" />
+		<text id="sell" name="Myy" />
+		<text id="usable_character" name="käytettävä hahmo" />
+		<text id="XofY" name="{0} {1}:stä" />
+		<text id="xp" name="XP" />
+	</commons>
+	<cookstep>
+		<text id="cookstep_bananasplit1" name="Jäädytä jäätelö" />
+		<text id="cookstep_bananasplit2" name="Banaanin pilkkominen" />
+		<text id="cookstep_brigadeiro1" name="Melting chocolate" />
+		<text id="cookstep_brigadeiro2" name="Shaping brigadeiros" />
+		<text id="cookstep_blackforestcherrycake1" name="Ainesosien sekoitus" />
+		<text id="cookstep_blackforestcherrycake2" name="Kakun leipominen" />
+		<text id="cookstep_pizzasalad1" name="Making pizzas" />
+		<text id="cookstep_pizzasalad2" name="Making salads" />
+		<text id="cookstep_tripleomelette1" name="Mixing eggs strongly" />
+		<text id="cookstep_tripleomelette2" name="Folding everything" />
+		<text id="cookstep_chocolatewaffles1" name="Melting chocolate" />
+		<text id="cookstep_chocolatewaffles2" name="Covering waffles" />
+		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
+		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
+		<text id="cookstep_sausagepasta1" name="Boiling pasta" />
+		<text id="cookstep_sausagepasta2" name="Frying sausages" />
+		<text id="cookstep_applepie1" name="Building pies" />
+		<text id="cookstep_applepie2" name="Baking pies" />
+		<text id="cookstep_ramen1" name="Boiling pasta" />
+		<text id="cookstep_ramen2" name="Adding spices" />
+		<text id="cookstep_corncake1" name="Mixing ingredients" />
+		<text id="cookstep_corncake2" name="Baking cakes" />
+		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
+		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
+		<text id="cookstep_cheeseburger1" name="Jauhelihan ruskistus" />
+		<text id="cookstep_cheeseburger2" name="Hampurilaisen kokoaminen" />
+		<text id="cookstep_cheesedish1" name="Juuston asettaminen" />
+		<text id="cookstep_cheesedish2" name="Juuston kypsyttäminen" />
+		<text id="cookstep_cheesefondue1" name="Leivän leipominen" />
+		<text id="cookstep_cheesefondue2" name="Juuston lämmittäminen" />
+		<text id="cookstep_cherriecake1" name="Ainesosien sekoitus" />
+		<text id="cookstep_cherriecake2" name="Kakun leipominen" />
+		<text id="cookstep_cherrycompote1" name="Kirsikoiden haudutus" />
+		<text id="cookstep_cherrycompote2" name="Jäähtymässä" />
+		<text id="cookstep_chickenburger1" name="Kanan ruskistus" />
+		<text id="cookstep_chickenburger2" name="Hampurilaisen kokoaminen" />
+		<text id="cookstep_chickensalad1" name="Kanan paistaminen" />
+		<text id="cookstep_chickensalad2" name="Valmista salaatti" />
+		<text id="cookstep_chickensoup1" name="Pekonin paistaminen" />
+		<text id="cookstep_chickensoup2" name="Keiton valmistaminen" />
+		<text id="cookstep_chiliconcarne1" name="Jauhelihan ruskistus" />
+		<text id="cookstep_chiliconcarne2" name="Chilin valmistaminen" />
+		<text id="cookstep_chocmousse1" name="Ainesosien sekoitus" />
+		<text id="cookstep_chocmousse2" name="Moussen jäädyttäminen" />
+		<text id="cookstep_chocolatecake1" name="Ainesosien sekoitus" />
+		<text id="cookstep_chocolatecake2" name="Leipominen" />
+		<text id="cookstep_chocolatecheesecake1" name="Suklaan sulattaminen" />
+		<text id="cookstep_chocolatecheesecake2" name="Kakun leipominen" />
+		<text id="cookstep_chocolatefondue1" name="Suklaan sulattaminen" />
+		<text id="cookstep_chocolatefondue2" name="Kerman lisääminen" />
+		<text id="cookstep_christmasturkey1" name="Vihannesten höyrytys" />
+		<text id="cookstep_christmasturkey2" name="Kalkkunan paistaminen" />
+		<text id="cookstep_cookieplate1" name="Muotoon leikkaaminen" />
+		<text id="cookstep_cookieplate2" name="Keksien leipominen" />
+		<text id="cookstep_cornonthecob1" name="Maissin keittäminen" />
+		<text id="cookstep_cornonthecob2" name="Salaatin valmistaminen" />
+		<text id="cookstep_curry1" name="Ainesosien ruskistus" />
+		<text id="cookstep_curry2" name="Kookoksen lisääminen" />
+		<text id="cookstep_duckalorange1" name="Ankan täyttäminen" />
+		<text id="cookstep_duckalorange2" name="Ankan paistaminen" />
+		<text id="cookstep_easterdish1" name="Suklaan sulattaminen" />
+		<text id="cookstep_easterdish2" name="Keitä kananmunat" />
+		<text id="cookstep_englishbreakfast1" name="Papujen keittäminen" />
+		<text id="cookstep_englishbreakfast2" name="Makkaroiden paistaminen" />
+		<text id="cookstep_fishandchips1" name="Paistaminen" />
+		<text id="cookstep_fishandchips2" name="Herneiden muussaus" />
+		<text id="cookstep_friedpotatoes1" name="Perunoiden keittäminen" />
+		<text id="cookstep_friedpotatoes2" name="Perunoiden ruskistus" />
+		<text id="cookstep_fruitpudding1" name="Taikinan kohottaminen" />
+		<text id="cookstep_fruitpudding2" name="Leipominen" />
+		<text id="cookstep_fruitsalad1" name="Hedelmien paloittelu" />
+		<text id="cookstep_fruitsalad2" name="Salaatinkastikkeen lisääminen" />
+		<text id="cookstep_greensalad1" name="Kastikkeen sekoitus" />
+		<text id="cookstep_greensalad2" name="Salaatin marinointi" />
+		<text id="cookstep_gumbo1" name="Sipuleiden haudutus" />
+		<text id="cookstep_gumbo2" name="Lisää riisi" />
+		<text id="cookstep_hamburger1" name="Hampurilaisen paistaminen" />
+		<text id="cookstep_hamburger2" name="Hampurilaisen kokoaminen" />
+		<text id="cookstep_hotcherrywaffles1" name="Kirsikoiden haudutus" />
+		<text id="cookstep_hotcherrywaffles2" name="Vohveleiden paistaminen" />
+		<text id="cookstep_jamspongepudding1" name="Ainesosien sekoitus" />
+		<text id="cookstep_jamspongepudding2" name="Leipominen" />
+		<text id="cookstep_lasagne1" name="Jauhelihan ruskistus" />
+		<text id="cookstep_lasagne2" name="Lasagnen valmistaminen" />
+		<text id="cookstep_macncheese1" name="Pataruoan täyttäminen" />
+		<text id="cookstep_macncheese2" name="Leipominen" />
+		<text id="cookstep_maplepancakes1" name="Taikinan sekoitus" />
+		<text id="cookstep_maplepancakes2" name="Ohukaisten paistaminen" />
+		<text id="cookstep_marblecake1" name="Kakkuvuoan täyttäminen" />
+		<text id="cookstep_marblecake2" name="Leipominen" />
+		<text id="cookstep_mexicansalad1" name="Papujen valmistaminen" />
+		<text id="cookstep_mexicansalad2" name="Ainesosien sekoitus" />
+		<text id="cookstep_minestrone1" name="Vihannesten höyrytys" />
+		<text id="cookstep_minestrone2" name="Pastan lisääminen" />
+		<text id="cookstep_mixedsalad1" name="Kastikkeen sekoitus" />
+		<text id="cookstep_mixedsalad2" name="Salaatin marinointi" />
+		<text id="cookstep_nasigoreng1" name="Kanan valmistaminen" />
+		<text id="cookstep_nasigoreng2" name="Vihannesten höyrytys" />
+		<text id="cookstep_newyorkcheesecake1" name="Sekoita täyte" />
+		<text id="cookstep_newyorkcheesecake2" name="Kakun leipominen" />
+		<text id="cookstep_noodlesalad1" name="Majoneesin sekoitus" />
+		<text id="cookstep_noodlesalad2" name="Sekoita ainesosat" />
+		<text id="cookstep_omelette1" name="Kauden munat" />
+		<text id="cookstep_omelette2" name="Taittele munat" />
+		<text id="cookstep_onionsoup1" name="Sipuleiden ruskistus" />
+		<text id="cookstep_onionsoup2" name="Gratinoiminen" />
+		<text id="cookstep_peasoup1" name="Sipuleiden ruskistus" />
+		<text id="cookstep_peasoup2" name="Keiton valmistaminen" />
+		<text id="cookstep_pizza1" name="Pizzan täyttäminen" />
+		<text id="cookstep_pizza2" name="Pizzan valmistaminen" />
+		<text id="cookstep_pizzahawaii1" name="Pizzan täyttäminen" />
+		<text id="cookstep_pizzahawaii2" name="Pizzan valmistaminen" />
+		<text id="cookstep_pizzatonno1" name="Pizzan täyttäminen" />
+		<text id="cookstep_pizzatonno2" name="Pizzan valmistaminen" />
+		<text id="cookstep_porkroastwithcrackling1" name="Lihan maustaminen" />
+		<text id="cookstep_porkroastwithcrackling2" name="Paistaminen" />
+		<text id="cookstep_potatosalad1" name="Perunoiden keittäminen" />
+		<text id="cookstep_potatosalad2" name="Majoneesin sekoitus" />
+		<text id="cookstep_redberrycompote1" name="Hedelmien haudutus" />
+		<text id="cookstep_redberrycompote2" name="Makeuta" />
+		<text id="cookstep_ricepudding1" name="Riisivanukkaan keittäminen" />
+		<text id="cookstep_ricepudding2" name="Tee omenasosetta" />
+		<text id="cookstep_roastchicken1" name="Kanan täyttäminen" />
+		<text id="cookstep_roastchicken2" name="Paistaminen" />
+		<text id="cookstep_sandwich1" name="Leivän voiteleminen" />
+		<text id="cookstep_sandwich2" name="Voileivän täyttäminen" />
+		<text id="cookstep_scouse1" name="Lihan valmistaminen" />
+		<text id="cookstep_scouse2" name="Punajuuren lisääminen" />
+		<text id="cookstep_spagetti1" name="Jauhelihan ruskistus" />
+		<text id="cookstep_spagetti2" name="Kastikkeen valmistaminen" />
+		<text id="cookstep_spareribs1" name="Lihan marinointi" />
+		<text id="cookstep_spareribs2" name="Lihan ruskistaminen" />
+		<text id="cookstep_steak1" name="Lihan ruskistaminen" />
+		<text id="cookstep_steak2" name="Salaatin valmistaminen" />
+		<text id="cookstep_steakkidneypie1" name="Valmista täytteet" />
+		<text id="cookstep_steakkidneypie2" name="Leipominen" />
+		<text id="cookstep_stew1" name="Lihan ruskistaminen" />
+		<text id="cookstep_stew2" name="Hauduttaminen" />
+		<text id="cookstep_stewedrhubarb1" name="Raparperin keittäminen" />
+		<text id="cookstep_stewedrhubarb2" name="Jäähtymässä" />
+		<text id="cookstep_strawberrycake1" name="Kakkupohjan leipominen" />
+		<text id="cookstep_strawberrycake2" name="Kakun koristelu" />
+		<text id="cookstep_strawberrymousse1" name="Murskaa mansikat" />
+		<text id="cookstep_strawberrymousse2" name="Moussen vaahdotus" />
+		<text id="cookstep_stuffedpeppers1" name="Paprikoiden täyttäminen" />
+		<text id="cookstep_stuffedpeppers2" name="Paprikoiden paistaminen" />
+		<text id="cookstep_sundayfeast1" name="Lihan marinointi" />
+		<text id="cookstep_sundayfeast2" name="Lihan ruskistaminen" />
+		<text id="cookstep_sushi1" name="Ainesosien lajittelu" />
+		<text id="cookstep_sushi2" name="Rullaaminen" />
+		<text id="cookstep_toadinhole1" name="Taikinan sekoitus" />
+		<text id="cookstep_toadinhole2" name="Leipominen" />
+		<text id="cookstep_toast1" name="Voileivän täyttäminen" />
+		<text id="cookstep_toast2" name="Paahtoleivän paahtaminen" />
+		<text id="cookstep_tofuburger1" name="Tofuhampurilaisen paistaminen" />
+		<text id="cookstep_tofuburger2" name="Hampurilaisen kokoaminen" />
+		<text id="cookstep_tomatosoup1" name="Sipuleiden ruskistus" />
+		<text id="cookstep_tomatosoup2" name="Tomaattien keittäminen" />
+		<text id="cookstep_trifle1" name="Vanukkaan valmistaminen" />
+		<text id="cookstep_trifle2" name="Jälkiruoan kerrostaminen" />
+		<text id="cookstep_veganstirfry1" name="Vihannesten höyrytys" />
+		<text id="cookstep_veganstirfry2" name="Keitä riisi" />
+		<text id="cookstep_vegetablesoup1" name="Sipuleiden ruskistus" />
+		<text id="cookstep_vegetablesoup2" name="Keiton valmistaminen" />
+		<text id="cookstep_veggiecurry1" name="Riisin keittäminen" />
+		<text id="cookstep_veggiecurry2" name="Curryn haudutus" />
+		<text id="cookstep_veggielasagne1" name="Lasagnen kerrostaminen" />
+		<text id="cookstep_veggielasagne2" name="Lasagnen valmistaminen" />
+		<text id="cookstep_whitechoccheesecake1" name="Ainesosien sekoitus" />
+		<text id="cookstep_whitechoccheesecake2" name="Kakun leipominen" />
+		<text id="cookstep_whitechocmousse1" name="Suklaan sulattaminen" />
+		<text id="cookstep_whitechocmousse2" name="Moussen jäädyttäminen" />
+		<text id="cookstep_coxinha1" name="Mixing ingredients" />
+		<text id="cookstep_coxinha2" name="Frying coxinhas" />
+	</cookstep>
+	<coopmission>
+		<text id="coop_desc_long_1" name="Olemme aloittamassa kokkikerhoa parantaaksemme annoksiamme. Haluatko tulla mukaan?" />
+		<text id="coop_desc_long_10" name="Perheesi on tulossa jouluksi kylään ja sinun tehtäväsi on laittaa jouluateria. Nauti!" />
+		<text id="coop_desc_long_11" name="Kakkusota on suunniteltu ja tarvitsemme kakkuja! Leivo niin monta kakkua kuin pystyt.." />
+		<text id="coop_desc_long_12" name="Kaupungin keittoravintola todella tarvitsee keittoja. Voisitko pari kaikille maistuvaa keittoa?" />
+		<text id="coop_desc_long_13" name="Aasialaisia juhlia varten tarvitsemme tyypillisia aasialaisia ruoka-annoksia. Onko sinulla mielessä jokin ohje tätä iltaa varten?" />
+		<text id="coop_desc_long_14" name="Kansallinen rakennuskonferenssi on alkamaisillaan ja tarvitsemme tuhteja annoksia. Onko sinulla jotain kunnon ruokaa valmiina?" />
+		<text id="coop_desc_long_15" name="Vierailijat Lontoosta tulevat pian ja he haluaisivat syödä kotimaansa ruokaa. Voisitko kehitellä jotain?" />
+		<text id="coop_desc_long_2" name="Suunnittelen juhlia meksikolaiseen tapaan. Tarvitsen tyypillisTä meksikolaista ruokaa sitä varten. Voitko auttaa minua?" />
+		<text id="coop_desc_long_3" name="Hampurilainen urheiluseura on vierailulla ja haluan heidän tuntevan olevansa kuin kotonaan. Tarvitsen jonkun, joka osaa tehdä aitoa hampurilaista ruokaa. Haluaisitko sinä auttaa?" />
+		<text id="coop_desc_long_4" name="Suunnittelen isoja puutarhajuhlia, joten tarvitsen paljon ruokaa sitä varten. Kuulin, että sinulla on kokemusta pitopalvelusta. Voitko auttaa minua?" />
+		<text id="coop_desc_long_5" name="Kaupungin laskettelukeskuksessa on isot After Ski -juhlat ja sinne tarvitaan paljon maukasta ruokaa. Voitko auttaa ruoanvalmistuksessa?" />
+		<text id="coop_desc_long_6" name="Pomoni tulee käymään täällä tänä iltana ja haluan tehdä vaikutuksen häneen herkullisella neljän ruokalajin illallisella...Voitko pitää huolta, että se onnistuu?" />
+		<text id="coop_desc_long_7" name="Koulun ruokalassa oli tulipalo ja lapsilla ei ole syötävää! Voitko auttaa meitä ja tehdä jotain maistuvaa ruokaa?" />
+		<text id="coop_desc_long_8" name="Parhaalla ystävälläni on isot syntymäpäiväjuhlat ja hän unohti tilata ruokaa. Monia ihmisiä on tulossa..Voitko auttaa meitä?" />
+		<text id="coop_desc_long_9" name="Kylässä järjestetään italialaistyyliset juhlat. Ainoa asia, joka vielä puuttuu, on ruoka. Oletko hyvä tekemään ruokaa?" />
+		<text id="coop_desc_short_1" name="Haluatko tulla spagettimestariksi?" />
+		<text id="coop_desc_short_10" name="Syö vatsa täyteen!" />
+		<text id="coop_desc_short_11" name="Jokainen osuma lasketaan!" />
+		<text id="coop_desc_short_12" name="Mikään ei voita hyvää keittoa!" />
+		<text id="coop_desc_short_13" name="Lisää aina vähän riisiä!" />
+		<text id="coop_desc_short_14" name="Me pidämme lihasta ja perunoista!" />
+		<text id="coop_desc_short_15" name="Vain parasta briteille!" />
+		<text id="coop_desc_short_2" name="Meksikolainen fiesta parhaimmillaan!" />
+		<text id="coop_desc_short_3" name="Lihapataa hampurilaisille vieraille!" />
+		<text id="coop_desc_short_4" name="Paahtoleipiä puutarhajuhliin!" />
+		<text id="coop_desc_short_5" name="Viedään suklaata juustovuorelle!" />
+		<text id="coop_desc_short_6" name="Suklaamoussea parhaimmillaan!" />
+		<text id="coop_desc_short_7" name="Makunystyröiden kouluttamista!" />
+		<text id="coop_desc_short_8" name="Tee pizzaa ja lisukkeita syntymäpäiväjuhlia varten!" />
+		<text id="coop_desc_short_9" name="Pizza! Pasta! Basta!" />
+		<text id="coop_title_1" name="KOKKIKERHO" />
+		<text id="coop_title_10" name="JOULU ON TÄÄLLÄ!" />
+		<text id="coop_title_11" name="KAKKUSOTA!" />
+		<text id="coop_title_12" name="SOPPA-SEPPO" />
+		<text id="coop_title_13" name="AINA AASIALAISTA" />
+		<text id="coop_title_14" name="TUHDIT TYÖLÄISET!" />
+		<text id="coop_title_15" name="BRITTIEN MAKUUN!" />
+		<text id="coop_title_2" name="TEXMEX-ILTA" />
+		<text id="coop_title_3" name="HANSA-ILTA" />
+		<text id="coop_title_4" name="PUUTARHAJUHLAT" />
+		<text id="coop_title_5" name="AFTER SKI" />
+		<text id="coop_title_6" name="ILLALLISKUTSUT" />
+		<text id="coop_title_7" name="EI KOULURUOKAA TÄNÄÄN" />
+		<text id="coop_title_8" name="SYNTYMÄPÄIVÄKUTSUT" />
+		<text id="coop_title_9" name="ITALIALAINEN BUFFET" />
+	</coopmission>
+	<dialogs>
+		<text id="dialogwin_achievement_title" name="Saavutukset" />
+		<text id="dialogwin_avatarcreate_man" />
+		<text id="dialogwin_avatarcreate_random" name="Muuta ulkonäköä" />
+		<text id="dialogwin_avatarcreate_txt_avatar_name" name="Nimi:" />
+		<text id="dialogwin_avatarcreate_txt_avatar_title" name="Luo hahmosi" />
+		<text id="dialogwin_avatarcreate_woman" />
+		<text id="dialogwin_avatarnameselect_copy" name="Nimi on jo käytössä. Ehdotukset:" />
+		<text id="dialogwin_avatarnameselect_title" name="Ups!" />
+		<text id="dialogwin_avatar_btn_random" name="Yhteensattuma" />
+		<text id="dialogwin_bonus_copy_achievement" name="Olet saavuttanut tason {0} tämän saavutuksen johdosta! Onneksi olkoon!" />
+		<text id="dialogwin_bonus_copy_counter" name="Voit nyt ostaa lisätiskin." />
+		<text id="dialogwin_bonus_copy_dish" name="Uudet reseptit ovat käytettävissä sinulle:" />
+		<text id="dialogwin_bonus_copy_expand" name="Laajensit kahvilaasi! Nyt sinulla on enemmän tilaa asiakkaillesi ja erilaisille koristeille!" />
+		<text id="dialogwin_bonus_copy_fridge" name="Voit nyt ostaa lisäjääkaapin." />
+		<text id="dialogwin_bonus_copy_instant" name="Yksi pikakokkaus jäljellä. Klikkaa kerran ja annoksesi on valmis tarjoiltavaksi." />
+		<text id="dialogwin_bonus_copy_level2" name="Tsekkaa tämä! Voit myös laajentaa kahvilaasi, jotta sinulla olisi enemmän tilaa asiakkaillesi!" />
+		<text id="dialogwin_bonus_copy_login" name="Tämä tapahtui, kun olit poissa:" />
+		<text id="dialogwin_bonus_copy_newwaiter" name="Sinulla on uusi työntekijä! Hanki lisää asiakkaita!" />
+		<text id="dialogwin_bonus_copy_stove" name="Voit nyt ostaa lisälieden." />
+		<text id="dialogwin_bonus_copy_waiter" name="Voit nyt palkata lisätarjoilijan." />
+		<text id="dialogwin_bonus_title_achievement" name="Uusi saavutus" />
+		<text id="dialogwin_bonus_title_counter" name="Uusi liesi" />
+		<text id="dialogwin_bonus_title_dish" name="Uudet reseptit" />
+		<text id="dialogwin_bonus_title_expand" name="Hurraa!" />
+		<text id="dialogwin_bonus_title_fridge" name="Uusi jääkaappi" />
+		<text id="dialogwin_bonus_title_instant" name="Useammin Pikakokkausta" />
+		<text id="dialogwin_bonus_title_level2" name="Laajenna!" />
+		<text id="dialogwin_bonus_title_login" name="Tulit takaisin!" />
+		<text id="dialogwin_bonus_title_newwaiter" name="Onneksi olkoon" />
+		<text id="dialogwin_bonus_title_stove" name="Uusi liesi" />
+		<text id="dialogwin_bonus_title_waiter" name="Enemmän henkilökuntaa" />
+		<text id="dialogwin_buytile_copy" name="Haluatko ostaa {0} laattaa hintaan {1}?" />
+		<text id="dialogwin_buytile_title" name="Osta laattoja?" />
+		<text id="dialogwin_changepassword_copy_newpass" name="Uusi salasana:" />
+		<text id="dialogwin_changepassword_copy_oldpass" name="Vaihda salasana:" />
+		<text id="dialogwin_changepassword_title" name="Vaihda salasana" />
+		<text id="dialogwin_clearcounter_cancelButton" name="Säästä" />
+		<text id="dialogwin_clearcounter_okButton" name="Heitä pois" />
+		<text id="dialogwin_clearcounter_title" name="Ruoka-annos tarjoillaan tältä tiskiltä. Mitä haluaisit tehdä sille?" />
+		<text id="dialogwin_clearstove_btn_cancel" name="Pidä" />
+		<text id="dialogwin_clearstove_btn_ok" name="Heitä pois" />
+		<text id="dialogwin_clearstove_copy" name="Voit vielä tehdä {0} &apos;Pikakokkausta&apos;" />
+		<text id="dialogwin_clearstove_title" name="Ruoka-annos on valmistettu tällä liedellä. Mitä haluaisit tehdä sille?" />
+		<text id="dialogwin_cookbook_income" name="{0} annosta kohden" />
+		<text id="dialogwin_cookbook_readyin" name="Valmiina: {0}" />
+		<text id="dialogwin_cookbook_servings" name="Annokset: {0}" />
+		<text id="dialogwin_coopextend_nomoney" name="Sinulla ei ole tarpeeksi rahaa laajentaaksesi tätä Yhteistyötä!" />
+		<text id="dialogwin_coopreward_finish_0" name="Kulta" />
+		<text id="dialogwin_coopreward_finish_1" name="Hopea" />
+		<text id="dialogwin_coopreward_finish_2" name="Pronssi" />
+		<text id="dialogwin_coopreward_title_fail" name="Tiimityötä ei ole suoritettu!" />
+		<text id="dialogwin_coopreward_title_success" name="Tiimityö suoritettu {0}" />
+		<text id="dialogwin_coopshelp_copy" name="Täällä voit laittaa ruokaa yhdessä ystäviesi kanssa ja ansaita ylimääräisitä XP:itä ja Cafédollareita. Mitä nopeampi olet, sitä parempi on palkintosi!  Jos aika meinaa loppua kesken, voit aina saada lisäaikaa!  Muista kuitenkin, että voit saada palkinnon vain, jos annat tukesi!" />
+		<text id="dialogwin_coopshelp_title" name="Mitä ovat Tiimityöt?" />
+		<text id="dialogwin_coop_btn_action" name="Yksityiskohdat" />
+		<text id="dialogwin_coop_btn_activecoops" name="AKTIIVINEN" />
+		<text id="dialogwin_coop_btn_join" name="Liity" />
+		<text id="dialogwin_coop_btn_newcoop" name="ALOITA TIIMITYÖ" />
+		<text id="dialogwin_coop_btn_quit" name="Poistu" />
+		<text id="dialogwin_coop_extendtime_copy" name="Haluatko saada Tiimityöhösi lisäaikaa {0} kullan hinnalla!  Kulta-aika: {1} tuntia Hopea-aika: {2} tuntia Pronssiaika: {3} tuntia" />
+		<text id="dialogwin_coop_extendtime_title" name="Tarvitsetko lisäaikaa?" />
+		<text id="dialogwin_coop_maxdone" name="Olet jo aloittanut Tiimityön tänään! Voit aloittaa toisen huomenna!" />
+		<text id="dialogwin_coop_maxuser" name="Osallistujien max.määrä : {0}" />
+		<text id="dialogwin_coop_member" name="Tiimityön Jäsen:" />
+		<text id="dialogwin_coop_minlevel" name="Min.taso Tiimintyöhön osallistumiseen: {0}" />
+		<text id="dialogwin_coop_quit_copy" name="Haluatko todella lopettaa tämän Tiimityön?" />
+		<text id="dialogwin_coop_subtitle" name="Valmista nämä annokset:" />
+		<text id="dialogwin_coop_timeInfo" name="Suoritettu:" />
+		<text id="dialogwin_coop_timeleft" name="Aikaa jäljellä:" />
+		<text id="dialogwin_coop_txt_noactive" name="Sinulla ei ole tällä hetkellä aktiivisia tiimitöitä. Mikset aloittaisi sellaista!" />
+		<text id="dialogwin_coop_txt_title" name="TIIMITYÖT" />
+		<text id="dialogwin_decoshophelp_copy" name="Jos raahaat huonekalusi ja koristeesi tähän paneeliin, etkä kassakoneeseen, ne varastoidaan. Voit käyttää niitä uudelleen raahaamalla ne takaisin kahvilaasi. Tämä ei maksa sinulle mitään. Tavaroiden lukumäärä on näkyvillä punaisessa tarrassa, joka on kiinnitetty niihin." />
+		<text id="dialogwin_decoshophelp_copy_1" name="Huonekalut ja koristeet ovat luksusta. Ne siis määrittävät kahvilasi ylellisyysarvon! Kuinka ylellinen kahvilasi on?" />
+		<text id="dialogwin_decoshophelp_title" name="Varastoi koristeet?" />
+		<text id="dialogwin_decoshophelp_title_1" name="Ylellisyysarvo?" />
+		<text id="dialogwin_dishmastery_copy_0" name="Ansaitset tähden {0} ansiosta!" />
+		<text id="dialogwin_dishmastery_copy_1" name="Jaa ylimääräisiä annoksia ystävillesi!" />
+		<text id="dialogwin_dishmastery_info" name="Jokainen tähti, jonka ansaitset, tekee annoksistasi parempia!" />
+		<text id="dialogwin_dishmastery_title" name="Uusi tähti!" />
+		<text id="dialogwin_fancycooking_title" name="Haluatko maustaa tämän annoksen {0}?" />
+		<text id="dialogwin_featureUnlocked_coop" name="Aloita Yhteistyö ystäviesi kanssa!" />
+		<text id="dialogwin_featureUnlocked_decoration" name="Voit nyt ostaa uusia sisustustavaroita!" />
+		<text id="dialogwin_featureUnlocked_fancy" name="Annoksesi saavat extramakua erikoisruoka-aineita käyttämällä!" />
+		<text id="dialogwin_featureUnlocked_frosty" name="Löydä Frosty ja sammuta asiakkaiden jano!" />
+		<text id="dialogwin_featureUnlocked_marketplace" name="Löydä uusia ystäviä torilta!" />
+		<text id="dialogwin_featureUnlocked_muffinman" name="Koita onneasi Muffinsimiehen kanssa!" />
+		<text id="dialogwin_featureUnlocked_ranking" name="Vieraile muiden pelaajien kahviloissa ranking-listan kautta!" />
+		<text id="dialogwin_featureUnlocked_staff" name="Palkkaa uusi tarjoilija, jotta voit palvella yhä useampia asiakkaita!" />
+		<text id="dialogwin_featureUnlocked_wheeloffortune" name="Koita onneasi Onnenpyörässä!" />
+		<text id="dialogwin_FriendShop_copy" name="Tarvitset vielä {0} ystävää laajentaaksesi kahvilaa!\nVoit myös palkata remonttimiehen {1} kullan hinnalla!" />
+		<text id="dialogwin_FriendShop_title" name="Uudet ystävät" />
+		<text id="dialogwin_giftbox_close" name="sulje" />
+		<text id="dialogwin_giftbox_friendlist_empty" name="Voit lähettää network-ystävillesi vain yhden lahjan päivässä." />
+		<text id="dialogwin_giftbox_friendlist_notavailable" name="Voit lähettää lahjoja ystävillesi huomisesta eteenpäin!" />
+		<text id="dialogwin_giftbox_ggsgifts_empty" name="Ei lahjoja! Tulet saamaan uusia lahjoja sisäänkirjautumisbonuksena!" />
+		<text id="dialogwin_giftbox_mygifts_empty" name="Et ole saanut lahjoja tänään. Lähetä niitä ystävillesi, ehkä he lähettävät sinulle jotain takaisin." />
+		<text id="dialogwin_giftbox_remove" name="heitä pois" />
+		<text id="dialogwin_giftbox_send" name="lähetä" />
+		<text id="dialogwin_giftbox_sendablegifts_empty" name="Ei lahjoja tänään." />
+		<text id="dialogwin_giftbox_title" name="Lahjat!" />
+		<text id="dialogwin_giftbox_use" name="käytä" />
+		<text id="dialogwin_highscore_luxury" name="Ylellinen" />
+		<text id="dialogwin_highscore_name" name="Nimi" />
+		<text id="dialogwin_highscore_rank" name="Ranking-lista" />
+		<text id="dialogwin_highscore_searchtext" name="Etsi Nimi/Sijoitus" />
+		<text id="dialogwin_highscore_title" name="Ranking-lista" />
+		<text id="dialogwin_ingamehelp_1_1" name="Kuinka valmistan tämän annoksen?" />
+		<text id="dialogwin_ingamehelp_1_2" name="Käytä hellaa valmistaaksesi annoksia asiakkaillesi. Jos haluat tehdä niin, sinun täytyy valita keittokirja ja valmistaa valitsemasi annos klikkaamalla sitä useita kertoja." />
+		<text id="dialogwin_ingamehelp_1_3" name="Saat kokonaiskuvan kaikista ruokaohjeista ja tarvittavista ainesosista keittokirjassa." />
+		<text id="dialogwin_ingamehelp_1_4" name="Löydät ruokaohjeeseen tarvittavat ainesosat ruokakaupasta." />
+		<text id="dialogwin_ingamehelp_1_5" name="Kun olet kerännyt kaikki ainesosat kokoon, klikkaa laittaaksesi ruokaa ja valmistat annoksen." />
+		<text id="dialogwin_ingamehelp_1_6" name="Annos on valmis ennaltamäärätyn ajan kuluessa. Voit laittaa sen tiskille tarjoillaksesi sen." />
+		<text id="dialogwin_ingamehelp_1_7" name="Käytetty liesi on likainen ja se pitää puhdistaa ennen seuraavaa käyttöä." />
+		<text id="dialogwin_ingamehelp_2_1" name="Mitä sinun tulee tietää ainesosista?" />
+		<text id="dialogwin_ingamehelp_2_2" name="Tämä on se paikka, jossa säilytetään ostamiasi ainesosia. Jääkaapissa on rajoitettu määrä tilaan, mutta on kuitenkin aina hyvä ostaa varastoon." />
+		<text id="dialogwin_ingamehelp_2_3" name="Erikoisruoka-aineet tuovat makua ruokiisi. Jos käytät niitä, saat enemmän annoksia ja XP:itä. Ne eivät vie tilaa jääkaapissasi." />
+		<text id="dialogwin_ingamehelp_2_4" name="Osa ainesosista saattaa olla loppu välillä. Lähetti voi auttaa sinua tällöin. Pienen tipin avulla saat aina haluamasi ainesosat." />
+		<text id="dialogwin_ingamehelp_2_5" name="Nämä ainesosat ovat aina saatavilla:" />
+		<text id="dialogwin_ingamehelp_3_1" name="Valuutat" />
+		<text id="dialogwin_ingamehelp_3_2" name="Saat kokemuspisteitä tarjoilemalla annoksia. Muut mahdollisuudet ovat: tarjoileminen muissa kahviloissa, onnistuneet Yhteistyöt, palkinnot tai juomien tarjoileminen." />
+		<text id="dialogwin_ingamehelp_3_3" name="Suosiosi perustuu siihen kuinka monta asiakasta sinulla on. Suosiosi kasvaa, kun asiakkaat lähtevät kahvilastasi tyytyväisinä. Asiakkaat ovat tyytyväisiä, kun he saavat jotain syötävää." />
+		<text id="dialogwin_ingamehelp_3_4" name="Ansaitset Cafedollareita myymällä aterioita. Muut vaihtoehdot ovat: tarjoilijana työskenteleminen, onnistuneet Yhteistyöt tai saavutukset." />
+		<text id="dialogwin_ingamehelp_3_5" name="Jokaisella remonttivalikossa olevalla tavaralla on luksusarvo. Tämä vaikuttaa suosioosi. Mitä enemmän luksusta, sitä parempi.." />
+		<text id="dialogwin_ingamehelp_3_6" name="Löydät hellat, tiskit, pöydät ja muut tavarat remonttimenusta. Ole luova!" />
+		<text id="dialogwin_ingamehelp_3_7" name="Jos kahvilasi tuntuu liian pieneltä, voit laajentaa sitä ja saat lisää tilaa asiakkaillesi." />
+		<text id="dialogwin_ingamehelp_4_1" name="Mitä muuta minun tulee tietää?" />
+		<text id="dialogwin_ingamehelp_4_2" name="Torilla voit tutustua muihin pelaajiin, etsiä työtä tai jutella muiden pelaajien kanssa." />
+		<text id="dialogwin_ingamehelp_4_3" name="Voit ansaita saavutuksia monista eri toiminnoista ja niiden avulla saat myös XP:itä ja Cafedollareita." />
+		<text id="dialogwin_ingamehelp_4_4" name="Torilla voit palkata muita pelaajia tarjoilijoiksi kahvilaasi tai voit itse mennä töihin jonkin toisen pelaajan kahvilaan." />
+		<text id="dialogwin_ingamehelp_4_5" name="Yhteistyö on yhteisöllinen kokkausprojekti, jota voit suorittaa yhdessä muiden pelaajien kanssa. Jos menestytte teitä odottaa palkinto." />
+		<text id="dialogwin_ingamehelp_4_6" name="Tarjoilijat tarjoilevat annoksia odottaville asiakkaille ja keräävät likaiset astiat pöydiltä pois." />
+		<text id="dialogwin_ingamehelp_4_7" name="Valmiit ruoka-annokset, joita ei ole laitettu tiskille ajoissa, pilaantuvat." />
+		<text id="dialogwin_ingamehelp_ingredients" name="Ainesosat" />
+		<text id="dialogwin_ingredient_all" name="Kaikki" />
+		<text id="dialogwin_ingredient_emptyfridge" name="Jääkaappisi on tyhjä! Jos haluat tehdä ruokaa, sinun täytyy ostaa ruoka-aineita ruokakaupasta." />
+		<text id="dialogwin_ingredient_fancy" name="Erikoisruoka-aineet" />
+		<text id="dialogwin_ingredient_fruits" name="Hedelmät" />
+		<text id="dialogwin_ingredient_instore" name="x varasto" />
+		<text id="dialogwin_ingredient_meat" name="Liha" />
+		<text id="dialogwin_ingredient_notinstock" name="Ei varastossa tänään!" />
+		<text id="dialogwin_ingredient_shoplayer" name="Ruokakauppa" />
+		<text id="dialogwin_ingredient_storecapacity" name="Tilaa yhteensä:" />
+		<text id="dialogwin_ingredient_storeinused" name="Jääkaapissasi:" />
+		<text id="dialogwin_ingredient_storelayer" name="Jääkaappi" />
+		<text id="dialogwin_ingredient_vegatable" name="Kasvisruoat" />
+		<text id="dialogwin_instantcooking_copy" name="Haluatko käyttää Pikakokkausta? Vielä {0} kertaa mahdollinen!" />
+		<text id="dialogwin_instantcooking_title" name="Haluatko käyttää \n &apos;Pikakokkausta&apos;?" />
+		<text id="dialogwin_jobpaycheck_copy" name="Ahkerat tarjoilijat palkitaan avokätisesti! Tippien lisäksi olet myös saanut kokemusta" />
+		<text id="dialogwin_jobpaycheck_title" name="Lasku" />
+		<text id="dialogwin_levelup_copy" name="Olet saavuttanut tason {0}!" />
+		<text id="dialogwin_levelup_copy_1" name="Palkintosi:" />
+		<text id="dialogwin_levelup_copy_2" name="Saatavilla sinulle:" />
+		<text id="dialogwin_levelup_title" name="UUSI TASO" />
+		<text id="dialogwin_lonelyingredient_copy" name="Tarjoilijas löysi laatikon, jossa oli salaperäistä ruoka-ainetta\n\nAnna se ystävillesi!" />
+		<text id="dialogwin_lonelyingredient_title" name="Yllätys!" />
+		<text id="dialogwin_lonelytip_copy" name="Eräs asiakkaistasi jätti sinulle ison tipin! Anna osa siitä ystävillesi!" />
+		<text id="dialogwin_lonelytip_title" name="Hurraa!" />
+		<text id="dialogwin_muffinman_beforebet" name="Valitse panoksesi. Jos voitat, saat sen kaksinkertaisesti takaisin!" />
+		<text id="dialogwin_muffinman_btn_again" name="Uudestaan!" />
+		<text id="dialogwin_muffinman_btn_go" name="Mene!" />
+		<text id="dialogwin_muffinman_header" name="Etsi täyte!" />
+		<text id="dialogwin_muffinman_lostbet" name="Aina ei voi voittaa. Haluaisitko yrittää uudelleen?" />
+		<text id="dialogwin_muffinman_nomoney" name="Sinulla ei ole tarpeeksi Cafédollareita/Kultaa tätä panosta varten!" />
+		<text id="dialogwin_muffinman_nopayment" name="Jos haluat pelata Kullasta, sinun täytyy olla tasolla 10!" />
+		<text id="dialogwin_muffinman_noregister" name="Vain rekisteröityneenä pelaajana voit pelata &quot;Etsi täyte&quot; -peliä!" />
+		<text id="dialogwin_muffinman_nosale" name="Et voi myydä muffinsinleipojaa!" />
+		<text id="dialogwin_muffinman_onlyonebuy" name="Voit laittaa vain yhden muffinssinleipojan kahvilaasi!" />
+		<text id="dialogwin_muffinman_placedbet" name="Todella hienoa! Mitkä muffinseista piilottelevat täytettä?" />
+		<text id="dialogwin_muffinman_toohighbet" name="Et voi laittaa noin suurta panosta! Suurin mahdollinen panos on {0} Kultaa ja {1} Cafédollaria!" />
+		<text id="dialogwin_muffinman_wonbet" name="Nam! Löysit täytteen! Kokeillaan uudelleen." />
+		<text id="dialogwin_nomoney_avatarchange" name="Sinulla ei ole tarpeeksi Kultaa vaihtaaksesi vaatteita!" />
+		<text id="dialogwin_nomoney_clean_copy" name="Sinulla ei ole tarpeeksi Cafédollareita lieden puhdistamiseen." />
+		<text id="dialogwin_nomoney_copy" name="Ups, sinulla ei ole tarpeeksi Cafédollareita/Kultaa tämän tuotteen ostamiseksi!" />
+		<text id="dialogwin_nomoney_courier" name="Ups, sinulla ei ole tarpeeksi paljon Cafédollareita/Kultaa maksaaksesi lähetille!" />
+		<text id="dialogwin_nomoney_instantcook_copy" name="Sinulla ei ole tarpeeksi Kultaa tehdäksesi pikakokkausta." />
+		<text id="dialogwin_nomoney_moregold" name="Osta Cafédollareita/Kultaa" />
+		<text id="dialogwin_nomoney_npchire" name="Sinulla ei ole tarpeeksi Kultaa palkataksesi uutta tarjoilijaa!" />
+		<text id="dialogwin_nomoney_ok" name="OK" />
+		<text id="dialogwin_nomoney_title" name="Ei tarpeeksi Cafédollareita/Kultaa" />
+		<text id="dialogwin_noreward_copy" name="Toinen pelaaja sai palkinnon ennen sinua!" />
+		<text id="dialogwin_noreward_title" name="Harmi!" />
+		<text id="dialogwin_perfectdish_copy" name="Olet saavuttanut {0}!\nAnna ylimääräisiä palveluja ystävillesi!" />
+		<text id="dialogwin_perfectdish_title" name="Täydellistä!" />
+		<text id="dialogwin_presentreceived_copy" name="Tervetuliaislahjasi {0} on lisätty tilillesi." />
+		<text id="dialogwin_presentreceived_title" name="Lahja vastaanotettu!" />
+		<text id="dialogwin_presentreminder_btn_send" name="Lähetä" />
+		<text id="dialogwin_presentreminder_copy1" name="Klikkaa kultaa sähköpostissa olevassa linkissä ja saat {0} kultaa!" />
+		<text id="dialogwin_presentreminder_copy2" name="Kyllä lähetä {0} Kultaa sähköpostiini nyt:" />
+		<text id="dialogwin_presentreminder_title" name="{0} kultaa sinulle!" />
+		<text id="dialogwin_receiveitem_copy" name="Palkintosi on lahjaboxissasi!" />
+		<text id="dialogwin_receiveitem_title" name="Hurraa!" />
+		<text id="dialogwin_receivemoney_copy" name="Palkintosi on hyvitetty!" />
+		<text id="dialogwin_receivemoney_title" name="Onneksi olkoon!" />
+		<text id="dialogwin_refreshfood_btn_clean" name="Siivoa" />
+		<text id="dialogwin_refreshfood_btn_refresh" name="Säästä ruoka" />
+		<text id="dialogwin_refreshfood_title" name="Haluatko säästää annoksen?" />
+		<text id="dialogwin_register_agbs" name="Hyväksy käyttöehdot" />
+		<text id="dialogwin_register_mail" name="Sähköposti" />
+		<text id="dialogwin_register_password" name="Salasana" />
+		<text id="dialogwin_register_title" name="Rekisteröidy" />
+		<text id="dialogwin_sendgift_send" name="lähetä" />
+		<text id="dialogwin_sendgift_titel" name="Lähetä.." />
+		<text id="dialogwin_settings_email" name="Estä sähköpostin vastaanotto" />
+		<text id="dialogwin_settings_general" name="Yleinen" />
+		<text id="dialogwin_settings_high" name="Korkea" />
+		<text id="dialogwin_settings_low" name="Alhainen" />
+		<text id="dialogwin_settings_medium" name="Keskitaso" />
+		<text id="dialogwin_settings_quality" name="Laatu" />
+		<text id="dialogwin_shippingconfirmation_copy1" name="Klikkaa linkkiä sähköpostissasi hakeaksesi kullan." />
+		<text id="dialogwin_shippingconfirmation_copy2" name="Etkö saanut vielä sähköpostia? Se voi kestää muutaman minuutin. Jos et löydä sitä hetken kuluttua roskapostistakaan tukitiimimme auttaa sinua mielellään." />
+		<text id="dialogwin_shippingconfirmation_title" name="Kultainen sähköposti on matkalla!" />
+		<text id="dialogwin_smoothiemakerhelp_copy" name="Täällä voit sekoittaa juomia ja tarjoilla niitä asiakkaille.  Valitse juoma ja klikkaa &quot;sekoita&quot;.  Klikkaa &quot;janoista&quot; asiakasta ennen kuin hän istuutuu tarjoillaksesi hänelle juoman.  &quot;Janoisten&quot; asikkaiden pään yläpuolella on kuvake." />
+		<text id="dialogwin_smoothiemakerhelp_title" name="Kuinka myyn juomia?" />
+		<text id="dialogwin_smoothiemaker_allserved_copy" name="Olet tarjoillut kaikki annokset! Odota kunnes Frosty on tyhjä valmistaaksesi lisää juomia!" />
+		<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="Kauppaan" />
+		<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Sinun täytyy ostaa Frosty tarjoillaksesi juomia!" />
+		<text id="dialogwin_smoothiemaker_nomoney_copy" name="Sinulla ei ole tarpeeksi Cafèdollareita/Kultaa sekoittaaksesi tätä juomaa!" />
+		<text id="dialogwin_smoothiemaker_noservings_copy" name="Sinulla ei ole yhtään juomaa jäljellä! Sekoita jotain uutta!" />
+		<text id="dialogwin_smoothiemaker_onlyonebuy" name="Voit asettaa vain yhden Frostyn kahvilaasi!" />
+		<text id="dialogwin_smoothiemaker_txt_title" name="FROSTY" />
+		<text id="dialogwin_staffmanagement_btn_fire" name="Irtisano" />
+		<text id="dialogwin_staffmanagement_favorite" name="Tehtävä?" />
+		<text id="dialogwin_staffmanagement_favorite0" name="Siivous" />
+		<text id="dialogwin_staffmanagement_favorite100" name="Tarjoileminen" />
+		<text id="dialogwin_staffmanagement_fire" name="Irtisano?" />
+		<text id="dialogwin_staffmanagement_renamecopy" name="Anna tarjoilijallesi uusi nimi:" />
+		<text id="dialogwin_staffmanagement_renametitle" name="Nimeä uudelleen?" />
+		<text id="dialogwin_staff_hire" name="Palkkaa" />
+		<text id="dialogwin_staff_management" name="Hallitse" />
+		<text id="dialogwin_staff_new" name="Uusi tarjoilija" />
+		<text id="dialogwin_staff_title" name="Sinun tarjoilijasi" />
+		<text id="dialogwin_welcomeback_text" name="Saat lahjaksi: {0} Kultaa" />
+		<text id="dialogwin_welcomeback_text2" name="Saat lahjana: {0} Kultaa ja 3 siistiä ainesosaa." />
+		<text id="dialogwin_welcomeback_text3" name="" />
+		<text id="dialogwin_welcomeback_title" name="Tervetuloa takaisin {0}!" />
+		<text id="dialogwin_wheeloffortune_beforespin" name="Pyöritä onnenpyörää ja voit voittaa upeita palkintoja!" />
+		<text id="dialogwin_wheeloffortune_btn_go" name="Pyöritä!" />
+		<text id="dialogwin_wheeloffortune_btn_towheel" name="Pyörään" />
+		<text id="dialogwin_wheeloffortune_copy1" name="Pyörititkö jo onnenpyörää?" />
+		<text id="dialogwin_wheeloffortune_header" name="ONNENPYÖRÄ!" />
+		<text id="dialogwin_wheeloffortune_info" name="Päivän ensimmäinen pyöritys on ilmainen!" />
+		<text id="dialogwin_wheeloffortune_info1" name="Jokainen pyöritys tästä lähtien maksaa sinulle yhden Kullan verran!" />
+		<text id="dialogwin_wheeloffortune_nomoney" name="Sinulla ei ole tarpeeksi kultaa pyörittääksesi onnenpyörää!" />
+		<text id="dialogwin_wheeloffortune_noregister" name="Voit pyörittää onnenpyörää vain rekisteröityneenä pelaajana!" />
+		<text id="dialogwin_wheeloffortune_nospace" name="Lahjaboksissasi ei ole tilaa palkinnoille!Tee sinne tilaa ja sen jälkeen voit pyörittää onnenpyörää!" />
+		<text id="dialogwin_wheeloffortune_title" name="Onnenpyörä!" />
+		<text id="dialogwin_wheeloffortune_tryagain" name="Yritä uudelleen!" />
+		<text id="dialogwin_wheeloffortune_wonbet" name="Onnittelut! Palkintosi:" />
+		<text id="dialogwin_wheeloffortune_woncash" name="Onneksi olkoon! Palkintosi on jo jaettu!" />
+		<text id="dialogwin_wheeloffortune_wonfood" name="Onneksi olkoon! Palkintosi on lahjaboxissa!" />
+		<text id="dialogwin_wheeloffortune_wongold" name="Voitit kultapotin!" />
+		<text id="dialogwin_wheeloffortune_wonitem" name="Onneksi olkoon! Löydät palkintosi inventaariosta!" />
+	</dialogs>
+	<error_codes>
+		<text id="achievement_error" name="Saavutukset" />
+		<text id="achievement_errorcode_1" name="Virhe" />
+		<text id="cafechat_errorcode_23" name="Järjestelmänvalvoja on tilapäisesti poistanut chattoimintosi." />
+		<text id="cafechat_errorcode_24" name="Ole hyvä äläkä poista chattia!" />
+		<text id="cafewalk_errorcode_1" name="Huomio!" />
+		<text id="cafewalk_errorcode_23" name="Et voi mennä sinne." />
+		<text id="cafe_error" name="Huomio!" />
+		<text id="changepassword_error" name="Vaihda salasana" />
+		<text id="changepassword_errorcode_0" name="Salasanasi vaihtaminen onnistui!" />
+		<text id="changepassword_errorcode_1" name="Virhe" />
+		<text id="changepassword_errorcode_10" name="Tämä ei ole vanha salasanasi." />
+		<text id="coop_errorcode_3" name="Sinun tasosi on liian alhainen tähän Tiimityöhön osallistumiseksi. \nSinun täytyy avata ainakin yksi resepti." />
+		<text id="coop_errorcode_7" name="Voit osallistua tähän Tiimityöhön vain tasolle {0} asti" />
+		<text id="coop_errorcode_85" name="Tämä Yhteistyö on jo täynnä." />
+		<text id="courier_error" name="Ongelmia toimituksessa" />
+		<text id="courier_errorcode_40" name="Varastosi ei ole tarpeeksi iso!" />
+		<text id="courier_errorcode_42" name="Ruoka-aine on nyt saatavissa tavallisessa kaupassa. Käy katsomassa!" />
+		<text id="courier_errorcode_43" name="Lähetillä on tällä hetkellä liikaa töitä, eikä hän pysty toimittamaan tavaroitasi." />
+		<text id="createavatar_error" name="Huomio!" />
+		<text id="createavatar_errorcode_12" name="Tämä nimi on jo käytössä" />
+		<text id="createavatar_errorcode_15" name="Tällä käyttäjällä on jo avatar." />
+		<text id="createavatar_errorcode_18" name="Nimi on virheellinen." />
+		<text id="createavatar_error_invalide" name="Käyttäjänimesi  ei saa olla tyhjä tai sisältää erikoismerkkejä." />
+		<text id="createavatar_error_nogender" name="Ole hyvä ja valitse hahmosi!" />
+		<text id="editbuy_errorcode_1" name="Huomio!" />
+		<text id="editbuy_errorcode_3" name="Et ole vielä saavuttanut tasoa, jossa tämä kohde avautuu." />
+		<text id="editbuy_errorcode_38" name="Voit muuttaa kahvilaasi vain Muokkaus-valikossa." />
+		<text id="editbuy_errorcode_39" name="Sijoitus ei ole mahdollinen. Ole hyvä ja raahaa kohde vapaalle paikalle kahvilassasi." />
+		<text id="editextend_errorcode_1" name="Huomio!" />
+		<text id="editextend_errorcode_38" name="Voit muuttaa kahvilaasi vain Muokkaus-valikossa." />
+		<text id="editextend_errorcode_53" name="Ostit jo tämän laajennuksen" />
+		<text id="editextend_errorcode_54" name="Et voi ostaa tätä laajennusta vielä." />
+		<text id="editmode_errorcode_1" name="Huomio!" />
+		<text id="editmoveobj_errorcode_1" name="Huomio!" />
+		<text id="editmoveobj_errorcode_38" name="Voit muuttaa kahvilaasi vain Muokkaus-valikossa." />
+		<text id="editmoveobj_errorcode_39" name="Sijoitus ei ole mahdollinen. Ole hyvä ja raahaa kohde vapaalle paikalle kahvilassasi." />
+		<text id="editrotateobj_errorcode_1" name="Huomio!" />
+		<text id="editrotateobj_errorcode_38" name="Voit muuttaa kahvilaasi vain Muokkaus-valikossa." />
+		<text id="editrotateobj_errorcode_39" name="Sijoitus ei ole mahdollinen. Ole hyvä ja raahaa kohde vapaalle paikalle kahvilassasi." />
+		<text id="editsell_errorcode_1" name="Huomio!" />
+		<text id="editsell_errorcode_32" name="Tuotetta ei ole varastossa." />
+		<text id="editsell_errorcode_38" name="Voit muuttaa kahvilaasi vain Muokkaus-valikossa." />
+		<text id="editsell_errorcode_39" name="Sijoitus ei ole mahdollinen. Ole hyvä ja raahaa kohde vapaalle paikalle kahvilassasi." />
+		<text id="editstoreobj_errorcode_1" name="Huomio!" />
+		<text id="editstoreobj_errorcode_37" name="Tämän päällä on ruoka-annos!" />
+		<text id="editstoreobj_errorcode_38" name="Voit muuttaa kahvilaasi vain Muokkaus-valikossa." />
+		<text id="editstoreobj_errorcode_39" name="Sijoitus ei ole mahdollinen. Ole hyvä ja raahaa kohde vapaalle paikalle kahvilassasi." />
+		<text id="editstoreobj_errorcode_51" name="Tämä alue on tyhjä, siinä ei ole mitään myytävää." />
+		<text id="editstoreobj_removefailmin_counter" name="Sinulla tulee olla vähintään yksi tiski." />
+		<text id="editstoreobj_removefailmin_fridge" name="Sinulla tulee olla vähintään yksi jääkaappi." />
+		<text id="editstoreobj_removefailmin_stove" name="Sinulla tulee olla vähintään yksi liesi." />
+		<text id="editstoreobj_removefailmin_title" name="Huomio!" />
+		<text id="editstoreobj_removefail_counter" name="Tiskin tulee olla tyhjä." />
+		<text id="editstoreobj_removefail_door" name="Sinulla tulee olla vähintään yksi ovi." />
+		<text id="editstoreobj_removefail_fridge" name="Sinulla on liian monia ruoka-aineita" />
+		<text id="editstoreobj_removefail_stove" name="Lieden tulee olla tyhjä" />
+		<text id="editstoreobj_removefail_title" name="Huomio!" />
+		<text id="edit_error" name="Huomio!" />
+		<text id="error" name="Virhe" />
+		<text id="fullscreenerror_msg_copy" name="Koko näyttö ei mahdollinen" />
+		<text id="fullscreenerror_msg_title" name="Koko näyttö:" />
+		<text id="gift_error" name="Ei ole mahdollista!" />
+		<text id="gift_errorcode_20" name="Tiskilläsi ei ole tilaa annoksen tarjoiluun." />
+		<text id="gift_errorcode_40" name="Tämän ruoka-aineen säilyttämiselle ei ole tilaa." />
+		<text id="gift_errorcode_5" name="Tätä toimintoa ei voida suorittaa. Lahja ei ole tunnettu." />
+		<text id="invitefriend_error" name="Ystävän kutsuminen ei onnistunut" />
+		<text id="invitefriend_errorcode_13" name="Tämä pelaaja on jo rekisteröitynyt!" />
+		<text id="invitefriend_errorcode_14" name="Sähköpostisoite ei kelpaa!" />
+		<text id="jobrefill_error" name="Ei käy!" />
+		<text id="jobrefill_errorcode_1" name="Työluvat ovat loppuunmyytyjä tällä hetkellä." />
+		<text id="jobrefill_errorcode_61" name="Voit täyttää työluvan vain kerran päivässä." />
+		<text id="joincafe_error" name="Ei mahdollista!" />
+		<text id="joincafe_errorcode_20" name="Yksityistilaisuus! Ei tilaa jäljellä." />
+		<text id="joincafe_errorcode_21" name="Olet jo tässä kahvilassa!" />
+		<text id="joincafe_errorcode_22" name="Tämä kahvila ei enää ole olemassa!" />
+		<text id="level_error" name="Café on viallinen. Ole hyvä ja ota yhteyttä Goodgame Studios -tukeen." />
+		<text id="level_errorcode_1" name="Kahvilaasi ei voida avata. Ole hyvä ja ota yhteyttä Goodgame Studios tukeen." />
+		<text id="login_error" name="Huomio!" />
+		<text id="login_errorcode_1" name="Virhe" />
+		<text id="login_errorcode_12" name="Käyttäjä on jo rekisteröitynyt." />
+		<text id="login_errorcode_13" name="Käyttäjä on jo rekisteröitynyt." />
+		<text id="login_errorcode_14" name="Käyttäjänimi tai salasana on väärin!" />
+		<text id="login_errorcode_15" name="Olet kirjautuneena sisään." />
+		<text id="login_errorcode_16" name="Avattaresi on viallinen. Ole hyvä ja ota yhteyttä Goodgames Studios tukeen." />
+		<text id="login_errorcode_wronglogin" name="Käyttäjänimi tai salasana on väärä!" />
+		<text id="lostpassword_error" name="Huomio!" />
+		<text id="lostpassword_errorcode_1" name="Virhe" />
+		<text id="lostpassword_errorcode_11" name="Kukaan ei ole rekisteröitynyt tätä osoitetta käyttäen." />
+		<text id="marketplace_error" name="Tori" />
+		<text id="marketplace_errorcode_20" name="Tori on täynnä. Tule myöhemmin takaisin." />
+		<text id="marketplace_errorcode_21" name="Olet jo torilla" />
+		<text id="npcfire_errorcode_1" name="Tarjoilijaasi ei voitu irtisanoa." />
+		<text id="npchire_errorcode_1" name="Tarjoilijaasi ei voitu irtisanoa." />
+		<text id="npcrename_errorcode_12" name="Nimi ei kelpaa!" />
+		<text id="npc_error" name="Huomio!" />
+		<text id="register_error" name="Rekisteröityminen epäonnistui" />
+		<text id="register_errorcode_1" name="Virhe" />
+		<text id="register_errorcode_10" name="Antamasi salasana on väärä." />
+		<text id="register_errorcode_13" name="Toinen käyttäjä on rekisteröitynyt jo tällä sähköpostiosoitteella." />
+		<text id="register_errorcode_14" name="Antamasi sähköpostiosoite on virheellinen." />
+		<text id="server_msg_10" name="Palvelin käynnistetään uudelleen. Se palautuu hetken kuluttua.  Ole hyvä ja kirjaudu ulos." />
+		<text id="server_msg_title" name="Viesti palvelimelta:" />
+		<text id="shopbuy_error" name="Ei tilaa!" />
+		<text id="shopbuy_errorcode_40" name="Jääkaappisi on jo täynnä!" />
+		<text id="shopdelete_errorcode_41" name="Tuote ei ole saatavilla" />
+		<text id="smoothiemaker_error_alreadyserved" name="Tätä asiakasta palvellaan jo!" />
+		<text id="useraction_error" name="Huomio!" />
+		<text id="useraction_errorcode_2" name="Tämä päivä oli tässä! Riittävästi töitä tälle päivälle!" />
+		<text id="useraction_errorcode_62" name="Sinun täytyy hakea annos tiskiltä ensin." />
+		<text id="useraction_errorcode_63" name="Ennen kuin siivoat, tarjoile annos ensin tai tuo se takaisin tiskille." />
+		<text id="versioncheck_error" name="Vanha versio!" />
+		<text id="versioncheck_errorcode_1" name="Päivitä sivu." />
+		<text id="waiter_name_invalide" name="Et voi antaa tätä nimeä tarjoilijallesi." />
+	</error_codes>
+	<feature>
+		<text id="featureDialog_0_text_0" name="Uudet koristeet kahvilasi sisustuksen uudistamiseksi!" />
+		<text id="featureDialog_0_text_0_sozial" name="Saa erikoispalkintoja kovasta työstäsi!" />
+		<text id="featureDialog_0_text_1" name="Hanki ylimääräisiä XP:tä, Cafédollareita tai Kultaa kovasta työstäsi!" />
+		<text id="featureDialog_0_text_1_sozial" name="Uusia koristeita kaupassasi!" />
+		<text id="featureDialog_0_text_2" name="Ota selvää kuka muu pelaa Café-peliä!" />
+		<text id="featureDialog_0_text_2_sozial" name="Ota selvää kuka muu pelaa Café-peliä!" />
+		<text id="featureDialog_10_text_0" name="Tarvitsetko lisää tilaa asiakkaillesi tai sisustukselle? Saat lisää tilaa uusilla laajennuksilla!" />
+		<text id="featureDialog_11_text_0" name="Uudet ja jännittävät Tiimityöt sinulle ja ystävillesi!" />
+		<text id="featureDialog_16_text_0" name="Mikä ihanuus! Nauti nyt musiikista kahvilassasi!" />
+		<text id="featureDialog_16_text_1" name="Tule piirakanleipojaksi uudella piirakkaleipomo-teemalla!" />
+		<text id="featureDialog_17_text_0" name="Hyväää Joulua! Rakenna oma joulupukin pajasi ja nauti uusista joulukoristeista!" />
+		<text id="featureDialog_18_text_0" name="Ilmassa on joulun taikaa ja se tuo sinulle uusia jouluisia aterioita ja uusia Yhteistöitä!" />
+		<text id="featureDialog_19_text_0" name="Nosta sijoitustasi ja tee kahvilastasi kaupungin upein käyttämällä huonekalujesi ja koristeittesi ylellisyysarvoa!" />
+		<text id="featureDialog_1_text_0" name="Saa erikoispalkintoja kovasta työstäsi!" />
+		<text id="featureDialog_1_text_1" name="Uudet koristeet nyt kaupassasi!" />
+		<text id="featureDialog_1_text_2" name="Ota selvää kuka muu pelaa Café-peliä!" />
+		<text id="featureDialog_20_text_0" name="Tee annoksistasi parhaita uusien Tähtien avulla!" />
+		<text id="featureDialog_20_text_1" name="Viimeinen mahdollisuus käyttää jouluaterioita ja talvikoristeita!\nYksi viikko jäljellä!" />
+		<text id="featureDialog_21_text_0" name="Hämmästytä asiakkaat uusilla ja herkullisilla aterioilla!" />
+		<text id="featureDialog_22_text_0" name="Uusien saavutusten avulla sinusta voi tulla entistä menestyneempi!" />
+		<text id="featureDialog_23_text_0" name="Ruoanlaitto yhdessä on hauskaa! Uudet yhteistyöt odottavat sinua!" />
+		<text id="featureDialog_24_text_0" name="Pääsiäispupu jätti jotain kahvilaasi! Tsekkaa uudet pääsiäiskoristeet!" />
+		<text id="featureDialog_24_text_1" name="Linturuoka ei ole ennen ollut näin tuottoisaa! Tsekkaa millaista appelsiiniankka on!" />
+		<text id="featureDialog_25_text_0" name="Oletko onnekas? Koita onneasi muffinien leipomisessa!" />
+		<text id="featureDialog_26_text_0" name="Oletko onnekas? Pyöritä onnenpyörää torilla!" />
+		<text id="featureDialog_27_text_0" name="Tee kahvilastasi suositumpi uuden karkkikoneen avulla! Se on saatavilla Onnenpyörässä!" />
+		<text id="featureDialog_28_text_0" name="VAIN TÄNÄÄN! Tässä on viimeinen mahdollisuutesi pyörittää pyörää ja voittaa karkkikone!" />
+		<text id="featureDialog_29_text_0" name="Tästä lähtien voit vaihtaa hahmosi vaatteita milloin vain!" />
+		<text id="featureDialog_2_text_0" name="Chattaile muiden pelaajien kanssa!" />
+		<text id="featureDialog_2_text_1" name="Uusia teemasisustustavaroita!" />
+		<text id="featureDialog_2_text_2" name="Laajenna kahvilaasi yhä enemmän!" />
+		<text id="featureDialog_30_text_0" name="Lisää tilaa jääkaappiisi! Erikoisruoka-aineet eivät enää vie tilaa jääkaapissasi. Voit varastoida niitä niin monta kuin haluat." />
+		<text id="featureDialog_30_text_1" name="Tästä lähtien voit ostaa laajennuksia Cafédollareilla!" />
+		<text id="featureDialog_31_text_0" name="Lisää tilaa jääkaapissa! Tästä lähtien erikoisruoka-aineet eivät vie tilaa jääkaapissasi. Voit varastoida niitä niin paljon, kun haluat." />
+		<text id="featureDialog_31_text_1" name="Tästä lähtien saat laajennuksia jos sinulla on tarpeeksi ystäviä." />
+		<text id="featureDialog_32_text_0" name="Ovatko asiakkaasi janoisia? Hanki siis oma Frosty ja janoiset asiakkaasi ovat tyytyväisiä!" />
+		<text id="featureDialog_33_text_0" name="Uudet munakkaat! Uusi ja nopea ateria keittokirjassasi!" />
+		<text id="featureDialog_3_text_0" name="Ansaitse ylimääräisiä cafédollareita ja XP:itä tarjoilijana muissa kahviloissa!" />
+		<text id="featureDialog_3_text_1" name="Maukkaat uudet reseptit, jotka hämmästyttävät asiakkaitasi!" />
+		<text id="featureDialog_4_text_0" name="Tapaa ja lisää uusia ystäviä torilla!" />
+		<text id="featureDialog_4_text_1" name="Uudet sisustustavarat muuttavat kahvilasi ulkonäköä enemmän kuin koskaan!" />
+		<text id="featureDialog_5_text_0" name="Kasvata tulojasi ja annostesi XP:itä käyttämällä uusia erikoisruoka-aineita!" />
+		<text id="featureDialog_6_text_0" name="Vastaanota ja lähetä lahjoja ystävillesi uuden lahjaboxin kautta!" />
+		<text id="featureDialog_6_text_1" name="Kasvata tulojasi ja annostesi XP:itä käyttämällä uusia erikoisruoka-aineita!" />
+		<text id="featureDialog_7_text_0" name="Tuo cowboyt ja cowgirlsit ja esittele uudet Saluuna-tavarat!" />
+		<text id="featureDialog_8_text_0" name="Uudet henkeäsalpaavat annokset tulevat yllättämään asiakkaasi!" />
+		<text id="featureDialog_9_text_0" name="Ota selvää kuinka sijoitut uusimmassa ranking-listassa!" />
+		<text id="featureDialog_9_text_1" name="Tiimissä hommat hoituvat! Haasta itsesi ja ystäväsi UUSILLA Tiimitöillä!" />
+		<text id="featureDialog_9_text_2" name="Ole valmis pelästyttämään asiakkaasi toden teolla uusilla Halloween koristeilla?" />
+		<text id="featureDialog_title" name="Uudet toiminnot" />
+		<text id="limitedfeatureDialog_12_copy_0" name="Osta Halloween-koristeesi nyt! Myynnissä vain rajoitetun ajan!" />
+		<text id="limitedfeatureDialog_12_copy_1" name="4 PÄIVÄÄ JÄLJELLÄ!" />
+		<text id="limitedfeatureDialog_13_copy_0" name="Osta Halloween-koristeesi nyt! Myynnissä vain rajoitetun ajan!" />
+		<text id="limitedfeatureDialog_13_copy_1" name="3 PÄIVÄÄ JÄLJELLÄ!" />
+		<text id="limitedfeatureDialog_14_copy_0" name="Osta Halloween-koristeesi nyt! Myynnissä vain rajoitetun ajan!" />
+		<text id="limitedfeatureDialog_14_copy_1" name="2 PÄIVÄÄ JÄLJELLÄ!" />
+		<text id="limitedfeatureDialog_15_copy_0" name="Osta Halloween-koristeesi nyt! Myynnissä vain rajoitetun ajan!" />
+		<text id="limitedfeatureDialog_15_copy_1" name="VAIN TÄNÄÄN!" />
+		<text id="limitedfeatureDialog_2_copy_0" name="Osta Halloween-koristeesi nyt! Myynnissä vain rajoitetun ajan!" />
+		<text id="limitedfeatureDialog_3_copy_0" name="Talvi on loppumaisillaan! Talvikoristeet eivät ole kohta enää saatavilla!" />
+		<text id="limitedfeatureDialog_5_copy_0" name="Osta pääsiäiskoristeita! Saatavilla vain rajoitetun ajan!" />
+		<text id="limitedfeatureDialog_time" name="{0} PÄIVÄÄ JÄLJELLÄ!" />
+		<text id="limitedfeatureDialog_time_single" name="VAIN TÄNÄÄN!" />
+		<text id="limitedfeatureDialog_title" name="HUOMIO!" />
+	</feature>
+	<feeds>
+		<text id="descriptionfeedcafe" name="Asensin juuri Goodgame Café -pelin. Haluaisitko sinäkin avata oman kahvilasi ja valmistaa herkullisia aterioita? Tule katsomaan!" />
+		<text id="descriptionlongcafe" name="Goodgame Café on aivan uusi peli Goodgame Studioilta. Avaa oma kahvilasi ja yllätä asiakkaasi ruoanlaittotaidoillasi. Palkkaa ystäviäsi töihin ja osta ruoka-aineita. Päätä millainen on tämän päivän menu ja kasvata bisnestäsi. Sinun kahvilastasi tulee kaupungin suosituin kohtaamispaikka!" />
+	</feeds>
+	<ingame_tooltips>
+		<text id="fridgetooltip_line1" name="Jääkaappi" />
+		<text id="fridgetooltip_line2" name="Klikkaa avataksesi" />
+		<text id="muffinmantooltip_line1" name="Muffinsien leipoja" />
+		<text id="muffinmantooltip_line2" name="Klikkaa pelataksesi!" />
+		<text id="player_action" name="Toiminnot:" />
+		<text id="player_working" name="Työaika" />
+		<text id="preparestep_cleaning" name="Puhdista liesi" />
+		<text id="preparestep_serving" name="Tarjoile ruoka-annos" />
+		<text id="smoothiemaker_line1" name="Frosty" />
+		<text id="smoothiemaker_line2" name="Klikkaa sekoittaaksesi!" />
+		<text id="stovetooltip_clean1" name="Likainen liesi" />
+		<text id="stovetooltip_clean2" name="Klikkaa puhdistaaksesi" />
+		<text id="stovetooltip_empty1" name="Tyhjä tiski" />
+		<text id="stovetooltip_empty2" name="tee ruokaa" />
+		<text id="stovetooltip_free" name="Klikkaa tehdäksesi ruokaa" />
+		<text id="stovetooltip_full1" name="Valmis tarjoiltavaksi" />
+		<text id="stovetooltip_full2" name="Annosta" />
+		<text id="stovetooltip_prepare1" name="Klikkaa:" />
+		<text id="stovetooltip_ready1" name="kunnes ruoka pilaantuu" />
+		<text id="stovetooltip_ready2" name="Klikkaa tarjoillaksesi" />
+		<text id="stovetooltip_spoiled1" name="Pilaantunut" />
+		<text id="stovetooltip_spoiled2" name="Klikkaa siivotaksesi" />
+		<text id="wheeloffortunetooltip_line1" name="Onnenpyörä!" />
+		<text id="wheeloffortunetooltip_line2" name="Klikkaa pelataksesi!" />
+		<text id="wheeloffortunetooltip_line3" name="Ensimmäinen kierros ilmaiseksi" />
+	</ingame_tooltips>
+	<ingredients>
+		<text id="ingredient_cookfest" name="Event Ingredients" />
+		<text id="ingredient_apple" name="Omenat" />
+		<text id="ingredient_bacon" name="Pekoni" />
+		<text id="ingredient_bakingmix" name="Taikinaseos" />
+		<text id="ingredient_ballpepper" name="Paprikat" />
+		<text id="ingredient_banana" name="Banaanit" />
+		<text id="ingredient_basil" name="Basilika" />
+		<text id="ingredient_beans" name="Pavut" />
+		<text id="ingredient_beetroot" name="Punajuuri" />
+		<text id="ingredient_butter" name="Voi" />
+		<text id="ingredient_carrots" name="Porkkanat" />
+		<text id="ingredient_cheese" name="Juusto" />
+		<text id="ingredient_cherries" name="Kirsikat" />
+		<text id="ingredient_chicken" name="Kana" />
+		<text id="ingredient_chili" name="Chili" />
+		<text id="ingredient_chocolate" name="Suklaa" />
+		<text id="ingredient_cinnamon" name="Kaneli" />
+		<text id="ingredient_cocktailcherry" name="Kirsikka-cocktail" />
+		<text id="ingredient_coconut" name="Kookospähkinät" />
+		<text id="ingredient_cookies" name="Keksit" />
+		<text id="ingredient_coriander" name="Korianteri" />
+		<text id="ingredient_cream" name="Kerma" />
+		<text id="ingredient_cucumber" name="Kurkku" />
+		<text id="ingredient_curryspice" name="Curry" />
+		<text id="ingredient_duck" name="Ankka" />
+		<text id="ingredient_eggplant" name="Munakoiso" />
+		<text id="ingredient_eggs" name="Kananmunat" />
+		<text id="ingredient_fish" name="Kala" />
+		<text id="ingredient_flour" name="Jauhot" />
+		<text id="ingredient_garlic" name="Valkosipuli" />
+		<text id="ingredient_horseradish" name="Piparjuuri" />
+		<text id="ingredient_kidney" name="Munuaiset" />
+		<text id="ingredient_lettuce" name="Lehtisalaatti" />
+		<text id="ingredient_maplesyrup" name="Vaahterasiirappi" />
+		<text id="ingredient_meat" name="Liha" />
+		<text id="ingredient_milk" name="Maito" />
+		<text id="ingredient_mincemeat" name="Jauheliha" />
+		<text id="ingredient_nutmeg" name="Muskottipähkinä" />
+		<text id="ingredient_oil" name="Öljy" />
+		<text id="ingredient_onion" name="Sipulit" />
+		<text id="ingredient_orange" name="Appelsiinit" />
+		<text id="ingredient_parsley" name="Persilja" />
+		<text id="ingredient_pasta" name="Pasta" />
+		<text id="ingredient_peas" name="Herneet" />
+		<text id="ingredient_pinapple" name="Ananas" />
+		<text id="ingredient_potato" name="Perunat" />
+		<text id="ingredient_quark" name="Rahka" />
+		<text id="ingredient_rhubarb" name="Raparperi" />
+		<text id="ingredient_rice" name="Riisi" />
+		<text id="ingredient_rosemary" name="Rosmariini" />
+		<text id="ingredient_sausages" name="Makkarat" />
+		<text id="ingredient_spicemix" name="Mausteseos" />
+		<text id="ingredient_strawberry" name="Mansikat" />
+		<text id="ingredient_sugar" name="Sokeri" />
+		<text id="ingredient_sweetcorn" name="Maissi" />
+		<text id="ingredient_tofu" name="Tofu" />
+		<text id="ingredient_tomato" name="Tomaatit" />
+		<text id="ingredient_turkeymix" name="Kalkkunaseos" />
+		<text id="ingredient_vanilla" name="Vanilja" />
+		<text id="ingredient_vegiemix" name="Vihannessekoitus" />
+		<text id="ingredient_whitechocolat" name="Valkosuklaa" />
+	</ingredients>
+	<loggedin_msg id="" />
+	<panels>
+		<text id="panelwin_buddy_btn_morefriends" name="Enemmän ystäviä!" />
+		<text id="panelwin_deco_dragtip_copy" name="Jos haluat ostaa tämän kohteen, raahaa se kahvilaasi." />
+		<text id="panelwin_deco_dragtip_title" name="Ota huomioon" />
+		<text id="panelwin_deco_nomore_expansion" name="Lisälaajennuksia ei ole saatavilla vielä." />
+		<text id="panelwin_deco_objectcount_counter" name="Jos haluat ostaa lisätiskin, sinun täytyy saavuttaa taso {0}. Voit myös raahata vanhan tähän ostaaksesi uuden." />
+		<text id="panelwin_deco_objectcount_fridge" name="Jos haluat ostaa lisäjääkaapin, sinun täytyy saavuttaa taso {0}. Voit myös raahata vanhan tähän ostaaksesi uuden." />
+		<text id="panelwin_deco_objectcount_nomore_counter" name="Tällä hetkellä et voi ostaa lisää tiskejä!" />
+		<text id="panelwin_deco_objectcount_nomore_fridge" name="Tällä hetkellä et voi ostaa lisää jääkaappeja!" />
+		<text id="panelwin_deco_objectcount_nomore_stove" name="Tällä hetkellä et voi ostaa lisää liesiä!" />
+		<text id="panelwin_deco_objectcount_stove" name="Jos haluat ostaa lisälieden, sinun täytyy saavuttaa taso {0}. Voit myös raahata vanhan tähän ostaaksesi uuden." />
+		<text id="panelwin_login_email" name="Käyttäjänimi/ Sähköposti" />
+		<text id="panelwin_login_login" name="KIRJAUDU SISÄÄN" />
+		<text id="panelwin_login_lostpassword" name="Unohditko salasanasi?" />
+		<text id="panelwin_login_password" name="Salasana" />
+		<text id="panelwin_login_play" name="PELAA NYT" />
+		<text id="panelwin_login_register" name="REKISTERÖIDY" />
+		<text id="panelwin_login_rememberpassword" name="Muista salasana" />
+		<text id="panelwin_name_cafe" name="CAFÉ" />
+		<text id="panelwin_social_bot" name="Café-chat" />
+		<text id="panelwin_social_comein" name="tuli kahvilaan" />
+		<text id="panelwin_social_comeinmarketplace" name="on tullut torille" />
+		<text id="panelwin_social_goout" name="lähti kahvilasta" />
+		<text id="panelwin_social_gooutmarketplace" name="on lähtenyt torilta" />
+		<text id="panelwin_social_noingamefriends" name="Sinulla ei ole vielä ystäviä!" />
+		<text id="panelwin_social_noplayerincafe" name="Tällä hetkellä olet yksin täällä." />
+		<text id="panelwin_social_say" name=":" />
+		<text id="panelwin_social_standardanswer" name="Pian voit jutella toisten pelaajien kanssa kahvilassasi!" />
+		<text id="panelwin_social_welcome_marketplace" name="Tervetuloa! Klikkaa liitutaulua, jos olet etsimässä työtä!" />
+		<text id="panelwin_social_welcome_mycafe" name="Tervetuloa" />
+		<text id="panelwin_social_writeable" name="Sinun täytyy rekisteröityä ja saavuttaa taso 1 käyttääksesi chattia." />
+	</panels>
+	<preparestep>
+		<text id="preparestep_bananasplit_banana" name="Kuori banaanit" />
+		<text id="preparestep_bananasplit_chocolate" name="Pilko suklaa" />
+		<text id="preparestep_brigadeiro_chocolate" name="Cut chocolate" />
+		<text id="preparestep_brigadeiro_cream" name="Mix cream" />
+		<text id="preparestep_brigadeiro_vanilla" name="Shave vanilla" />
+		<text id="preparestep_bananasplit_cream" name="Vatkaa kerma" />
+		<text id="preparestep_bananasplit_milk" name="Lisää maito" />
+		<text id="preparestep_bananasplit_sugar" name="Lisää sokeri" />
+		<text id="preparestep_blackforestcherrycake_chocolate" name="Pilko suklaa" />
+		<text id="preparestep_blackforestcherrycake_cocktailcherry" name="Puhdista kirsikat" />
+		<text id="preparestep_blackforestcherrycake_cream" name="Vatkaa kerma" />
+		<text id="preparestep_pizzasalad_tomato" name="Cut tomatoes" />
+		<text id="preparestep_pizzasalad_onion" name="Cut onions" />
+		<text id="preparestep_pizzasalad_lettuce" name="Wash lettuce" />
+		<text id="preparestep_pizzasalad_cheese" name="Grate cheese" />
+		<text id="preparestep_pizzasalad_flour" name="Sift flour" />
+		<text id="preparestep_tripleomelette_eggs" name="Crack eggs strongly" />
+		<text id="preparestep_tripleomelette_chili" name="Make it spicy" />
+		<text id="preparestep_chocolatewaffles_flour" name="Measure flour" />
+		<text id="preparestep_chocolatewaffles_cream" name="Whip cream" />
+		<text id="preparestep_chocolatewaffles_eggs" name="Crack eggs softly" />
+		<text id="preparestep_chocolatewaffles_chocolate" name="Melt chocolate" />
+		<text id="preparestep_chocolatewaffles_vanilla" name="Add vanilla extract" />
+		<text id="preparestep_spanishomelette_potato" name="Peel potatoes" />
+		<text id="preparestep_spanishomelette_onion" name="Chop onions" />
+		<text id="preparestep_spanishomelette_eggs" name="Crack eggs in Spanish" />
+		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
+		<text id="preparestep_sausagepasta_pasta" name="Boil pasta" />
+		<text id="preparestep_sausagepasta_sausages" name="Chop sausages" />
+		<text id="preparestep_sausagepasta_tomato" name="Make tomato sauce" />
+		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
+		<text id="preparestep_applepie_cream" name="Whip cream" />
+		<text id="preparestep_applepie_eggs" name="Crack eggs elegantly" />
+		<text id="preparestep_applepie_flour" name="Measure flour" />
+		<text id="preparestep_applepie_apple" name="Think about apple economy" />
+		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_ramen_pasta" name="Boil pasta" />
+		<text id="preparestep_ramen_eggs" name="Boil eggs" />
+		<text id="preparestep_ramen_bacon" name="Chop bacon" />
+		<text id="preparestep_ramen_chili" name="Make it spicy" />
+		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
+		<text id="preparestep_corncake_butter" name="Melt butter" />
+		<text id="preparestep_corncake_eggs" name="Mix eggs" />
+		<text id="preparestep_corncake_milk" name="Add milk" />
+		<text id="preparestep_corncake_sugar" name="Mix sugar in the dough" />
+		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_feijoada_beans" name="Boil beans" />
+		<text id="preparestep_feijoada_bacon" name="Chop bacon chunks" />
+		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
+		<text id="preparestep_feijoada_onion" name="Chop onions" />
+		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
+		<text id="preparestep_feijoada_coriander" name="Add coriander" />
+		<text id="preparestep_blackforestcherrycake_flour" name="Siivilöi jauho" />
+		<text id="preparestep_cheeseburger_cheese" name="Leikkaa juusto" />
+		<text id="preparestep_cheeseburger_flour" name="Siivilöi jauho" />
+		<text id="preparestep_cheeseburger_mincemeat" name="Mausta jauheliha" />
+		<text id="preparestep_cheeseburger_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_cheesedish_cheese" name="Leikkaa juusto" />
+		<text id="preparestep_cheesefondue_cheese" name="Sulata juusto" />
+		<text id="preparestep_cheesefondue_flour" name="Siivilöi jauho" />
+		<text id="preparestep_cheesefondue_garlic" name="Purista valkosipuli" />
+		<text id="preparestep_cherriecake_cherries" name="Hauduta kirsikat" />
+		<text id="preparestep_cherriecake_cream" name="Vatkaa kerma" />
+		<text id="preparestep_cherriecake_flour" name="Siivilöi jauho" />
+		<text id="preparestep_cherriecake_sugar" name="Lisää sokeri" />
+		<text id="preparestep_cherrycompote_cherries" name="Poista kirsikoiden siemenet" />
+		<text id="preparestep_cherrycompote_sugar" name="Karamellisoi sokeri" />
+		<text id="preparestep_chickenburger_chicken" name="Pilko kana" />
+		<text id="preparestep_chickenburger_cucumber" name="Leikkaa kurkku" />
+		<text id="preparestep_chickenburger_flour" name="Siivilöi jauho" />
+		<text id="preparestep_chickenburger_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_chickensalad_chicken" name="Valmista kana" />
+		<text id="preparestep_chickensalad_lettuce" name="Huuhtele lehtisalaatti" />
+		<text id="preparestep_chickensalad_onion" name="Pilko sipulit" />
+		<text id="preparestep_chickensalad_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_chickensoup_bacon" name="Pilko pekoni" />
+		<text id="preparestep_chickensoup_chicken" name="Pilko kana" />
+		<text id="preparestep_chickensoup_onion" name="Pilko sipulit" />
+		<text id="preparestep_chickensoup_pasta" name="Punnitse pasta" />
+		<text id="preparestep_chiliconcarne_bacon" name="Pilko pekoni" />
+		<text id="preparestep_chiliconcarne_beans" name="Huuhtele pavut" />
+		<text id="preparestep_chiliconcarne_mincemeat" name="Mausta jauheliha" />
+		<text id="preparestep_chiliconcarne_onion" name="Pilko sipulit" />
+		<text id="preparestep_chiliconcarne_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_chocmousse_chocolate" name="Sulata suklaa" />
+		<text id="preparestep_chocmousse_cream" name="Vatkaa kerma" />
+		<text id="preparestep_chocmousse_eggs" name="Erottele kananmunan valkuainen ja keltuainen" />
+		<text id="preparestep_chocolatecake_chocolate" name="Sulata suklaa" />
+		<text id="preparestep_chocolatecake_cream" name="Vatkaa kerma" />
+		<text id="preparestep_chocolatecake_eggs" name="Erottele kananmunan valkuainen ja keltuainen" />
+		<text id="preparestep_chocolatecake_flour" name="Siivilöi jauho" />
+		<text id="preparestep_chocolatecheesecake_chocolate" name="Pilko suklaa" />
+		<text id="preparestep_chocolatecheesecake_cookies" name="Murenna keksit" />
+		<text id="preparestep_chocolatecheesecake_milk" name="Lämmitä maito" />
+		<text id="preparestep_chocolatecheesecake_quark" name="Sekoita rahka" />
+		<text id="preparestep_chocolatefondue_chocolate" name="Maista suklaata" />
+		<text id="preparestep_chocolatefondue_cream" name="Lisää kerma" />
+		<text id="preparestep_chocolatefondue_strawberry" name="Huuhtele mansikat" />
+		<text id="preparestep_christmasturkey_turkeymix" name="Valmista kalkkunaseos" />
+		<text id="preparestep_christmasturkey_vegiemix" name="Sulata vihannekset" />
+		<text id="preparestep_cookieplate_butter" name="Sulata voi" />
+		<text id="preparestep_cookieplate_chocolate" name="Pilko suklaa" />
+		<text id="preparestep_cookieplate_flour" name="Siivilöi jauho" />
+		<text id="preparestep_cookieplate_sugar" name="Karamellisoi sokeri" />
+		<text id="preparestep_cornonthecob_butter" name="Lisää voi" />
+		<text id="preparestep_cornonthecob_lettuce" name="Huuhtele lehtisalaatti" />
+		<text id="preparestep_cornonthecob_sweetcorn" name="Huuhtele maissi" />
+		<text id="preparestep_curry_ballpepper" name="Leikkaa paprikat" />
+		<text id="preparestep_curry_coconut" name="Halkaise kookospähkinät" />
+		<text id="preparestep_curry_curryspice" name="Lisää curry" />
+		<text id="preparestep_curry_meat" name="Leikkaa liha" />
+		<text id="preparestep_curry_peas" name="Keitä herneet" />
+		<text id="preparestep_duckalorange_butter" name="Sulata voi" />
+		<text id="preparestep_duckalorange_duck" name="Valmista ankka" />
+		<text id="preparestep_duckalorange_onion" name="Pilko sipulit" />
+		<text id="preparestep_duckalorange_orange" name="Kuori appelsiinit" />
+		<text id="preparestep_easterdish_chocolate" name="Maista suklaata" />
+		<text id="preparestep_easterdish_eggs" name="Laske munat" />
+		<text id="preparestep_englishbreakfast_beans" name="Keitä pavut" />
+		<text id="preparestep_englishbreakfast_eggs" name="Vatkaa munat" />
+		<text id="preparestep_englishbreakfast_flour" name="Siivilöi jauho" />
+		<text id="preparestep_englishbreakfast_sausages" name="Laske makkarat" />
+		<text id="preparestep_fishandchips_fish" name="Valmista kala" />
+		<text id="preparestep_fishandchips_flour" name="Siivilöi jauho" />
+		<text id="preparestep_fishandchips_oil" name="Lämmitä öljy" />
+		<text id="preparestep_fishandchips_peas" name="Keitä herneet" />
+		<text id="preparestep_fishandchips_potato" name="Kuori perunat" />
+		<text id="preparestep_friedpotatoes_bacon" name="Paahda pekoni" />
+		<text id="preparestep_friedpotatoes_onion" name="Pilko sipulit" />
+		<text id="preparestep_friedpotatoes_potato" name="Kuori perunat" />
+		<text id="preparestep_fruitpudding_bakingmix" name="Hämmennä seosta" />
+		<text id="preparestep_fruitpudding_spicemix" name="Punnitse mausteet" />
+		<text id="preparestep_fruitsalad_apple" name="Kuori omenat" />
+		<text id="preparestep_fruitsalad_banana" name="Kuori banaanit" />
+		<text id="preparestep_fruitsalad_cherries" name="Poista kirsikoiden siemenet" />
+		<text id="preparestep_fruitsalad_orange" name="Kuori appelsiinit" />
+		<text id="preparestep_greensalad_lettuce" name="Huuhtele lehtisalaatti" />
+		<text id="preparestep_greensalad_onion" name="Pilko sipulit" />
+		<text id="preparestep_greensalad_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_gumbo_curryspice" name="Paista curry" />
+		<text id="preparestep_gumbo_fish" name="Leikkaa kala" />
+		<text id="preparestep_gumbo_onion" name="Pilko sipulit" />
+		<text id="preparestep_gumbo_rice" name="Keitä riisi" />
+		<text id="preparestep_hamburger_flour" name="Siivilöi jauho" />
+		<text id="preparestep_hamburger_mincemeat" name="Mausta jauheliha" />
+		<text id="preparestep_hamburger_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_hotcherrywaffles_cherries" name="Poista kirsikoiden siemenet" />
+		<text id="preparestep_hotcherrywaffles_cream" name="Vatkaa kerma" />
+		<text id="preparestep_hotcherrywaffles_eggs" name="Erottele kananmunan valkuainen ja keltuainen" />
+		<text id="preparestep_hotcherrywaffles_flour" name="Siivilöi jauho" />
+		<text id="preparestep_hotcherrywaffles_milk" name="Lämmitä maito" />
+		<text id="preparestep_jamspongepudding_flour" name="Siivilöi jauho" />
+		<text id="preparestep_jamspongepudding_milk" name="Lämmitä maito" />
+		<text id="preparestep_jamspongepudding_strawberry" name="Valmista mansikat" />
+		<text id="preparestep_jamspongepudding_sugar" name="Karamellisoi sokeri" />
+		<text id="preparestep_lasagne_cheese" name="Raasta juusto" />
+		<text id="preparestep_lasagne_mincemeat" name="Mausta jauheliha" />
+		<text id="preparestep_lasagne_pasta" name="Keitä pasta" />
+		<text id="preparestep_lasagne_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_macncheese_cheese" name="Raasta juusto" />
+		<text id="preparestep_macncheese_cream" name="Lisää kerma" />
+		<text id="preparestep_macncheese_pasta" name="Keitä pasta" />
+		<text id="preparestep_maplepancakes_eggs" name="Erottele kananmunan valkuainen ja keltuainen" />
+		<text id="preparestep_maplepancakes_flour" name="Siivilöi jauho" />
+		<text id="preparestep_maplepancakes_maple" name="Maista vaahterasiirappia" />
+		<text id="preparestep_maplepancakes_milk" name="Lisää maito" />
+		<text id="preparestep_marblecake_butter" name="Sulata voi" />
+		<text id="preparestep_marblecake_chocolate" name="Sulata suklaa" />
+		<text id="preparestep_marblecake_flour" name="Siivilöi jauho" />
+		<text id="preparestep_marblecake_sugar" name="Lisää sokeri" />
+		<text id="preparestep_mexicansalad_bacon" name="Paahda pekoni" />
+		<text id="preparestep_mexicansalad_beans" name="Liota pavut" />
+		<text id="preparestep_mexicansalad_onion" name="Ruskista sipulit" />
+		<text id="preparestep_mexicansalad_sweetcorn" name="Keitä maissi" />
+		<text id="preparestep_minestrone_eggplant" name="Paloittele munakoiso" />
+		<text id="preparestep_minestrone_pasta" name="Keitä pasta" />
+		<text id="preparestep_minestrone_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_mixedsalad_lettuce" name="Huuhtele lehtisalaatti" />
+		<text id="preparestep_mixedsalad_peas" name="Keitä herneet" />
+		<text id="preparestep_mixedsalad_sweetcorn" name="Keitä maissi" />
+		<text id="preparestep_mixedsalad_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_nasigoreng_chicken" name="Paloittele kana" />
+		<text id="preparestep_nasigoreng_eggs" name="Keitä kananmunat" />
+		<text id="preparestep_nasigoreng_onion" name="Pilko sipulit" />
+		<text id="preparestep_nasigoreng_pinapple" name="Leikkaa ananas" />
+		<text id="preparestep_nasigoreng_rice" name="Keitä riisi" />
+		<text id="preparestep_newyorkcheesecake_cookies" name="Murenna keksit" />
+		<text id="preparestep_newyorkcheesecake_cream" name="Vatkaa kerma" />
+		<text id="preparestep_newyorkcheesecake_quark" name="Sekoita rahka" />
+		<text id="preparestep_newyorkcheesecake_sugar" name="Lisää sokeri" />
+		<text id="preparestep_noodlesalad_eggs" name="Erottele kananmunan valkuainen ja keltuainen" />
+		<text id="preparestep_noodlesalad_oil" name="Sekoita öljy" />
+		<text id="preparestep_noodlesalad_pasta" name="Keitä pasta" />
+		<text id="preparestep_noodlesalad_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_omelette_eggs" name="Laske munat" />
+		<text id="preparestep_onionsoup_cheese" name="Raasta juusto" />
+		<text id="preparestep_onionsoup_garlic" name="Purista valkosipuli" />
+		<text id="preparestep_onionsoup_onion" name="Pilko sipulit" />
+		<text id="preparestep_peasoup_bacon" name="Paahda pekoni" />
+		<text id="preparestep_peasoup_garlic" name="Purista valkosipuli" />
+		<text id="preparestep_peasoup_onion" name="Pilko sipulit" />
+		<text id="preparestep_peasoup_peas" name="Puhdista herneet" />
+		<text id="preparestep_pizzahawaii_bacon" name="Pilko pekoni" />
+		<text id="preparestep_pizzahawaii_cheese" name="Raasta juusto" />
+		<text id="preparestep_pizzahawaii_flour" name="Siivilöi jauho" />
+		<text id="preparestep_pizzahawaii_pinapple" name="Viipaloi ananas" />
+		<text id="preparestep_pizzahawaii_tomato" name="Soseuta tomaatit" />
+		<text id="preparestep_pizzatonno_cheese" name="Raasta juusto" />
+		<text id="preparestep_pizzatonno_fish" name="Pilko kala" />
+		<text id="preparestep_pizzatonno_flour" name="Siivilöi jauho" />
+		<text id="preparestep_pizzatonno_onion" name="Leikkaa sipulit" />
+		<text id="preparestep_pizzatonno_tomato" name="Soseuta tomaatit" />
+		<text id="preparestep_pizza_cheese" name="Raasta juusto" />
+		<text id="preparestep_pizza_flour" name="Siivilöi jauho" />
+		<text id="preparestep_pizza_tomato" name="Soseuta tomaatit" />
+		<text id="preparestep_porkroastwithcrackling_carrots" name="Kuori porkkanat" />
+		<text id="preparestep_porkroastwithcrackling_garlic" name="Purista valkosipuli" />
+		<text id="preparestep_porkroastwithcrackling_meat" name="Leikkaa liha" />
+		<text id="preparestep_porkroastwithcrackling_onion" name="Pilko sipulit" />
+		<text id="preparestep_potatosalad_cucumber" name="Leikkaa kurkku" />
+		<text id="preparestep_potatosalad_oil" name="Sekoita öljy" />
+		<text id="preparestep_pizza_sausages" name="Slice sausages" />
+		<text id="preparestep_potatosalad_potato" name="Kuori perunat" />
+		<text id="preparestep_redberrycompote_cherries" name="Puhdista kirsikat" />
+		<text id="preparestep_redberrycompote_rhubarb" name="Huuhtele raparperi" />
+		<text id="preparestep_redberrycompote_strawberry" name="Huuhtele mansikat" />
+		<text id="preparestep_redberrycompote_sugar" name="Karamellisoi sokeri" />
+		<text id="preparestep_ricepudding_apple" name="Kuori omenat" />
+		<text id="preparestep_ricepudding_cream" name="Vatkaa kerma" />
+		<text id="preparestep_ricepudding_milk" name="Lisää maito" />
+		<text id="preparestep_ricepudding_rice" name="Mittaa riisi" />
+		<text id="preparestep_roastchicken_butter" name="sulata voi" />
+		<text id="preparestep_roastchicken_chicken" name="Valmista kana" />
+		<text id="preparestep_roastchicken_onion" name="Pilko sipulit" />
+		<text id="preparestep_sandwich_bacon" name="Pilko pekoni" />
+		<text id="preparestep_sandwich_butter" name="Punnitse voi" />
+		<text id="preparestep_sandwich_cheese" name="Leikkaa juusto" />
+		<text id="preparestep_sandwich_flour" name="Siivilöi jauho" />
+		<text id="preparestep_sandwich_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_scouse_beetroot" name="Leikkaa punajuuri" />
+		<text id="preparestep_scouse_cucumber" name="Säilö kurkku" />
+		<text id="preparestep_scouse_eggs" name="paista kananmunat" />
+		<text id="preparestep_scouse_meat" name="Leikkaa liha" />
+		<text id="preparestep_spagetti_mincemeat" name="Mausta jauheliha" />
+		<text id="preparestep_spagetti_pasta" name="Keitä pasta" />
+		<text id="preparestep_spagetti_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_spareribs_meat" name="Leikkaa liha" />
+		<text id="preparestep_spareribs_oil" name="Lisää öljy" />
+		<text id="preparestep_spareribs_onion" name="Pilko sipulit" />
+		<text id="preparestep_spareribs_tomato" name="Soseuta tomaatit" />
+		<text id="preparestep_steakkidneypie_flour" name="Siivilöi jauho" />
+		<text id="preparestep_steakkidneypie_kidney" name="Paloittele munuaiset" />
+		<text id="preparestep_steakkidneypie_meat" name="Leikkaa liha" />
+		<text id="preparestep_steakkidneypie_onion" name="Pilko sipulit" />
+		<text id="preparestep_steak_butter" name="Lisää voi" />
+		<text id="preparestep_steak_lettuce" name="Huuhtele lehtisalaatti" />
+		<text id="preparestep_steak_meat" name="Leikkaa liha" />
+		<text id="preparestep_steak_potato" name="Kuori perunat" />
+		<text id="preparestep_steak_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_stewedrhubarb_rhubarb" name="Leikkaa raparperi" />
+		<text id="preparestep_stewedrhubarb_sugar" name="Karamellisoi sokeri" />
+		<text id="preparestep_stew_meat" name="Leikkaa liha" />
+		<text id="preparestep_stew_oil" name="Lämmitä öljy" />
+		<text id="preparestep_stew_onion" name="Pilko sipulit" />
+		<text id="preparestep_strawberrycake_cream" name="Vatkaa kerma" />
+		<text id="preparestep_strawberrycake_flour" name="Siivilöi jauho" />
+		<text id="preparestep_strawberrycake_strawberry" name="Valmista mansikat" />
+		<text id="preparestep_strawberrymousse_cream" name="Vatkaa kerma" />
+		<text id="preparestep_strawberrymousse_eggs" name="Erottele kananmunan valkuainen ja keltuainen" />
+		<text id="preparestep_strawberrymousse_strawberry" name="Huuhtele mansikat" />
+		<text id="preparestep_strawberrymousse_sugar" name="Lisää sokeri" />
+		<text id="preparestep_stuffedpeppers_ballpepper" name="Poista paprikan siemenet" />
+		<text id="preparestep_stuffedpeppers_eggs" name="Vatkaa munat" />
+		<text id="preparestep_stuffedpeppers_rice" name="Keitä riisi" />
+		<text id="preparestep_sundayfeast_carrots" name="Kuori porkkanat" />
+		<text id="preparestep_sundayfeast_meat" name="Leikkaa liha" />
+		<text id="preparestep_sundayfeast_peas" name="Keitä herneet" />
+		<text id="preparestep_sundayfeast_potato" name="Kuori perunat" />
+		<text id="preparestep_sushi_cucumber" name="Leikkaa kurkku" />
+		<text id="preparestep_sushi_fish" name="Leikkaa kala" />
+		<text id="preparestep_sushi_rice" name="Keitä riisi" />
+		<text id="preparestep_toadinhole_flour" name="Siivilöi jauho" />
+		<text id="preparestep_toadinhole_onion" name="Pilko sipulit" />
+		<text id="preparestep_toadinhole_sausages" name="Laske makkarat" />
+		<text id="preparestep_toast_cheese" name="Raasta juusto" />
+		<text id="preparestep_toast_flour" name="Siivilöi jauho" />
+		<text id="preparestep_toast_pinapple" name="Leikkaa ananas" />
+		<text id="preparestep_tofuburger_flour" name="Siivilöi jauho" />
+		<text id="preparestep_tofuburger_lettuce" name="Huuhtele salaatti" />
+		<text id="preparestep_tofuburger_tofu" name="Soseuta tofu" />
+		<text id="preparestep_tofuburger_tomato" name="Pilko tomaatit" />
+		<text id="preparestep_tomatosoup_cream" name="Vatkaa kerma" />
+		<text id="preparestep_tomatosoup_onion" name="Pilko sipulit" />
+		<text id="preparestep_tomatosoup_tomato" name="Kuori tomaatit" />
+		<text id="preparestep_trifle_cookies" name="Punnitse keksit" />
+		<text id="preparestep_trifle_cream" name="Vatkaa kerma" />
+		<text id="preparestep_trifle_strawberry" name="Valmista mansikat" />
+		<text id="preparestep_trifle_sugar" name="Lisää sokeri" />
+		<text id="preparestep_veganstirfry_carrots" name="Raasta porkkanat" />
+		<text id="preparestep_veganstirfry_peas" name="Keitä herneet" />
+		<text id="preparestep_veganstirfry_rice" name="Mittaa riisi" />
+		<text id="preparestep_veganstirfry_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_vegetablesoup_onion" name="Pilko sipulit" />
+		<text id="preparestep_vegetablesoup_potato" name="Kuori perunat" />
+		<text id="preparestep_vegetablesoup_tomato" name="Leikkaa tomaatit" />
+		<text id="preparestep_veggiecurry_ballpepper" name="Leikkaa paprikat" />
+		<text id="preparestep_veggiecurry_coconut" name="Halkaise kookospähkinät" />
+		<text id="preparestep_veggiecurry_curryspice" name="Lisää curry" />
+		<text id="preparestep_veggiecurry_eggplant" name="Paloittele munakoiso" />
+		<text id="preparestep_veggiecurry_rice" name="Mittaa riisi" />
+		<text id="preparestep_veggielasagne_cheese" name="Raasta juusto" />
+		<text id="preparestep_veggielasagne_eggplant" name="Paloittele munakoiso" />
+		<text id="preparestep_veggielasagne_pasta" name="Keitä pasta" />
+		<text id="preparestep_veggielasagne_tomato" name="Soseuta tomaatit" />
+		<text id="preparestep_whitechoccheesecake_cookies" name="Murenna keksit" />
+		<text id="preparestep_whitechoccheesecake_cream" name="Vatkaa kerma" />
+		<text id="preparestep_whitechoccheesecake_milk" name="Lämmitä maito" />
+		<text id="preparestep_whitechoccheesecake_quark" name="Sekoita rahka" />
+		<text id="preparestep_whitechoccheesecake_whitechocolat" name="Lisää suklaa" />
+		<text id="preparestep_whitechocmousse_cream" name="Vatkaa kerma" />
+		<text id="preparestep_whitechocmousse_eggs" name="Erottele kananmunan valkuainen ja keltuainen" />
+		<text id="preparestep_whitechocmousse_whitechocolat" name="Sulata suklaa" />
+		<text id="preparestep_coxinha_flour" name="Spread flour" />
+		<text id="preparestep_coxinha_chicken" name="Shred chicken" />
+		<text id="preparestep_coxinha_onion" name="Chop onions" />
+		<text id="preparestep_coxinha_cream" name="Make cream cheese" />
+		<text id="preparestep_coxinha_oil" name="Heat oil" />
+		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
+	</preparestep>
+	<preparestep_fancy>
+		<text id="preparestep_bananasplit_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_blackforestcherrycake_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_pizzasalad_chili" name="Chop chili" />
+		<text id="preparestep_cheeseburger_chili" name="Leikkaa chili" />
+		<text id="preparestep_cheesedish_parsley" name="Silppua persilja" />
+		<text id="preparestep_cheesefondue_chili" name="Leikkaa chili" />
+		<text id="preparestep_cherriecake_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_cherrycompote_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_chickenburger_chili" name="Pilko chili" />
+		<text id="preparestep_chickensalad_chili" name="Leikkaa chili" />
+		<text id="preparestep_chickensoup_parsley" name="Silppua persilja" />
+		<text id="preparestep_chiliconcarne_chili" name="Pilko chili" />
+		<text id="preparestep_chocmousse_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_chocolatecake_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_chocolatecheesecake_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_chocolatefondue_cinnamon" name="Sirottele kaneli" />
+		<text id="preparestep_christmasturkey_rosemary" name="Silppua rosmariini" />
+		<text id="preparestep_cookieplate_cinnamon" name="Sirottele kaneli" />
+		<text id="preparestep_cornonthecob_parsley" name="Silppua persilja" />
+		<text id="preparestep_curry_coriander" name="Pilko korianteri" />
+		<text id="preparestep_duckalorange_cinnamon" name="Sirottele kaneli" />
+		<text id="preparestep_easterdish_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_englishbreakfast_chili" name="Leikkaa chili" />
+		<text id="preparestep_fishandchips_parsley" name="Silppua rosmariini" />
+		<text id="preparestep_friedpotatoes_rosemary" name="Silppua rosmariini" />
+		<text id="preparestep_fruitpudding_cinnamon" name="Sirottele  kaneli" />
+		<text id="preparestep_fruitsalad_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_gardensalad_parsley" name="Silppua persilja" />
+		<text id="preparestep_greensalad_parsley" name="Silppua persilja" />
+		<text id="preparestep_gumbo_chili" name="Leikkaa chili" />
+		<text id="preparestep_hamburger_chili" name="Leikkaa chili" />
+		<text id="preparestep_hotcherrywaffles_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_jamspongepudding_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_lasagne_basil" name="Silppua basilika" />
+		<text id="preparestep_macncheese_nutmeg" name="Raasta muskottipähkinä" />
+		<text id="preparestep_maplepancakes_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_marblecake_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_mexicansalad_chili" name="Leikkaa chili" />
+		<text id="preparestep_minestrone_basil" name="Silppua basilika" />
+		<text id="preparestep_mixedsalad_parsley" name="Silppua persilja" />
+		<text id="preparestep_nasigoreng_chili" name="Leikkaa chili" />
+		<text id="preparestep_newyorkcheesecake_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_noodlesalad_parsley" name="Silppua persilja" />
+		<text id="preparestep_omelette_chili" name="Pilko chili" />
+		<text id="preparestep_onionsoup_chili" name="Leikkaa chili" />
+		<text id="preparestep_peasoup_parsley" name="Silppua rosmariini" />
+		<text id="preparestep_pizzahawaii_chili" name="Pilko chili" />
+		<text id="preparestep_pizzatonno_horseradish" name="Raasta piparjuuri" />
+		<text id="preparestep_pizza_chili" name="Leikkaa chili" />
+		<text id="preparestep_porkroastwithcrackling_rosemary" name="Silppua rosmariini" />
+		<text id="preparestep_potatosalad_parsley" name="Silppua persilja" />
+		<text id="preparestep_redberrycompote_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_ricepudding_cinnamon" name="Sirottele kaneli" />
+		<text id="preparestep_roastchicken_parsley" name="Silppua persilja" />
+		<text id="preparestep_sandwich_parsley" name="Silppua persilja" />
+		<text id="preparestep_scouse_parsley" name="Silppua persilja" />
+		<text id="preparestep_spagetti_basil" name="Silppua basilika" />
+		<text id="preparestep_spareribs_chili" name="Leikkaa chili" />
+		<text id="preparestep_steakkidneypie_parsley" name="Silppua persilja" />
+		<text id="preparestep_steak_parsley" name="Silppua persilja" />
+		<text id="preparestep_stewedrhubarb_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_stew_chili" name="Leikkaa chili" />
+		<text id="preparestep_strawberrycake_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_strawberrymousse_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_stuffedpeppers_parsley" name="Silppua persilja" />
+		<text id="preparestep_sundayfeast_rosemary" name="Silppua rosmariini" />
+		<text id="preparestep_sushi_horseradish" name="Raasta piparjuuri" />
+		<text id="preparestep_toadinhole_rosemary" name="Silppua rosmariini" />
+		<text id="preparestep_toast_chili" name="Leikkaa chili" />
+		<text id="preparestep_tofuburger_chili" name="Pilko chili" />
+		<text id="preparestep_tomatosoup_basil" name="Silppua basilika" />
+		<text id="preparestep_trifle_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_veganstirfry_chili" name="Leikkaa chili" />
+		<text id="preparestep_vegetablesoup_basil" name="Silppua basilika" />
+		<text id="preparestep_veggiecurry_coriander" name="Pilko korianteri" />
+		<text id="preparestep_veggielasagne_basil" name="Silppua basilika" />
+		<text id="preparestep_whitechoccheesecake_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+		<text id="preparestep_whitechocmousse_vanilla" name="Raaputa siemenet vaniljatangon sisältä" />
+	</preparestep_fancy>
+	<recipe>
+		<text id="recipe_bananasplit" name="Bananasplit" />
+		<text id="recipe_brigadeiro" name="Brigadeiro" />
+		<text id="recipe_beefstew" name="Hauduta" />
+		<text id="recipe_pizzasalad" name="Pizza with Salad" />
+		<text id="recipe_tripleomelette" name="Triple Omelette" />
+		<text id="recipe_chocolatewaffles" name="Chocolate Waffles" />
+		<text id="recipe_spanishomelette" name="Spanish Omelette" />
+		<text id="recipe_sausagepasta" name="Sausage Spaghetti" />
+		<text id="recipe_applepie" name="Apple Pie" />
+		<text id="recipe_ramen" name="Ramen" />
+		<text id="recipe_corncake" name="Corn Cake" />
+		<text id="recipe_feijoada" name="Feijoada" />
+		<text id="recipe_blackforestcherrycake" name="Kirsikkakakku" />
+		<text id="recipe_cheeseburger" name="Juustohampurilainen" />
+		<text id="recipe_cheesedish" name="Juustolautanen" />
+		<text id="recipe_cheesefondue" name="Juustofondue" />
+		<text id="recipe_cherriecake" name="Kirsikkakakku" />
+		<text id="recipe_cherrycompote" name="Kirsikkahilloke" />
+		<text id="recipe_chickenburger" name="Kanahampurilainen" />
+		<text id="recipe_chickensalad" name="Kanasalaatti" />
+		<text id="recipe_chickensoup" name="Kanapata" />
+		<text id="recipe_chiliconcarne" name="Chili con carne" />
+		<text id="recipe_chocmousse" name="Suklaamousse" />
+		<text id="recipe_chocolatecake" name="Suklaakakku" />
+		<text id="recipe_chocolatecheesecake" name="Suklaajuustokakku" />
+		<text id="recipe_chocolatefondue" name="Suklaafondue" />
+		<text id="recipe_christmasturkey" name="Joulupaisti" />
+		<text id="recipe_cookieplate" name="Keksilautanen" />
+		<text id="recipe_cornonthecob" name="Maissintähkä" />
+		<text id="recipe_curry" name="Curry" />
+		<text id="recipe_duckalorange" name="Appelsiiniankka" />
+		<text id="recipe_easterdish" name="Onnellinen pääsiäiskori" />
+		<text id="recipe_englishbreakfast" name="Englantilainen aamiainen" />
+		<text id="recipe_fishandchips" name="Fish&apos;n&apos;Chips" />
+		<text id="recipe_friedpotatoes" name="Paistetut perunat" />
+		<text id="recipe_fruitpudding" name="Hedelmäkakku" />
+		<text id="recipe_fruitsalad" name="Hedelmäsalaatti" />
+		<text id="recipe_greensalad" name="Puutarhasalaatti" />
+		<text id="recipe_gumbo" name="Gumbo" />
+		<text id="recipe_hamburger" name="Hampurilainen" />
+		<text id="recipe_hotcherrywaffles" name="Kuumat kirsikkavohvelit" />
+		<text id="recipe_jamspongepudding" name="Hillosokerikakku" />
+		<text id="recipe_lasagne" name="Lasagne" />
+		<text id="recipe_macncheese" name="Mac&apos;n&apos;Cheese" />
+		<text id="recipe_maplepancakes" name="Ohukaiset vaahterasiirapilla" />
+		<text id="recipe_marblecake" name="Marmorikakku" />
+		<text id="recipe_mexicansalad" name="Meksikolainen papusalaatti" />
+		<text id="recipe_minestrone" name="Minestronekeitto" />
+		<text id="recipe_mixedsalad" name="Sekasalaatti" />
+		<text id="recipe_nasigoreng" name="Nasi Goreng" />
+		<text id="recipe_newyorkcheesecake" name="New York juustokakku" />
+		<text id="recipe_noodlesalad" name="Pastasalaatti" />
+		<text id="recipe_omelette" name="Munakas" />
+		<text id="recipe_onionsoup" name="Paistettu sipulikeitto" />
+		<text id="recipe_peasoup" name="Hernekeitto" />
+		<text id="recipe_pizza" name="Pizza" />
+		<text id="recipe_pizzahawaii" name="Hawai-pizza" />
+		<text id="recipe_pizzatonno" name="Tonnikalapizza" />
+		<text id="recipe_porkroastwithcrackling" name="Possupaisti" />
+		<text id="recipe_potatosalad" name="Perunasalaatti" />
+		<text id="recipe_redberrycompote" name="Punainen marjakiisseli" />
+		<text id="recipe_ricepudding" name="Riisivanukas omenakastikkeella" />
+		<text id="recipe_roastchicken" name="Paista kana" />
+		<text id="recipe_sandwich" name="Voileipä" />
+		<text id="recipe_scouse" name="Lapskoussi" />
+		<text id="recipe_spagetti" name="Spagetti bolognese" />
+		<text id="recipe_spareribs" name="Grillikyljet" />
+		<text id="recipe_steak" name="Pihvi" />
+		<text id="recipe_steakkidneypie" name="Liha-munuaispiirakka" />
+		<text id="recipe_stewedrhubarb" name="Raparperihilloke" />
+		<text id="recipe_strawberrycake" name="Mansikkakakku" />
+		<text id="recipe_strawberrymousse" name="Mansikkamousse" />
+		<text id="recipe_stuffedpeppers" name="Täytetyt paprikat" />
+		<text id="recipe_sundayfeast" name="Sunnuntain juhla-ateria" />
+		<text id="recipe_sushi" name="Sushi" />
+		<text id="recipe_toadinahole" name="Konna piilossa" />
+		<text id="recipe_toast" name="Havaijilainen toast" />
+		<text id="recipe_tofuburger" name="Tofuhampurilainen" />
+		<text id="recipe_tomatosoup" name="Tomaattikeitto" />
+		<text id="recipe_trifle" name="Jälkiruokatorttu" />
+		<text id="recipe_veganstirfry" name="Kypsennetty kasvisruoka" />
+		<text id="recipe_vegetablesoup" name="Kasviskeitto" />
+		<text id="recipe_veggiecurry" name="Kasviscurry" />
+		<text id="recipe_veggielasagne" name="Kasvislasagne" />
+		<text id="recipe_whitechoccheesecake" name="Valkosuklaa-juustokakku" />
+		<text id="recipe_whitechocmousse" name="Valkosuklaa-mousse" />
+		<text id="recipe_coxinha" name="Coxinha" />
+	</recipe>
+	<recipes_fastfood>
+		<text id="recipe_smoothiemaker_greensmoothie" name="Vihreä smoothie" />
+		<text id="recipe_smoothiemaker_kiba" name="Kirsikkabanaani-smoothie" />
+		<text id="recipe_smoothiemaker_pinacolada" name="Virgin Colada" />
+		<text id="recipe_smoothiemaker_tomatojuice" name="Tomaattimehu" />
+	</recipes_fastfood>
+	<server>
+		<mail>
+			<text id="mail_invite_friend" name="Hei %s!&lt;br /&gt;&lt;br /&gt;Löysin juuri tämän upean online-pelin &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Tämän linkin kautta pääset suoraan peliin:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Rekisteröidy ilmaiseksi linkin kautta, jotta voit luoda oman kahvilasi pelissä &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt; Saat tietää millaista on pitää omaa kahvilaa. Hoidat omaa bisnestäsi, teet upeita annoksia ja näet kuinka asiakkaat lähtevät tyytyväisinä kahvilastasi. &lt;br /&gt;&lt;br /&gt;Nauti pelistä! Parhain terveisin, %s" />
+			<text id="mail_lost_pw" name="Hei %s!&lt;br /&gt;&lt;br /&gt;Saat tämän automaattisen sähköpostin, koska olet pyytänyt uutta salasanaa.&lt;br /&gt;Salasanasi on: %s&lt;br /&gt;&lt;br /&gt;Tämän linkin kautta pääset suoraan peliin:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Jos sinulla on kysyttävää tai ongelmia, ole hyvä ja lähetä sähköpostia tähän osoitteeseen: support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Toivomme, että pidät edelleen hauskaa pelimme parissa!&lt;br /&gt;&lt;br /&gt;Tiimisi&lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_registration" name="Hei,&lt;br /&gt;&lt;br /&gt;kiitos rekisteröitymisestäsi ja tervetuloa pelaamaan peliä &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Voit kirjautua sisään mihin aikaan tahansa antamalla seuraavat tiedot:&lt;br /&gt;Sähköpostiosoite: %s&lt;br /&gt;Salasana: %s&lt;br /&gt;&lt;br /&gt;Tämän linkin kautta pääset suoraan peliin:&lt;br/&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Jos sinulla on kysyttävää tai ongelmia, ole hyvä ja lähetä sähköpostia tähän osoitteeseen: support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt; Toivomme, että nautit pelistä Goodgame Café!&lt;br /&gt;&lt;br /&gt;Tiimisi&lt;br /&gt;Goodgamestudios.com" />
+		</mail>
+		<misc>
+			<text id="marketplace" name="Tori" />
+		</misc>
+	</server>
+	<std_buttons>
+		<text id="btn_text_accept" name="Hyväksy" />
+		<text id="btn_text_cancle" name="Peruuta" />
+		<text id="btn_text_goback" name="Takaisin" />
+		<text id="btn_text_no" name="Ei" />
+		<text id="btn_text_notaccept" name="Hylkää" />
+		<text id="btn_text_okay" name="OK" />
+		<text id="btn_text_payment" name="Osta Kultaa/Cafédollareita" />
+		<text id="btn_text_share" name="Jaa se ystäviesi kanssa!" />
+		<text id="btn_text_srchips" name="Ansaitse Cafédollareita" />
+		<text id="btn_text_srgold" name="Ansaitse kultaa" />
+		<text id="btn_text_yes" name="Kyllä" />
+	</std_buttons>
+	<tooltips>
+		<text id="tt_Basic_Achievement_Boughtdeco" name="Ostettujen koristeiden määrä" />
+		<text id="tt_Basic_Achievement_Boughtingredients" name="Ostettujen ruoka-aineiden määrä" />
+		<text id="tt_Basic_Achievement_Cookingcount" name="Tehtyjen annosten määrä" />
+		<text id="tt_Basic_Achievement_Coopcount" name="Suoritettujen Tiimitöiden määrä" />
+		<text id="tt_Basic_Achievement_Coopgoldcount" name="Kultaisen statuksen saaneiden suoritettujen Tiimitöiden määrä" />
+		<text id="tt_Basic_Achievement_Curiercount" name="Lähetyksien määrä" />
+		<text id="tt_Basic_Achievement_Differentdishes" name="Erilaisten aterioiden määrä" />
+		<text id="tt_Basic_Achievement_Earnedchips" name="Ansaitut Cafédollarit" />
+		<text id="tt_Basic_Achievement_Fancycount" name="Käytettyjen erikoisruoka-aineiden määrä" />
+		<text id="tt_Basic_Achievement_Firenpc" name="Irtisanottujen tarjoilijoiden määrä" />
+		<text id="tt_Basic_Achievement_Instantcount" name="Pikakokattujen aterioiden määrä" />
+		<text id="tt_Basic_Achievement_Jobclean" name="Kerättyjen lautasten määrä tarjoilijana toimiessa" />
+		<text id="tt_Basic_Achievement_Jobserve" name="Tarjoiltujen lautasten määrä tarjoilijana toimiessa" />
+		<text id="tt_Basic_Achievement_Masteies" name="Saavutettujen Tähtien määrä" />
+		<text id="tt_Basic_Achievement_Masteriesgold" name="Saavutettujen Kultatähtien määrä" />
+		<text id="tt_Basic_Achievement_Muffinmancash" name="Voita Cafédollareita muffinsien leipomisesta" />
+		<text id="tt_Basic_Achievement_Muffinmangold" name="Voitettu kultaa Muffinsien leivonnassa" />
+		<text id="tt_Basic_Achievement_Overcookedfoods" name="Pilaantuneiden annosten määrä" />
+		<text id="tt_Basic_Achievement_Servingcountmeals" name="Tehtyjen pääruokien määrä" />
+		<text id="tt_Basic_Achievement_Servingcountsalads" name="Tehtyjen salaattien määrä" />
+		<text id="tt_Basic_Achievement_Servingcountsnacks" name="Valmistettujen naposteltavien määrä" />
+		<text id="tt_Basic_Achievement_Servingcountsoups" name="Tehtyjen keittojen määrä" />
+		<text id="tt_Basic_Achievement_Servingcountsweets" name="Tehtyjen jälkiruokien määrä" />
+		<text id="tt_Basic_Achievement_Servingcountvegans" name="Tehtyjen kasvisaterioiden määrä" />
+		<text id="tt_Basic_Achievement_Servingscount" name="Myytyjen annosten määrä" />
+		<text id="tt_Basic_Achievement_Solditems" name="Myytyjen koristeiden ja huonekalujen määrä" />
+		<text id="tt_Basic_Achievement_Spentchips" name="Käytetyt Cafédollarit" />
+		<text id="tt_Basic_Achievement_Spentgold" name="Käytetty kulta" />
+		<text id="tt_Basic_Achievement_Wheeloffortune" name="Voittojen määrä onnenpyörässä" />
+		<text id="tt_byAmount" name="{0} {1} :stä" />
+		<text id="tt_byLevel" name="Tasolta {0}" />
+		<text id="tt_CafeActionPanel_btn_achievements" name="Saavutukset" />
+		<text id="tt_CafeActionPanel_btn_cookbook" name="Keittokirja" />
+		<text id="tt_CafeActionPanel_btn_coop" name="Tiimityöt" />
+		<text id="tt_CafeActionPanel_btn_decoshop" name="Muokkaa" />
+		<text id="tt_CafeActionPanel_btn_gifts" name="Lahjat" />
+		<text id="tt_CafeActionPanel_btn_ingredientshop" name="Ruokakauppa" />
+		<text id="tt_CafeActionPanel_btn_market" name="Tori" />
+		<text id="tt_CafeActionPanel_btn_owncafe" name="Minun kahvilani" />
+		<text id="tt_CafeActionPanel_btn_staff" name="Henkilökunta" />
+		<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="Napit" />
+		<text id="tt_CafeAvatarCreationDialog_btn_boy" name="Poika" />
+		<text id="tt_CafeAvatarCreationDialog_btn_girl" name="Tyttö" />
+		<text id="tt_CafeAvatarCreationDialog_btn_hair" name="Hiusten väri" />
+		<text id="tt_CafeAvatarCreationDialog_btn_skin" name="Hiusten väri" />
+		<text id="tt_CafeAvatarCreationDialog_btn_tops" name="Yläosat" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook" name="Pikakokkaus" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="Et voi käyttää enää tänään &apos;Pikakokkausta&apos;." />
+		<text id="tt_CafeClearStoveDialog_instantButton" name="Pikakokkaus" />
+		<text id="tt_CafeCookBookDialog_0" name="Makeiset" />
+		<text id="tt_CafeCookBookDialog_1" name="Pääruoat" />
+		<text id="tt_CafeCookBookDialog_2" name="Keitot" />
+		<text id="tt_CafeCookBookDialog_3" name="Salaatit" />
+		<text id="tt_CafeCookBookDialog_4" name="Kasvisvaihtoehto" />
+		<text id="tt_CafeCookBookDialog_5" name="Naposteltavat" />
+		<text id="tt_CafeCookBookDialog_btn_cook" name="Ruoanlaitto" />
+		<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="Sinulta puuttuu joitain ainesosia!" />
+		<text id="tt_CafeCookBookDialog_btn_mastery" name="vielä {0} seuraavaan Tähtitasoon {1} Klikkaa saadaksesi lisätietoja" />
+		<text id="tt_CafeCookBookDialog_btn_shop" name="Ruokakauppa" />
+		<text id="tt_CafeDekoShopPanel_btn_close" name="Takaisin kahvilaasi" />
+		<text id="tt_CafeDekoShopPanel_btn_deko" name="Muokkaa" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Chair" name="Tuolit" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="Koristeet" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Door" name="Ovet" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Table" name="Pöydät" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Tiles" name="Kakkupohjat" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wall" name="Seinät" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wallobject" name="Seinäkoristeet" />
+		<text id="tt_CafeDekoShopPanel_btn_expansion" name="Laajennukset" />
+		<text id="tt_CafeDekoShopPanel_btn_functional" name="Käytännölliset" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Counter" name="Tiskit" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Extras" name="Extra" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Fridge" name="Jääkaapit" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Stove" name="Liedet" />
+		<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="Tarvitset vielä {0} network-ystävää ostaaksesi tämän laajennuksen!" />
+		<text id="tt_CafeDekoShopPanel_btn_sell" name="Myydäksesi kohteen raahaa se tähän" />
+		<text id="tt_CafeDekoShopPanel_cashexpansion" name="Sinun täytyy olla tasolla {0} ostaaksesi laajennuksia Cafèdollareilla." />
+		<text id="tt_CafeDekoShopPanel_dragItem" name="Raahaa minut kahvilaasi" />
+		<text id="tt_CafeDekoShopPanel_invalidexpansion" name="Sinulla tulee olla aikaisempi laajennus ennen kuin voit ostaa seuraavan." />
+		<text id="tt_CafeIngredientShopDialog_btn_addcash" name="Lisää Cafédollareita/Kultaa" />
+		<text id="tt_CafeIngredientShopDialog_btn_all" name="Kaikki" />
+		<text id="tt_CafeIngredientShopDialog_btn_buy" name="Osta" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat1" name="Liha- &amp; maitotuotteet" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat2" name="Kasvikset" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat3" name="Hedelmät" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat4" name="Erikoisruoka-aineet" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat5" name="Muut" />
+		<text id="tt_CafeIngredientShopDialog_btn_fridge" name="Jääkaappi" />
+		<text id="tt_CafeIngredientShopDialog_btn_help" name="Mitä ovat Erikoisruoka-aineet?" />
+		<text id="tt_CafeIngredientShopDialog_btn_sell" name="Myy" />
+		<text id="tt_CafeIngredientShopDialog_btn_shop" name="Ruokakauppa" />
+		<text id="tt_CafeIngredientShopDialog_btn_unlock" name="Lähetti" />
+		<text id="tt_CafeIngredientShopDialog_btn_wheel" name="Vain saatavilla Onnenpyörässä!" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_help" name="Työinfo" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_refill" name="Täydennä työluvat" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_sign" name="Etsi työtä" />
+		<text id="tt_CafeMasteryDialog_broncestar" name="Tee useampia annoksia!" />
+		<text id="tt_CafeMasteryDialog_goldstar" name="Tee ruokaa nopeammin!" />
+		<text id="tt_CafeMasteryDialog_silverstar" name="Hanki lisää XP:itä!" />
+		<text id="tt_CafeNamePanel_mc_luxury" name="Kahvilasi luksusarvo" />
+		<text id="tt_CafeNamePanel_mc_rating" name="Kahvilasi suosio" />
+		<text id="tt_CafeOptionPanel_btn_blockfriends" name="Estä ystäväpyyntö" />
+		<text id="tt_CafeOptionPanel_btn_bugreport" name="Virheilmoitukset" />
+		<text id="tt_CafeOptionPanel_btn_changePass" name="Vaihda salasana" />
+		<text id="tt_CafeOptionPanel_btn_custom" name="Vaihda hahmon vaatteita" />
+		<text id="tt_CafeOptionPanel_btn_faq" name="Usein Kysytyt Kysymykset" />
+		<text id="tt_CafeOptionPanel_btn_fullscreen" name="Koko näyttö" />
+		<text id="tt_CafeOptionPanel_btn_help" name="Apu" />
+		<text id="tt_CafeOptionPanel_btn_logout" name="Kirjaudu ulos" />
+		<text id="tt_CafeOptionPanel_btn_messages" name="Uutiset" />
+		<text id="tt_CafeOptionPanel_btn_music" name="Musiikki päällä/pois" />
+		<text id="tt_CafeOptionPanel_btn_news" name="Forum" />
+		<text id="tt_CafeOptionPanel_btn_options" name="Asetukset" />
+		<text id="tt_CafeOptionPanel_btn_screenshot" name="Kuva" />
+		<text id="tt_CafeOptionPanel_btn_sfx" name="Tehosteet päällä/pois" />
+		<text id="tt_CafeOptionPanel_btn_socialgroup" name="Ryhmä" />
+		<text id="tt_CafeOptionPanel_btn_sound" name="Ääni" />
+		<text id="tt_CafeOptionPanel_btn_support" name="Tuki" />
+		<text id="tt_CafeOptionPanel_btn_verifyemail" name="Hae palkinto" />
+		<text id="tt_CafeOptionPanel_btn_wantfriends" name="Salli ystäväpyynnöt" />
+		<text id="tt_CafeOptionPanel_btn_zoom" name="Zoomaa" />
+		<text id="tt_CafeOptionPanel_btn_zoomIn" name="zoomaa lähemmäs" />
+		<text id="tt_CafeOptionPanel_btn_zoomOut" name="zoomaa kauemmas" />
+		<text id="tt_CafeRegisterPanel_btn_register" name="Tallenna &amp; rekisteröidy" />
+		<text id="tt_CafeSmoothiemaker_btn_mix" name="Sekoita" />
+		<text id="tt_CafeSmoothiemaker_serve" name="Tarjoile juoma" />
+		<text id="tt_CafeSocialPanel_btn_buddies" name="Ystävät" />
+		<text id="tt_CafeSocialPanel_btn_buddiesincafe" name="Osallistuvat pelaajat" />
+		<text id="tt_CafeSocialPanel_btn_chat" name="Chat" />
+		<text id="tt_CafeSocialPanel_btn_findbuddies" name="Kutsu ystäviä" />
+		<text id="tt_CafeSocialPanel_btn_muteplayer" name="Mykistä" />
+		<text id="tt_CafeStaffDialog_rename" name="Uusi nimi tarjoilijallesi" />
+		<text id="tt_CafeUserStatePanel_btn_adddollar" name="Lisää Cafédollareita/Kultaa" />
+		<text id="tt_CafeUserStatePanel_btn_refill" name="Täydennä työluvat" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} XP:tä ennen seuraavaa tasoa" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="XP" />
+		<text id="tt_highscore_luxury" name="Järjestä ylellisyysarvon mukaan" />
+		<text id="tt_highscore_xp" name="Järjestä XP-pisteiden mukaan" />
+		<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="Saavutukset" />
+		<text id="tt_PlayerActionChoicesComponent_btn_addfriend" name="Ystäväpyyntö" />
+		<text id="tt_PlayerActionChoicesComponent_btn_info" name="Info" />
+		<text id="tt_PlayerActionChoicesComponent_btn_job" name="Palkkaa" />
+		<text id="tt_PlayerActionChoicesComponent_btn_kick" name="Heitä ulos" />
+		<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="Lopeta ystävyyssuhde" />
+		<text id="tt_PlayerActionChoicesComponent_btn_visit" name="Vieraile kahvilassa" />
+		<text id="tt_Social_Achievement_Friendscount" name="Network-ystävien määrä" />
+	</tooltips>
+	<tutorial>
+		<text id="tut_buymissingingredient_copy" name="&apos;0&apos; pienen jääkaapin vieressä tarkoittaa, että varastossasi ei ole sipuleita. Sen alapuolella näet hinnan. Osta yksi nippu sipuleita!" />
+		<text id="tut_cafeopen_copy" name="Hienoa! Sinun ei tarvitse odottaa pitkään, että ensimmäiset asiakkaat tulevat.\nNyt tiedät perusteet kahvilan pyörittämiselle. Mikset jatkaisi tästä eteenpäin itse.\n\nPidä hauskaa!" />
+		<text id="tut_cookmeal_copy" name="Aloitetaan! \nNäytä mitä osaat!" />
+		<text id="tut_cookopenshop_copy" name="Täältä löydät tarvittavat ruoka-aineet, keittoajan ja edut jokaiselle reseptille. \nVoi ei! Sipulit ovat loppu, mutta voit ostaa niitä lisää." />
+		<text id="tut_cookpreparecook_copy" name="Kaikista tärkeintä on ruoka. Tehdään puutarhasalaatti! Klikkaa liettä!" />
+		<text id="tut_instantcook2_copy" name="Käytä &apos;Pikakokkausta&apos;. \nSe maksaa kultaa ja on kätevää." />
+		<text id="tut_instantcook_copy" name="Normaalisti puutarhasalaatin valmistaminen kestää kolme minuuttia. Meillä on kuitenkin mahdollisuus nopeuttaa asioita, joten tehdään se nyt." />
+		<text id="tut_preparesteps_copy" name="Klikkaa muutaman kerran liettä käydäksesi läpi kaikki valmistusvaiheet." />
+		<text id="tut_servedish_copy" name="Hyvin tehty!\nNyt annos pitää vain tarjoilla.\n10 annoksella ei pitkälle pötkitä, joten pidä huolta, että teet lisää ruokaa nälkäisille asiakkaille!" />
+		<text id="tut_start_copy" name="Hei {0}, tervetuloa uuteen kahvilaasi!\nTämä lyhyt esittely auttaa sinua astumaan ruoanlaiton ihmeelliseen maailmaan." />
+		<text id="tut_title" name="Esittely!" />
+		<text id="tut_welcome_title" name="Tervetuloa!" />
+	</tutorial>
+	<generic_flash>
+		<alert>
+			<text id="generic_alert_bug" name="Virhe" />
+			<text id="generic_alert_connection_failed_copy" name="Huolto. Ole hyvä ja yritä uudelleen!" />
+			<text id="generic_alert_connection_failed_title" name="Työ kesken!" />
+			<text id="generic_alert_connection_lost_copy" name="Yhteys palvelimeen on katkennut. Ole hyvä ja yritä yhdistää uudelleen!" />
+			<text id="generic_alert_connection_lost_description" name="Teemme tällä hetkellä ylläpitotöitä, joita tulee tehdä aika ajoin. Niitä tehdään päivittääksemme pelejä, uusia toimintoja tai korjataksemme virheitä.  &lt;br&gt; &lt;br&gt; Työskentelemme niin nopeasti kuin mahdollista, jotta pääset pelaamaan mahdollisimman pian." />
+			<text id="generic_alert_connection_lost_promo" name="Haluatko kokeilla jotain muista peleistämme sillä aikaa?" />
+			<text id="generic_alert_connection_lost_thanks" name="Kiitos ymmärtämisestä!" />
+			<text id="generic_alert_connection_lost_title" name="Yhteys poikki!" />
+			<text id="generic_alert_error" name="Virhe" />
+			<text id="generic_alert_information" name="Hälytys" />
+			<text id="generic_alert_loggedout_copy" name="Kirjauduit ulos. Älä unohda tätä: Joka päivä sinulle on tarjolla sisäänkirjautumisbonus!" />
+			<text id="generic_alert_loggedout_title" name="Nähdään myöhemmin!" />
+			<text id="generic_alert_warning" name="Varoitus" />
+			<text id="generic_alert_watchout" name="Huomio!" />
+			<text id="generic_alert_win7chromebug" name="" />
+			<text id="generic_invalid_email_provider" name="Tämän hankkijan sähköpostiosoite ei ole sallittu!" />
+			<text id="generic_js_alert_firstsessiontracking_loading" name="Internet-yhteytesi vaikuttaa hitaalta tällä hetkellä. Ole hyvä ja yritä myöhemmin uudelleen!" />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="Mitä pidät pelistämme? Mitä voisimme vielä parantaa? Ole hyvä ja kirjoita mielipiteesi Goodgame forumiin tai ryhmään." />
+			<text id="generic_js_alert_firstsessiontracking_unregistered" name="Huomio: Kehityksesi tallennetaan vain kun olet rekisteröitynyt!" />
+			<text id="generic_register_error_invalidemail" name="Annettu sähköpostiosoite ei ole oikea." />
+			<text id="generic_report_muted_chattry" name="Et voi käyttää chat-toimintoa, koska se on poistettu väliaikaisesti." />
+		</alert>
+		<button>
+			<text id="generic_btn_accept" name="Hyväksy" />
+			<text id="generic_btn_cancel" name="Peruuta" />
+			<text id="generic_btn_close" name="Sulje" />
+			<text id="generic_btn_continue" name="Jatka" />
+			<text id="generic_btn_end" name="Lopeta" />
+			<text id="generic_btn_endnow" name="Lopeta nyt" />
+			<text id="generic_btn_goback" name="Takaisin" />
+			<text id="generic_btn_no" name="Ei" />
+			<text id="generic_btn_noshare" name="Älä välitä!" />
+			<text id="generic_btn_notaccept" name="Hylkää" />
+			<text id="generic_btn_okay" name="Okei" />
+			<text id="generic_btn_reconnect" name="Yhdistä uudelleen" />
+			<text id="generic_btn_refresh" name="Päivitä" />
+			<text id="generic_btn_report" name="Raportoi" />
+			<text id="generic_btn_search" name="Etsi" />
+			<text id="generic_btn_share" name="Jaa!" />
+			<text id="generic_btn_skip" name="Jätä väliin" />
+			<text id="generic_btn_start" name="Aloita" />
+			<text id="generic_btn_topayment" name="Anna se minulle!" />
+			<text id="generic_btn_yes" name="Kyllä" />
+		</button>
+		<chat>
+			<text id="generic_chat_writeable" name="Sinun täytyy rekisteröityä ja saavuttaa taso 1 käyttääksesi chattia." />
+		</chat>
+		<common>
+			<text id="generic_admin" name="Järjestelmänvalvoja" />
+			<text id="generic_animation" name="Näytä animaatioita" />
+			<text id="generic_bugreport" name="Kerro meille virheistä" />
+			<text id="generic_changePass" name="Vaihda salasana" />
+			<text id="generic_comma" name="," />
+			<text id="generic_conningsoon" name="*Tulossa Pian*" />
+			<text id="generic_date" name="Päiväys" />
+			<text id="generic_day" name="Päivä" />
+			<text id="generic_dayformat" name="{1}/{0}" />
+			<text id="generic_days" name="Päivää" />
+			<text id="generic_day_short" name="päivää" />
+			<text id="generic_decimalseparator" name="." />
+			<text id="generic_email" name="Sähköposti" />
+			<text id="generic_faq" name="Usein kysytyt kysymykset" />
+			<text id="generic_forum" name="Foorumi" />
+			<text id="generic_friend" name="Ystävä" />
+			<text id="generic_friends" name="Ystävät" />
+			<text id="generic_general" name="Yleisasetukset" />
+			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_group" name="Ryhmä" />
+			<text id="generic_guest" name="Vieras" />
+			<text id="generic_help" name="Apu" />
+			<text id="generic_high" name="Korkea" />
+			<text id="generic_hour" name="Tunti" />
+			<text id="generic_hours" name="Tuntia" />
+			<text id="generic_hour_short" name="h" />
+			<text id="generic_limited" name="Rajoitettu" />
+			<text id="generic_logout" name="Kirjaudu ulos" />
+			<text id="generic_low" name="Alhainen" />
+			<text id="generic_medium" name="Keskitaso" />
+			<text id="generic_minute" name="Minuutti" />
+			<text id="generic_minutes" name="Minuuttia" />
+			<text id="generic_minute_short" name="min" />
+			<text id="generic_moderator" name="Moderaattori" />
+			<text id="generic_month" name="kuukausi" />
+			<text id="generic_months" name="kuukautta" />
+			<text id="generic_music" name="Musiikki päällä/pois" />
+			<text id="generic_name" name="Nimi" />
+			<text id="generic_news" name="Uutissähke" />
+			<text id="generic_options" name="Valinnat" />
+			<text id="generic_quality" name="Laatu" />
+			<text id="generic_register" name="Tallenna ja Rekisteröidy" />
+			<text id="generic_second" name="Sekunti" />
+			<text id="generic_seconds" name="Sekuntia" />
+			<text id="generic_second_short" name="sek" />
+			<text id="generic_sound" name="Äänet päällä/pois" />
+			<text id="generic_support" name="Tuki" />
+			<text id="generic_today" name="Tänään" />
+			<text id="generic_tomorrow" name="Tänään" />
+			<text id="generic_tutorial" name="Opastus" />
+			<text id="generic_username" name="Pelaajanimi" />
+			<text id="generic_xp" name="XP" />
+			<text id="generic_yesterday" name="Eilen" />
+		</common>
+		<error>
+			<text id="generic_versioncheck_error" name="Vanha versio!" />
+			<text id="generic_versioncheck_errorcode_1" name="Päivitä sivu." />
+		</error>
+		<feeds id="" />
+		<friends>
+			<text id="generic_friends_add_copy" name="Haluatko lisätä pelaajan {0} ystäväksesi?" />
+			<text id="generic_friends_add_title" name="Ystäväpyyntö" />
+			<text id="generic_friends_buddy_btn_morefriends" name="Lisää ystäviä!" />
+			<text id="generic_friends_denied_copy" name="{0} on hylännyt pyyntösi." />
+			<text id="generic_friends_denied_title" name="Pyyntö hylätty!" />
+			<text id="generic_friends_invite_badword_copy" name="Nimi, jonka valitsit, ei ole sallittu!" />
+			<text id="generic_friends_invite_badword_title" name="Huomio!" />
+			<text id="generic_friends_invite_error_copy" name="Sinun täytyy rekisteröityä kutsuaksesi pelaajia." />
+			<text id="generic_friends_invite_error_title" name="Rekisteröidy ensin" />
+		</friends>
+		<fullscreen>
+			<text id="generic_fullscreen_error_copy" name="Koko näyttö ei ole mahdollinen" />
+		</fullscreen>
+		<languages>
+			<text id="generic_language_cs" name="tšekki" />
+			<text id="generic_language_da" name="tanska" />
+			<text id="generic_language_de" name="saksa" />
+			<text id="generic_language_el" name="kreikka" />
+			<text id="generic_language_en" name="englanti" />
+			<text id="generic_language_es" name="espanja" />
+			<text id="generic_language_fi" name="suomi" />
+			<text id="generic_language_fr" name="ranska" />
+			<text id="generic_language_hu" name="unkari" />
+			<text id="generic_language_id" name="indonesia" />
+			<text id="generic_language_it" name="italia" />
+			<text id="generic_language_ja" name="japani" />
+			<text id="generic_language_ko" name="korea" />
+			<text id="generic_language_nl" name="hollanti" />
+			<text id="generic_language_no" name="norja" />
+			<text id="generic_language_pl" name="puola" />
+			<text id="generic_language_pt" name="portugali" />
+			<text id="generic_language_pt_BR" name="brasilia" />
+			<text id="generic_language_ru" name="venäjä" />
+			<text id="generic_language_sv" name="ruotsi" />
+			<text id="generic_language_tr" name="turkki" />
+			<text id="generic_language_zh_CN" name="kiina (selkokieli)" />
+			<text id="generic_language_zh_TW" name="kiina (perinteinen)" />
+		</languages>
+		<login>
+			<text id="generic_login_banned" name="Käyttäjätilisi on suljettu! Ota yhteyttä käyttäjätukeen!" />
+			<text id="generic_login_banned_2" name="Tilisi on otettu pois käytöstä!  Pois käytöstä {0} asti  Jos sinulla on kysyttävää käytöstä poistamisesta, ota yhteyttä tukeen." />
+			<text id="generic_login_banned_3" name="Sinun tilisi on jäädytetty pysyvästi.  Jos sinulla on kysyttävää tästä, ole hyvä ja ota yhteyttä tukeen." />
+			<text id="generic_login_banned_permanent" name="pysyvä" />
+			<text id="generic_login_facebook" name="Kirjaudu Facebookin kautta" />
+			<text id="generic_login_login" name="KIRJAUDU SISÄÄN" />
+			<text id="generic_login_loginname" name="Käyttäjänimi/ Sähköposti" />
+			<text id="generic_login_lostpassword" name="Unohditko salasanasi?" />
+			<text id="generic_login_lostpassword_copy" name="Anna sähköpostiosoitteesi ja lähetämme sinulle salasanasi." />
+			<text id="generic_login_lostpassword_title" name="Unohditko salasanasi?" />
+			<text id="generic_login_newplayer" name="Oletko uusi?" />
+			<text id="generic_login_password" name="Salasana" />
+			<text id="generic_login_play" name="PELAA NYT" />
+			<text id="generic_login_playnow" name="Pelaa nyt!" />
+			<text id="generic_login_register" name="Rekisteröidy" />
+			<text id="generic_login_rememberpassword" name="Muista salasana" />
+			<text id="generic_login_wronglogin" name="Väärä käyttäjänimi tai salasana!" />
+		</login>
+		<logout>
+			<text id="generic_logout_guest_copy" name="Rekisteröidy tallentaaksesi pelipisteesi!" />
+			<text id="generic_logout_guest_title" name="Rekisteröidy" />
+		</logout>
+		<notification>
+			<text id="servershutdownpremonition_backin_copy" name="Peli on saatavilla taas viimeistään {0} kuluessa." />
+			<text id="servershutdownpremonition_copy" name="Peliserveri sulkeutuu {0} minuutin kuluttua. Kirjaudu ulos tai takaisin sisään säilyttääksesi pisteesi." />
+			<text id="servershutdownpremonition_registered_copy" name="Suljemme peliserverin huoltotöiden vuoksi {0} kuluessa." />
+			<text id="servershutdown_copy" name="Peliserveri on nyt sulkeutunut. Voit kirjautua uudelleen sisään parin minuutin kuluttua." />
+			<text id="welcomeback_copy" name="Hauska nähdä taas! Tässä on vähän jotain, joka auttaa sinua pääsemään taas vauhtiin!" />
+			<text id="welcomeback_title" name="Tulit takaisin!" />
+		</notification>
+		<password>
+			<text id="generic_change_password_copy_newpass" name="Uusi salasana:" />
+			<text id="generic_change_password_copy_oldpass" name="Vanha salasana:" />
+			<text id="generic_change_password_copy_send" name="Uusi salasanasi lähetettiin sähköpostiosoitteeseesi." />
+			<text id="generic_change_password_error_failed" name="Tämä ei ole vanha salasanasi." />
+			<text id="generic_change_password_error_success" name="Salasanasi vaihdettiin onnistuneesti!" />
+			<text id="generic_change_password_faild_copy" name="Uudessa salasanassa tulee olla vähintään kaksi kirjainta ja vanhan salasanan tulee olla oikein annettu!" />
+			<text id="generic_change_password_faild_specialcharacters" name="Salasana ei saa olla tyhjä tai sisältää erikoismerkkejä." />
+			<text id="generic_change_password_faild_title" name="Anna salasana" />
+			<text id="generic_change_password_title" name="Salasanan vaihto" />
+			<text id="generic_guest_change_password_faild_copy" name="Voit vaihtaa salasanaa vain rekisteröityneenä pelaajana!" />
+			<text id="generic_guest_change_password_faild_title" name="Rekisteröidy ensin" />
+		</password>
+		<payment>
+			<text id="generic_discount_payment_title_general" name="Lisää {0} rahoillasi!" />
+			<text id="generic_payment_48hdiscount_button" name="Lisää kultaa ensimmäisten 48 tunnin ajan" />
+			<text id="generic_payment_48hdiscount_button_general" name="Lisää  {0} ensimmäisten 48 tunnin aikana" />
+			<text id="generic_payment_48hdiscount_copy" name="Vain 48 tuntia rekisteröitymisestä - Osta valikoituja kultapakkauksia ja saat {0}%  lisää kultaa ilmaiseksi!" />
+			<text id="generic_payment_48hdiscount_copy_1" name="Vain 48 tuntia rekisteröitymisestä - Osta kultapakkauksia ja saat  {0}% lisää kultaa ilmaiseksi!" />
+			<text id="generic_payment_48hdiscount_copy_1_general" name="Vain 48 tuntia rekisteröitymisen jälkeen - Osta  {0} pakettia ja saat   {1} % extraa ilmaiseksi!" />
+			<text id="generic_payment_48hdiscount_copy_general" name="Vain 48 tuntia rekisteröitymisen jälkeen - Osta  {0} pakettia ja saat  {1}% extraa ilmaiseksi!" />
+			<text id="generic_payment_btn" name="Kauppaan" />
+			<text id="generic_payment_copy" name="Sinut siirretään pelirahakauppaan." />
+			<text id="generic_payment_discount_button" name="Nyt {0} % enemmän kultaa!" />
+			<text id="generic_payment_discount_copy" name="Osta nyt kultaa ja saat {0} % bonuksen!" />
+			<text id="generic_payment_discount_copy_general" name="Osta nyt  {0} ja saat  {1} % bonusta!" />
+			<text id="generic_payment_discount_general" name="Saat {0}%  lisää {1} rahoillasi!" />
+			<text id="generic_payment_discount_generalshort" name="Saat {0}% lisää rahoillasi!" />
+			<text id="generic_payment_discount_time" name="{0} jäljellä!" />
+			<text id="generic_payment_discount_title" name="Lisää kultaa rahoillasi!" />
+			<text id="generic_payment_newPrices" name="Alkaen nyt! Alennetut hinnat pelirahakaupassamme! Säästä oikeaa rahaa!" />
+			<text id="generic_payment_title" name="Pelirahakauppa" />
+		</payment>
+		<progressbar>
+			<text id="loading_text_1" name="Etsi tunneli kyberavaruudesta" />
+			<text id="loading_text_10" name="Jaa kohteet maailmaan" />
+			<text id="loading_text_11" name="Piirrä grafiikat" />
+			<text id="loading_text_12" name="Väritä napit" />
+			<text id="loading_text_13" name="Piilota pääsiäismunat" />
+			<text id="loading_text_14" name="Katso käyttäjätiedot" />
+			<text id="loading_text_15" name="Pelästytä ötökät" />
+			<text id="loading_text_16" name="Ruoki ohjelmoijat" />
+			<text id="loading_text_17" name="Kokemus asiakkaan kanssa" />
+			<text id="loading_text_18" name="Käännä tiimalasi" />
+			<text id="loading_text_19" name="Jäähdytä järjestelmä" />
+			<text id="loading_text_2" name="Öljyä hammasrattaat" />
+			<text id="loading_text_20" name="Valmistuu pian" />
+			<text id="loading_text_3" name="Pyöritä hamsterin pyörää" />
+			<text id="loading_text_4" name="Valmistele palvelin" />
+			<text id="loading_text_5" name="Toivo, että kaikki menee hyvin" />
+			<text id="loading_text_6" name="Soita tuholaismyrkyttäjälle" />
+			<text id="loading_text_7" name="Ratkaise monimutkaisia yhtälöitä" />
+			<text id="loading_text_8" name="Kalibroi superkondensaattori" />
+			<text id="loading_text_9" name="Korjaa kohteita" />
+			<text id="loading_text_default" name="Alustaminen" />
+			<text id="loading_text_itemXML" name="Lataa pelielementtejä" />
+			<text id="progress_loadfiles" name="Lataa ominaisuuksia..." />
+			<text id="progress_serverconnection" name="Yhdistyy palvelimeen..." />
+		</progressbar>
+		<register>
+			<text id="generic_register_agb_copy" name="Sinun täytyy lukea ja hyväksyä käyttöehdot ensin! Hyväksy vasemmalla olevalla näppäimellä ja voit jatkaa!" />
+			<text id="generic_register_agb_read" name="Lue käyttöehdot" />
+			<text id="generic_register_alreadyavatar" name="Tällä käyttäjällä on jo avatar." />
+			<text id="generic_register_badword" name="Et voi käyttää {0}  nimessäsi." />
+			<text id="generic_register_btn_agb" name="Hyväksy käyttöehdot" />
+			<text id="generic_register_btn_later" name="Myöhemmin" />
+			<text id="generic_register_btn_next" name="Jatka" />
+			<text id="generic_register_btn_save" name="Tallenna" />
+			<text id="generic_register_character" name="Luo hahmosi" />
+			<text id="generic_register_copy_0" name="Rekisteröidy nyt ilmaiseksi!" />
+			<text id="generic_register_copy_1" name="Vieras" />
+			<text id="generic_register_emaillong_copy" name="Valitettavasti sähköpostiosoitteesi on liian pitkä." />
+			<text id="generic_register_emailwrong_copy" name="Antamasi sähköpostiosoite on väärä." />
+			<text id="generic_register_email_copy" name="Sähköpostiosoite ei saa olla tyhjä tai sisältää välimerkkejä." />
+			<text id="generic_register_error" name="Rekisteröityminen epäonnistui" />
+			<text id="generic_register_errormistake" name="Virhe" />
+			<text id="generic_register_error_accountalreadyexists" name="Toinen pelaaja on jo rekisteröitynyt tätä sähköpostiosoitetta käyttäen." />
+			<text id="generic_register_forfree" name="Rekisteröidy ilmaiseksi!" />
+			<text id="generic_register_forfree1" name="Ilmaiseksi!" />
+			<text id="generic_register_letsgo" name="Nyt mennään!" />
+			<text id="generic_register_namealreadyused" name="Tämä nimi on jo käytössä." />
+			<text id="generic_register_namenotvalid" name="Antamasi nimi on epäpätevä." />
+			<text id="generic_register_passwordshort_copy" name="Salasanasi on liian lyhyt. Siinä tulee olla vähintään 4 kirjainta." />
+			<text id="generic_register_passwordwrong_copy" name="Antamasi salasana on väärä." />
+			<text id="generic_register_password_copy" name="Salasana ei saa olla tyhjä tai sisältää erikoismerkkejä." />
+			<text id="generic_register_receivenews" name="Vastaanota uutisia" />
+			<text id="generic_register_rememberdata" name="Muista tiedot" />
+			<text id="generic_register_reward" name="Tilaa ilmaseksi ja saat  {0}  {1}!" />
+			<text id="generic_register_subscribe" name="Rekisteröidy" />
+			<text id="generic_register_success" name="Olet rekisteröitynyt onnistuneesti." />
+			<text id="generic_register_title" name="Rekisteröitymisvirhe" />
+			<text id="generic_register_unlock" name="Avaa tämä toiminto!" />
+		</register>
+		<report>
+			<text id="generic_report_muted_badword1_copy" name="Tarkkaile, kuinka puhut muille. Muuten sinut poistetaan chatista tai käyttäjätilisi suljetaan väliaikaisesti. Syy: {0}" />
+			<text id="generic_report_muted_badword2_copy" name="Et voi käyttää chat-toimintoa seuraavan {0} ajan toistuvan käytösrikkomuksen vuoksi. Syy: {1}" />
+			<text id="generic_report_muted_domain1" name="Älä kirjoita Internetosoitteita chatissa!" />
+			<text id="generic_report_muted_reported_copy" name="Eräs pelaaja on tehnyt valituksen sinusta. Et voit käyttää chattia seuraavan {0} ajan. Syy: {1}" />
+			<text id="generic_report_player_copy" name="Haluatko todella raportoida pelaajasta {0}? Huomio! Tämän toiminnon väärinkäyttäminen johtaa käyttäjätilisi sulkemiseen." />
+			<text id="generic_report_player_reason_0" name="Loukkaus" />
+			<text id="generic_report_player_reason_1" name="seksuaalinen häirintä" />
+			<text id="generic_report_player_reason_2" name="rasistinen huomautus" />
+			<text id="generic_report_player_reason_3" name="Uhka/roskaposti" />
+			<text id="generic_report_player_reason_title" name="Raportoinnin syy:" />
+			<text id="generic_report_player_title" name="Raportoi pelaajasta?" />
+			<text id="generic_report_reported_copy" name="Toinen pelaaja raportoi sinusta järjestelmänvalvojalle. Syy: {0}" />
+		</report>
+		<worlds>
+			<text id="generic_connect" name="Yhdistä" />
+			<text id="generic_select_world" name="Valitse maailma:" />
+			<text id="generic_world" name="Maailma: {0}" />
+			<text id="generic_world_international" name="Kansainvälinen: {0}" />
+		</worlds>
+	</generic_flash>
+</cafe>

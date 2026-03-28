@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cafe>
+	<achievement>
+		<text id="Basic_Achievement_Boughtdeco" name="Красота требует жертв" />
+		<text id="Basic_Achievement_Boughtingredients" name="Страсть к покупкам" />
+		<text id="Basic_Achievement_Cookingcount" name="Скатерть-самобранка" />
+		<text id="Basic_Achievement_Coopcount" name="Любой банкет за ваши деньги" />
+		<text id="Basic_Achievement_Coopgoldcount" name="Шеф банкетов" />
+		<text id="Basic_Achievement_Curiercount" name="Любой ценой!" />
+		<text id="Basic_Achievement_Differentdishes" name="Все кухни мира" />
+		<text id="Basic_Achievement_Earnedchips" name="Процветающий ресторатор" />
+		<text id="Basic_Achievement_Fancycount" name="Изысканный гурман" />
+		<text id="Basic_Achievement_Firenpc" name="Привередливый начальник" />
+		<text id="Basic_Achievement_Instantcount" name="Волчий аппетит" />
+		<text id="Basic_Achievement_Jobclean" name="Шустрый Чистюля" />
+		<text id="Basic_Achievement_Jobserve" name="Не попади под раздачу" />
+		<text id="Basic_Achievement_Masteies" name="Король общепита" />
+		<text id="Basic_Achievement_Masteriesgold" name="Гений кулинарии" />
+		<text id="Basic_Achievement_Muffinmancash" name="Шальные деньги" />
+		<text id="Basic_Achievement_Muffinmangold" name="Лёгкое золото" />
+		<text id="Basic_Achievement_Overcookedfoods" name="Повелитель тухлятины" />
+		<text id="Basic_Achievement_Servingcountmeals" name="Солидная трапеза" />
+		<text id="Basic_Achievement_Servingcountsalads" name="Ни единой калории!" />
+		<text id="Basic_Achievement_Servingcountsnacks" name="Фаст-фуд на потоке" />
+		<text id="Basic_Achievement_Servingcountsoups" name="В жидкости вся сила" />
+		<text id="Basic_Achievement_Servingcountsweets" name="По уши в сиропе" />
+		<text id="Basic_Achievement_Servingcountvegans" name="Кумир вегетарианцев" />
+		<text id="Basic_Achievement_Servingscount" name="Кормилец семейства" />
+		<text id="Basic_Achievement_Solditems" name="Хлам - за борт!" />
+		<text id="Basic_Achievement_Spentchips" name="Щедрый хозяин" />
+		<text id="Basic_Achievement_Spentgold" name="Золото толстым слоем" />
+		<text id="Basic_Achievement_Wheeloffortune" name="Жгучий азарт" />
+		<text id="Social_Achievement_Friendscount" name="Душа компании" />
+	</achievement>
+	<alerts>
+		<text id="alert_addcash_copy" name="Здесь вы можете купить кафейнинги или золото." />
+		<text id="alert_addcash_title" name="Пополнить счёт" />
+		<text id="alert_addFriend_copy" name="Вы хотите добавить {0} к своим друзьям?" />
+		<text id="alert_addFriend_denied_copy" name="{0} отказывается от вашего предложения." />
+		<text id="alert_addFriend_denied_title" name="Запрос отклонён!" />
+		<text id="alert_addFriend_title" name="Предложение дружбы" />
+		<text id="alert_addgold_copy" name="Здесь обслуживают только зарегистрированных покупателей!" />
+		<text id="alert_addgold_title" name="Регистрация" />
+		<text id="alert_avatarcustom_copy" name="Нельзя менять во время работы!" />
+		<text id="alert_buytiles_copy" name="1. Выберите плитку 2. Выберите участок в своём кафе, удерживая кнопку мыши нажатой 3. Отпустите кнопку" />
+		<text id="alert_buytiles_title" name="Выложить плитку?" />
+		<text id="alert_changePasswordFaild_copy" name="Вы должны составить новый пароль больше чем из двух символов и правильно ввести свой старый пароль!" />
+		<text id="alert_changePasswordFaild_title" name="Введите пароль" />
+		<text id="alert_clearstove_cancelButton" name="Оставить" />
+		<text id="alert_clearstove_okButton" name="Выбросить" />
+		<text id="alert_clearstove_title" name="С этой стойки подаётся блюдо. Вы хотите сохранить блюдо?" />
+		<text id="alert_counter_outofreach_copy" name="Вы не можете пройти к стойке. Попробуйте что-нибудь переставить." />
+		<text id="alert_counter_outofreach_title" name="Внимание!" />
+		<text id="alert_dekoshop_humanwaiter_copy" name="Вы не можете перестраивать ваше кафе, пока в нём работают другие игроки." />
+		<text id="alert_dekoshop_humanwaiter_title" name="Так нельзя!" />
+		<text id="alert_dekoshop_kickplayer_copy" name="В вашем кафе есть другие игроки. Вы хотите их прогнать чтобы начать перестановки?" />
+		<text id="alert_dekoshop_kickplayer_title" name="Внимание!" />
+		<text id="alert_FancyCooking_copy" name="Вы хотите добавить к этому блюду &quot;изюминку&quot; и заработать на {0} больше опыта и получить на {1} больше порций?" />
+		<text id="alert_FancyCooking_title" name="&quot;Изюминки&quot;" />
+		<text id="alert_fancyinfo_copy" name="Добавьте в ваше блюдо особую &quot;изюминку&quot; и получите до 20% больше опыта и порций! &quot;Изюминки&quot; не занимают место в холодильнике!" />
+		<text id="alert_fancyinfo_title" name="&quot;Изюминки&quot;!" />
+		<text id="alert_giftboxfull_copy" name="Ваш ящик с подарками полон. Вы не можете принимать новые подарки от друзей." />
+		<text id="alert_giftboxfull_title" name="Места не осталось!" />
+		<text id="alert_guestchangepassword_copy" name="Вы можете изменить пароль только зарегистрировавшись!" />
+		<text id="alert_guestchangepassword_title" name="Сперва регистрация" />
+		<text id="alert_guestcoop_copy" name="Вам нужно зарегистрироваться, прежде чем готовить банкеты!" />
+		<text id="alert_guestinvitefriend_copy" name="Вы можете приглашать друзей только зарегистрировавшись." />
+		<text id="alert_guestinvitefriend_title" name="Сперва регистрация" />
+		<text id="alert_guestlogout_copy" name="Зарегистрируйтесь для сохранения игры!" />
+		<text id="alert_guestlogout_title" name="Регистрация" />
+		<text id="alert_help_copy" name="Для начала - помоги себе сам..." />
+		<text id="alert_help_title" name="Помощь" />
+		<text id="alert_invitefriend_confirmed_copy" name="Ваше приглашение отослано {0}!" />
+		<text id="alert_invitefriend_confirmed_title" name="Приглашение выслано!" />
+		<text id="alert_invitefriend_copy" name="Чтобы пригласить друга, введите его имя и e-mail." />
+		<text id="alert_invitefriend_mail" name="E-mail вашего друга:" />
+		<text id="alert_invitefriend_myname" name="Ваше имя:" />
+		<text id="alert_invitefriend_name" name="Имя вашего друга:" />
+		<text id="alert_invitefriend_title" name="Пригласить друзей" />
+		<text id="alert_jobhelp_copy1" name="1. Взять блюдо со стойки 2. Обслужить посетителей" />
+		<text id="alert_jobhelp_copy2" name="1. Забрать тарелки со стола (можно сразу несколько) 2. Отнести их к стойке" />
+		<text id="alert_jobhelp_header1" name="Подача блюд" />
+		<text id="alert_jobhelp_header2" name="Уборка посуды" />
+		<text id="alert_jobhelp_title" name="Ваши задачи" />
+		<text id="alert_jobrefill_copy" name="Вы должны зарегистрироваться, прежде чем работать по найму." />
+		<text id="alert_jobrefill_title" name="Регистрация" />
+		<text id="alert_lostpassword_copy" name="Укажите свой e-mail и мы вышлем ваш пароль." />
+		<text id="alert_lostpassword_title" name="Забыли свой пароль?" />
+		<text id="alert_marketplace_jobcancled_copy" name="{0} не будет работать на вас." />
+		<text id="alert_marketplace_jobcancled_title" name="В работе отказано" />
+		<text id="alert_marketplace_jobempty_copy" name="Вы использовали все сегодняшние разрешения на работу." />
+		<text id="alert_marketplace_jobempty_title" name="Разрешений на работу не осталось!" />
+		<text id="alert_marketplace_jobhired_copy" name="{0} теперь работает на вас!" />
+		<text id="alert_marketplace_jobhired_title" name="Работа согласована" />
+		<text id="alert_marketplace_job_copy" name="{0} (Уровень {1})предлагает вам работу. Вы согласны?" />
+		<text id="alert_marketplace_job_title" name="Предложение о работе!" />
+		<text id="alert_marketplace_noticeboard_copy" name="Покажите другим игрокам, что вы ищете работу. Также вы можете пополнить здесь ваши разрешения на работу." />
+		<text id="alert_marketplace_noticeboard_title" name="Разрешения на работу" />
+		<text id="alert_marketplace_playerjobempty_copy" name="Игрок на сегодня достаточно поработал." />
+		<text id="alert_marketplace_playerjobempty_title" name="В работе отказано" />
+		<text id="alert_marketplace_playerleaved_copy" name="Игрок покинул рынок." />
+		<text id="alert_marketplace_playerleaved_title" name="Ой!" />
+		<text id="alert_nofreecounter_copy" name="У вас нет свободной стойки." />
+		<text id="alert_nofreecounter_title" name="Ой!" />
+		<text id="alert_nofridge_copy" name="У вас нет холодильника. Загляните во вкладку &quot;Обстановка&quot; и перетащите холодильник в кафе." />
+		<text id="alert_nofridge_title" name="Нет холодильника?!" />
+		<text id="alert_nojobpermission_copy" name="Вам нужны разрешения на работу, если вы хотите работать по найму." />
+		<text id="alert_nojobpermission_title" name="Внимание!" />
+		<text id="alert_register_agb_copy" name="Вы должны сперва прочитать и принять Пользовательское соглашение! Подтвердите своё согласие галочкой слева и вперёд!" />
+		<text id="alert_register_email_copy" name="Адрес e-mail не должен быть пустым или содержать пробелы." />
+		<text id="alert_register_password_copy" name="Ваш пароль не должен быть пустым или содержать спецсимволы." />
+		<text id="alert_register_title" name="Ошибка регистрации" />
+		<text id="alert_seekingjob_copy" name="Вы должны зарегистрироваться, прежде чем работать по найму." />
+		<text id="alert_seekingjob_title" name="Регистрация" />
+		<text id="alert_selldeco_copy" name="Вы действительно хотите продать это по {0}?" />
+		<text id="alert_selldeco_title" name="Продать?" />
+		<text id="alert_sellitem_copy" name="Вы действительно хотите продать это по {0}?" />
+		<text id="alert_sellitem_title" name="Продать?" />
+		<text id="alert_smoothiemaker_full_copy" name="В вашем Фрости ещё остаются напитки! Почему бы вам не подать их гостям, и тогда уже смешать что-нибудь ещё?" />
+		<text id="alert_smoothiemaker_outofreach_copy" name="Ваш Фрости недоступен. Попробуйте что-нибудь передвинуть." />
+		<text id="alert_smoothiemaker_storage_copy" name="В вашем Фрости ещё остаются напитки! Если вы сложите на хранение, то потеряете оставшиеся порции!" />
+		<text id="alert_stafffire_copy" name="Вы действительно хотите уволить вашего верного официанта?" />
+		<text id="alert_stafffire_title" name="Уволить официанта?" />
+		<text id="alert_staffhire_copy" name="Дайте новое имя своему официанту." />
+		<text id="alert_staffhire_title" name="Нанять" />
+		<text id="alert_storefull_copy" name="Ваш холодильник переполнен. Продайте или используйте продукты." />
+		<text id="alert_storefull_title" name="Холодильник полон!" />
+		<text id="alert_stove_outofreach_copy" name="Вы не можете пройти к плите. Попробуйте что-нибудь переставить." />
+		<text id="alert_stove_outofreach_title" name="Внимание!" />
+		<text id="alert_unlockitem_copy" name="Закажите доставку продуктов городским курьером. Эксклюзивность стоит денег, никуда не денешься." />
+		<text id="alert_unlockitem_title" name="Доставить с курьером?" />
+		<text id="alert_userkicked_copy" name="Вас выгнали из кафе." />
+		<text id="alert_userkicked_title" name="Вышвырнули!" />
+		<text id="alert_workinghero_copy" name="Повару ещё нужно поработать!" />
+		<text id="alert_workinghero_title" name="Подождите!" />
+	</alerts>
+	<commons>
+		<text id="addgold" name="больше золота" />
+		<text id="buy" name="Купить" />
+		<text id="cash" name="кафейнингов" />
+		<text id="comingsoon" name="*На подходе*" />
+		<text id="day" name="День" />
+		<text id="days" name="Дн" />
+		<text id="friends" name="{0} друзей" />
+		<text id="gold" name="Золото" />
+		<text id="hour" name="час" />
+		<text id="hours" name="ч" />
+		<text id="level" name="Уровень" />
+		<text id="logout" name="Выйти" />
+		<text id="mastery" name="Уровень мастерства" />
+		<text id="minute" name="минута" />
+		<text id="minutes" name="мин" />
+		<text id="new" name="Новое!" />
+		<text id="second" name="секунда" />
+		<text id="seconds" name="cек" />
+		<text id="sell" name="Продать" />
+		<text id="usable_character" name="разрешённый символ" />
+		<text id="XofY" name="{0} из {1}" />
+		<text id="xp" name="Опыта" />
+	</commons>
+	<cookstep>
+		<text id="cookstep_bananasplit1" name="Охладить мороженое" />
+		<text id="cookstep_bananasplit2" name="Режется банан" />
+		<text id="cookstep_brigadeiro1" name="Melting chocolate" />
+		<text id="cookstep_brigadeiro2" name="Shaping brigadeiros" />
+		<text id="cookstep_blackforestcherrycake1" name="Перемешивается" />
+		<text id="cookstep_blackforestcherrycake2" name="Торт печётся" />
+		<text id="cookstep_pizzasalad1" name="Making pizzas" />
+		<text id="cookstep_pizzasalad2" name="Making salads" />
+		<text id="cookstep_tripleomelette1" name="Mixing eggs strongly" />
+		<text id="cookstep_tripleomelette2" name="Folding everything" />
+		<text id="cookstep_chocolatewaffles1" name="Melting chocolate" />
+		<text id="cookstep_chocolatewaffles2" name="Covering waffles" />
+		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
+		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
+		<text id="cookstep_sausagepasta1" name="Boiling pasta" />
+		<text id="cookstep_sausagepasta2" name="Frying sausages" />
+		<text id="cookstep_applepie1" name="Building pies" />
+		<text id="cookstep_applepie2" name="Baking pies" />
+		<text id="cookstep_ramen1" name="Boiling pasta" />
+		<text id="cookstep_ramen2" name="Adding spices" />
+		<text id="cookstep_corncake1" name="Mixing ingredients" />
+		<text id="cookstep_corncake2" name="Baking cakes" />
+		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
+		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
+		<text id="cookstep_cheeseburger1" name="Фарш обжаривается" />
+		<text id="cookstep_cheeseburger2" name="Бургер пропекается" />
+		<text id="cookstep_cheesedish1" name="Сыр раскладывается" />
+		<text id="cookstep_cheesedish2" name="Сыр зреет" />
+		<text id="cookstep_cheesefondue1" name="Гренки пекутся" />
+		<text id="cookstep_cheesefondue2" name="Сыр плавится" />
+		<text id="cookstep_cherriecake1" name="Перемешивается" />
+		<text id="cookstep_cherriecake2" name="Торт печётся" />
+		<text id="cookstep_cherrycompote1" name="Готовятся вишни" />
+		<text id="cookstep_cherrycompote2" name="Остывает, ждите" />
+		<text id="cookstep_chickenburger1" name="Курица обжаривается" />
+		<text id="cookstep_chickenburger2" name="Бургер пропекается" />
+		<text id="cookstep_chickensalad1" name="Курица зажаривается" />
+		<text id="cookstep_chickensalad2" name="Сервировать салат" />
+		<text id="cookstep_chickensoup1" name="Обжаривается бекон" />
+		<text id="cookstep_chickensoup2" name="Варится бульон" />
+		<text id="cookstep_chiliconcarne1" name="Фарш обжаривается" />
+		<text id="cookstep_chiliconcarne2" name="Чили томится" />
+		<text id="cookstep_chocmousse1" name="Перемешивается" />
+		<text id="cookstep_chocmousse2" name="Мусс охлаждается" />
+		<text id="cookstep_chocolatecake1" name="Перемешивается" />
+		<text id="cookstep_chocolatecake2" name="Печётся" />
+		<text id="cookstep_chocolatecheesecake1" name="Шоколад плавится" />
+		<text id="cookstep_chocolatecheesecake2" name="Торт печётся" />
+		<text id="cookstep_chocolatefondue1" name="Шоколад топится" />
+		<text id="cookstep_chocolatefondue2" name="Поднимаются сливки" />
+		<text id="cookstep_christmasturkey1" name="Овощи парятся" />
+		<text id="cookstep_christmasturkey2" name="Индейка зажаривается" />
+		<text id="cookstep_cookieplate1" name="Выдавливаются фигурки" />
+		<text id="cookstep_cookieplate2" name="Печенье доходит" />
+		<text id="cookstep_cornonthecob1" name="Готовится кукуруза" />
+		<text id="cookstep_cornonthecob2" name="Укладывается салат" />
+		<text id="cookstep_curry1" name="Обжаривается" />
+		<text id="cookstep_curry2" name="Добавляется кокос" />
+		<text id="cookstep_duckalorange1" name="Утка фаршируется" />
+		<text id="cookstep_duckalorange2" name="Утка зажаривается" />
+		<text id="cookstep_easterdish1" name="Шоколад плавится" />
+		<text id="cookstep_easterdish2" name="Сварить яйца" />
+		<text id="cookstep_englishbreakfast1" name="Фасоль варится" />
+		<text id="cookstep_englishbreakfast2" name="Жарятся сосиски" />
+		<text id="cookstep_fishandchips1" name="Обжарить в масле" />
+		<text id="cookstep_fishandchips2" name="Фасоль толчётся" />
+		<text id="cookstep_friedpotatoes1" name="Картофель варится" />
+		<text id="cookstep_friedpotatoes2" name="Картошка обжаривается" />
+		<text id="cookstep_fruitpudding1" name="Тесто отдыхает" />
+		<text id="cookstep_fruitpudding2" name="Печётся" />
+		<text id="cookstep_fruitsalad1" name="Режутся фрукты" />
+		<text id="cookstep_fruitsalad2" name="Добавляется подливка" />
+		<text id="cookstep_greensalad1" name="Соус замешивается" />
+		<text id="cookstep_greensalad2" name="Салат маринуется" />
+		<text id="cookstep_gumbo1" name="Лук тушится" />
+		<text id="cookstep_gumbo2" name="Добавить рис" />
+		<text id="cookstep_hamburger1" name="Бургер жарится" />
+		<text id="cookstep_hamburger2" name="Бургер пропекается" />
+		<text id="cookstep_hotcherrywaffles1" name="Готовятся вишни" />
+		<text id="cookstep_hotcherrywaffles2" name="Вафли пекутся" />
+		<text id="cookstep_jamspongepudding1" name="Перемешивается" />
+		<text id="cookstep_jamspongepudding2" name="Печётся" />
+		<text id="cookstep_lasagne1" name="Фарш обжаривается" />
+		<text id="cookstep_lasagne2" name="Лазанья печётся" />
+		<text id="cookstep_macncheese1" name="Кипятится вода" />
+		<text id="cookstep_macncheese2" name="Печётся" />
+		<text id="cookstep_maplepancakes1" name="Тесто замешивается" />
+		<text id="cookstep_maplepancakes2" name="Блинчики пекутся" />
+		<text id="cookstep_marblecake1" name="Форма наполняется" />
+		<text id="cookstep_marblecake2" name="Печётся" />
+		<text id="cookstep_mexicansalad1" name="Фасоль варится" />
+		<text id="cookstep_mexicansalad2" name="Перемешивается" />
+		<text id="cookstep_minestrone1" name="Овощи парятся" />
+		<text id="cookstep_minestrone2" name="Добавляются макароны" />
+		<text id="cookstep_mixedsalad1" name="Заливка перемешивается" />
+		<text id="cookstep_mixedsalad2" name="Салат маринуется" />
+		<text id="cookstep_nasigoreng1" name="Курица готовится" />
+		<text id="cookstep_nasigoreng2" name="Овощи парятся" />
+		<text id="cookstep_newyorkcheesecake1" name="Начинка замешивается" />
+		<text id="cookstep_newyorkcheesecake2" name="Торт печётся" />
+		<text id="cookstep_noodlesalad1" name="Майонез перемешивается" />
+		<text id="cookstep_noodlesalad2" name="Перемешивается" />
+		<text id="cookstep_omelette1" name="Приправить яйца" />
+		<text id="cookstep_omelette2" name="Взбить яйца" />
+		<text id="cookstep_onionsoup1" name="Лук обжаривается" />
+		<text id="cookstep_onionsoup2" name="Корочка припекается" />
+		<text id="cookstep_peasoup1" name="Лук обжаривается" />
+		<text id="cookstep_peasoup2" name="Варится бульон" />
+		<text id="cookstep_pizza1" name="Раскладывается начинка" />
+		<text id="cookstep_pizza2" name="Пицца печётся" />
+		<text id="cookstep_pizzahawaii1" name="Раскладывается начинка" />
+		<text id="cookstep_pizzahawaii2" name="Пицца печётся" />
+		<text id="cookstep_pizzatonno1" name="Раскладывается начинка" />
+		<text id="cookstep_pizzatonno2" name="Пицца печётся" />
+		<text id="cookstep_porkroastwithcrackling1" name="Приправляется мясо" />
+		<text id="cookstep_porkroastwithcrackling2" name="Жарится" />
+		<text id="cookstep_potatosalad1" name="Картофель варится" />
+		<text id="cookstep_potatosalad2" name="Майонез перемешивается" />
+		<text id="cookstep_redberrycompote1" name="Фрукты тушатся" />
+		<text id="cookstep_redberrycompote2" name="Подсластить" />
+		<text id="cookstep_ricepudding1" name="Пудинг варится" />
+		<text id="cookstep_ricepudding2" name="Сварить яблочный соус" />
+		<text id="cookstep_roastchicken1" name="Курица фаршируется" />
+		<text id="cookstep_roastchicken2" name="Жарится" />
+		<text id="cookstep_sandwich1" name="Намазывается масло" />
+		<text id="cookstep_sandwich2" name="Намазывается тост" />
+		<text id="cookstep_scouse1" name="Готовится мясо" />
+		<text id="cookstep_scouse2" name="Добавляется свёкла" />
+		<text id="cookstep_spagetti1" name="Фарш обжаривается" />
+		<text id="cookstep_spagetti2" name="Соус загустевает" />
+		<text id="cookstep_spareribs1" name="Мясо маринуется" />
+		<text id="cookstep_spareribs2" name="Поджаривается мясо" />
+		<text id="cookstep_steak1" name="Поджаривается мясо" />
+		<text id="cookstep_steak2" name="Укладывается салат" />
+		<text id="cookstep_steakkidneypie1" name="Приготовить начинку" />
+		<text id="cookstep_steakkidneypie2" name="Печётся" />
+		<text id="cookstep_stew1" name="Поджаривается мясо" />
+		<text id="cookstep_stew2" name="Тушится" />
+		<text id="cookstep_stewedrhubarb1" name="Готовится ревень" />
+		<text id="cookstep_stewedrhubarb2" name="Остывает, ждите" />
+		<text id="cookstep_strawberrycake1" name="Корж печётся" />
+		<text id="cookstep_strawberrycake2" name="Торт украшается" />
+		<text id="cookstep_strawberrymousse1" name="Клубника размалывается" />
+		<text id="cookstep_strawberrymousse2" name="Взбивается мусс" />
+		<text id="cookstep_stuffedpeppers1" name="Перчины фаршируются" />
+		<text id="cookstep_stuffedpeppers2" name="Перчики пекутся" />
+		<text id="cookstep_sundayfeast1" name="Мясо маринуется" />
+		<text id="cookstep_sundayfeast2" name="Поджаривается мясо" />
+		<text id="cookstep_sushi1" name="Продукты распределяются" />
+		<text id="cookstep_sushi2" name="Заворачивается" />
+		<text id="cookstep_toadinhole1" name="Тесто замешивается" />
+		<text id="cookstep_toadinhole2" name="Печётся" />
+		<text id="cookstep_toast1" name="Намазывается тост" />
+		<text id="cookstep_toast2" name="Поджаривается тост" />
+		<text id="cookstep_tofuburger1" name="Тофубургер жарится" />
+		<text id="cookstep_tofuburger2" name="Бургер пропекается" />
+		<text id="cookstep_tomatosoup1" name="Лук обжаривается" />
+		<text id="cookstep_tomatosoup2" name="Готовятся помидоры" />
+		<text id="cookstep_trifle1" name="Готовится пудинг" />
+		<text id="cookstep_trifle2" name="Бисквиты перекладываются" />
+		<text id="cookstep_veganstirfry1" name="Овощи парятся" />
+		<text id="cookstep_veganstirfry2" name="Приготовить рис" />
+		<text id="cookstep_vegetablesoup1" name="Лук обжаривается" />
+		<text id="cookstep_vegetablesoup2" name="Варится бульон" />
+		<text id="cookstep_veggiecurry1" name="Готовится рис" />
+		<text id="cookstep_veggiecurry2" name="Карри тушится" />
+		<text id="cookstep_veggielasagne1" name="Лазанья перекладывается" />
+		<text id="cookstep_veggielasagne2" name="Лазанья печётся" />
+		<text id="cookstep_whitechoccheesecake1" name="Перемешивается" />
+		<text id="cookstep_whitechoccheesecake2" name="Торт печётся" />
+		<text id="cookstep_whitechocmousse1" name="Шоколад плавится" />
+		<text id="cookstep_whitechocmousse2" name="Мусс охлаждается" />
+		<text id="cookstep_coxinha1" name="Mixing ingredients" />
+		<text id="cookstep_coxinha2" name="Frying coxinhas" />
+	</cookstep>
+	<coopmission>
+		<text id="coop_desc_long_1" name="Мы начинаем кулинарный урок, чтобы отточить мастерство приготовления основных блюд. Хотите присоединиться?" />
+		<text id="coop_desc_long_10" name="Ваша семья собирается на Рождество и вас выбрали на семейном совете, чтобы вы приготовили праздничный ужин. Не подведите!" />
+		<text id="coop_desc_long_11" name="Грядёт битва тортами и нам их потребуется ох как много! Напеките, пожалуйста, боеприпасов, сколько сможете..." />
+		<text id="coop_desc_long_12" name="Городской службе бесплатных обедов срочно требуется несколько котлов супа. Вы можете приготовить что-то, что придётся по вкусу каждому?" />
+		<text id="coop_desc_long_13" name="Для нашей вечеринки в азиатском стиле требуется несколько характерных блюд. Есть у вас что-нибудь этакое в рецептах?" />
+		<text id="coop_desc_long_14" name="Национальная конференция строителей стартует уже завтра, и нам нужно накрыть по-настоящему питательный стол. Никаких там салатиков, понятно?" />
+		<text id="coop_desc_long_15" name="К нам приезжают гости из Лондона, а они употребляют только блюда своей родной кухни. Можете что-нибудь изобразить?" />
+		<text id="coop_desc_long_2" name="Я планирую вечеринку в мексиканском стиле и, само собой, мне нужна соответствующая еда. Что-нибудь простое, но сытное. Вы возьмётесь?" />
+		<text id="coop_desc_long_3" name="Меня навестит спортивный клуб из Гамбурга и я очень хочу, чтобы ребята чувствовали себя как дома. Мне нужен кто-то, кто умеет готовить по-гамбургски. Что скажешь?" />
+		<text id="coop_desc_long_4" name="Я устраиваю большую вечеринку на свежем воздухе, так что мне понадобится много еды. Я слышал, вы мастер в таких делах. Не хотите мне помочь?" />
+		<text id="coop_desc_long_5" name="В городском лыжном парке устраивают Aprés ski и им нужно накрыть вкусный стильный стол. Вы сможете им помочь?" />
+		<text id="coop_desc_long_6" name="Мой босс решил заглянуть ко мне на ужин и я хочу как следует удивить его шикарным меню из четырех смен блюд. Хватит ли у вас мастерства для такого задания?" />
+		<text id="coop_desc_long_7" name="В школьной столовой плановая проверка СЭС. Всё б ничего, но дети-то остались без обеда! Помогите нам накормить этих сорванцов." />
+		<text id="coop_desc_long_8" name="Мой лучший друг затеял грандиозную вечеринку на свой  День Рождения, но забыл заказать банкет. Так много людей придёт... а есть нечего! Можете помочь?" />
+		<text id="coop_desc_long_9" name="В нашем селе намечается праздник в итальянском стиле. Всё хорошо, вот только с итальянской кухней никто не знаком. Вы поможете?" />
+		<text id="coop_desc_short_1" name="Стань виртуозом спагетти!" />
+		<text id="coop_desc_short_10" name="Ешь, пока у тебя пуговицы не отскочат!" />
+		<text id="coop_desc_short_11" name="Бери больше, кидай дальше!" />
+		<text id="coop_desc_short_12" name="Ничто так не радует желудок, как ароматный суп!" />
+		<text id="coop_desc_short_13" name="Всегда можно добавить ещё щепоточку риса!" />
+		<text id="coop_desc_short_14" name="Основательная еда для солидных людей" />
+		<text id="coop_desc_short_15" name="Всё необходимое для подданного Её Величества!" />
+		<text id="coop_desc_short_2" name="Мексиканская Фиеста в лучшем виде!" />
+		<text id="coop_desc_short_3" name="Рагу по-флотски моим дорогим друзьям из Гамбурга!" />
+		<text id="coop_desc_short_4" name="На природе всегда аппетит лучше!" />
+		<text id="coop_desc_short_5" name="Поднимитесь на новые высоты кулинарии!" />
+		<text id="coop_desc_short_6" name="Повышение гарантировано!" />
+		<text id="coop_desc_short_7" name="Никуда не годится - на голодный желудок учится!" />
+		<text id="coop_desc_short_8" name="Этот юбилей он запомнит надолго!" />
+		<text id="coop_desc_short_9" name="Pizza! Pasta! Basta!" />
+		<text id="coop_title_1" name="Учимся готовить" />
+		<text id="coop_title_10" name="Наступило Рождество!" />
+		<text id="coop_title_11" name="Тортовое побоище!" />
+		<text id="coop_title_12" name="Полевая кухня" />
+		<text id="coop_title_13" name="Восток - дело тонкое..." />
+		<text id="coop_title_14" name="Завтрак прораба" />
+		<text id="coop_title_15" name="Над этой кухней не заходит солнце" />
+		<text id="coop_title_2" name="Дилижанс до Мехико" />
+		<text id="coop_title_3" name="Ганзейский раут" />
+		<text id="coop_title_4" name="Дачная вечеринка" />
+		<text id="coop_title_5" name="Aprés Ski" />
+		<text id="coop_title_6" name="Роскошный фуршет" />
+		<text id="coop_title_7" name="В школьной столовой санитарный день" />
+		<text id="coop_title_8" name="День Варенья" />
+		<text id="coop_title_9" name="Отдых по-итальянски" />
+	</coopmission>
+	<dialogs>
+		<text id="dialogwin_achievement_title" name="Достижения" />
+		<text id="dialogwin_avatarcreate_man" />
+		<text id="dialogwin_avatarcreate_random" name="Изменить внешность" />
+		<text id="dialogwin_avatarcreate_txt_avatar_name" name="Имя:" />
+		<text id="dialogwin_avatarcreate_txt_avatar_title" name="Создание персонажа" />
+		<text id="dialogwin_avatarcreate_woman" />
+		<text id="dialogwin_avatarnameselect_copy" name="Имя уже занято. Можем предложить:" />
+		<text id="dialogwin_avatarnameselect_title" name="Ой!" />
+		<text id="dialogwin_avatar_btn_random" name="Случайный выбор" />
+		<text id="dialogwin_bonus_copy_achievement" name="Вы достигли {0} уровня этого достижения. Наши поздравления!" />
+		<text id="dialogwin_bonus_copy_counter" name="Теперь вы можете купить новую стойку." />
+		<text id="dialogwin_bonus_copy_dish" name="Вам стали доступны новые рецепты:" />
+		<text id="dialogwin_bonus_copy_expand" name="Вы расширили своё кафе! Теперь у вас больше места для гостей и интерьера!" />
+		<text id="dialogwin_bonus_copy_fridge" name="Теперь вы можете купить новый холодильник." />
+		<text id="dialogwin_bonus_copy_instant" name="Ещё одна &quot;Быстрая готовка&quot;. Один щелчок и блюдо готово к подаче на стол." />
+		<text id="dialogwin_bonus_copy_level2" name="Обратите внимание! Вы можете расширить своё кафе, чтобы гостям было просторнее." />
+		<text id="dialogwin_bonus_copy_login" name="В ваше отсутствие произошло следующее:" />
+		<text id="dialogwin_bonus_copy_newwaiter" name="У вас теперь новый работник! Зовите гостей!" />
+		<text id="dialogwin_bonus_copy_stove" name="Теперь вы можете купить новую плиту." />
+		<text id="dialogwin_bonus_copy_waiter" name="Теперь вы можете нанять ещё одного официанта." />
+		<text id="dialogwin_bonus_title_achievement" name="Новое достижение!" />
+		<text id="dialogwin_bonus_title_counter" name="Новая стойка" />
+		<text id="dialogwin_bonus_title_dish" name="Новые рецепты" />
+		<text id="dialogwin_bonus_title_expand" name="Ура!" />
+		<text id="dialogwin_bonus_title_fridge" name="Новый холодильник" />
+		<text id="dialogwin_bonus_title_instant" name="&quot;Быструю готовку&quot; можно применять чаще" />
+		<text id="dialogwin_bonus_title_level2" name="Расширяйтесь!" />
+		<text id="dialogwin_bonus_title_login" name="Вы вернулись!" />
+		<text id="dialogwin_bonus_title_newwaiter" name="Поздравляем" />
+		<text id="dialogwin_bonus_title_stove" name="Новая плита" />
+		<text id="dialogwin_bonus_title_waiter" name="Больше работников" />
+		<text id="dialogwin_buytile_copy" name="Вы хотите купить {0} плитки за {1}?" />
+		<text id="dialogwin_buytile_title" name="Купить плитку?" />
+		<text id="dialogwin_changepassword_copy_newpass" name="Новый пароль:" />
+		<text id="dialogwin_changepassword_copy_oldpass" name="Старый пароль:" />
+		<text id="dialogwin_changepassword_title" name="Изменить пароль" />
+		<text id="dialogwin_clearcounter_cancelButton" name="Оставить" />
+		<text id="dialogwin_clearcounter_okButton" name="Выбросить" />
+		<text id="dialogwin_clearcounter_title" name="С этой стойки подаётся блюдо. Что вы хотите с ним сделать?" />
+		<text id="dialogwin_clearstove_btn_cancel" name="Оставить" />
+		<text id="dialogwin_clearstove_btn_ok" name="Выбросить" />
+		<text id="dialogwin_clearstove_copy" name="Вы можете ещё {0} раз использовать &quot;Быструю готовку&quot;." />
+		<text id="dialogwin_clearstove_title" name="На этой плите готовится блюдо. Что вы хотите с ним сделать?" />
+		<text id="dialogwin_cookbook_income" name="{0} за порцию" />
+		<text id="dialogwin_cookbook_readyin" name="Времени: {0}" />
+		<text id="dialogwin_cookbook_servings" name="Порций: {0}" />
+		<text id="dialogwin_coopextend_nomoney" name="У вас не хватает средств, чтобы продлить банкет!" />
+		<text id="dialogwin_coopreward_finish_0" name="Золото" />
+		<text id="dialogwin_coopreward_finish_1" name="Серебро" />
+		<text id="dialogwin_coopreward_finish_2" name="Бронзу" />
+		<text id="dialogwin_coopreward_title_fail" name="Банкет провалился!" />
+		<text id="dialogwin_coopreward_title_success" name="Банкет удался на {0}" />
+		<text id="dialogwin_coopshelp_copy" name="Банкеты - это специальные кулинарные миссии, которые можно выполнять вместе с друзьями, зарабатывая дополнительный опыт и кафейнинги. Чем быстрее вы выполните задание, тем выше будет ваша награда.  Если вы чувствуете, что не успеваете, то можете отсрочить банкет на некоторое время.  Но помните, вы сможете получить награду, только если внесёте свою лепту в общий стол!" />
+		<text id="dialogwin_coopshelp_title" name="Что такое &quot;банкет&quot;?" />
+		<text id="dialogwin_coop_btn_action" name="Подробности" />
+		<text id="dialogwin_coop_btn_activecoops" name="Уже намечено" />
+		<text id="dialogwin_coop_btn_join" name="Присоединиться" />
+		<text id="dialogwin_coop_btn_newcoop" name="Предстоящие банкеты" />
+		<text id="dialogwin_coop_btn_quit" name="Покинуть" />
+		<text id="dialogwin_coop_extendtime_copy" name="Вы хотите продлить банкет за {0} золота? Золотое время: {1} ч Серебряное время: {2} ч Бронзовое время: {3} ч" />
+		<text id="dialogwin_coop_extendtime_title" name="Нужно больше времени?" />
+		<text id="dialogwin_coop_maxdone" name="Вы уже наметили сегодня один банкет! Подождите с ещё одним до завтра!" />
+		<text id="dialogwin_coop_maxuser" name="Максимальное количество участников: {0}" />
+		<text id="dialogwin_coop_member" name="Повар банкета:" />
+		<text id="dialogwin_coop_minlevel" name="Минимальный уровень для участия: {0}" />
+		<text id="dialogwin_coop_quit_copy" name="Вы хотите бросить этот банкет на произвол судьбы?" />
+		<text id="dialogwin_coop_subtitle" name="Вы должны приготовить:" />
+		<text id="dialogwin_coop_timeInfo" name="Выполнено за:" />
+		<text id="dialogwin_coop_timeleft" name="Осталось времени:" />
+		<text id="dialogwin_coop_txt_noactive" name="Пока никаких банкетов не намечалось. Так почему бы не наметить!" />
+		<text id="dialogwin_coop_txt_title" name="Банкеты" />
+		<text id="dialogwin_decoshophelp_copy" name="Если вы перетащите предмет мебели, оборудования или обстановки обратно на панель выбора, то они будут сложены на хранение. Если на кассовый аппарат - они будут проданы. Вещи со склада можно потом использовать, перетаскивая их обратно в кафе, это бесплатно. Количество предметов на складе указано на красном ярлычке." />
+		<text id="dialogwin_decoshophelp_copy_1" name="Оборудование, предметы мебели и интерьера имеют каждый определённую степень роскоши и вместе определяют роскошь кафе в целом." />
+		<text id="dialogwin_decoshophelp_title" name="Поместить на склад" />
+		<text id="dialogwin_decoshophelp_title_1" name="Степень роскоши" />
+		<text id="dialogwin_dishmastery_copy_0" name="Вы получили звезду мастерства за {0}!" />
+		<text id="dialogwin_dishmastery_copy_1" name="Отдайте своим друзьям пару лишних порций!" />
+		<text id="dialogwin_dishmastery_info" name="С каждой звездой ваши блюда улучшаются!" />
+		<text id="dialogwin_dishmastery_title" name="Новая звезда мастерства!" />
+		<text id="dialogwin_fancycooking_title" name="Хотите добавить &quot;изюминку&quot;? {0}" />
+		<text id="dialogwin_featureUnlocked_coop" name="Подготовьте банкет вместе с вашими друзьями!" />
+		<text id="dialogwin_featureUnlocked_decoration" name="Теперь у вас есть доступ к новой обстановке!" />
+		<text id="dialogwin_featureUnlocked_fancy" name="Добавьте своим блюдам изысканности - пользуйтесь &quot;изюминками&quot;!" />
+		<text id="dialogwin_featureUnlocked_frosty" name="Откройте для себя Фрости и утолите жажду своих гостей!" />
+		<text id="dialogwin_featureUnlocked_marketplace" name="Найдите новых друзей на рынке!" />
+		<text id="dialogwin_featureUnlocked_muffinman" name="Испытайте свою удачу с Дядюшкой Маффином!" />
+		<text id="dialogwin_featureUnlocked_ranking" name="Посещайте другие кафе через рейтинг!" />
+		<text id="dialogwin_featureUnlocked_staff" name="Наймите ещё одного официанта, чтобы обслуживать уйму новых гостей!" />
+		<text id="dialogwin_featureUnlocked_wheeloffortune" name="Испытайте свою удачу с Колесом Фортуны!" />
+		<text id="dialogwin_FriendShop_copy" name="Вам нужно ещё {0} друзей, которые помогут вам расширить кафе! Но вы также можете за {1} золота нанять умельца!" />
+		<text id="dialogwin_FriendShop_title" name="Новые друзья" />
+		<text id="dialogwin_giftbox_close" name="закрыть" />
+		<text id="dialogwin_giftbox_friendlist_empty" name="Вы можете высылать своим друзьям не больше одного подарка в день." />
+		<text id="dialogwin_giftbox_friendlist_notavailable" name="Завтра вы снова сможете слать подарки своим друзьям!" />
+		<text id="dialogwin_giftbox_ggsgifts_empty" name="Подарков нет! Новые подарки вы получите в качестве бонуса за вход в игру!" />
+		<text id="dialogwin_giftbox_mygifts_empty" name="Вы не получили сегодня никаких подарков. Вышлите что-нибудь своим друзьям, может быть они тоже сделают вам подарок." />
+		<text id="dialogwin_giftbox_remove" name="выбросить" />
+		<text id="dialogwin_giftbox_send" name="послать" />
+		<text id="dialogwin_giftbox_sendablegifts_empty" name="Сегодня подарков нет." />
+		<text id="dialogwin_giftbox_title" name="Подарки!" />
+		<text id="dialogwin_giftbox_use" name="использовать" />
+		<text id="dialogwin_highscore_luxury" name="Роскошь" />
+		<text id="dialogwin_highscore_name" name="Имя" />
+		<text id="dialogwin_highscore_rank" name="Рейтинг" />
+		<text id="dialogwin_highscore_searchtext" name="Искать Имя / Ранг" />
+		<text id="dialogwin_highscore_title" name="Рейтинг" />
+		<text id="dialogwin_ingamehelp_1_1" name="Как мне приготовить блюдо?" />
+		<text id="dialogwin_ingamehelp_1_2" name="Используйте плиты, чтобы готовить блюда для гостей. Для этого вам нужно выбрать рецепт и приготовить его, кликнув на плиту несколько раз." />
+		<text id="dialogwin_ingamehelp_1_3" name="Вы найдёте обзор всех рецептов и необходимых продуктов в поваренной книге." />
+		<text id="dialogwin_ingamehelp_1_4" name="В магазине вы можете купить необходимые для вашего рецепта продукты." />
+		<text id="dialogwin_ingamehelp_1_5" name="Когда у вас есть все ингредиенты - кликните на плиту и приготовьте блюдо." />
+		<text id="dialogwin_ingamehelp_1_6" name="Блюдо будет готово через заранее заданное время. Выставьте его на стойку, чтобы подавать посетителям." />
+		<text id="dialogwin_ingamehelp_1_7" name="После готовки плита испачкана - её нужно помыть, прежде чем снова готовить." />
+		<text id="dialogwin_ingamehelp_2_1" name="Что мне нужно знать о продуктах?" />
+		<text id="dialogwin_ingamehelp_2_2" name="Здесь хранятся купленные вами продукты. Хотя каждый холодильник имеет ограниченный объём - всегда хорошо иметь запас продуктов." />
+		<text id="dialogwin_ingamehelp_2_3" name="&quot;Изюминки&quot; сделают ваши блюда особенными. Используя их, вы получаете больше порций и опыта. К тому же, они не занимают место в холодильнике." />
+		<text id="dialogwin_ingamehelp_2_4" name="Не все ингредиенты доступны в магазине каждый день. Но за скромную плату курьер всегда доставит вам всё необходимое." />
+		<text id="dialogwin_ingamehelp_2_5" name="Эти ингредиенты всегда доступны." />
+		<text id="dialogwin_ingamehelp_3_1" name="Цены и значения" />
+		<text id="dialogwin_ingamehelp_3_2" name="Вы получаете опыт, подавая блюда. Кроме того, можно работать официантом, обслуживать банкеты, получать награды или подавать напитки." />
+		<text id="dialogwin_ingamehelp_3_3" name="Ваша популярность влияет на количество гостей. Если клиент покидает кафе удовлетворённым - популярность растёт. Если нет - падает. Клиент удовлетворяется, получая еду." />
+		<text id="dialogwin_ingamehelp_3_4" name="Вы зарабатываете кафейнинги, продавая блюда. Кроме того, можно работать официантом, готовить банкеты или получать достижения." />
+		<text id="dialogwin_ingamehelp_3_5" name="Каждый предмет в меню интерьера имеет степень роскоши и будет влиять на популярность кафе. Чем роскошнее - тем лучше." />
+		<text id="dialogwin_ingamehelp_3_6" name="Плиты, стойки и другие предметы обстановки можно найти в меню интерьера. Проявите фантазию!" />
+		<text id="dialogwin_ingamehelp_3_7" name="Если вашему кафе стало тесно - попробуйте купить расширение и создать больше пространства для гостей." />
+		<text id="dialogwin_ingamehelp_4_1" name="Что ещё мне надо знать?" />
+		<text id="dialogwin_ingamehelp_4_2" name="Возможно, вам захочется познакомиться с другими игроками, поискать работу или просто поболтать на рынке." />
+		<text id="dialogwin_ingamehelp_4_3" name="Вы получаете достижения за все виды действий и это тоже дополнительный источник опыта и кафейнингов." />
+		<text id="dialogwin_ingamehelp_4_4" name="На рынке вы можете нанять других игроков в качестве официантов или, в свою очередь, стать официантом в другом кафе." />
+		<text id="dialogwin_ingamehelp_4_5" name="Банкет - это совместный проект, который выполняется несколькими игроками. В случае успеха, всех ожидает награда." />
+		<text id="dialogwin_ingamehelp_4_6" name="Ваши официанты подают блюда ожидающим посетителям, а также убирают грязные тарелки со столов." />
+		<text id="dialogwin_ingamehelp_4_7" name="Блюдо протухнет через некоторое время, если его не выставить на стойку." />
+		<text id="dialogwin_ingamehelp_ingredients" name="Ингредиенты" />
+		<text id="dialogwin_ingredient_all" name="Всё" />
+		<text id="dialogwin_ingredient_emptyfridge" name="Ваш холодильник пуст! Если вы хотите готовить, то вам нужны продукты, которые можно купить в магазине." />
+		<text id="dialogwin_ingredient_fancy" name="Особые продукты" />
+		<text id="dialogwin_ingredient_fruits" name="Фрукты" />
+		<text id="dialogwin_ingredient_instore" name="x на складе" />
+		<text id="dialogwin_ingredient_meat" name="Мясо" />
+		<text id="dialogwin_ingredient_notinstock" name="Сегодня нет в наличии!" />
+		<text id="dialogwin_ingredient_shoplayer" name="Магазин" />
+		<text id="dialogwin_ingredient_storecapacity" name="Вместимость:" />
+		<text id="dialogwin_ingredient_storeinused" name="В холодильнике:" />
+		<text id="dialogwin_ingredient_storelayer" name="Холодильник" />
+		<text id="dialogwin_ingredient_vegatable" name="Вегетарианское" />
+		<text id="dialogwin_instantcooking_copy" name="Вы хотите применить &quot;Быструю готовку&quot;? Ещё {0} осталось в запасе!" />
+		<text id="dialogwin_instantcooking_title" name="Вы хотите применить &quot;Быструю готовку&quot;?" />
+		<text id="dialogwin_jobpaycheck_copy" name="Прилежные официанты будут щедро вознаграждены: В дополнение к чаевым, вы также получаете опыт." />
+		<text id="dialogwin_jobpaycheck_title" name="Счёт" />
+		<text id="dialogwin_levelup_copy" name="Вы достигли уровня {0}!" />
+		<text id="dialogwin_levelup_copy_1" name="Ваша награда:" />
+		<text id="dialogwin_levelup_copy_2" name="Доступно для вас:" />
+		<text id="dialogwin_levelup_title" name="Новый уровень" />
+		<text id="dialogwin_lonelyingredient_copy" name="Ваш официант нашёл ящик с таинственной добавкой!  Поделитесь с друзьями!" />
+		<text id="dialogwin_lonelyingredient_title" name="Сюрприз!" />
+		<text id="dialogwin_lonelytip_copy" name="Один из гостей оставил вам огромные чаевые! Поделитесь с друзьями!" />
+		<text id="dialogwin_lonelytip_title" name="Ура!" />
+		<text id="dialogwin_muffinman_beforebet" name="Сделайте свою ставку. Выигрыш вернёт её вдвойне!" />
+		<text id="dialogwin_muffinman_btn_again" name="Ещё разок!" />
+		<text id="dialogwin_muffinman_btn_go" name="Вперёд!" />
+		<text id="dialogwin_muffinman_header" name="Найдите начинку!" />
+		<text id="dialogwin_muffinman_lostbet" name="Мда... Но ведь нельзя же всегда выигрывать! Ещё раз?" />
+		<text id="dialogwin_muffinman_nomoney" name="У вас недостаточно средств для такой ставки!" />
+		<text id="dialogwin_muffinman_nopayment" name="Играть на золото можно только с 10-го уровня." />
+		<text id="dialogwin_muffinman_noregister" name="Играть в &quot;Найди начинку!&quot; можно только зарегистрировавшись." />
+		<text id="dialogwin_muffinman_nosale" name="Ай-яй-яй!... Нельзя продавать Дядюшку Маффина!" />
+		<text id="dialogwin_muffinman_onlyonebuy" name="Дядюшка Маффин существует в единственном лице!" />
+		<text id="dialogwin_muffinman_placedbet" name="Отлично! В каком кексе скрыта начинка?" />
+		<text id="dialogwin_muffinman_toohighbet" name="Вы не можете сделать такую большую ставку! Ваша максимальная ставка - {0} золота и {1} кафейнингов!" />
+		<text id="dialogwin_muffinman_wonbet" name="Мммм... Вы нашли начинку! Давайте ещё разок." />
+		<text id="dialogwin_nomoney_avatarchange" name="У вас не хватает золота для изменения внешности!" />
+		<text id="dialogwin_nomoney_clean_copy" name="У вас не хватает кафейнингов, чтобы почистить плиту." />
+		<text id="dialogwin_nomoney_copy" name="У вас не хватает денег, чтобы купить это!" />
+		<text id="dialogwin_nomoney_courier" name="У вас недостаточно золота, чтобы заплатить курьеру!" />
+		<text id="dialogwin_nomoney_instantcook_copy" name="У вас недостаточно золота для &quot;Быстрой готовки&quot;." />
+		<text id="dialogwin_nomoney_moregold" name="Купить кафейнинги или золото" />
+		<text id="dialogwin_nomoney_npchire" name="У вас недостаточно золота, чтобы нанять нового официанта!" />
+		<text id="dialogwin_nomoney_ok" name="ОК" />
+		<text id="dialogwin_nomoney_title" name="Недостаточно средств" />
+		<text id="dialogwin_noreward_copy" name="К сожалению, награду получил другой игрок!" />
+		<text id="dialogwin_noreward_title" name="Ну и зря!" />
+		<text id="dialogwin_perfectdish_copy" name="Вы отлично приготовили {0}! Отдайте несколько лишних порций своим друзьям!" />
+		<text id="dialogwin_perfectdish_title" name="Отлично!" />
+		<text id="dialogwin_presentreceived_copy" name="Ваш поощрительный приз в {0} зачислен вам на счёт." />
+		<text id="dialogwin_presentreceived_title" name="Получен подарок!" />
+		<text id="dialogwin_presentreminder_btn_send" name="Отослать" />
+		<text id="dialogwin_presentreminder_copy1" name="Просто пройдите по золотой ссылке в письме и получите {0} золота!" />
+		<text id="dialogwin_presentreminder_copy2" name="Да, пошлите {0} золота на мой адрес прямо сейчас:" />
+		<text id="dialogwin_presentreminder_title" name="Вам {0} золота!" />
+		<text id="dialogwin_receiveitem_copy" name="Награда в вашем ящике для подарков!" />
+		<text id="dialogwin_receiveitem_title" name="Ура!" />
+		<text id="dialogwin_receivemoney_copy" name="Вы получили свою награду!" />
+		<text id="dialogwin_receivemoney_title" name="Поздравляем!" />
+		<text id="dialogwin_refreshfood_btn_clean" name="Почистить" />
+		<text id="dialogwin_refreshfood_btn_refresh" name="Спасти еду" />
+		<text id="dialogwin_refreshfood_title" name="Вы хотите спасти своё блюдо?" />
+		<text id="dialogwin_register_agbs" name="Принять Пользовательское соглашение" />
+		<text id="dialogwin_register_mail" name="E-mail" />
+		<text id="dialogwin_register_password" name="Пароль" />
+		<text id="dialogwin_register_title" name="Регистрация" />
+		<text id="dialogwin_sendgift_send" name="послать" />
+		<text id="dialogwin_sendgift_titel" name="Отослать" />
+		<text id="dialogwin_settings_email" name="Блокировать получение писем" />
+		<text id="dialogwin_settings_general" name="Общее" />
+		<text id="dialogwin_settings_high" name="Высокое" />
+		<text id="dialogwin_settings_low" name="Низкое" />
+		<text id="dialogwin_settings_medium" name="Среднее" />
+		<text id="dialogwin_settings_quality" name="Качество" />
+		<text id="dialogwin_shippingconfirmation_copy1" name="Пройдите по ссылке в письме, чтобы забрать золото." />
+		<text id="dialogwin_shippingconfirmation_copy2" name="Ещё не получили письмо? Это может занять пару минут. Если через некоторое время вы не найдёте его среди спама, наша поддержка будет рада вам помочь." />
+		<text id="dialogwin_shippingconfirmation_title" name="Золотое письмо в пути!" />
+		<text id="dialogwin_smoothiemakerhelp_copy" name="Здесь можно смешивать напитки и подавать их клиентам. Выберите напиток и нажмите &quot;Смешать&quot;.  Просто нажмите на &quot;жаждущего&quot; клиента, перед тем как он присядет, чтобы подать напиток. У такого гостя особая иконка над головой." />
+		<text id="dialogwin_smoothiemakerhelp_title" name="Как мне продавать напитки?" />
+		<text id="dialogwin_smoothiemaker_allserved_copy" name="У вас не осталось порций! Подождите пока Фрости освободится, чтобы смешать ещё." />
+		<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="Магазин" />
+		<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Вам необходим Фрости, чтобы готовить напитки!" />
+		<text id="dialogwin_smoothiemaker_nomoney_copy" name="У вас не хватает средств, чтобы смешать этот напиток!" />
+		<text id="dialogwin_smoothiemaker_noservings_copy" name="У вас нет никаких напитков! Смешайте что-нибудь!" />
+		<text id="dialogwin_smoothiemaker_onlyonebuy" name="Фрости может быть только один!" />
+		<text id="dialogwin_smoothiemaker_txt_title" name="ФРОСТИ" />
+		<text id="dialogwin_staffmanagement_btn_fire" name="Уволить" />
+		<text id="dialogwin_staffmanagement_favorite" name="Приоритеты" />
+		<text id="dialogwin_staffmanagement_favorite0" name="Убирать" />
+		<text id="dialogwin_staffmanagement_favorite100" name="Подавать" />
+		<text id="dialogwin_staffmanagement_fire" name="Уволить?" />
+		<text id="dialogwin_staffmanagement_renamecopy" name="Дайте новое имя своему официанту:" />
+		<text id="dialogwin_staffmanagement_renametitle" name="Переименовать?" />
+		<text id="dialogwin_staff_hire" name="Нанять" />
+		<text id="dialogwin_staff_management" name="Управление" />
+		<text id="dialogwin_staff_new" name="Новый официант" />
+		<text id="dialogwin_staff_title" name="Ваши официанты" />
+		<text id="dialogwin_welcomeback_text" name="Ты получишь в подарок:{0} Золото" />
+		<text id="dialogwin_welcomeback_text2" name="Вы получаете в подарок {0} золота и 3 &quot;изюминки&quot;." />
+		<text id="dialogwin_welcomeback_text3" name="" />
+		<text id="dialogwin_welcomeback_title" name="Добро пожаловать {0}!" />
+		<text id="dialogwin_wheeloffortune_beforespin" name="Крутите Колесо Фортуны и выигрывайте замечательные призы!" />
+		<text id="dialogwin_wheeloffortune_btn_go" name="Крутить!" />
+		<text id="dialogwin_wheeloffortune_btn_towheel" name="К колесу" />
+		<text id="dialogwin_wheeloffortune_copy1" name="Вы сегодня уже крутили Колесо Фортуны?" />
+		<text id="dialogwin_wheeloffortune_header" name="КОЛЕСО ФОРТУНЫ!" />
+		<text id="dialogwin_wheeloffortune_info" name="Первый поворот бесплатно!" />
+		<text id="dialogwin_wheeloffortune_info1" name="За каждый следующий - 1 золотой!" />
+		<text id="dialogwin_wheeloffortune_nomoney" name="У вас недостаточно золота, чтобы крутить Колесо Фортуны!" />
+		<text id="dialogwin_wheeloffortune_noregister" name="Только зарегистрированный игрок может вращать Колесо Фортуны!" />
+		<text id="dialogwin_wheeloffortune_nospace" name="У вас нет места для призов! Освободите место в коробке с подарками и приходите крутить Колесо Фортуны!" />
+		<text id="dialogwin_wheeloffortune_title" name="Колесо Фортуны!" />
+		<text id="dialogwin_wheeloffortune_tryagain" name="Попробуйте снова!" />
+		<text id="dialogwin_wheeloffortune_wonbet" name="Поздравляем! Вот ваш приз:" />
+		<text id="dialogwin_wheeloffortune_woncash" name="Поздравляем! Ваш приз уже зачислен на ваш счёт!" />
+		<text id="dialogwin_wheeloffortune_wonfood" name="Поздравляем! Ваш приз уже ждёт вас в коробке с подарками!" />
+		<text id="dialogwin_wheeloffortune_wongold" name="Вы выиграли горшок с золотом!" />
+		<text id="dialogwin_wheeloffortune_wonitem" name="Поздравляем! Ваш приз уже в вашем инвентаре!" />
+	</dialogs>
+	<error_codes>
+		<text id="achievement_error" name="Достижение" />
+		<text id="achievement_errorcode_1" name="Ошибка" />
+		<text id="cafechat_errorcode_23" name="Администратор временно запретил вам общаться." />
+		<text id="cafechat_errorcode_24" name="Пожалуйста, не спамьте!" />
+		<text id="cafewalk_errorcode_1" name="Внимание!" />
+		<text id="cafewalk_errorcode_23" name="Туда не пройти." />
+		<text id="cafe_error" name="Внимание!" />
+		<text id="changepassword_error" name="Изменить пароль" />
+		<text id="changepassword_errorcode_0" name="Пароль был успешно изменён!" />
+		<text id="changepassword_errorcode_1" name="Ошибка" />
+		<text id="changepassword_errorcode_10" name="Извините, это неправильный старый пароль." />
+		<text id="coop_errorcode_3" name="У вас слишком низкий уровень, чтобы готовить для этого банкета. Вы должны знать хотя бы один рецепт." />
+		<text id="coop_errorcode_7" name="Готовить для этого банкета могут только повара младше {0} уровня." />
+		<text id="coop_errorcode_85" name="Этот банкет уже заполнен." />
+		<text id="courier_error" name="Проблемы с доставкой" />
+		<text id="courier_errorcode_40" name="Ваш склад не настолько велик!" />
+		<text id="courier_errorcode_42" name="Продукт появился в обычном магазине. Загляните туда!" />
+		<text id="courier_errorcode_43" name="Курьер перегружен и поэтому не может доставить ваш заказ." />
+		<text id="createavatar_error" name="Внимание!" />
+		<text id="createavatar_errorcode_12" name="Это имя уже занято." />
+		<text id="createavatar_errorcode_15" name="У этого игрока уже есть персонаж." />
+		<text id="createavatar_errorcode_18" name="Имя недействительно." />
+		<text id="createavatar_error_invalide" name="Ваше имя не должно быть пустым или содержать спецсимволы." />
+		<text id="createavatar_error_nogender" name="Пожалуйста, выберите персонаж" />
+		<text id="editbuy_errorcode_1" name="Внимание!" />
+		<text id="editbuy_errorcode_3" name="Вы ещё не достигли необходимого уровня." />
+		<text id="editbuy_errorcode_38" name="Вы можете изменить своё кафе только с помощью вкладки &quot;Обстановка&quot;." />
+		<text id="editbuy_errorcode_39" name="Это сюда не подходит. Перетащите объект на другое доступное место." />
+		<text id="editextend_errorcode_1" name="Внимание!" />
+		<text id="editextend_errorcode_38" name="Вы можете изменить своё кафе только с помощью вкладки &quot;Обстановка&quot;." />
+		<text id="editextend_errorcode_53" name="У вас уже есть это расширение" />
+		<text id="editextend_errorcode_54" name="Вы пока не можете купить это расширение." />
+		<text id="editmode_errorcode_1" name="Внимание!" />
+		<text id="editmoveobj_errorcode_1" name="Внимание!" />
+		<text id="editmoveobj_errorcode_38" name="Вы можете изменить своё кафе только с помощью вкладки &quot;Обстановка&quot;." />
+		<text id="editmoveobj_errorcode_39" name="Это сюда не подходит. Перетащите объект на другое доступное место." />
+		<text id="editrotateobj_errorcode_1" name="Внимание!" />
+		<text id="editrotateobj_errorcode_38" name="Вы можете изменить своё кафе только с помощью вкладки &quot;Обстановка&quot;." />
+		<text id="editrotateobj_errorcode_39" name="Это сюда не подходит. Перетащите объект на другое доступное место." />
+		<text id="editsell_errorcode_1" name="Внимание!" />
+		<text id="editsell_errorcode_32" name="Этого нет на складе." />
+		<text id="editsell_errorcode_38" name="Вы можете изменить своё кафе только с помощью вкладки &quot;Обстановка&quot;." />
+		<text id="editsell_errorcode_39" name="Это сюда не подходит. Перетащите объект на другое доступное место." />
+		<text id="editstoreobj_errorcode_1" name="Внимание!" />
+		<text id="editstoreobj_errorcode_37" name="Тут сверху стоит блюдо!" />
+		<text id="editstoreobj_errorcode_38" name="Вы можете изменить своё кафе только с помощью вкладки &quot;Обстановка&quot;." />
+		<text id="editstoreobj_errorcode_39" name="Это сюда не подходит. Перетащите объект на другое доступное место." />
+		<text id="editstoreobj_errorcode_51" name="Здесь пусто, нечего продать." />
+		<text id="editstoreobj_removefailmin_counter" name="У вас должна быть по крайней мере одна стойка." />
+		<text id="editstoreobj_removefailmin_fridge" name="У вас должен быть хотя бы один холодильник." />
+		<text id="editstoreobj_removefailmin_stove" name="У вас должна быть хотя бы одна плита." />
+		<text id="editstoreobj_removefailmin_title" name="Внимание!" />
+		<text id="editstoreobj_removefail_counter" name="Ваша стойка должна быть пустой" />
+		<text id="editstoreobj_removefail_door" name="Увы, но вам придётся оставить хотя бы одну дверь..." />
+		<text id="editstoreobj_removefail_fridge" name="У вас слишком много продуктов." />
+		<text id="editstoreobj_removefail_stove" name="Ваша плита должна быть незанятой." />
+		<text id="editstoreobj_removefail_title" name="Внимание!" />
+		<text id="edit_error" name="Внимание!" />
+		<text id="error" name="Ошибка" />
+		<text id="fullscreenerror_msg_copy" name="Полноэкранный режим невозможен" />
+		<text id="fullscreenerror_msg_title" name="Во весь экран:" />
+		<text id="gift_error" name="Невозможно!" />
+		<text id="gift_errorcode_20" name="У вас нет свободной стойки для этого блюда." />
+		<text id="gift_errorcode_40" name="У вас нет свободного места в холодильнике." />
+		<text id="gift_errorcode_5" name="Этого нельзя сделать, такой подарок неизвестен." />
+		<text id="invitefriend_error" name="Пригласить друга не удалось" />
+		<text id="invitefriend_errorcode_13" name="Этот игрок уже зарегистрирован!" />
+		<text id="invitefriend_errorcode_14" name="Неправильный адрес e-mail" />
+		<text id="jobrefill_error" name="Так нельзя!" />
+		<text id="jobrefill_errorcode_1" name="Все разрешения на работу уже проданы." />
+		<text id="jobrefill_errorcode_61" name="Вы можете пополнять разрешения на работу только раз в день." />
+		<text id="joincafe_error" name="Невозможно!" />
+		<text id="joincafe_errorcode_20" name="Частная вечеринка! Свободных мест больше нет." />
+		<text id="joincafe_errorcode_21" name="Вы уже и так в своём кафе!" />
+		<text id="joincafe_errorcode_22" name="Это кафе не существует!" />
+		<text id="level_error" name="Кафе не функционирует. Обратитесь за помощью к Поддержке." />
+		<text id="level_errorcode_1" name="Ваше кафе не открывается. Пожалуйста, обратитесь в службу поддержки." />
+		<text id="login_error" name="Внимание!" />
+		<text id="login_errorcode_1" name="Ошибка" />
+		<text id="login_errorcode_12" name="Пользователь уже зарегистрирован." />
+		<text id="login_errorcode_13" name="Пользователь уже зарегистрирован." />
+		<text id="login_errorcode_14" name="Имя или пароль недействительны!" />
+		<text id="login_errorcode_15" name="Вы в игре." />
+		<text id="login_errorcode_16" name="Ваш персонаж содержит ошибку. Пожалуйста, обратитесь в службу поддержки." />
+		<text id="login_errorcode_wronglogin" name="Имя или пароль недействительны!" />
+		<text id="lostpassword_error" name="Внимание!" />
+		<text id="lostpassword_errorcode_1" name="Ошибка" />
+		<text id="lostpassword_errorcode_11" name="Под этим адресом никто не зарегистрирован." />
+		<text id="marketplace_error" name="Рынок" />
+		<text id="marketplace_errorcode_20" name="Рынок переполнен, попробуйте зайти позже." />
+		<text id="marketplace_errorcode_21" name="Вы уже и так на рынке" />
+		<text id="npcfire_errorcode_1" name="Невозможно было уволить вашего официанта." />
+		<text id="npchire_errorcode_1" name="Невозможно было нанять нового официанта." />
+		<text id="npcrename_errorcode_12" name="Имя недействительно!" />
+		<text id="npc_error" name="Внимание!" />
+		<text id="register_error" name="Регистрация не удалась" />
+		<text id="register_errorcode_1" name="Ошибка" />
+		<text id="register_errorcode_10" name="Введённый вами пароль неправилен." />
+		<text id="register_errorcode_13" name="Извините, игрок с таким адресом уже зарегистрирован." />
+		<text id="register_errorcode_14" name="Введённый вами e-mail неверен." />
+		<text id="server_msg_10" name="Сервер скоро будет перезагружен. Это займёт немного времени. Пожалуйста, выйдите." />
+		<text id="server_msg_title" name="Сообщение сервера:" />
+		<text id="shopbuy_error" name="Нет места!" />
+		<text id="shopbuy_errorcode_40" name="Ваш холодильник уже полон!" />
+		<text id="shopdelete_errorcode_41" name="Этого нет" />
+		<text id="smoothiemaker_error_alreadyserved" name="Этот гость уже обслуживается!" />
+		<text id="useraction_error" name="Внимание!" />
+		<text id="useraction_errorcode_2" name="Конец рабочего дня! На сегодня хватит!" />
+		<text id="useraction_errorcode_62" name="Сначала нужно взять блюдо со стойки." />
+		<text id="useraction_errorcode_63" name="Прежде чем убирать, отнесите блюдо к посетителю или назад к стойке." />
+		<text id="versioncheck_error" name="Старая версия!" />
+		<text id="versioncheck_errorcode_1" name="Обновите страницу" />
+		<text id="waiter_name_invalide" name="Это имя нельзя использовать для официанта." />
+	</error_codes>
+	<feature>
+		<text id="featureDialog_0_text_0" name="Новый интерьер для придания ещё большей индивидуальности вашему кафе!" />
+		<text id="featureDialog_0_text_0_sozial" name="Получите особые награды за работу!" />
+		<text id="featureDialog_0_text_1" name="Получите дополнительный опыт, кафейнинги или золото за свою работу!" />
+		<text id="featureDialog_0_text_1_sozial" name="Новый интерьер уже в продаже!" />
+		<text id="featureDialog_0_text_2" name="Узнайте, кто ещё играет в Кафе?" />
+		<text id="featureDialog_0_text_2_sozial" name="Узнайте, кто ещё играет в Кафе?" />
+		<text id="featureDialog_10_text_0" name="Вам нужно больше места для посетителей и интерьера? Добавьте пространства с помощью расширений!" />
+		<text id="featureDialog_11_text_0" name="Новые интересные банкеты ждут своих шефов!" />
+		<text id="featureDialog_16_text_0" name="Какая прелесть! Теперь в вашем кафе играет музыка!" />
+		<text id="featureDialog_16_text_1" name="Освой ремесло пирожника в новой обстановке Пирожной Пекарни!" />
+		<text id="featureDialog_17_text_0" name="Весёлого Рождества! Постройте свою собственную мастерскую Санта-Клауса с помощью новых рождественских предметов интерьера!" />
+		<text id="featureDialog_18_text_0" name="Дух Рождества уже здесь, он принёс новые блюда и готовит новые банкеты!" />
+		<text id="featureDialog_19_text_0" name="Повысьте свой рейтинг и сделайте своё кафе лучшим в городе, за счёт роскошной мебели и обстановки!" />
+		<text id="featureDialog_1_text_0" name="Получите особые награды за работу!" />
+		<text id="featureDialog_1_text_1" name="Новый интерьер уже в продаже!" />
+		<text id="featureDialog_1_text_2" name="Узнайте, кто ещё играет в Кафе?" />
+		<text id="featureDialog_20_text_0" name="Звёзды мастерства помогут вам творить шедевры из ваших блюд!" />
+		<text id="featureDialog_20_text_1" name="Последний шанс приготовить Рождественские блюда и купить зимнюю обстановку! Осталась всего одна неделя!" />
+		<text id="featureDialog_21_text_0" name="Удивите своих посетителей новыми вкусными рецептами!" />
+		<text id="featureDialog_22_text_0" name="На пути ко всё большему процветанию вас ждут теперь новые достижения!" />
+		<text id="featureDialog_23_text_0" name="Требуются мастера на новые банкеты! Давайте готовить вместе!" />
+		<text id="featureDialog_24_text_0" name="Пасхальный кролик что-то оставил в вашем кафе! Найдите предметы нового пасхального интерьера!" />
+		<text id="featureDialog_24_text_1" name="Никогда ещё с одной птицы не получали столько дохода! Откройте для себя утку а ля Ораж!" />
+		<text id="featureDialog_25_text_0" name="Вы удачливы? Испытайте свою фортуну у Дядюшки Маффина!" />
+		<text id="featureDialog_26_text_0" name="Чувствуете дыхание удачи? Крутаните Колесо Фортуны на рынке!" />
+		<text id="featureDialog_27_text_0" name="Подхлестните интерес к вашему кафе новым аппаратом для сахарной ваты! Доступно только на Колесе Фортуны!" />
+		<text id="featureDialog_28_text_0" name="Сегодня ваш последний шанс выиграть машину для сахарной ваты, используйте его!" />
+		<text id="featureDialog_29_text_0" name="Теперь вы можете менять внешность персонажа когда захотите!" />
+		<text id="featureDialog_2_text_0" name="Встречайтесь и общайтесь с другими игроками!" />
+		<text id="featureDialog_2_text_1" name="Новый интерьер в обеденном стиле!" />
+		<text id="featureDialog_2_text_2" name="Расширьте своё кафе ещё больше!" />
+		<text id="featureDialog_30_text_0" name="Больше места в холодильнике! &quot;Изюминки&quot; теперь не занимают место в холодильнике! Их можно хранить в любом количестве!" />
+		<text id="featureDialog_30_text_1" name="Покупайте расширения за кафейнинги прямо сейчас!" />
+		<text id="featureDialog_31_text_0" name="Больше места в холодильнике! &quot;Изюминки&quot; теперь не занимают место в холодильнике! Их можно хранить в любом количестве!" />
+		<text id="featureDialog_31_text_1" name="Отныне вы будете получать расширения бесплатно, если у вас достаточно друзей." />
+		<text id="featureDialog_32_text_0" name="У ваших гостей пересохло в горле? Поставьте своего Фрости и дайте им освежиться!" />
+		<text id="featureDialog_33_text_0" name="Попробуйте приготовить омлет! Новое быстрое блюдо в вашей книге рецептов!" />
+		<text id="featureDialog_3_text_0" name="Получи дополнительные кафейнинги и опыт, подрабатывая официантом в других кафе!" />
+		<text id="featureDialog_3_text_1" name="Изумительные новые рецепты восхитят ваших клиентов!" />
+		<text id="featureDialog_4_text_0" name="Встречайте и заводите новых друзей на рынке!" />
+		<text id="featureDialog_4_text_1" name="Новый обеденный интерьер поможет сделать ваше кафе особенным как никогда!" />
+		<text id="featureDialog_5_text_0" name="Повысьте доход и опыт, получаемые от ваших блюд, добавляя в них особые &quot;изюминки&quot;!" />
+		<text id="featureDialog_6_text_0" name="Получайте и дарите подарки друзьям через новый ящик с подарками!" />
+		<text id="featureDialog_6_text_1" name="Повысьте доход и опыт, получаемые от ваших блюд, добавляя в них особые &quot;изюминки&quot;!" />
+		<text id="featureDialog_7_text_0" name="Преврати своё кафе в настоящий салун с помощью новых предметов обстановки и ковбои сразу выстроятся в очередь!" />
+		<text id="featureDialog_8_text_0" name="Новые изумительные блюда, способные восхитить ваших клиентов!" />
+		<text id="featureDialog_9_text_0" name="Выясните своё место в новейшем рейтинге!" />
+		<text id="featureDialog_9_text_1" name="Вместе мы - сила! Бросьте кулинарный вызов себе и своим друзьям с новыми банкетами!" />
+		<text id="featureDialog_9_text_2" name="Будьте готовы перепугать своих гостей до обморока с новой обстановкой для Хэллоуина!" />
+		<text id="featureDialog_title" name="Новые возможности" />
+		<text id="limitedfeatureDialog_12_copy_0" name="Купите обстановку для встречи Хэллоуина прямо сейчас! Количество ограничено!" />
+		<text id="limitedfeatureDialog_12_copy_1" name="ОСТАЛОСЬ 4 ДНЯ!" />
+		<text id="limitedfeatureDialog_13_copy_0" name="Купите обстановку для встречи Хэллоуина прямо сейчас! Количество ограничено!" />
+		<text id="limitedfeatureDialog_13_copy_1" name="ОСТАЛОСЬ 3 ДНЯ!" />
+		<text id="limitedfeatureDialog_14_copy_0" name="Купите обстановку для встречи Хэллоуина прямо сейчас! Количество ограничено!" />
+		<text id="limitedfeatureDialog_14_copy_1" name="ОСТАЛОСЬ 2 ДНЯ!" />
+		<text id="limitedfeatureDialog_15_copy_0" name="Купите обстановку для встречи Хэллоуина прямо сейчас! Количество ограничено!" />
+		<text id="limitedfeatureDialog_15_copy_1" name="ТОЛЬКО СЕГОДНЯ!" />
+		<text id="limitedfeatureDialog_2_copy_0" name="Купите обстановку для встречи Хэллоуина прямо сейчас! Количество ограничено!" />
+		<text id="limitedfeatureDialog_3_copy_0" name="Зима подходит к концу! Скоро зимние предметы интерьера станут недоступны!" />
+		<text id="limitedfeatureDialog_5_copy_0" name="Покупайте пасхальные украшения, они доступны только сейчас!" />
+		<text id="limitedfeatureDialog_time" name="ОСТАЛОСЬ {0} ДНЕЙ!" />
+		<text id="limitedfeatureDialog_time_single" name="ТОЛЬКО СЕГОДНЯ!" />
+		<text id="limitedfeatureDialog_title" name="ВНИМАНИЕ!" />
+	</feature>
+	<feeds>
+		<text id="descriptionfeedcafe" name="Пишу тебе из своего кафе на Goodgame Café. На плите шкворчит жаркое, поэтому не буду рассусоливать: приходи скорей и помоги мне с банкетом." />
+		<text id="descriptionlongcafe" name="Goodgame Café - это новая игра от Goodgame Studios! Откройте своё собственное кафе и удивляйте клиентов своим кулинарным мастерством. Берите на работу друзей и покупайте только всё самое свежее! Составляйте меню и поднимайте бизнес на ноги. Ваше кафе станет самым популярным местом в городе!" />
+	</feeds>
+	<ingame_tooltips>
+		<text id="fridgetooltip_line1" name="Холодильник" />
+		<text id="fridgetooltip_line2" name="Нажмите, чтобы открыть" />
+		<text id="muffinmantooltip_line1" name="Дядюшка Маффин" />
+		<text id="muffinmantooltip_line2" name="Нажмите и играйте!" />
+		<text id="player_action" name="Действия:" />
+		<text id="player_working" name="Рабочее время" />
+		<text id="preparestep_cleaning" name="Вымыть плиту" />
+		<text id="preparestep_serving" name="Сервируется" />
+		<text id="smoothiemaker_line1" name="Фрости" />
+		<text id="smoothiemaker_line2" name="Нажмите, чтобы смешать!" />
+		<text id="stovetooltip_clean1" name="Грязная плита" />
+		<text id="stovetooltip_clean2" name="Нажмите, чтобы вымыть" />
+		<text id="stovetooltip_empty1" name="Пустая стойка" />
+		<text id="stovetooltip_empty2" name="Приготовьте блюдо" />
+		<text id="stovetooltip_free" name="Нажмите, чтобы готовить" />
+		<text id="stovetooltip_full1" name="Готово:" />
+		<text id="stovetooltip_full2" name="осталось" />
+		<text id="stovetooltip_prepare1" name="Нажмите, чтобы" />
+		<text id="stovetooltip_ready1" name="срока годности" />
+		<text id="stovetooltip_ready2" name="Нажмите, чтобы подать" />
+		<text id="stovetooltip_spoiled1" name="Испорчено" />
+		<text id="stovetooltip_spoiled2" name="Нажмите, чтобы вымыть" />
+		<text id="wheeloffortunetooltip_line1" name="Колесо Фортуны!" />
+		<text id="wheeloffortunetooltip_line2" name="Нажмите и играйте!" />
+		<text id="wheeloffortunetooltip_line3" name="1-й раз - бесплатно" />
+	</ingame_tooltips>
+	<ingredients>
+		<text id="ingredient_cookfest" name="Event Ingredients" />
+		<text id="ingredient_apple" name="Яблоки" />
+		<text id="ingredient_bacon" name="Бекон" />
+		<text id="ingredient_bakingmix" name="Тесто" />
+		<text id="ingredient_ballpepper" name="Паприка" />
+		<text id="ingredient_banana" name="Бананы" />
+		<text id="ingredient_basil" name="Базилик" />
+		<text id="ingredient_beans" name="Фасоль" />
+		<text id="ingredient_beetroot" name="Свёкла" />
+		<text id="ingredient_butter" name="Сливочное масло" />
+		<text id="ingredient_carrots" name="Морковь" />
+		<text id="ingredient_cheese" name="Сыр" />
+		<text id="ingredient_cherries" name="Вишня" />
+		<text id="ingredient_chicken" name="Курица" />
+		<text id="ingredient_chili" name="Чили" />
+		<text id="ingredient_chocolate" name="Шоколад" />
+		<text id="ingredient_cinnamon" name="Корица" />
+		<text id="ingredient_cocktailcherry" name="Вишенка в коктейль" />
+		<text id="ingredient_coconut" name="Кокосы" />
+		<text id="ingredient_cookies" name="Печенюшки" />
+		<text id="ingredient_coriander" name="Кориандр" />
+		<text id="ingredient_cream" name="Сливки" />
+		<text id="ingredient_cucumber" name="Огурец" />
+		<text id="ingredient_curryspice" name="Карри" />
+		<text id="ingredient_duck" name="Утка" />
+		<text id="ingredient_eggplant" name="Баклажан" />
+		<text id="ingredient_eggs" name="Яйца" />
+		<text id="ingredient_fish" name="Рыба" />
+		<text id="ingredient_flour" name="Мука" />
+		<text id="ingredient_garlic" name="Чеснок" />
+		<text id="ingredient_horseradish" name="Корень хрена" />
+		<text id="ingredient_kidney" name="Почки" />
+		<text id="ingredient_lettuce" name="Салат-латук" />
+		<text id="ingredient_maplesyrup" name="Кленовый сироп" />
+		<text id="ingredient_meat" name="Мясо" />
+		<text id="ingredient_milk" name="Молоко" />
+		<text id="ingredient_mincemeat" name="Фарш" />
+		<text id="ingredient_nutmeg" name="Мускатный орех" />
+		<text id="ingredient_oil" name="Масло" />
+		<text id="ingredient_onion" name="Лук" />
+		<text id="ingredient_orange" name="Апельсины" />
+		<text id="ingredient_parsley" name="Петрушка" />
+		<text id="ingredient_pasta" name="Макароны" />
+		<text id="ingredient_peas" name="Горох" />
+		<text id="ingredient_pinapple" name="Ананас" />
+		<text id="ingredient_potato" name="Картофель" />
+		<text id="ingredient_quark" name="Творог" />
+		<text id="ingredient_rhubarb" name="Ревень" />
+		<text id="ingredient_rice" name="Рис" />
+		<text id="ingredient_rosemary" name="Розмарин" />
+		<text id="ingredient_sausages" name="Сосиски" />
+		<text id="ingredient_spicemix" name="Смесь пряностей" />
+		<text id="ingredient_strawberry" name="Клубника" />
+		<text id="ingredient_sugar" name="Сахар" />
+		<text id="ingredient_sweetcorn" name="Кукуруза" />
+		<text id="ingredient_tofu" name="Тофу" />
+		<text id="ingredient_tomato" name="Помидоры" />
+		<text id="ingredient_turkeymix" name="Обмазанная индейка" />
+		<text id="ingredient_vanilla" name="Ваниль" />
+		<text id="ingredient_vegiemix" name="Смесь овощей" />
+		<text id="ingredient_whitechocolat" name="Белый шоколад" />
+	</ingredients>
+	<loggedin_msg id="" />
+	<panels>
+		<text id="panelwin_buddy_btn_morefriends" name="Больше друзей!" />
+		<text id="panelwin_deco_dragtip_copy" name="Перетащите этот предмет в кафе, чтобы использовать его." />
+		<text id="panelwin_deco_dragtip_title" name="Подсказка" />
+		<text id="panelwin_deco_nomore_expansion" name="Доступных расширений нет." />
+		<text id="panelwin_deco_objectcount_counter" name="Вы должны достичь {0} уровня, чтобы купить дополнительную стойку. Можно также перетащить сюда старую и заменить её." />
+		<text id="panelwin_deco_objectcount_fridge" name="Вы должны достичь {0} уровня, чтобы купить дополнительный холодильник. Или вы можете перетащить сюда старый и заменить его." />
+		<text id="panelwin_deco_objectcount_nomore_counter" name="Вы пока не можете увеличивать количество стоек!" />
+		<text id="panelwin_deco_objectcount_nomore_fridge" name="Вы пока не можете увеличивать количество холодильников!" />
+		<text id="panelwin_deco_objectcount_nomore_stove" name="Вы пока не можете увеличивать количество конфорок!" />
+		<text id="panelwin_deco_objectcount_stove" name="Вы должны достичь {0} уровня, чтобы купить дополнительную плиту. Или вы можете перетащить сюда старую и заменить её." />
+		<text id="panelwin_login_email" name="Имя или E-mail" />
+		<text id="panelwin_login_login" name="Войти" />
+		<text id="panelwin_login_lostpassword" name="Забыли свой пароль?" />
+		<text id="panelwin_login_password" name="Пароль" />
+		<text id="panelwin_login_play" name="Играть сразу" />
+		<text id="panelwin_login_register" name="Регистрация" />
+		<text id="panelwin_login_rememberpassword" name="Сохранить пароль" />
+		<text id="panelwin_name_cafe" name="КАФЕ" />
+		<text id="panelwin_social_bot" name="Кафе-чат" />
+		<text id="panelwin_social_comein" name="в кафе" />
+		<text id="panelwin_social_comeinmarketplace" name="на рынке" />
+		<text id="panelwin_social_goout" name="теперь вне кафе" />
+		<text id="panelwin_social_gooutmarketplace" name="теперь вне рынка" />
+		<text id="panelwin_social_noingamefriends" name="У вас пока нет друзей!" />
+		<text id="panelwin_social_noplayerincafe" name="Кроме вас здесь никого нет." />
+		<text id="panelwin_social_say" name=":" />
+		<text id="panelwin_social_standardanswer" name="Скоро вы сможете общаться с другими игроками в вашем кафе!" />
+		<text id="panelwin_social_welcome_marketplace" name="Добро пожаловать! Нажмите на чёрную доску, если вы ищете работу." />
+		<text id="panelwin_social_welcome_mycafe" name="Добро пожаловать" />
+		<text id="panelwin_social_writeable" name="Вам нужно сперва зарегистрироваться и достичь первого уровня, чтобы общаться." />
+	</panels>
+	<preparestep>
+		<text id="preparestep_bananasplit_banana" name="Очистить банан" />
+		<text id="preparestep_bananasplit_chocolate" name="Натереть шоколад" />
+		<text id="preparestep_brigadeiro_chocolate" name="Cut chocolate" />
+		<text id="preparestep_brigadeiro_cream" name="Mix cream" />
+		<text id="preparestep_brigadeiro_vanilla" name="Shave vanilla" />
+		<text id="preparestep_bananasplit_cream" name="Взбить сливки" />
+		<text id="preparestep_bananasplit_milk" name="Отмерить молоко" />
+		<text id="preparestep_bananasplit_sugar" name="Отмерить сахар" />
+		<text id="preparestep_blackforestcherrycake_chocolate" name="Натереть шоколад" />
+		<text id="preparestep_blackforestcherrycake_cocktailcherry" name="Вымыть вишни" />
+		<text id="preparestep_blackforestcherrycake_cream" name="Взбить сливки" />
+		<text id="preparestep_pizzasalad_tomato" name="Cut tomatoes" />
+		<text id="preparestep_pizzasalad_onion" name="Cut onions" />
+		<text id="preparestep_pizzasalad_lettuce" name="Wash lettuce" />
+		<text id="preparestep_pizzasalad_cheese" name="Grate cheese" />
+		<text id="preparestep_pizzasalad_flour" name="Sift flour" />
+		<text id="preparestep_tripleomelette_eggs" name="Crack eggs strongly" />
+		<text id="preparestep_tripleomelette_chili" name="Make it spicy" />
+		<text id="preparestep_chocolatewaffles_flour" name="Measure flour" />
+		<text id="preparestep_chocolatewaffles_cream" name="Whip cream" />
+		<text id="preparestep_chocolatewaffles_eggs" name="Crack eggs softly" />
+		<text id="preparestep_chocolatewaffles_chocolate" name="Melt chocolate" />
+		<text id="preparestep_chocolatewaffles_vanilla" name="Add vanilla extract" />
+		<text id="preparestep_spanishomelette_potato" name="Peel potatoes" />
+		<text id="preparestep_spanishomelette_onion" name="Chop onions" />
+		<text id="preparestep_spanishomelette_eggs" name="Crack eggs in Spanish" />
+		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
+		<text id="preparestep_sausagepasta_pasta" name="Boil pasta" />
+		<text id="preparestep_sausagepasta_sausages" name="Chop sausages" />
+		<text id="preparestep_sausagepasta_tomato" name="Make tomato sauce" />
+		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
+		<text id="preparestep_applepie_cream" name="Whip cream" />
+		<text id="preparestep_applepie_eggs" name="Crack eggs elegantly" />
+		<text id="preparestep_applepie_flour" name="Measure flour" />
+		<text id="preparestep_applepie_apple" name="Think about apple economy" />
+		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_ramen_pasta" name="Boil pasta" />
+		<text id="preparestep_ramen_eggs" name="Boil eggs" />
+		<text id="preparestep_ramen_bacon" name="Chop bacon" />
+		<text id="preparestep_ramen_chili" name="Make it spicy" />
+		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
+		<text id="preparestep_corncake_butter" name="Melt butter" />
+		<text id="preparestep_corncake_eggs" name="Mix eggs" />
+		<text id="preparestep_corncake_milk" name="Add milk" />
+		<text id="preparestep_corncake_sugar" name="Mix sugar in the dough" />
+		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
+		<text id="preparestep_feijoada_beans" name="Boil beans" />
+		<text id="preparestep_feijoada_bacon" name="Chop bacon chunks" />
+		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
+		<text id="preparestep_feijoada_onion" name="Chop onions" />
+		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
+		<text id="preparestep_feijoada_coriander" name="Add coriander" />
+		<text id="preparestep_blackforestcherrycake_flour" name="Просеять муку" />
+		<text id="preparestep_cheeseburger_cheese" name="Нарезать сыр" />
+		<text id="preparestep_cheeseburger_flour" name="Просеять муку" />
+		<text id="preparestep_cheeseburger_mincemeat" name="Приправить фарш" />
+		<text id="preparestep_cheeseburger_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_cheesedish_cheese" name="Нарезать сыр" />
+		<text id="preparestep_cheesefondue_cheese" name="Расплавить сыр" />
+		<text id="preparestep_cheesefondue_flour" name="Просеять муку" />
+		<text id="preparestep_cheesefondue_garlic" name="Выдавить чеснок" />
+		<text id="preparestep_cherriecake_cherries" name="Приготовить вишни" />
+		<text id="preparestep_cherriecake_cream" name="Взбить сливки" />
+		<text id="preparestep_cherriecake_flour" name="Просеять муку" />
+		<text id="preparestep_cherriecake_sugar" name="Отмерить сахар" />
+		<text id="preparestep_cherrycompote_cherries" name="Вынуть косточки" />
+		<text id="preparestep_cherrycompote_sugar" name="Сварить карамель" />
+		<text id="preparestep_chickenburger_chicken" name="Разделать курицу" />
+		<text id="preparestep_chickenburger_cucumber" name="Нарезать огурец" />
+		<text id="preparestep_chickenburger_flour" name="Просеять муку" />
+		<text id="preparestep_chickenburger_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_chickensalad_chicken" name="Подготовить курицу" />
+		<text id="preparestep_chickensalad_lettuce" name="Помыть салат" />
+		<text id="preparestep_chickensalad_onion" name="Порезать лук" />
+		<text id="preparestep_chickensalad_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_chickensoup_bacon" name="Нарезать бекон" />
+		<text id="preparestep_chickensoup_chicken" name="Разделать курицу" />
+		<text id="preparestep_chickensoup_onion" name="Порезать лук" />
+		<text id="preparestep_chickensoup_pasta" name="Отвесить макароны" />
+		<text id="preparestep_chiliconcarne_bacon" name="Нарезать бекон" />
+		<text id="preparestep_chiliconcarne_beans" name="Промыть фасоль" />
+		<text id="preparestep_chiliconcarne_mincemeat" name="Приправить фарш" />
+		<text id="preparestep_chiliconcarne_onion" name="Порезать лук" />
+		<text id="preparestep_chiliconcarne_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_chocmousse_chocolate" name="Растопить шоколад" />
+		<text id="preparestep_chocmousse_cream" name="Взбить сливки" />
+		<text id="preparestep_chocmousse_eggs" name="Сепарировать яйца" />
+		<text id="preparestep_chocolatecake_chocolate" name="Растопить шоколад" />
+		<text id="preparestep_chocolatecake_cream" name="Взбить сливки" />
+		<text id="preparestep_chocolatecake_eggs" name="Сепарировать яйца" />
+		<text id="preparestep_chocolatecake_flour" name="Просеять муку" />
+		<text id="preparestep_chocolatecheesecake_chocolate" name="Натереть шоколад" />
+		<text id="preparestep_chocolatecheesecake_cookies" name="Покрошить печенье" />
+		<text id="preparestep_chocolatecheesecake_milk" name="Подогреть молоко" />
+		<text id="preparestep_chocolatecheesecake_quark" name="Размять творог" />
+		<text id="preparestep_chocolatefondue_chocolate" name="Покрошить шоколад" />
+		<text id="preparestep_chocolatefondue_cream" name="Отмерить сливки" />
+		<text id="preparestep_chocolatefondue_strawberry" name="Помыть клубнику" />
+		<text id="preparestep_christmasturkey_turkeymix" name="Обмазать индейку" />
+		<text id="preparestep_christmasturkey_vegiemix" name="Разморозить овощи" />
+		<text id="preparestep_cookieplate_butter" name="Растопить масло" />
+		<text id="preparestep_cookieplate_chocolate" name="Натереть шоколад" />
+		<text id="preparestep_cookieplate_flour" name="Просеять муку" />
+		<text id="preparestep_cookieplate_sugar" name="Сварить карамель" />
+		<text id="preparestep_cornonthecob_butter" name="Добавить масло" />
+		<text id="preparestep_cornonthecob_lettuce" name="Помыть салат" />
+		<text id="preparestep_cornonthecob_sweetcorn" name="Помыть кукурузу" />
+		<text id="preparestep_curry_ballpepper" name="Нарезать паприку" />
+		<text id="preparestep_curry_coconut" name="Расколоть кокос" />
+		<text id="preparestep_curry_curryspice" name="Отмерить карри" />
+		<text id="preparestep_curry_meat" name="Порезать мясо" />
+		<text id="preparestep_curry_peas" name="Приготовить горох" />
+		<text id="preparestep_duckalorange_butter" name="Растопить масло" />
+		<text id="preparestep_duckalorange_duck" name="Подготовить утку" />
+		<text id="preparestep_duckalorange_onion" name="Порезать лук" />
+		<text id="preparestep_duckalorange_orange" name="Почистить апельсины" />
+		<text id="preparestep_easterdish_chocolate" name="Покрошить шоколад" />
+		<text id="preparestep_easterdish_eggs" name="Разбить яйца" />
+		<text id="preparestep_englishbreakfast_beans" name="Приготовить фасоль" />
+		<text id="preparestep_englishbreakfast_eggs" name="Взбить яйца" />
+		<text id="preparestep_englishbreakfast_flour" name="Просеять муку" />
+		<text id="preparestep_englishbreakfast_sausages" name="Отрезать сосисок" />
+		<text id="preparestep_fishandchips_fish" name="Подготовить рыбу" />
+		<text id="preparestep_fishandchips_flour" name="Просеять муку" />
+		<text id="preparestep_fishandchips_oil" name="Раскалить масло" />
+		<text id="preparestep_fishandchips_peas" name="Приготовить горох" />
+		<text id="preparestep_fishandchips_potato" name="Почистить картошку" />
+		<text id="preparestep_friedpotatoes_bacon" name="Обжарить бекон" />
+		<text id="preparestep_friedpotatoes_onion" name="Порезать лук" />
+		<text id="preparestep_friedpotatoes_potato" name="Почистить картошку" />
+		<text id="preparestep_fruitpudding_bakingmix" name="Смешивается" />
+		<text id="preparestep_fruitpudding_spicemix" name="Добавляются пряности" />
+		<text id="preparestep_fruitsalad_apple" name="Очистить яблоки" />
+		<text id="preparestep_fruitsalad_banana" name="Очистить бананы" />
+		<text id="preparestep_fruitsalad_cherries" name="Вынуть косточки" />
+		<text id="preparestep_fruitsalad_orange" name="Почистить апельсины" />
+		<text id="preparestep_greensalad_lettuce" name="Помыть салат" />
+		<text id="preparestep_greensalad_onion" name="Порезать лук" />
+		<text id="preparestep_greensalad_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_gumbo_curryspice" name="Поджарить карри" />
+		<text id="preparestep_gumbo_fish" name="Нарезать рыбу" />
+		<text id="preparestep_gumbo_onion" name="Порезать лук" />
+		<text id="preparestep_gumbo_rice" name="Приготовить рис" />
+		<text id="preparestep_hamburger_flour" name="Просеять муку" />
+		<text id="preparestep_hamburger_mincemeat" name="Приправить фарш" />
+		<text id="preparestep_hamburger_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_hotcherrywaffles_cherries" name="Вынуть косточки" />
+		<text id="preparestep_hotcherrywaffles_cream" name="Взбить сливки" />
+		<text id="preparestep_hotcherrywaffles_eggs" name="Сепарировать яйца" />
+		<text id="preparestep_hotcherrywaffles_flour" name="Просеять муку" />
+		<text id="preparestep_hotcherrywaffles_milk" name="Подогреть молоко" />
+		<text id="preparestep_jamspongepudding_flour" name="Просеять муку" />
+		<text id="preparestep_jamspongepudding_milk" name="Подогреть молоко" />
+		<text id="preparestep_jamspongepudding_strawberry" name="Подготовить клубнику" />
+		<text id="preparestep_jamspongepudding_sugar" name="Сварить карамель" />
+		<text id="preparestep_lasagne_cheese" name="Натереть сыр" />
+		<text id="preparestep_lasagne_mincemeat" name="Приправить фарш" />
+		<text id="preparestep_lasagne_pasta" name="Сварить макароны" />
+		<text id="preparestep_lasagne_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_macncheese_cheese" name="Натереть сыр" />
+		<text id="preparestep_macncheese_cream" name="Отмерить сливки" />
+		<text id="preparestep_macncheese_pasta" name="Сварить макароны" />
+		<text id="preparestep_maplepancakes_eggs" name="Сепарировать яйца" />
+		<text id="preparestep_maplepancakes_flour" name="Просеять муку" />
+		<text id="preparestep_maplepancakes_maple" name="Пригубить кленовый сироп" />
+		<text id="preparestep_maplepancakes_milk" name="Отмерить молоко" />
+		<text id="preparestep_marblecake_butter" name="Растопить масло" />
+		<text id="preparestep_marblecake_chocolate" name="Растопить шоколад" />
+		<text id="preparestep_marblecake_flour" name="Просеять муку" />
+		<text id="preparestep_marblecake_sugar" name="Отмерить сахар" />
+		<text id="preparestep_mexicansalad_bacon" name="Обжарить бекон" />
+		<text id="preparestep_mexicansalad_beans" name="Замочить фасоль" />
+		<text id="preparestep_mexicansalad_onion" name="Обжарить лук" />
+		<text id="preparestep_mexicansalad_sweetcorn" name="Приготовить кукурузу" />
+		<text id="preparestep_minestrone_eggplant" name="Нарезать баклажан" />
+		<text id="preparestep_minestrone_pasta" name="Сварить макароны" />
+		<text id="preparestep_minestrone_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_mixedsalad_lettuce" name="Помыть салат" />
+		<text id="preparestep_mixedsalad_peas" name="Приготовить горох" />
+		<text id="preparestep_mixedsalad_sweetcorn" name="Приготовить кукурузу" />
+		<text id="preparestep_mixedsalad_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_nasigoreng_chicken" name="Разделать курицу" />
+		<text id="preparestep_nasigoreng_eggs" name="Сварить яйца" />
+		<text id="preparestep_nasigoreng_onion" name="Порезать лук" />
+		<text id="preparestep_nasigoreng_pinapple" name="Нарезать ананас" />
+		<text id="preparestep_nasigoreng_rice" name="Приготовить рис" />
+		<text id="preparestep_newyorkcheesecake_cookies" name="Покрошить печенье" />
+		<text id="preparestep_newyorkcheesecake_cream" name="Взбить сливки" />
+		<text id="preparestep_newyorkcheesecake_quark" name="Размешать творог" />
+		<text id="preparestep_newyorkcheesecake_sugar" name="Отмерить сахар" />
+		<text id="preparestep_noodlesalad_eggs" name="Сепарировать яйца" />
+		<text id="preparestep_noodlesalad_oil" name="Взбить масло" />
+		<text id="preparestep_noodlesalad_pasta" name="Сварить макароны" />
+		<text id="preparestep_noodlesalad_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_omelette_eggs" name="Разбить яйца" />
+		<text id="preparestep_onionsoup_cheese" name="Натереть сыр" />
+		<text id="preparestep_onionsoup_garlic" name="Выдавить чеснок" />
+		<text id="preparestep_onionsoup_onion" name="Порезать лук" />
+		<text id="preparestep_peasoup_bacon" name="Обжарить бекон" />
+		<text id="preparestep_peasoup_garlic" name="Выдавить чеснок" />
+		<text id="preparestep_peasoup_onion" name="Порезать лук" />
+		<text id="preparestep_peasoup_peas" name="Почистить горох" />
+		<text id="preparestep_pizzahawaii_bacon" name="Нарезать бекон" />
+		<text id="preparestep_pizzahawaii_cheese" name="Натереть сыр" />
+		<text id="preparestep_pizzahawaii_flour" name="Просеять муку" />
+		<text id="preparestep_pizzahawaii_pinapple" name="Нарезать ананас" />
+		<text id="preparestep_pizzahawaii_tomato" name="Размолоть помидоры" />
+		<text id="preparestep_pizzatonno_cheese" name="Натереть сыр" />
+		<text id="preparestep_pizzatonno_fish" name="Разделать рыбу" />
+		<text id="preparestep_pizzatonno_flour" name="Просеять муку" />
+		<text id="preparestep_pizzatonno_onion" name="Нарезать лук" />
+		<text id="preparestep_pizzatonno_tomato" name="Размолоть помидоры" />
+		<text id="preparestep_pizza_cheese" name="Натереть сыр" />
+		<text id="preparestep_pizza_flour" name="Просеять муку" />
+		<text id="preparestep_pizza_tomato" name="Размолоть помидоры" />
+		<text id="preparestep_porkroastwithcrackling_carrots" name="Почистить морковку" />
+		<text id="preparestep_porkroastwithcrackling_garlic" name="Выдавить чеснок" />
+		<text id="preparestep_porkroastwithcrackling_meat" name="Порезать мясо" />
+		<text id="preparestep_porkroastwithcrackling_onion" name="Порезать лук" />
+		<text id="preparestep_potatosalad_cucumber" name="Нарезать огурец" />
+		<text id="preparestep_potatosalad_oil" name="Взбить масло" />
+		<text id="preparestep_pizza_sausages" name="Slice sausages" />
+		<text id="preparestep_potatosalad_potato" name="Почистить картошку" />
+		<text id="preparestep_redberrycompote_cherries" name="Вымыть вишни" />
+		<text id="preparestep_redberrycompote_rhubarb" name="Помыть ревень" />
+		<text id="preparestep_redberrycompote_strawberry" name="Помыть клубнику" />
+		<text id="preparestep_redberrycompote_sugar" name="Сварить карамель" />
+		<text id="preparestep_ricepudding_apple" name="Очистить яблоки" />
+		<text id="preparestep_ricepudding_cream" name="Взбить сливки" />
+		<text id="preparestep_ricepudding_milk" name="Отмерить молоко" />
+		<text id="preparestep_ricepudding_rice" name="Отвесить рис" />
+		<text id="preparestep_roastchicken_butter" name="Растопить масло" />
+		<text id="preparestep_roastchicken_chicken" name="Подготовить курицу" />
+		<text id="preparestep_roastchicken_onion" name="Порезать лук" />
+		<text id="preparestep_sandwich_bacon" name="Нарезать бекон" />
+		<text id="preparestep_sandwich_butter" name="Отвесить масла" />
+		<text id="preparestep_sandwich_cheese" name="Нарезать сыр" />
+		<text id="preparestep_sandwich_flour" name="Просеять муку" />
+		<text id="preparestep_sandwich_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_scouse_beetroot" name="Порезать свёклу" />
+		<text id="preparestep_scouse_cucumber" name="Замариновать огурцы" />
+		<text id="preparestep_scouse_eggs" name="Поджарить яйца" />
+		<text id="preparestep_scouse_meat" name="Порезать мясо" />
+		<text id="preparestep_spagetti_mincemeat" name="Приправить фарш" />
+		<text id="preparestep_spagetti_pasta" name="Сварить макароны" />
+		<text id="preparestep_spagetti_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_spareribs_meat" name="Порезать мясо" />
+		<text id="preparestep_spareribs_oil" name="Отмерить масло" />
+		<text id="preparestep_spareribs_onion" name="Порезать лук" />
+		<text id="preparestep_spareribs_tomato" name="Размолоть помидоры" />
+		<text id="preparestep_steakkidneypie_flour" name="Просеять муку" />
+		<text id="preparestep_steakkidneypie_kidney" name="Разделать почки" />
+		<text id="preparestep_steakkidneypie_meat" name="Порезать мясо" />
+		<text id="preparestep_steakkidneypie_onion" name="Порезать лук" />
+		<text id="preparestep_steak_butter" name="Добавить масла" />
+		<text id="preparestep_steak_lettuce" name="Помыть салат" />
+		<text id="preparestep_steak_meat" name="Порезать мясо" />
+		<text id="preparestep_steak_potato" name="Почистить картошку" />
+		<text id="preparestep_steak_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_stewedrhubarb_rhubarb" name="Нарезать ревень" />
+		<text id="preparestep_stewedrhubarb_sugar" name="Сварить карамель" />
+		<text id="preparestep_stew_meat" name="Порезать мясо" />
+		<text id="preparestep_stew_oil" name="Раскалить масло" />
+		<text id="preparestep_stew_onion" name="Порезать лук" />
+		<text id="preparestep_strawberrycake_cream" name="Взбить сливки" />
+		<text id="preparestep_strawberrycake_flour" name="Просеять муку" />
+		<text id="preparestep_strawberrycake_strawberry" name="Подготовить клубнику" />
+		<text id="preparestep_strawberrymousse_cream" name="Взбить сливки" />
+		<text id="preparestep_strawberrymousse_eggs" name="Сепарировать яйца" />
+		<text id="preparestep_strawberrymousse_strawberry" name="Помыть клубнику" />
+		<text id="preparestep_strawberrymousse_sugar" name="Отмерить сахар" />
+		<text id="preparestep_stuffedpeppers_ballpepper" name="Выскоблить перчины" />
+		<text id="preparestep_stuffedpeppers_eggs" name="Взбить яйца" />
+		<text id="preparestep_stuffedpeppers_rice" name="Приготовить рис" />
+		<text id="preparestep_sundayfeast_carrots" name="Почистить морковку" />
+		<text id="preparestep_sundayfeast_meat" name="Порезать мясо" />
+		<text id="preparestep_sundayfeast_peas" name="Приготовить горох" />
+		<text id="preparestep_sundayfeast_potato" name="Почистить картошку" />
+		<text id="preparestep_sushi_cucumber" name="Нарезать огурец" />
+		<text id="preparestep_sushi_fish" name="Порезать рыбу" />
+		<text id="preparestep_sushi_rice" name="Приготовить рис" />
+		<text id="preparestep_toadinhole_flour" name="Просеять муку" />
+		<text id="preparestep_toadinhole_onion" name="Порезать лук" />
+		<text id="preparestep_toadinhole_sausages" name="Отрезать сосисок" />
+		<text id="preparestep_toast_cheese" name="Натереть сыр" />
+		<text id="preparestep_toast_flour" name="Просеять муку" />
+		<text id="preparestep_toast_pinapple" name="Нарезать ананас" />
+		<text id="preparestep_tofuburger_flour" name="Просеять муку" />
+		<text id="preparestep_tofuburger_lettuce" name="Помыть салат" />
+		<text id="preparestep_tofuburger_tofu" name="Натереть тофу" />
+		<text id="preparestep_tofuburger_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_tomatosoup_cream" name="Взбить сливки" />
+		<text id="preparestep_tomatosoup_onion" name="Порезать лук" />
+		<text id="preparestep_tomatosoup_tomato" name="Почистить помидоры" />
+		<text id="preparestep_trifle_cookies" name="Отвесить печенья" />
+		<text id="preparestep_trifle_cream" name="Взбить сливки" />
+		<text id="preparestep_trifle_strawberry" name="Подготовить клубнику" />
+		<text id="preparestep_trifle_sugar" name="Отмерить сахар" />
+		<text id="preparestep_veganstirfry_carrots" name="Нашинковать картошку" />
+		<text id="preparestep_veganstirfry_peas" name="Приготовить горох" />
+		<text id="preparestep_veganstirfry_rice" name="Отвесить рис" />
+		<text id="preparestep_veganstirfry_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_vegetablesoup_onion" name="Порезать лук" />
+		<text id="preparestep_vegetablesoup_potato" name="Почистить картошку" />
+		<text id="preparestep_vegetablesoup_tomato" name="Нарезать помидоры" />
+		<text id="preparestep_veggiecurry_ballpepper" name="Нарезать паприку" />
+		<text id="preparestep_veggiecurry_coconut" name="Расколоть кокос" />
+		<text id="preparestep_veggiecurry_curryspice" name="Отмерить карри" />
+		<text id="preparestep_veggiecurry_eggplant" name="Нарезать баклажан" />
+		<text id="preparestep_veggiecurry_rice" name="Отвесить рис" />
+		<text id="preparestep_veggielasagne_cheese" name="Натереть сыр" />
+		<text id="preparestep_veggielasagne_eggplant" name="Нарезать баклажан" />
+		<text id="preparestep_veggielasagne_pasta" name="Сварить макароны" />
+		<text id="preparestep_veggielasagne_tomato" name="Размолоть помидоры" />
+		<text id="preparestep_whitechoccheesecake_cookies" name="Покрошить печенье" />
+		<text id="preparestep_whitechoccheesecake_cream" name="Взбить сливки" />
+		<text id="preparestep_whitechoccheesecake_milk" name="Подогреть молоко" />
+		<text id="preparestep_whitechoccheesecake_quark" name="Размять творог" />
+		<text id="preparestep_whitechoccheesecake_whitechocolat" name="Отмерить шоколад" />
+		<text id="preparestep_whitechocmousse_cream" name="Взбить сливки" />
+		<text id="preparestep_whitechocmousse_eggs" name="Сепарировать яйца" />
+		<text id="preparestep_whitechocmousse_whitechocolat" name="Растопить шоколад" />
+		<text id="preparestep_coxinha_flour" name="Spread flour" />
+		<text id="preparestep_coxinha_chicken" name="Shred chicken" />
+		<text id="preparestep_coxinha_onion" name="Chop onions" />
+		<text id="preparestep_coxinha_cream" name="Make cream cheese" />
+		<text id="preparestep_coxinha_oil" name="Heat oil" />
+		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
+	</preparestep>
+	<preparestep_fancy>
+		<text id="preparestep_bananasplit_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_blackforestcherrycake_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_pizzasalad_chili" name="Chop chili" />
+		<text id="preparestep_cheeseburger_chili" name="Нарезать перчик" />
+		<text id="preparestep_cheesedish_parsley" name="Порезать петрушку" />
+		<text id="preparestep_cheesefondue_chili" name="Нарезать перчик" />
+		<text id="preparestep_cherriecake_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_cherrycompote_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_chickenburger_chili" name="Настрогать перчик" />
+		<text id="preparestep_chickensalad_chili" name="Нарезать перчик" />
+		<text id="preparestep_chickensoup_parsley" name="Порезать петрушку" />
+		<text id="preparestep_chiliconcarne_chili" name="Настрогать перчик" />
+		<text id="preparestep_chocmousse_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_chocolatecake_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_chocolatecheesecake_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_chocolatefondue_cinnamon" name="Потолочь корицу" />
+		<text id="preparestep_christmasturkey_rosemary" name="Порезать розмарин" />
+		<text id="preparestep_cookieplate_cinnamon" name="Потолочь корицу" />
+		<text id="preparestep_cornonthecob_parsley" name="Порезать петрушку" />
+		<text id="preparestep_curry_coriander" name="Порезать кориандр" />
+		<text id="preparestep_duckalorange_cinnamon" name="Потолочь корицу" />
+		<text id="preparestep_easterdish_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_englishbreakfast_chili" name="Нарезать перчик" />
+		<text id="preparestep_fishandchips_parsley" name="Порезать петрушку" />
+		<text id="preparestep_friedpotatoes_rosemary" name="Порезать розмарин" />
+		<text id="preparestep_fruitpudding_cinnamon" name="Потолочь корицу" />
+		<text id="preparestep_fruitsalad_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_gardensalad_parsley" name="Порезать петрушку" />
+		<text id="preparestep_greensalad_parsley" name="Порезать петрушку" />
+		<text id="preparestep_gumbo_chili" name="Нарезать перчик" />
+		<text id="preparestep_hamburger_chili" name="Нарезать перчик" />
+		<text id="preparestep_hotcherrywaffles_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_jamspongepudding_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_lasagne_basil" name="Нарвать базилик" />
+		<text id="preparestep_macncheese_nutmeg" name="Натереть мускат" />
+		<text id="preparestep_maplepancakes_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_marblecake_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_mexicansalad_chili" name="Нарезать перчик" />
+		<text id="preparestep_minestrone_basil" name="Нарвать базилик" />
+		<text id="preparestep_mixedsalad_parsley" name="Порезать петрушку" />
+		<text id="preparestep_nasigoreng_chili" name="Нарезать перчик" />
+		<text id="preparestep_newyorkcheesecake_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_noodlesalad_parsley" name="Порезать петрушку" />
+		<text id="preparestep_omelette_chili" name="Настрогать перчик" />
+		<text id="preparestep_onionsoup_chili" name="Нарезать перчик" />
+		<text id="preparestep_peasoup_parsley" name="Порезать петрушку" />
+		<text id="preparestep_pizzahawaii_chili" name="Настрогать перчик" />
+		<text id="preparestep_pizzatonno_horseradish" name="Натереть корень хрена" />
+		<text id="preparestep_pizza_chili" name="Нарезать перчик" />
+		<text id="preparestep_porkroastwithcrackling_rosemary" name="Порезать розмарин" />
+		<text id="preparestep_potatosalad_parsley" name="Порезать петрушку" />
+		<text id="preparestep_redberrycompote_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_ricepudding_cinnamon" name="Потолочь корицу" />
+		<text id="preparestep_roastchicken_parsley" name="Порезать петрушку" />
+		<text id="preparestep_sandwich_parsley" name="Порезать петрушку" />
+		<text id="preparestep_scouse_parsley" name="Порезать петрушку" />
+		<text id="preparestep_spagetti_basil" name="Нарвать базилик" />
+		<text id="preparestep_spareribs_chili" name="Нарезать перчик" />
+		<text id="preparestep_steakkidneypie_parsley" name="Порезать петрушку" />
+		<text id="preparestep_steak_parsley" name="Порезать петрушку" />
+		<text id="preparestep_stewedrhubarb_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_stew_chili" name="Нарезать перчик" />
+		<text id="preparestep_strawberrycake_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_strawberrymousse_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_stuffedpeppers_parsley" name="Порезать петрушку" />
+		<text id="preparestep_sundayfeast_rosemary" name="Порезать розмарин" />
+		<text id="preparestep_sushi_horseradish" name="Натереть корень хрена" />
+		<text id="preparestep_toadinhole_rosemary" name="Порезать розмарин" />
+		<text id="preparestep_toast_chili" name="Нарезать перчик" />
+		<text id="preparestep_tofuburger_chili" name="Настрогать перчик" />
+		<text id="preparestep_tomatosoup_basil" name="Нарвать базилик" />
+		<text id="preparestep_trifle_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_veganstirfry_chili" name="Нарезать перчик" />
+		<text id="preparestep_vegetablesoup_basil" name="Нарвать базилик" />
+		<text id="preparestep_veggiecurry_coriander" name="Порезать кориандр" />
+		<text id="preparestep_veggielasagne_basil" name="Нарвать базилик" />
+		<text id="preparestep_whitechoccheesecake_vanilla" name="Выскоблить ваниль" />
+		<text id="preparestep_whitechocmousse_vanilla" name="Выскоблить ваниль" />
+	</preparestep_fancy>
+	<recipe>
+		<text id="recipe_bananasplit" name="Банановый сплит" />
+		<text id="recipe_brigadeiro" name="Brigadeiro" />
+		<text id="recipe_beefstew" name="Гуляш" />
+		<text id="recipe_pizzasalad" name="Pizza with Salad" />
+		<text id="recipe_tripleomelette" name="Triple Omelette" />
+		<text id="recipe_chocolatewaffles" name="Chocolate Waffles" />
+		<text id="recipe_spanishomelette" name="Spanish Omelette" />
+		<text id="recipe_sausagepasta" name="Sausage Spaghetti" />
+		<text id="recipe_applepie" name="Apple Pie" />
+		<text id="recipe_ramen" name="Ramen" />
+		<text id="recipe_corncake" name="Corn Cake" />
+		<text id="recipe_feijoada" name="Feijoada" />
+		<text id="recipe_blackforestcherrycake" name="Пирожное &quot;Чёрный лес&quot;" />
+		<text id="recipe_cheeseburger" name="Чизбургер" />
+		<text id="recipe_cheesedish" name="Сырная тарелка" />
+		<text id="recipe_cheesefondue" name="Сырное фондю" />
+		<text id="recipe_cherriecake" name="Вишнёвый торт" />
+		<text id="recipe_cherrycompote" name="Вишнёвый компот" />
+		<text id="recipe_chickenburger" name="Чикенбургер" />
+		<text id="recipe_chickensalad" name="Куриный салат" />
+		<text id="recipe_chickensoup" name="Куриное рагу" />
+		<text id="recipe_chiliconcarne" name="Чили с мясом" />
+		<text id="recipe_chocmousse" name="Шоколадный мусс" />
+		<text id="recipe_chocolatecake" name="Шоколадный торт" />
+		<text id="recipe_chocolatecheesecake" name="Шоколадный чизкейк" />
+		<text id="recipe_chocolatefondue" name="Шоколадное фондю" />
+		<text id="recipe_christmasturkey" name="Рождественское жаркое" />
+		<text id="recipe_cookieplate" name="Поднос с печеньем" />
+		<text id="recipe_cornonthecob" name="Початок кукурузы" />
+		<text id="recipe_curry" name="Карри" />
+		<text id="recipe_duckalorange" name="Утка а ля Ораж" />
+		<text id="recipe_easterdish" name="Пасхальное лукошко" />
+		<text id="recipe_englishbreakfast" name="Английский завтрак" />
+		<text id="recipe_fishandchips" name="Рыба с картошкой-фри" />
+		<text id="recipe_friedpotatoes" name="Картошка-фри с беконом" />
+		<text id="recipe_fruitpudding" name="Фруктовый торт" />
+		<text id="recipe_fruitsalad" name="Фруктовый салат" />
+		<text id="recipe_greensalad" name="Салат &quot;Дачный&quot;" />
+		<text id="recipe_gumbo" name="Рагу со специями" />
+		<text id="recipe_hamburger" name="Гамбургер" />
+		<text id="recipe_hotcherrywaffles" name="Вафли с вишнями" />
+		<text id="recipe_jamspongepudding" name="Бисквитный пудинг с джемом" />
+		<text id="recipe_lasagne" name="Лазанья" />
+		<text id="recipe_macncheese" name="Паста под сырным соусом" />
+		<text id="recipe_maplepancakes" name="Блинчики с кленовым сиропом" />
+		<text id="recipe_marblecake" name="Мраморный кекс" />
+		<text id="recipe_mexicansalad" name="Мексиканский салат из фасоли" />
+		<text id="recipe_minestrone" name="Итальянский суп с овощами" />
+		<text id="recipe_mixedsalad" name="Салат &quot;Осенний&quot;" />
+		<text id="recipe_nasigoreng" name="Рис по-индонезийски" />
+		<text id="recipe_newyorkcheesecake" name="Чизкейк &quot;Нью-Йорк&quot;" />
+		<text id="recipe_noodlesalad" name="Макаронный салат" />
+		<text id="recipe_omelette" name="Омлет" />
+		<text id="recipe_onionsoup" name="Луковый суп" />
+		<text id="recipe_peasoup" name="Гороховый суп" />
+		<text id="recipe_pizza" name="Пицца" />
+		<text id="recipe_pizzahawaii" name="Пицца &quot;Гавайи&quot;" />
+		<text id="recipe_pizzatonno" name="Пицца с тунцом" />
+		<text id="recipe_porkroastwithcrackling" name="Печёный поросёнок с корочкой" />
+		<text id="recipe_potatosalad" name="Картофельный салат" />
+		<text id="recipe_redberrycompote" name="Компот из красных ягод" />
+		<text id="recipe_ricepudding" name="Рисовый пудинг под яблочным соусом" />
+		<text id="recipe_roastchicken" name="Жареная курица" />
+		<text id="recipe_sandwich" name="Сэндвич" />
+		<text id="recipe_scouse" name="Рагу по-флотски" />
+		<text id="recipe_spagetti" name="Спагетти по-болонски" />
+		<text id="recipe_spareribs" name="Грудинка" />
+		<text id="recipe_steak" name="Стейк" />
+		<text id="recipe_steakkidneypie" name="Пирог с мясом и почками" />
+		<text id="recipe_stewedrhubarb" name="Компот из ревeня" />
+		<text id="recipe_strawberrycake" name="Клубничный торт" />
+		<text id="recipe_strawberrymousse" name="Клубничный мусс" />
+		<text id="recipe_stuffedpeppers" name="Фаршированный перец" />
+		<text id="recipe_sundayfeast" name="Воскресная трапеза" />
+		<text id="recipe_sushi" name="Суши" />
+		<text id="recipe_toadinahole" name="Открытый пирог с сосисками" />
+		<text id="recipe_toast" name="Сэндвич по-гавайски" />
+		<text id="recipe_tofuburger" name="Тофубургер" />
+		<text id="recipe_tomatosoup" name="Томатный суп" />
+		<text id="recipe_trifle" name="Бисквит" />
+		<text id="recipe_veganstirfry" name="Вегетарианская обжарка" />
+		<text id="recipe_vegetablesoup" name="Овощной суп" />
+		<text id="recipe_veggiecurry" name="Овощное карри" />
+		<text id="recipe_veggielasagne" name="Овощная лазанья" />
+		<text id="recipe_whitechoccheesecake" name="Чизкейк с белым шоколадом" />
+		<text id="recipe_whitechocmousse" name="Белый шоколадный мусс" />
+		<text id="recipe_coxinha" name="Coxinha" />
+	</recipe>
+	<recipes_fastfood>
+		<text id="recipe_smoothiemaker_greensmoothie" name="Зелёный бальзам" />
+		<text id="recipe_smoothiemaker_kiba" name="Вишнёвый закат" />
+		<text id="recipe_smoothiemaker_pinacolada" name="Девичий поцелуй" />
+		<text id="recipe_smoothiemaker_tomatojuice" name="Томатный сок" />
+	</recipes_fastfood>
+	<server>
+		<mail>
+			<text id="mail_invite_friend" name="Привет %s!&lt;br /&gt;&lt;br /&gt;Я пишу тебе из новой онлайн игры - &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Используя эту ссылку, ты попадёшь прямо в игру:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Бесплатно зарегистрируйся, чтобы создать своё собственноe кафе.&lt;br /&gt;&lt;br /&gt;Узнай, каково это - вести бизнес, готовить замечательные блюда и видеть, как довольные клиенты покидают твоё заведение!&lt;br /&gt;&lt;br /&gt;Удачи,%s" />
+			<text id="mail_lost_pw" name="Приветствуем вас, %s!&lt;br /&gt;&lt;br /&gt;Вы получили это автоматическое письмо, так как запросили новый пароль.&lt;br /&gt;Ваш пароль: %s&lt;br /&gt;&lt;br /&gt;По этой ссылке вы попадёте прямо в игру:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Если у вас есть вопросы или проблемы, обратитесь, пожалуйста, по адресу: support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Мы желаем вам удачной игры!&lt;br /&gt;&lt;br /&gt;Ваша команда&lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_registration" name="Здравствуйте.&lt;br /&gt;&lt;br /&gt;Спасибо за регистрацию и добро пожаловать в &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Вы можете в любое время войти в игру, используя эти данные:&lt;br /&gt;E-Mail: %s&lt;br /&gt;Пароль: %s&lt;br /&gt;&lt;br /&gt;Через эту ссылку вы попадёте прямо в игру:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Если у вас имеются вопросы или проблемы, обратитесь, пожалуйста, по адресу support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Мы желаем вам удачной игры!&lt;br /&gt;&lt;br /&gt;Ваша команда&lt;br /&gt;Goodgamestudios.com" />
+		</mail>
+		<misc>
+			<text id="marketplace" name="Рынок" />
+		</misc>
+	</server>
+	<std_buttons>
+		<text id="btn_text_accept" name="Принять" />
+		<text id="btn_text_cancle" name="Отменить" />
+		<text id="btn_text_goback" name="Назад" />
+		<text id="btn_text_no" name="Нет" />
+		<text id="btn_text_notaccept" name="Отказать" />
+		<text id="btn_text_okay" name="О&apos;кей" />
+		<text id="btn_text_payment" name="Купить золото или кафейнинги" />
+		<text id="btn_text_share" name="Поделитесь с друзьями!" />
+		<text id="btn_text_srchips" name="Заработать кафейнинги" />
+		<text id="btn_text_srgold" name="Заработать золото" />
+		<text id="btn_text_yes" name="Да" />
+	</std_buttons>
+	<tooltips>
+		<text id="tt_Basic_Achievement_Boughtdeco" name="Куплено предметов интерьера" />
+		<text id="tt_Basic_Achievement_Boughtingredients" name="Куплено продуктов" />
+		<text id="tt_Basic_Achievement_Cookingcount" name="Всего блюд приготовлено" />
+		<text id="tt_Basic_Achievement_Coopcount" name="Обслужено банкетов" />
+		<text id="tt_Basic_Achievement_Coopgoldcount" name="Обслужено банкетов на золотой результат" />
+		<text id="tt_Basic_Achievement_Curiercount" name="Заказано курьерских доставок" />
+		<text id="tt_Basic_Achievement_Differentdishes" name="Всего видов блюд приготовлено" />
+		<text id="tt_Basic_Achievement_Earnedchips" name="Заработано кафейнингов" />
+		<text id="tt_Basic_Achievement_Fancycount" name="Использовано &quot;изюминок&quot;" />
+		<text id="tt_Basic_Achievement_Firenpc" name="Уволено официантов" />
+		<text id="tt_Basic_Achievement_Instantcount" name="Всего блюд, приготовленных &quot;Быстрой готовкой&quot;" />
+		<text id="tt_Basic_Achievement_Jobclean" name="Тарелки, убранные по найму" />
+		<text id="tt_Basic_Achievement_Jobserve" name="Блюда, поданные по найму" />
+		<text id="tt_Basic_Achievement_Masteies" name="Получено звёзд мастерства" />
+		<text id="tt_Basic_Achievement_Masteriesgold" name="Получено золотых звёзд мастерства" />
+		<text id="tt_Basic_Achievement_Muffinmancash" name="Выигранные кафейнинги у Дядюшки Маффина" />
+		<text id="tt_Basic_Achievement_Muffinmangold" name="Выиграно золота у Дядюшки Маффина" />
+		<text id="tt_Basic_Achievement_Overcookedfoods" name="Всего испортившихся блюд" />
+		<text id="tt_Basic_Achievement_Servingcountmeals" name="Приготовлено основных блюд" />
+		<text id="tt_Basic_Achievement_Servingcountsalads" name="Приготовлено салатов" />
+		<text id="tt_Basic_Achievement_Servingcountsnacks" name="Приготовлено закусок" />
+		<text id="tt_Basic_Achievement_Servingcountsoups" name="Приготовлено супов" />
+		<text id="tt_Basic_Achievement_Servingcountsweets" name="Приготовлено десертов" />
+		<text id="tt_Basic_Achievement_Servingcountvegans" name="Приготовлено вегетарианских блюд" />
+		<text id="tt_Basic_Achievement_Servingscount" name="Продано порций" />
+		<text id="tt_Basic_Achievement_Solditems" name="Продано предметов интерьера или оборудования" />
+		<text id="tt_Basic_Achievement_Spentchips" name="Потрачено кафейнингов" />
+		<text id="tt_Basic_Achievement_Spentgold" name="Потрачено золота" />
+		<text id="tt_Basic_Achievement_Wheeloffortune" name="Всего выигрышей на Колесе Фортуны" />
+		<text id="tt_byAmount" name="{0} из {1}" />
+		<text id="tt_byLevel" name="С уровня {0}" />
+		<text id="tt_CafeActionPanel_btn_achievements" name="Достижения" />
+		<text id="tt_CafeActionPanel_btn_cookbook" name="Поваренная книга" />
+		<text id="tt_CafeActionPanel_btn_coop" name="Банкеты" />
+		<text id="tt_CafeActionPanel_btn_decoshop" name="Интерьер" />
+		<text id="tt_CafeActionPanel_btn_gifts" name="Подарки" />
+		<text id="tt_CafeActionPanel_btn_ingredientshop" name="Магазин" />
+		<text id="tt_CafeActionPanel_btn_market" name="Рынок" />
+		<text id="tt_CafeActionPanel_btn_owncafe" name="Моё кафе" />
+		<text id="tt_CafeActionPanel_btn_staff" name="Персонал" />
+		<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="Низ" />
+		<text id="tt_CafeAvatarCreationDialog_btn_boy" name="Парень" />
+		<text id="tt_CafeAvatarCreationDialog_btn_girl" name="Девушка" />
+		<text id="tt_CafeAvatarCreationDialog_btn_hair" name="Цвет волос" />
+		<text id="tt_CafeAvatarCreationDialog_btn_skin" name="Цвет кожи" />
+		<text id="tt_CafeAvatarCreationDialog_btn_tops" name="Верх" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook" name="&quot;Быстрая готовка&quot;" />
+		<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="Сегодня вы больше не можете использовать &quot;Быструю готовку&quot;." />
+		<text id="tt_CafeClearStoveDialog_instantButton" name="&quot;Быстрая готовка&quot;" />
+		<text id="tt_CafeCookBookDialog_0" name="Сладости" />
+		<text id="tt_CafeCookBookDialog_1" name="Основные блюда" />
+		<text id="tt_CafeCookBookDialog_2" name="Супы" />
+		<text id="tt_CafeCookBookDialog_3" name="Салаты" />
+		<text id="tt_CafeCookBookDialog_4" name="Вегетарианское" />
+		<text id="tt_CafeCookBookDialog_5" name="Закуски" />
+		<text id="tt_CafeCookBookDialog_btn_cook" name="Готовка" />
+		<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="Вам не хватает продуктов." />
+		<text id="tt_CafeCookBookDialog_btn_mastery" name="{0} до звезды мастерства {1}. Нажмите, чтобы узнать подробнее." />
+		<text id="tt_CafeCookBookDialog_btn_shop" name="Магазин" />
+		<text id="tt_CafeDekoShopPanel_btn_close" name="Вернуться в кафе" />
+		<text id="tt_CafeDekoShopPanel_btn_deko" name="Обстановка" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Chair" name="Стулья" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="Украшения" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Door" name="Двери" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Table" name="Столы" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Tiles" name="Пол" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wall" name="Стены" />
+		<text id="tt_CafeDekoShopPanel_btn_deko_Wallobject" name="Настенные украшения" />
+		<text id="tt_CafeDekoShopPanel_btn_expansion" name="Расширения" />
+		<text id="tt_CafeDekoShopPanel_btn_functional" name="Оборудование" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Counter" name="Стойки" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Extras" name="Экстра" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Fridge" name="Холодильники" />
+		<text id="tt_CafeDekoShopPanel_btn_functional_Stove" name="Плиты" />
+		<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="Вам нужно ещё {0} друзей, чтобы купить это расширение!" />
+		<text id="tt_CafeDekoShopPanel_btn_sell" name="Перетащите предмет сюда, чтобы продать его" />
+		<text id="tt_CafeDekoShopPanel_cashexpansion" name="Покупать расширения за кафейнинги можно только с уровня {0}." />
+		<text id="tt_CafeDekoShopPanel_dragItem" name="Тяните меня в своё кафе" />
+		<text id="tt_CafeDekoShopPanel_invalidexpansion" name="Вам необходимо купить сначала предыдущее расширение." />
+		<text id="tt_CafeIngredientShopDialog_btn_addcash" name="Добавить кафейнингов или золота" />
+		<text id="tt_CafeIngredientShopDialog_btn_all" name="Всё" />
+		<text id="tt_CafeIngredientShopDialog_btn_buy" name="Купить" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat1" name="Мясо, рыба, молоко" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat2" name="Овощи" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat3" name="Фрукты" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat4" name="&quot;Изюминки&quot;" />
+		<text id="tt_CafeIngredientShopDialog_btn_cat5" name="Другое" />
+		<text id="tt_CafeIngredientShopDialog_btn_fridge" name="Холодильник" />
+		<text id="tt_CafeIngredientShopDialog_btn_help" name="Что такое &quot;изюминка&quot;?" />
+		<text id="tt_CafeIngredientShopDialog_btn_sell" name="Продать" />
+		<text id="tt_CafeIngredientShopDialog_btn_shop" name="Магазин" />
+		<text id="tt_CafeIngredientShopDialog_btn_unlock" name="Курьер" />
+		<text id="tt_CafeIngredientShopDialog_btn_wheel" name="Доступно только на Колесе Фортуны!" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_help" name="Помощь в работе" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_refill" name="Пополнить разрешения на работу" />
+		<text id="tt_CafeMarketplaceBoardDialog_btn_sign" name="Искать работу" />
+		<text id="tt_CafeMasteryDialog_broncestar" name="Больше порций!" />
+		<text id="tt_CafeMasteryDialog_goldstar" name="Меньше времени!" />
+		<text id="tt_CafeMasteryDialog_silverstar" name="Больше опыта!" />
+		<text id="tt_CafeNamePanel_mc_luxury" name="Роскошь вашего кафе" />
+		<text id="tt_CafeNamePanel_mc_rating" name="Популярность вашего кафе" />
+		<text id="tt_CafeOptionPanel_btn_blockfriends" name="Игнорировать запросы на дружбу" />
+		<text id="tt_CafeOptionPanel_btn_bugreport" name="Сообщить об ошибке" />
+		<text id="tt_CafeOptionPanel_btn_changePass" name="Изменить пароль" />
+		<text id="tt_CafeOptionPanel_btn_custom" name="Изменение внешности" />
+		<text id="tt_CafeOptionPanel_btn_faq" name="Вопросы и ответы" />
+		<text id="tt_CafeOptionPanel_btn_fullscreen" name="Во весь экран" />
+		<text id="tt_CafeOptionPanel_btn_help" name="Помощь" />
+		<text id="tt_CafeOptionPanel_btn_logout" name="Выйти" />
+		<text id="tt_CafeOptionPanel_btn_messages" name="Новости" />
+		<text id="tt_CafeOptionPanel_btn_music" name="Музыка" />
+		<text id="tt_CafeOptionPanel_btn_news" name="Форум" />
+		<text id="tt_CafeOptionPanel_btn_options" name="Настройки" />
+		<text id="tt_CafeOptionPanel_btn_screenshot" name="Фото" />
+		<text id="tt_CafeOptionPanel_btn_sfx" name="Эффекты" />
+		<text id="tt_CafeOptionPanel_btn_socialgroup" name="Группа" />
+		<text id="tt_CafeOptionPanel_btn_sound" name="Звук" />
+		<text id="tt_CafeOptionPanel_btn_support" name="Поддержка" />
+		<text id="tt_CafeOptionPanel_btn_verifyemail" name="Забрать награду" />
+		<text id="tt_CafeOptionPanel_btn_wantfriends" name="Разрешить запросы на дружбу" />
+		<text id="tt_CafeOptionPanel_btn_zoom" name="Увеличить" />
+		<text id="tt_CafeOptionPanel_btn_zoomIn" name="Приблизить" />
+		<text id="tt_CafeOptionPanel_btn_zoomOut" name="Отдалить" />
+		<text id="tt_CafeRegisterPanel_btn_register" name="Сохранить и зарегистрироваться" />
+		<text id="tt_CafeSmoothiemaker_btn_mix" name="Смешать" />
+		<text id="tt_CafeSmoothiemaker_serve" name="Подать напиток" />
+		<text id="tt_CafeSocialPanel_btn_buddies" name="Друзья" />
+		<text id="tt_CafeSocialPanel_btn_buddiesincafe" name="Игроки поблизости" />
+		<text id="tt_CafeSocialPanel_btn_chat" name="Чат" />
+		<text id="tt_CafeSocialPanel_btn_findbuddies" name="Пригласить друзей" />
+		<text id="tt_CafeSocialPanel_btn_muteplayer" name="Выключить звук" />
+		<text id="tt_CafeStaffDialog_rename" name="Новое имя для официанта" />
+		<text id="tt_CafeUserStatePanel_btn_adddollar" name="Добавить валюты" />
+		<text id="tt_CafeUserStatePanel_btn_refill" name="Пополнить разрешения на работу" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} очков опыта до следующего уровня" />
+		<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="Опыта" />
+		<text id="tt_highscore_luxury" name="Сортировать по степени роскоши" />
+		<text id="tt_highscore_xp" name="Сортировать по опыту" />
+		<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="Достижения" />
+		<text id="tt_PlayerActionChoicesComponent_btn_addfriend" name="Предложение дружбы" />
+		<text id="tt_PlayerActionChoicesComponent_btn_info" name="Информация" />
+		<text id="tt_PlayerActionChoicesComponent_btn_job" name="Нанять" />
+		<text id="tt_PlayerActionChoicesComponent_btn_kick" name="Вышвырнуть" />
+		<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="Разорвать отношения" />
+		<text id="tt_PlayerActionChoicesComponent_btn_visit" name="Посетить кафе" />
+		<text id="tt_Social_Achievement_Friendscount" name="Приглашено друзей" />
+	</tooltips>
+	<tutorial>
+		<text id="tut_buymissingingredient_copy" name="Ноль рядом с изображением холодильника показывает, что у вас нет лука в запасе. Внизу вы видите цену. Купите немного лука!" />
+		<text id="tut_cafeopen_copy" name="Отлично! Первые посетители не заставят себя долго ждать. Теперь вы знакомы с основами ведения бизнеса и сможете самостоятельно добраться до вершин мастерства.  Удачи!" />
+		<text id="tut_cookmeal_copy" name="Итак, приступим! Покажите салату, на что вы способны!" />
+		<text id="tut_cookopenshop_copy" name="Здесь вы о каждом рецепте можете узнать: перечень ингредиентов, время приготовления и дополнительные возможности. О нет! У вас кончился лук для дачного салата. Хорошо, что его всегда можно купить." />
+		<text id="tut_cookpreparecook_copy" name="Самое важное - это, конечно, еда. Давайте приготовим салат &quot;Дачный&quot;. Нажмите на плиту!" />
+		<text id="tut_instantcook2_copy" name="Используйте &quot;Быструю готовку&quot;. Это стоит золота, но может очень пригодиться." />
+		<text id="tut_instantcook_copy" name="Обычно приготовление этого салата требует около трех минут, но существует и другая возможность, которой мы сейчас воспользуемся." />
+		<text id="tut_preparesteps_copy" name="Нажмите несколько раз на плиту, чтобы пройти разные стадии приготовления." />
+		<text id="tut_servedish_copy" name="Отлично! Теперь осталось только сервировать. Наготовьте ещё, так как десяти порций вашим голодным клиентам надолго не хватит!" />
+		<text id="tut_start_copy" name="Добро пожаловать в ваше новое кафе, {0}! Это короткое вступление поможет вам освоиться в замечательном мире гастрономии." />
+		<text id="tut_title" name="Введение." />
+		<text id="tut_welcome_title" name="Добро пожаловать!" />
+	</tutorial>
+	<generic_flash>
+		<alert>
+			<text id="generic_alert_bug" name="Ошибка" />
+			<text id="generic_alert_connection_failed_copy" name="Техническое обслуживание. Пожалуйста, попробуйте ещё раз чуть позже." />
+			<text id="generic_alert_connection_failed_title" name="Работа в самом разгаре!" />
+			<text id="generic_alert_connection_lost_copy" name="Связь с сервером прервана. Попробуйте ещё раз." />
+			<text id="generic_alert_connection_lost_description" name="Сейчас проводятся работы по техническому обслуживанию, которые необходимо регулярно выполнять для установки обновлений или исправления неполадок. &lt;br&gt;&lt;br&gt; Мы работаем так быстро как можем, так что вы сможете вернутся к игре в кратчайшие сроки." />
+			<text id="generic_alert_connection_lost_promo" name="Почему бы вам пока что не попробовать одну из других наших игр?" />
+			<text id="generic_alert_connection_lost_thanks" name="Спасибо за ваше понимание!" />
+			<text id="generic_alert_connection_lost_title" name="Связь прервалась!" />
+			<text id="generic_alert_error" name="Ошибка" />
+			<text id="generic_alert_information" name="Предупреждение" />
+			<text id="generic_alert_loggedout_copy" name="Вы успешно покинули игру. Не забудьте: каждый день вас ожидает бонус за вход!" />
+			<text id="generic_alert_loggedout_title" name="До свидания!" />
+			<text id="generic_alert_warning" name="Внимание" />
+			<text id="generic_alert_watchout" name="Внимание!" />
+			<text id="generic_alert_win7chromebug" name="" />
+			<text id="generic_invalid_email_provider" name="Адреса e-mail с этого домена не разрешены!" />
+			<text id="generic_js_alert_firstsessiontracking_loading" name="Похоже что ваше интернет-соединение сейчас слишком медленное. Пожалуйста, попробуйте чуть позже!" />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="Как вам понравилась игра? Можно ли её улучшить? Пожалуйста, выскажите своё мнение на форуме или в группе." />
+			<text id="generic_js_alert_firstsessiontracking_unregistered" name="Внимание: ваша игра сохранится, только если вы зарегистрированы." />
+			<text id="generic_register_error_invalidemail" name="Вы указали неверный e-mail." />
+			<text id="generic_report_muted_chattry" name="Вам запретили общаться." />
+		</alert>
+		<button>
+			<text id="generic_btn_accept" name="Принять" />
+			<text id="generic_btn_cancel" name="Отменить" />
+			<text id="generic_btn_close" name="Закрыть" />
+			<text id="generic_btn_continue" name="Продолжить" />
+			<text id="generic_btn_end" name="Закончить" />
+			<text id="generic_btn_endnow" name="Завершить сейчас" />
+			<text id="generic_btn_goback" name="Назад" />
+			<text id="generic_btn_no" name="Нет" />
+			<text id="generic_btn_noshare" name="Ни за что!" />
+			<text id="generic_btn_notaccept" name="Отклонить" />
+			<text id="generic_btn_okay" name="О&apos;кей" />
+			<text id="generic_btn_reconnect" name="Соединить повторно" />
+			<text id="generic_btn_refresh" name="Обновить" />
+			<text id="generic_btn_report" name="Пожаловаться" />
+			<text id="generic_btn_search" name="Искать" />
+			<text id="generic_btn_share" name="Поделиться!" />
+			<text id="generic_btn_skip" name="Пропустить" />
+			<text id="generic_btn_start" name="Начать" />
+			<text id="generic_btn_topayment" name="Отдайте это мне!" />
+			<text id="generic_btn_yes" name="Да" />
+		</button>
+		<chat>
+			<text id="generic_chat_writeable" name="Вам необходимо зарегистрироваться и достичь первого уровня, чтобы общаться." />
+		</chat>
+		<common>
+			<text id="generic_admin" name="Админ" />
+			<text id="generic_animation" name="Показываю анимацию" />
+			<text id="generic_bugreport" name="Расскажите нам про ошибки" />
+			<text id="generic_changePass" name="Изменить пароль" />
+			<text id="generic_comma" name="," />
+			<text id="generic_conningsoon" name="*Уже на подходе*" />
+			<text id="generic_date" name="Дата" />
+			<text id="generic_day" name="день" />
+			<text id="generic_dayformat" name="{1}/{0}" />
+			<text id="generic_days" name="дн" />
+			<text id="generic_day_short" name="дн" />
+			<text id="generic_decimalseparator" name="." />
+			<text id="generic_email" name="E-mail" />
+			<text id="generic_faq" name="Вопросы и ответы" />
+			<text id="generic_forum" name="Форум" />
+			<text id="generic_friend" name="Друг" />
+			<text id="generic_friends" name="Друзья" />
+			<text id="generic_general" name="Общие установки" />
+			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_group" name="Группа" />
+			<text id="generic_guest" name="Гость" />
+			<text id="generic_help" name="Помощь" />
+			<text id="generic_high" name="Высокое" />
+			<text id="generic_hour" name="ч" />
+			<text id="generic_hours" name="ч" />
+			<text id="generic_hour_short" name="ч" />
+			<text id="generic_limited" name="Ограниченный" />
+			<text id="generic_logout" name="Выход" />
+			<text id="generic_low" name="Низкое" />
+			<text id="generic_medium" name="Среднее" />
+			<text id="generic_minute" name="минута" />
+			<text id="generic_minutes" name="мин" />
+			<text id="generic_minute_short" name="мин" />
+			<text id="generic_moderator" name="Модератор" />
+			<text id="generic_month" name="месяц" />
+			<text id="generic_months" name="мес." />
+			<text id="generic_music" name="Музыка" />
+			<text id="generic_name" name="Имя" />
+			<text id="generic_news" name="Новости" />
+			<text id="generic_options" name="Настройки" />
+			<text id="generic_quality" name="Качество" />
+			<text id="generic_register" name="Сохранить и зарегистрироваться" />
+			<text id="generic_second" name="секунда" />
+			<text id="generic_seconds" name="сек" />
+			<text id="generic_second_short" name="сек" />
+			<text id="generic_sound" name="Звук включён/выключен" />
+			<text id="generic_support" name="Поддержка" />
+			<text id="generic_today" name="Сегодня" />
+			<text id="generic_tomorrow" name="Сегодня" />
+			<text id="generic_tutorial" name="Введение" />
+			<text id="generic_username" name="Имя игрока" />
+			<text id="generic_xp" name="Очки опыта" />
+			<text id="generic_yesterday" name="Вчера" />
+		</common>
+		<error>
+			<text id="generic_versioncheck_error" name="Старая версия!" />
+			<text id="generic_versioncheck_errorcode_1" name="Обновите страницу." />
+		</error>
+		<feeds id="" />
+		<friends>
+			<text id="generic_friends_add_copy" name="Хотите добавить {0} в друзья?" />
+			<text id="generic_friends_add_title" name="Приглашение дружить" />
+			<text id="generic_friends_buddy_btn_morefriends" name="Больше друзей!" />
+			<text id="generic_friends_denied_copy" name="{0} отклонил ваш запрос." />
+			<text id="generic_friends_denied_title" name="Приглашение отклонено!" />
+			<text id="generic_friends_invite_badword_copy" name="Вы выбрали непозволительное имя!" />
+			<text id="generic_friends_invite_badword_title" name="Внимание!" />
+			<text id="generic_friends_invite_error_copy" name="Для того, чтобы приглашать друзей, вам необходимо зарегистрироваться." />
+			<text id="generic_friends_invite_error_title" name="Сначала регистрация" />
+		</friends>
+		<fullscreen>
+			<text id="generic_fullscreen_error_copy" name="Полноэкранный режим невозможен" />
+		</fullscreen>
+		<languages>
+			<text id="generic_language_cs" name="Чешский" />
+			<text id="generic_language_da" name="Датский" />
+			<text id="generic_language_de" name="Немецкий" />
+			<text id="generic_language_el" name="Греческий" />
+			<text id="generic_language_en" name="Английский" />
+			<text id="generic_language_es" name="Испанский" />
+			<text id="generic_language_fi" name="Финский" />
+			<text id="generic_language_fr" name="Французский" />
+			<text id="generic_language_hu" name="Венгерский" />
+			<text id="generic_language_id" name="Индонезийский" />
+			<text id="generic_language_it" name="Итальянский" />
+			<text id="generic_language_ja" name="Японский" />
+			<text id="generic_language_ko" name="Корейский" />
+			<text id="generic_language_nl" name="Голландский" />
+			<text id="generic_language_no" name="Норвежский" />
+			<text id="generic_language_pl" name="Польский" />
+			<text id="generic_language_pt" name="Португальский" />
+			<text id="generic_language_pt_BR" name="Бразильский" />
+			<text id="generic_language_ru" name="Русский" />
+			<text id="generic_language_sv" name="Шведский" />
+			<text id="generic_language_tr" name="Турецкий" />
+			<text id="generic_language_zh_CN" name="Китайский (упрощённый)" />
+			<text id="generic_language_zh_TW" name="Китайский (традиционный)" />
+		</languages>
+		<login>
+			<text id="generic_login_banned" name="Ваша игровая запись заблокирована, пожалуйста, свяжитесь со службой поддержки!" />
+			<text id="generic_login_banned_2" name="Ваша запись была отключена!  Отключение до: {0}  Если у вас есть вопросы по поводу отключения - свяжитесь со службой поддержки." />
+			<text id="generic_login_banned_3" name="Ваша игровая запись была заблокирована навсегда.  Если у вас есть вопросы по поводу этой блокировки - свяжитесь, пожалуйста, со службой поддержки." />
+			<text id="generic_login_banned_permanent" name="навсегда" />
+			<text id="generic_login_facebook" name="Войти через Facebook" />
+			<text id="generic_login_login" name="Вход" />
+			<text id="generic_login_loginname" name="Имя / E-mail" />
+			<text id="generic_login_lostpassword" name="Забыли свой пароль?" />
+			<text id="generic_login_lostpassword_copy" name="Укажите свой e-mail и мы пришлём вам ваш пароль." />
+			<text id="generic_login_lostpassword_title" name="Забыли свой пароль?" />
+			<text id="generic_login_newplayer" name="Впервые здесь?" />
+			<text id="generic_login_password" name="Пароль" />
+			<text id="generic_login_play" name="Играть сразу" />
+			<text id="generic_login_playnow" name="Играть сразу!" />
+			<text id="generic_login_register" name="Зарегистрироваться" />
+			<text id="generic_login_rememberpassword" name="Сохранить пароль" />
+			<text id="generic_login_wronglogin" name="Неправильный логин или пароль!" />
+		</login>
+		<logout>
+			<text id="generic_logout_guest_copy" name="Зарегистрируйтесь, чтобы сохранить свою игру!" />
+			<text id="generic_logout_guest_title" name="Зарегистрироваться" />
+		</logout>
+		<notification>
+			<text id="servershutdownpremonition_backin_copy" name="Игра будет доступна не позднее, чем через {0}." />
+			<text id="servershutdownpremonition_copy" name="Сервер игры будет отключен через {0}. Пожалуйста, выйдите из игры, чтобы сохранить её. Зарегистрируйтесь, если вы ещё этого не сделали." />
+			<text id="servershutdownpremonition_registered_copy" name="Мы отключаем игровой сервер на {0} для профилактики." />
+			<text id="servershutdown_copy" name="Игровой сервер отключается. Через несколько минут вы сможете снова войти в игру." />
+			<text id="welcomeback_copy" name="Приятно снова видеть вас! Вот немножко, чтобы помочь вам заново освоиться!" />
+			<text id="welcomeback_title" name="Вы вернулись!" />
+		</notification>
+		<password>
+			<text id="generic_change_password_copy_newpass" name="Новый пароль" />
+			<text id="generic_change_password_copy_oldpass" name="Старый пароль:" />
+			<text id="generic_change_password_copy_send" name="Мы выслали ваш новый пароль на ваш e-mail." />
+			<text id="generic_change_password_error_failed" name="Извините, но у вас был другой пароль." />
+			<text id="generic_change_password_error_success" name="Ваш пароль был успешно изменён!" />
+			<text id="generic_change_password_faild_copy" name="Вы должны составить свой новый пароль больше чем из двух знаков и правильно ввести старый пароль." />
+			<text id="generic_change_password_faild_specialcharacters" name="Ваш пароль не должен остаться пустым или содержать спецсимволы." />
+			<text id="generic_change_password_faild_title" name="Введите пароль" />
+			<text id="generic_change_password_title" name="Изменение пароля" />
+			<text id="generic_guest_change_password_faild_copy" name="Вы сможете изменять свой пароль только после регистрации!" />
+			<text id="generic_guest_change_password_faild_title" name="Сначала регистрация" />
+		</password>
+		<payment>
+			<text id="generic_discount_payment_title_general" name="Больше {0} за деньги!" />
+			<text id="generic_payment_48hdiscount_button" name="Больше золота в первые 48 часов" />
+			<text id="generic_payment_48hdiscount_button_general" name="Больше {0} в первые 48 часов" />
+			<text id="generic_payment_48hdiscount_copy" name="Только в 2 дня после регистрации - покупайте золото и получайте +{0}% в подарок!" />
+			<text id="generic_payment_48hdiscount_copy_1" name="Только в 2 дня после регистрации - покупайте партии золота и получайте {0}% сверху в подарок!" />
+			<text id="generic_payment_48hdiscount_copy_1_general" name="Только в 2 дня после регистрации - покупайте {0} и получайте +{1}% в подарок!" />
+			<text id="generic_payment_48hdiscount_copy_general" name="Только в 2 дня после регистрации - покупайте {0} и получайте +{1}% в подарок!" />
+			<text id="generic_payment_btn" name="В магазин" />
+			<text id="generic_payment_copy" name="Сейчас вы сможете пополнить счёт" />
+			<text id="generic_payment_discount_button" name="+{0}% золота!" />
+			<text id="generic_payment_discount_copy" name="Купите золото и получите бонус +{0}%!" />
+			<text id="generic_payment_discount_copy_general" name="Купите {0} сейчас с бонусом +{1}%!" />
+			<text id="generic_payment_discount_general" name="Получите на {0}% больше {1} прямо сейчас!" />
+			<text id="generic_payment_discount_generalshort" name="Получите на {0}% больше!" />
+			<text id="generic_payment_discount_time" name="Осталось {0}!" />
+			<text id="generic_payment_discount_title" name="Больше золота за деньги!" />
+			<text id="generic_payment_newPrices" name="Внимание! Внимание! Снижены цены на игровые валюты! Самое время экономить!" />
+			<text id="generic_payment_title" name="Пополнение счёта" />
+		</payment>
+		<progressbar>
+			<text id="loading_text_1" name="Ищу туннель сквозь кибер-пространство" />
+			<text id="loading_text_10" name="Распределяю предметы по миру" />
+			<text id="loading_text_11" name="Прорисовываю графику" />
+			<text id="loading_text_12" name="Раскрашиваю кнопки" />
+			<text id="loading_text_13" name="Прячу пасхальные яйца" />
+			<text id="loading_text_14" name="Ищу данные пользователя" />
+			<text id="loading_text_15" name="Комменчу баги" />
+			<text id="loading_text_16" name="Кормлю программистов" />
+			<text id="loading_text_17" name="Экспериментирую с клиентом" />
+			<text id="loading_text_18" name="Переворачиваю песочные часы" />
+			<text id="loading_text_19" name="Охлаждаю систему" />
+			<text id="loading_text_2" name="Смазываю шестерёнки" />
+			<text id="loading_text_20" name="Скоро будет готово" />
+			<text id="loading_text_3" name="Кручу беличье колесо" />
+			<text id="loading_text_4" name="Включаю сервер" />
+			<text id="loading_text_5" name="Надеюсь, что всё прошло как следует" />
+			<text id="loading_text_6" name="Вызываю зачистку" />
+			<text id="loading_text_7" name="Обсчитываю сложные алгоритмы" />
+			<text id="loading_text_8" name="Калибрую накопители потока" />
+			<text id="loading_text_9" name="Всякая всячина" />
+			<text id="loading_text_default" name="Инициализация" />
+			<text id="loading_text_itemXML" name="Загружаю игровые элементы" />
+			<text id="progress_loadfiles" name="Загружаю активы..." />
+			<text id="progress_serverconnection" name="Связываюсь с Сервером..." />
+		</progressbar>
+		<register>
+			<text id="generic_register_agb_copy" name="Вам необходимо сперва принять Пользовательское соглашение. Подтвердите ваше согласие галочкой слева и вперёд!" />
+			<text id="generic_register_agb_read" name="Прочитать пользовательское соглашение" />
+			<text id="generic_register_alreadyavatar" name="У этого игрока уже есть персонаж." />
+			<text id="generic_register_badword" name="Имя не должно содержать {0}." />
+			<text id="generic_register_btn_agb" name="Принять Пользовательское соглашение" />
+			<text id="generic_register_btn_later" name="Позже" />
+			<text id="generic_register_btn_next" name="Продолжить" />
+			<text id="generic_register_btn_save" name="Сохранить" />
+			<text id="generic_register_character" name="Создайте свой персонаж" />
+			<text id="generic_register_copy_0" name="Зарегистрируйтесь бесплатно!" />
+			<text id="generic_register_copy_1" name="Сохраните вашу игру!" />
+			<text id="generic_register_emaillong_copy" name="К сожалению, ваш e-mail слишком длинный." />
+			<text id="generic_register_emailwrong_copy" name="Вы ввели неправильный e-mail." />
+			<text id="generic_register_email_copy" name="E-mail не должен быть пустым или содержать спецсимволы." />
+			<text id="generic_register_error" name="Регистрация не удалась" />
+			<text id="generic_register_errormistake" name="Ошибка" />
+			<text id="generic_register_error_accountalreadyexists" name="Другой игрок уже зарегистрирован под этим e-mail." />
+			<text id="generic_register_forfree" name="Регистрируйтесь бесплатно!" />
+			<text id="generic_register_forfree1" name="Бесплатно!" />
+			<text id="generic_register_letsgo" name="Поехали!" />
+			<text id="generic_register_namealreadyused" name="Это имя уже занято." />
+			<text id="generic_register_namenotvalid" name="Вы ввели неправильное имя." />
+			<text id="generic_register_passwordshort_copy" name="Ваш пароль слишком короткий. Он должен содержать хотя бы 4 символа." />
+			<text id="generic_register_passwordwrong_copy" name="Вы ввели неправильный пароль." />
+			<text id="generic_register_password_copy" name="Пароль не может быть пустым или содержать спецсимволы." />
+			<text id="generic_register_receivenews" name="Узнайте Новости" />
+			<text id="generic_register_rememberdata" name="Сохранить данные" />
+			<text id="generic_register_reward" name="Подпишитесь бесплатно и получите {0} {1}!" />
+			<text id="generic_register_subscribe" name="Подписаться" />
+			<text id="generic_register_success" name="Вы успешно зарегистрировались." />
+			<text id="generic_register_title" name="Ошибка при регистрации" />
+			<text id="generic_register_unlock" name="Открыть эту функцию!" />
+		</register>
+		<report>
+			<text id="generic_report_muted_badword1_copy" name="Пожалуйста, следите за своей манерой высказываться. В противном случае, вам запретят общаться или даже заблокируют на время игровую запись. Причина: {0}" />
+			<text id="generic_report_muted_badword2_copy" name="Благодаря вашим проступкам, вы не сможете общаться в течение {0}. Причина: {1}" />
+			<text id="generic_report_muted_domain1" name="Запрещено указывать ссылки при общении!" />
+			<text id="generic_report_muted_reported_copy" name="Несколько игроков пожаловались на вас. Вам запретили общаться на следующие {0}. Причина: {1}" />
+			<text id="generic_report_player_copy" name="Вы действительно хотите пожаловаться на {0}? Обратите внимание, что злоупотребление этой функцией может привести к блокированию игровой записи." />
+			<text id="generic_report_player_reason_0" name="Оскорбление" />
+			<text id="generic_report_player_reason_1" name="Сексуальное домогательство" />
+			<text id="generic_report_player_reason_2" name="расистское высказывание" />
+			<text id="generic_report_player_reason_3" name="Угроза или вымогательство" />
+			<text id="generic_report_player_reason_title" name="Суть жалобы:" />
+			<text id="generic_report_player_title" name="Пожаловаться на игрока?" />
+			<text id="generic_report_reported_copy" name="Другой игрок пожаловался на вас администратору. Причина: {0}" />
+		</report>
+		<worlds>
+			<text id="generic_connect" name="Связываюсь" />
+			<text id="generic_select_world" name="Укажите игровой мир:" />
+			<text id="generic_world" name="Игровой мир: {0}" />
+			<text id="generic_world_international" name="Международный: {0}" />
+		</worlds>
+	</generic_flash>
+</cafe>
