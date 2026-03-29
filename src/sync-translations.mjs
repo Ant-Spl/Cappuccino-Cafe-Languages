@@ -29,7 +29,7 @@ function collapseEmptyTags(contents) {
 }
 
 function getLang(file) {
-  return file.replace("Cafe_", "").replace(".xml", "");
+  return file.match(/^Cafe_([a-z]{2})\.xml$/)?.[1];
 }
 
 function syncNode(src, dest, stats) {
@@ -82,6 +82,11 @@ function syncLang(lang, src) {
 
   files.forEach((file) => {
     const lang = getLang(file);
+
+    if (!lang) {
+      console.log(`⚠  ${file} — skipping (lang not found)`);
+      return;
+    }
 
     if (lang !== DEFAULT_LANG) {
       syncLang(lang, src);
