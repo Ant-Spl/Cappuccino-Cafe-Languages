@@ -3,6 +3,7 @@ import fs from "fs";
 
 const DEFAULT_LANG = "en";
 const LANG_DIR = "./langs";
+const EOL = "\n";
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -21,7 +22,7 @@ function readXml(lang) {
 }
 
 function writeXml(lang, xml) {
-  fs.writeFileSync(`${LANG_DIR}/Cafe_${lang}.xml`, xml, "utf-8");
+  fs.writeFileSync(`${LANG_DIR}/Cafe_${lang}.xml`, xml.concat(EOL), "utf-8");
 }
 
 function collapseEmptyTags(contents) {
