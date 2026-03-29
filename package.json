@@ -1,20 +1,11 @@
 {
-  "name": "cappuccino-translations",
+  "name": "cappuccino-cafe-languages",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "sync": "node src/sync-translations.mjs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:flyx86/cappuccino-translations.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "fast-xml-parser": "^5.5.9"
   }
