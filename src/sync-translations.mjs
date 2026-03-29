@@ -3,6 +3,7 @@ import fs from "fs";
 
 const DEFAULT_LANG = "en";
 const LANG_DIR = "./langs";
+const EOL = "\n";
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -21,7 +22,7 @@ function readXml(lang) {
 }
 
 function writeXml(lang, xml) {
-  fs.writeFileSync(`${LANG_DIR}/Cafe_${lang}.xml`, xml, "utf-8");
+  fs.writeFileSync(`${LANG_DIR}/Cafe_${lang}.xml`, xml.concat(EOL), "utf-8");
 }
 
 function collapseEmptyTags(contents) {
@@ -29,7 +30,7 @@ function collapseEmptyTags(contents) {
 }
 
 function getLang(file) {
-  return file.replace("Cafe_", "").replace(".xml", "");
+  return file.match(/^Cafe_([a-z]{2})\.xml$/)?.[1];
 }
 
 function syncNode(src, dest, stats) {
@@ -82,6 +83,11 @@ function syncLang(lang, src) {
 
   files.forEach((file) => {
     const lang = getLang(file);
+
+    if (!lang) {
+      console.log(`⚠  ${file} — skipping (lang not found)`);
+      return;
+    }
 
     if (lang !== DEFAULT_LANG) {
       syncLang(lang, src);
