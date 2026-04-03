@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8' ?>
+<?xml version="1.0" encoding="utf-8"?>
 <cafe>
 	<achievement>
 		<text id="Basic_Achievement_Boughtdeco" name="Café renommé" />
@@ -167,6 +167,7 @@
 		<text id="cookstep_cheeseburger2" name="Préparer le steak haché" />
 		<text id="cookstep_cheesedish1" name="Préparer les fromages" />
 		<text id="cookstep_cheesedish2" name="Affiner le fromage" />
+		<text id="cookstep_tripleomelette1" name="Mixing eggs strongly" />
 		<text id="cookstep_cheesefondue1" name="Cuire le pain" />
 		<text id="cookstep_cheesefondue2" name="Réchauffer le fromage" />
 		<text id="cookstep_cherriecake1" name="Mélanger les ingrédients" />
@@ -265,8 +266,8 @@
 		<text id="cookstep_roastchicken2" name="Rôtir" />
 		<text id="cookstep_sandwich1" name="Beurrer le pain" />
 		<text id="cookstep_sandwich2" name="Garnir les toast" />
-        <text id="cookstep_sausagepasta1" name="Cuire les pâtes" />
-        <text id="cookstep_sausagepasta2" name="Griller les saucisses" />
+		<text id="cookstep_sausagepasta1" name="Cuire les pâtes" />
+		<text id="cookstep_sausagepasta2" name="Griller les saucisses" />
 		<text id="cookstep_scouse1" name="Cuire la viande" />
 		<text id="cookstep_scouse2" name="Ajouter les betteraves" />
 		<text id="cookstep_spagetti1" name="Griller la viande haché." />
@@ -380,7 +381,7 @@
 		<text id="coop_title_4" name="GARDEN PARTY" />
 		<text id="coop_title_5" name="APRÉS SKI" />
 		<text id="coop_title_6" name="Dîner festif" />
-		<text id="coop_title_7" name="CANTINE DE L' ÉCOLE INCENDIÉE" />
+		<text id="coop_title_7" name="CANTINE DE L&apos; ÉCOLE INCENDIÉE" />
 		<text id="coop_title_8" name="FÊTE D’ANNIVERSAIRE" />
 		<text id="coop_title_9" name="BUFFET ITALIEN" />
 	</coopmission>
@@ -426,7 +427,7 @@
 		<text id="dialogwin_clearcounter_title" name="Un plat est sur le point d’être servi depuis ce plan de travail. Que veux-tu en faire ?" />
 		<text id="dialogwin_clearstove_btn_cancel" name="Garder" />
 		<text id="dialogwin_clearstove_btn_ok" name="Jeter" />
-		<text id="dialogwin_clearstove_copy" name="Aujourd’hui, tu peux encore cuisiner {0} 'plats instantanés'" />
+		<text id="dialogwin_clearstove_copy" name="Aujourd’hui, tu peux encore cuisiner {0} &apos;plats instantanés&apos;" />
 		<text id="dialogwin_clearstove_title" name="Un plat est en train de cuire. Que veux-tu en faire ?" />
 		<text id="dialogwin_cookbook_income" name="{0} par portion" />
 		<text id="dialogwin_cookbook_readyin" name="Prêt dans :{0}" />
@@ -531,7 +532,7 @@
 		<text id="dialogwin_ingredient_storelayer" name="Frigo" />
 		<text id="dialogwin_ingredient_vegatable" name="Végétarien" />
 		<text id="dialogwin_instantcooking_copy" name="Veux-tu cuisiner tout de suite ? Plus que {0} fois." />
-		<text id="dialogwin_instantcooking_title" name="Veux-tu préparer/n 'plats instantanés' ?" />
+		<text id="dialogwin_instantcooking_title" name="Veux-tu préparer/n &apos;plats instantanés&apos; ?" />
 		<text id="dialogwin_jobpaycheck_copy" name="Les bons serveurs seront récompensés généreusement ! En plus des pourboires, tu acquiers de l’expérience." />
 		<text id="dialogwin_jobpaycheck_title" name="Addition" />
 		<text id="dialogwin_levelup_copy" name="Tu as atteint le niveau {0} !" />
@@ -973,6 +974,11 @@
 		<text id="preparestep_chickenburger_chicken" name="Découper la poule" />
 		<text id="preparestep_chickenburger_cucumber" name="Couper le cocombre" />
 		<text id="preparestep_chickenburger_flour" name="Tamiser la farine" />
+		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
+		<text id="preparestep_sausagepasta_pasta" name="Boil pasta" />
+		<text id="preparestep_sausagepasta_sausages" name="Chop sausages" />
+		<text id="preparestep_sausagepasta_tomato" name="Make tomato sauce" />
+		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
 		<text id="preparestep_chickenburger_tomato" name="Couper les tomates" />
 		<text id="preparestep_chickensalad_chicken" name="Préparer le poulet" />
 		<text id="preparestep_chickensalad_lettuce" name="Laver la salade" />
@@ -1163,6 +1169,7 @@
 		<text id="preparestep_steak_tomato" name="Couper les tomates" />
 		<text id="preparestep_stewedrhubarb_rhubarb" name="Couper la rhubarbe" />
 		<text id="preparestep_stewedrhubarb_sugar" name="Caraméliser le sucre" />
+		<text id="preparestep_pizza_sausages" name="Slice sausages" />
 		<text id="preparestep_stew_meat" name="Couper la viande" />
 		<text id="preparestep_stew_oil" name="Chauffer l’huile" />
 		<text id="preparestep_stew_onion" name="Emincer les oignons" />
@@ -1217,6 +1224,7 @@
 		<text id="preparestep_veggielasagne_tomato" name="Écraser les tomates" />
 		<text id="preparestep_whitechoccheesecake_cookies" name="Émietter les biscuits" />
 		<text id="preparestep_whitechoccheesecake_cream" name="Fouetter la crème" />
+		<text id="preparestep_strawberrymousse_sugar" name="Measure sugar" />
 		<text id="preparestep_whitechoccheesecake_milk" name="Chauffer le lait" />
 		<text id="preparestep_whitechoccheesecake_quark" name="Mélanger le fromage blanc" />
 		<text id="preparestep_whitechoccheesecake_whitechocolat" name="Peser le chocolat" />
@@ -1237,10 +1245,8 @@
 		<text id="preparestep_pizzasalad_lettuce" name="Nettoyer la salade" />
 		<text id="preparestep_pizzasalad_cheese" name="Râper le fromage" />
 		<text id="preparestep_pizzasalad_flour" name="Tamiser la farine" />
-
 		<text id="preparestep_tripleomelette_eggs" name="Casser les œufs avec force" />
 		<text id="preparestep_tripleomelette_chili" name="Rendre piquant" />
-
 		<text id="preparestep_chocolatewaffles_flour" name="Mesurer la farine" />
 		<text id="preparestep_chocolatewaffles_cream" name="Fouetter la crème" />
 		<text id="preparestep_chocolatewaffles_eggs" name="Casser les œufs doucement" />
@@ -1326,10 +1332,10 @@
 		<text id="preparestep_ricepudding_cinnamon" name="Moudre la cannelle" />
 		<text id="preparestep_roastchicken_parsley" name="Hacher le persil" />
 		<text id="preparestep_sandwich_parsley" name="Hacher le persil" />
-        <text id="preparestep_sausagepasta_pasta" name="Cuire les pâtes" />
-        <text id="preparestep_sausagepasta_sausages" name="Couper les saucisses" />
-        <text id="preparestep_sausagepasta_tomato" name="Faire une sauce tomate" />
-        <text id="preparestep_sausagepasta_coriander" name="Hacher la coriandre" />
+		<text id="preparestep_sausagepasta_pasta" name="Cuire les pâtes" />
+		<text id="preparestep_sausagepasta_sausages" name="Couper les saucisses" />
+		<text id="preparestep_sausagepasta_tomato" name="Faire une sauce tomate" />
+		<text id="preparestep_sausagepasta_coriander" name="Hacher la coriandre" />
 		<text id="preparestep_scouse_parsley" name="Hacher le persil" />
 		<text id="preparestep_spagetti_basil" name="Effeuiller le basilic" />
 		<text id="preparestep_spareribs_chili" name="Couper le chili" />
@@ -1412,7 +1418,7 @@
 		<text id="recipe_ricepudding" name="Riz au lait avec de la compote de pommes" />
 		<text id="recipe_roastchicken" name="Poulet rôti" />
 		<text id="recipe_sandwich" name="Sandwich" />
-	    <text id="recipe_sausagepasta" name="Pâtes à la saucisse" />
+		<text id="recipe_sausagepasta" name="Pâtes à la saucisse" />
 		<text id="recipe_scouse" name="Corned-beef" />
 		<text id="recipe_spagetti" name="Spaghettis à la bolognaise" />
 		<text id="recipe_spareribs" name="Travers de porc mariné" />
@@ -1455,7 +1461,7 @@
 		<mail>
 			<text id="mail_invite_friend" name="Bonjour %s !&lt;br /&gt;&lt;br /&gt; Nous venons juste de découvrir un grand jeu en ligne nommé &quot;Cappuccino&quot;.&lt;br /&gt;&lt;br /&gt;Ce lien t’y amènera directement :&lt;br /&gt;https://cappuccino.gab.net.eu.org/cafe/game/&lt;br /&gt;&lt;br /&gt; inscris-toi gratuitement pour créer et gèrer ton propre café/restaurant sur &quot;Cappuccino&quot;.&lt;br /&gt;&lt;br /&gt;Ressents les sensations de diriger ton propre buisness, de cuisiner de grands repas et de faire vivre de grandes expériences à tes clients qui repartiront heureux .&lt;br /&gt;&lt;br /&gt; Amuses toi bien avec ce jeu !&lt;br /&gt;&lt;br /&gt; Salutations, %s" />
 			<text id="mail_lost_pw" name="Bonjour%s!&lt;br /&gt;&lt;br /&gt; Tu reçois ce courriel car tu as sollicité un nouveau mot de passe.&lt;br /&gt;Ton nouveau mot de passe est : %s&lt;br /&gt;&lt;br /&gt;Ce lien t’amènera directement au jeu :&lt;br /&gt;https://cappuccino.gab.net.eu.org/cafe/game/&lt;br /&gt;&lt;br /&gt;Si tu as des questions ou des problèmes, merci d’écrire à cappuccino@gab.pt.eu.org&lt;br /&gt;&lt;br /&gt; Nous espérons que tu t’éclates bien avec notre jeu !&lt;br /&gt;&lt;br /&gt; L’équipe de&lt;br /&gt;Project Cappuccino" />
-			<text id="mail_registration" name="Bonjour,&lt;br /&gt;&lt;br /&gt; Bienvenue à &quot;Cappuccino&quot;, nous te remercions pour ton inscription.&lt;br /&gt;&lt;br /&gt;Tu peux te connecter quand tu veux avec les informations suivantes :&lt;br /&gt;E-mail :%s&lt;br /&gt;password : %s&lt;br /&gt;&lt;br /&gt;Ce lien t’amènera directement au jeu :&lt;br /&gt;https://cappuccino.gab.net.eu.org/cafe/game/&lt;br /&gt;&lt;br /&gt;Si tu as des questions ou si tu rencontres des problèmes, merci d’écrire un courriel à cappuccino@gab.pt.eu.org&lt;br /&gt;&lt;br /&gt;Nous espérons que tu aimeras Cappuccino !&lt;br /&gt;&lt;br /&gt;L' équipe de Project Cappuccino" />
+			<text id="mail_registration" name="Bonjour,&lt;br /&gt;&lt;br /&gt; Bienvenue à &quot;Cappuccino&quot;, nous te remercions pour ton inscription.&lt;br /&gt;&lt;br /&gt;Tu peux te connecter quand tu veux avec les informations suivantes :&lt;br /&gt;E-mail :%s&lt;br /&gt;password : %s&lt;br /&gt;&lt;br /&gt;Ce lien t’amènera directement au jeu :&lt;br /&gt;https://cappuccino.gab.net.eu.org/cafe/game/&lt;br /&gt;&lt;br /&gt;Si tu as des questions ou si tu rencontres des problèmes, merci d’écrire un courriel à cappuccino@gab.pt.eu.org&lt;br /&gt;&lt;br /&gt;Nous espérons que tu aimeras Cappuccino !&lt;br /&gt;&lt;br /&gt;L&apos; équipe de Project Cappuccino" />
 		</mail>
 		<misc>
 			<text id="marketplace" name="Place du marché" />
@@ -1623,7 +1629,7 @@
 		<text id="tt_Social_Achievement_Friendscount" name="Nombre de reseaux d’amis" />
 	</tooltips>
 	<tutorial>
-		<text id="tut_buymissingingredient_copy" name="Le '0' à coté du petit frigo indique que tu n’as plus d’oignons. En dessous tu peux voir le prix. Achète des oignons !" />
+		<text id="tut_buymissingingredient_copy" name="Le &apos;0&apos; à coté du petit frigo indique que tu n’as plus d’oignons. En dessous tu peux voir le prix. Achète des oignons !" />
 		<text id="tut_cafeopen_copy" name="Cool ! les premiers clients ne se feront pas attendre longtemps.\n Maintenant t’en connais assés pour diriger ton café. Gardes le reste par toi.\n\n amuses toi bien !" />
 		<text id="tut_cookmeal_copy" name="Allons droit au but\n montres ce que tu as dans ta salade" />
 		<text id="tut_cookopenshop_copy" name="Les plats sont ici avec leurs ingrédients respectifs, les temps de préparation et leurs bénéfices .\n Oh non ! Tu n’as plus d’oignons pour la salade du jardin, tu peux en acheter d’autres." />
