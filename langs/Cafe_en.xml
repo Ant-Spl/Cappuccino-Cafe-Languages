@@ -1853,7 +1853,7 @@ We are working as fast as we can so you will be able to play again as soon as po
 				<text id="generic_language_zh_TW" name="Chinese (traditional)"  />
 			</languages>
 			<login>
-				<text id="generic_login_banned" name="Your account has been blocked! Please contact customer support!"  />
+				<text id="generic_login_banned" name="Your account has been blocked! Please contact Cappuccino support on Discord!"  />
 				<text id="generic_login_banned_2" name="Your account has been deactivated!
 
 Deactivation until: {0}
