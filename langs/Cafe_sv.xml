@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <cafe>
 	<achievement>
 		<text id="Basic_Achievement_Boughtdeco" name="Kafé med stil" />
@@ -53,7 +53,7 @@
 		<text id="alert_counter_outofreach_title" name="Se upp!" />
 		<text id="alert_dekoshop_humanwaiter_copy" name="Så länge andra spelare arbetar i ditt kafé kan du inte anpassa den." />
 		<text id="alert_dekoshop_humanwaiter_title" name="Inte en chans!" />
-		<text id="alert_dekoshop_kickplayer_copy" name="Det är fortfarande andra spelare i ditt kafé. Vill du sparka ut dem och gå till 'Anpassa'-menyn?" />
+		<text id="alert_dekoshop_kickplayer_copy" name="Det är fortfarande andra spelare i ditt kafé. Vill du sparka ut dem och gå till &apos;Anpassa&apos;-menyn?" />
 		<text id="alert_dekoshop_kickplayer_title" name="Se upp!" />
 		<text id="alert_FancyCooking_copy" name="Vill du krydda din rätt med den här lyxingrediensen och få {0} mer XP och {1} extra portioner?" />
 		<text id="alert_FancyCooking_title" name="Lyxingredienser" />
@@ -102,7 +102,7 @@
 		<text id="alert_marketplace_playerleaved_title" name="Oops!" />
 		<text id="alert_nofreecounter_copy" name="Det finns ingen ledig disk." />
 		<text id="alert_nofreecounter_title" name="Oops!" />
-		<text id="alert_nofridge_copy" name="Du har inget kylskåp i ditt kafé. Kolla 'Anpassa'-menyn och dra en kyl till ditt kafé." />
+		<text id="alert_nofridge_copy" name="Du har inget kylskåp i ditt kafé. Kolla &apos;Anpassa&apos;-menyn och dra en kyl till ditt kafé." />
 		<text id="alert_nofridge_title" name="Inget kylskåp?!" />
 		<text id="alert_nojobpermission_copy" name="Du behöver arbetstillstånd om du vill söka arbete." />
 		<text id="alert_nojobpermission_title" name="Se upp!" />
@@ -171,6 +171,8 @@
 		<text id="cookstep_cheesefondue2" name="Smälter ost" />
 		<text id="cookstep_cherriecake1" name="Blandar ingredienser" />
 		<text id="cookstep_cherriecake2" name="Bakar" />
+		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
+		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
 		<text id="cookstep_cherrycompote1" name="Kokar körsbär" />
 		<text id="cookstep_cherrycompote2" name="Låter den kallna" />
 		<text id="cookstep_chickenburger1" name="Steker kyckling" />
@@ -325,14 +327,14 @@
 		<text id="cookstep_spanishsomelette2" name="Vänder plättar" />
 		<text id="cookstep_sausagepasta1" name="Kokar pasta" />
 		<text id="cookstep_sausagepasta2" name="Steker korv" />
-     	<text id="cookstep_applepie1" name="Ordnar paj"  />
-        <text id="cookstep_applepie2" name="Bakar paj"  />
-        <text id="cookstep_ramen1" name="Kokar nudlar"  />
-		<text id="cookstep_ramen2" name="Häller kryddor"  />
-		<text id="cookstep_corncake1" name="Blandar ingredienser"  />
-		<text id="cookstep_corncake2" name="Bakar"  />
-		<text id="cookstep_feijoada1" name="Ordnar fläskkotletter"  />
-		<text id="cookstep_feijoada2" name="Manifestera apelsinskivor"  />
+		<text id="cookstep_applepie1" name="Ordnar paj" />
+		<text id="cookstep_applepie2" name="Bakar paj" />
+		<text id="cookstep_ramen1" name="Kokar nudlar" />
+		<text id="cookstep_ramen2" name="Häller kryddor" />
+		<text id="cookstep_corncake1" name="Blandar ingredienser" />
+		<text id="cookstep_corncake2" name="Bakar" />
+		<text id="cookstep_feijoada1" name="Ordnar fläskkotletter" />
+		<text id="cookstep_feijoada2" name="Manifestera apelsinskivor" />
 	</cookstep>
 	<coopmission>
 		<text id="coop_desc_long_1" name="Låt oss ta en matlagningskurs för att förbättra några av våra rätter till perfektion. Vill du vara med?" />
@@ -396,7 +398,7 @@
 		<text id="dialogwin_bonus_copy_dish" name="Nya recept har låsts upp för dig:" />
 		<text id="dialogwin_bonus_copy_expand" name="Du expanderade ditt kafé! Nu har du mer plats för dina gäster, dekorationer och mycket mer!" />
 		<text id="dialogwin_bonus_copy_fridge" name="Du kan nu köpa ett extra kylskåp." />
-		<text id="dialogwin_bonus_copy_instant" name="En till 'Omedelbar tillagning'. Ett klick och din måltid är redo att bli serverad." />
+		<text id="dialogwin_bonus_copy_instant" name="En till &apos;Omedelbar tillagning&apos;. Ett klick och din måltid är redo att bli serverad." />
 		<text id="dialogwin_bonus_copy_level2" name="Kolla! Du kan till och med expandera ditt kafé för att få mer plats för dina gäster!" />
 		<text id="dialogwin_bonus_copy_login" name="Det här har hänt medan du var borta:" />
 		<text id="dialogwin_bonus_copy_newwaiter" name="Du har nu en ny medarbetare! Ta in gästerna!" />
@@ -407,7 +409,7 @@
 		<text id="dialogwin_bonus_title_dish" name="Nya recept" />
 		<text id="dialogwin_bonus_title_expand" name="Hurra!" />
 		<text id="dialogwin_bonus_title_fridge" name="Nytt kylskåp" />
-		<text id="dialogwin_bonus_title_instant" name="Fler 'Omedelbar tillagning'" />
+		<text id="dialogwin_bonus_title_instant" name="Fler &apos;Omedelbar tillagning&apos;" />
 		<text id="dialogwin_bonus_title_level2" name="Expandera!" />
 		<text id="dialogwin_bonus_title_login" name="Du är tillbaka!" />
 		<text id="dialogwin_bonus_title_newwaiter" name="Grattis" />
@@ -423,7 +425,7 @@
 		<text id="dialogwin_clearcounter_title" name="En måltid håller på att serveras från den här disken. Vad vill du göra med den?" />
 		<text id="dialogwin_clearstove_btn_cancel" name="Behåll" />
 		<text id="dialogwin_clearstove_btn_ok" name="Släng" />
-		<text id="dialogwin_clearstove_copy" name="Du kan fortfarande genomföra {0} 'Omedelbar tillagning'" />
+		<text id="dialogwin_clearstove_copy" name="Du kan fortfarande genomföra {0} &apos;Omedelbar tillagning&apos;" />
 		<text id="dialogwin_clearstove_title" name="En rätt tillagas på den här spisen. Vad vill du göra med den?" />
 		<text id="dialogwin_cookbook_income" name="{0} per portion" />
 		<text id="dialogwin_cookbook_readyin" name="Färdig om: {0}" />
@@ -492,7 +494,7 @@
 		<text id="dialogwin_ingamehelp_1_2" name="Förbered rätter för dina gäster med spisar. Då måste du välja recept och klicka några gånger för att laga den." />
 		<text id="dialogwin_ingamehelp_1_3" name="Här hittar du en översikt över alla recept och nödvändiga ingredienser i Kokboken." />
 		<text id="dialogwin_ingamehelp_1_4" name="Du hittar de ingredienser som behövs för ditt recept i Ingrediensbutiken." />
-		<text id="dialogwin_ingamehelp_1_5" name="När du har köpt alla ingredienser kan du klicka på 'Tillaga' och förbered maträtten." />
+		<text id="dialogwin_ingamehelp_1_5" name="När du har köpt alla ingredienser kan du klicka på &apos;Tillaga&apos; och förbered maträtten." />
 		<text id="dialogwin_ingamehelp_1_6" name="En maträtt är färdig efter några minuter/timmar. Lägg den på en disk för att kunna servera den." />
 		<text id="dialogwin_ingamehelp_1_7" name="En använd spis är smutsig och måste rengöras innan man tillagar något." />
 		<text id="dialogwin_ingamehelp_2_1" name="Vad behöver jag veta om ingredienser?" />
@@ -504,8 +506,8 @@
 		<text id="dialogwin_ingamehelp_3_2" name="Du får erfarenhetspoäng genom att servera rätter. Även genom att vara servitör i andra kaféer, slutföra framgångsrika Co-Ops, utmärkelser eller servera drinkar." />
 		<text id="dialogwin_ingamehelp_3_3" name="Din popularitet beslutar hur många gäster besöker dig. Din popularitet ökar när gästerna lämnar kaféet nöjda. Men det kan också gå ner när gästerna är missnöjda. Gästerna är nöjda när de får något att äta." />
 		<text id="dialogwin_ingamehelp_3_4" name="Du tjänar Kafédollar genom att sälja mat. Även genom att arbeta som en servitör, slutföra framgångsrika Co-Ops eller utmärkelser." />
-		<text id="dialogwin_ingamehelp_3_5" name="Varje objekt i 'Anpassa'-menyn har ett lyxvärde. Detta kommer att påverka din popularitet. Ju lyxigare desto bättre ..." />
-		<text id="dialogwin_ingamehelp_3_6" name="Du hittar spisar, diskar, bord och andra dekorationer i 'Anpassa'-menyn. Var kreativ!" />
+		<text id="dialogwin_ingamehelp_3_5" name="Varje objekt i &apos;Anpassa&apos;-menyn har ett lyxvärde. Detta kommer att påverka din popularitet. Ju lyxigare desto bättre ..." />
+		<text id="dialogwin_ingamehelp_3_6" name="Du hittar spisar, diskar, bord och andra dekorationer i &apos;Anpassa&apos;-menyn. Var kreativ!" />
 		<text id="dialogwin_ingamehelp_3_7" name="Skulle ditt Kafé bli för liten, har du möjlighet att expandera och göra mer plats för dina gäster." />
 		<text id="dialogwin_ingamehelp_4_1" name="Vad mer behöver jag veta?" />
 		<text id="dialogwin_ingamehelp_4_2" name="Du kan lära känna andra spelare, söka jobb eller bara chatta med andra spelare på Marknaden." />
@@ -527,8 +529,8 @@
 		<text id="dialogwin_ingredient_storeinused" name="I ditt kylskåp:" />
 		<text id="dialogwin_ingredient_storelayer" name="Kylskåp" />
 		<text id="dialogwin_ingredient_vegatable" name="Vegetarisk" />
-		<text id="dialogwin_instantcooking_copy" name="Vill du använda 'Omedelbar tillagning'? Fortfarande {0} gånger kvar!" />
-		<text id="dialogwin_instantcooking_title" name="Vill du använda 'Omedelbar tillagning'?" />
+		<text id="dialogwin_instantcooking_copy" name="Vill du använda &apos;Omedelbar tillagning&apos;? Fortfarande {0} gånger kvar!" />
+		<text id="dialogwin_instantcooking_title" name="Vill du använda &apos;Omedelbar tillagning&apos;?" />
 		<text id="dialogwin_jobpaycheck_copy" name="Servitörer som jobbar hårt belönas! Utöver dricks har du även fått erfarenhet (XP)" />
 		<text id="dialogwin_jobpaycheck_title" name="Nota" />
 		<text id="dialogwin_levelup_copy" name="Du har nått nivå {0}!" />
@@ -556,7 +558,7 @@
 		<text id="dialogwin_nomoney_clean_copy" name="Du har inte tillräckligt med Kafédollar för att rengöra din spis" />
 		<text id="dialogwin_nomoney_copy" name="Oops, du har inte tillräckligt med Kafédollar/Guld för att köpa den här varan!" />
 		<text id="dialogwin_nomoney_courier" name="Oops, du har inte tillräckligt med Kafédollar/Guld för att betala kuriren!" />
-		<text id="dialogwin_nomoney_instantcook_copy" name="Du har inte tillräckligt med Kafédollar för att genomföra en 'Omedelbar tillagning'." />
+		<text id="dialogwin_nomoney_instantcook_copy" name="Du har inte tillräckligt med Kafédollar för att genomföra en &apos;Omedelbar tillagning&apos;." />
 		<text id="dialogwin_nomoney_moregold" name="Köp Kafédollar/Guld" />
 		<text id="dialogwin_nomoney_npchire" name="Du har inte tillräckligt med Guld för att anställa en till servitör!" />
 		<text id="dialogwin_nomoney_ok" name="OK" />
@@ -662,26 +664,26 @@
 		<text id="createavatar_error_nogender" name="Var god välj din karaktär!" />
 		<text id="editbuy_errorcode_1" name="Se upp!" />
 		<text id="editbuy_errorcode_3" name="Du har inte nått nivån för att kunna låsa upp det här föremålet." />
-		<text id="editbuy_errorcode_38" name="Du kan bara ändra ditt kafé i 'Anpassa'-menyn." />
+		<text id="editbuy_errorcode_38" name="Du kan bara ändra ditt kafé i &apos;Anpassa&apos;-menyn." />
 		<text id="editbuy_errorcode_39" name="Ogiltig placering. Var god dra föremålet till en tillgänglig plats i ditt kafé." />
 		<text id="editextend_errorcode_1" name="Se upp!" />
-		<text id="editextend_errorcode_38" name="Du kan bara ändra ditt kafé i 'Anpassa'-menyn." />
+		<text id="editextend_errorcode_38" name="Du kan bara ändra ditt kafé i &apos;Anpassa&apos;-menyn." />
 		<text id="editextend_errorcode_53" name="Du har redan köpt den här expansionen" />
 		<text id="editextend_errorcode_54" name="Du kan inte köpa den här expansionen än." />
 		<text id="editmode_errorcode_1" name="Se upp!" />
 		<text id="editmoveobj_errorcode_1" name="Se upp!" />
-		<text id="editmoveobj_errorcode_38" name="Du kan bara ändra ditt kafé i 'Anpassa'-menyn." />
+		<text id="editmoveobj_errorcode_38" name="Du kan bara ändra ditt kafé i &apos;Anpassa&apos;-menyn." />
 		<text id="editmoveobj_errorcode_39" name="Ogiltig placering. Var god dra föremålet till en tillgänglig plats i ditt kafé." />
 		<text id="editrotateobj_errorcode_1" name="Se upp!" />
-		<text id="editrotateobj_errorcode_38" name="Du kan bara ändra ditt kafé i 'Anpassa'-menyn." />
+		<text id="editrotateobj_errorcode_38" name="Du kan bara ändra ditt kafé i &apos;Anpassa&apos;-menyn." />
 		<text id="editrotateobj_errorcode_39" name="Ogiltig placering. Var god dra föremålet till en tillgänglig plats i ditt kafé." />
 		<text id="editsell_errorcode_1" name="Se upp!" />
 		<text id="editsell_errorcode_32" name="Föremål ej tillgängligt i ditt lager." />
-		<text id="editsell_errorcode_38" name="Du kan bara ändra ditt kafé i 'Anpassa'-menyn." />
+		<text id="editsell_errorcode_38" name="Du kan bara ändra ditt kafé i &apos;Anpassa&apos;-menyn." />
 		<text id="editsell_errorcode_39" name="Ogiltig placering. Var god dra föremålet till en tillgängligt plats i ditt kafé." />
 		<text id="editstoreobj_errorcode_1" name="Se upp!" />
 		<text id="editstoreobj_errorcode_37" name="En rätt är över det här objektet!" />
-		<text id="editstoreobj_errorcode_38" name="Du kan bara ändra ditt kafé i 'Anpassa'-menyn." />
+		<text id="editstoreobj_errorcode_38" name="Du kan bara ändra ditt kafé i &apos;Anpassa&apos;-menyn." />
 		<text id="editstoreobj_errorcode_39" name="Ogiltig placering. Var god dra föremålet till en tillgänglig plats i ditt kafé." />
 		<text id="editstoreobj_errorcode_51" name="Fältet är tomt, det finns ingenting att sälja." />
 		<text id="editstoreobj_removefailmin_counter" name="Du måste ha minst en disk." />
@@ -773,7 +775,7 @@
 		<text id="featureDialog_22_text_0" name="Nya framgångar väntar dig. De hjälper dig att bli ännu mer framgångsrik!" />
 		<text id="featureDialog_23_text_0" name="Laga tillsammans är mycket roligare! De nya Co-Ops väntar på dig!" />
 		<text id="featureDialog_24_text_0" name="Påskharen har lämnat nåt i ditt kafé! Hitta de nya Påskdekorationerna!" />
-		<text id="featureDialog_24_text_1" name="Aldrig har fågel varit så lönsam! Upptäck Anka à l'Orange!" />
+		<text id="featureDialog_24_text_1" name="Aldrig har fågel varit så lönsam! Upptäck Anka à l&apos;Orange!" />
 		<text id="featureDialog_25_text_0" name="Hur mycket tur har du?  Testa din tur med Muffinmannen!" />
 		<text id="featureDialog_26_text_0" name="Hur mycket tur har du? Snurra Lyckohjulet på Marknaden!" />
 		<text id="featureDialog_27_text_0" name="Öka din populariet med en ny sockervaddsmaskin! Finns på Lyckohjulet!" />
@@ -867,7 +869,7 @@
 		<text id="ingredient_cocktailcherry" name="Kocktailkörsbär" />
 		<text id="ingredient_coconut" name="Kokosnötter" />
 		<text id="ingredient_cookies" name="Kakor" />
-		<text id="ingredient_cookfest" name="Festingredienser"  />
+		<text id="ingredient_cookfest" name="Festingredienser" />
 		<text id="ingredient_coriander" name="Koriander" />
 		<text id="ingredient_cream" name="Grädde" />
 		<text id="ingredient_cucumber" name="Gurka" />
@@ -948,41 +950,54 @@
 		<text id="preparestep_bananasplit_chocolate" name="Hacka choklad" />
 		<text id="preparestep_bananasplit_cream" name="Vispa grädde" />
 		<text id="preparestep_bananasplit_milk" name="Häll mjölk" />
+		<text id="preparestep_brigadeiro_vanilla" name="Shave vanilla" />
 		<text id="preparestep_bananasplit_sugar" name="Beräkna socker" />
 		<text id="preparestep_blackforestcherrycake_chocolate" name="Riv choklad" />
 		<text id="preparestep_blackforestcherrycake_cocktailcherry" name="Skölj körsbär" />
 		<text id="preparestep_blackforestcherrycake_cream" name="Vispa grädde" />
 		<text id="preparestep_blackforestcherrycake_flour" name="Sikta mjöl" />
+		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
 		<text id="preparestep_cheeseburger_cheese" name="Skär upp ost" />
 		<text id="preparestep_cheeseburger_flour" name="Sikta mjöl" />
 		<text id="preparestep_cheeseburger_mincemeat" name="Krydda köttfärs" />
 		<text id="preparestep_cheeseburger_tomato" name="Skär upp tomater" />
 		<text id="preparestep_cheesedish_cheese" name="Skär upp ost" />
 		<text id="preparestep_cheesefondue_cheese" name="Skär upp ost" />
+		<text id="preparestep_tripleomelette_chili" name="Make it spicy" />
 		<text id="preparestep_cheesefondue_flour" name="Sikta mjöl" />
 		<text id="preparestep_cheesefondue_garlic" name="Pressa vitlök" />
 		<text id="preparestep_cherriecake_cherries" name="Koka körsbär" />
 		<text id="preparestep_cherriecake_cream" name="Vispa grädde" />
+		<text id="preparestep_chocolatewaffles_vanilla" name="Add vanilla extract" />
 		<text id="preparestep_cherriecake_flour" name="Sikta mjöl" />
 		<text id="preparestep_cherriecake_sugar" name="Beräkna socker" />
 		<text id="preparestep_cherrycompote_cherries" name="Skölj körsbär" />
+		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
 		<text id="preparestep_cherrycompote_sugar" name="Beräkna socker" />
 		<text id="preparestep_chickenburger_chicken" name="Grilla kyckling" />
 		<text id="preparestep_chickenburger_cucumber" name="Skär upp gurka" />
+		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
 		<text id="preparestep_chickenburger_flour" name="Sikta mjöl" />
 		<text id="preparestep_chickenburger_tomato" name="Skär upp tomater" />
 		<text id="preparestep_chickensalad_chicken" name="Grilla kyckling" />
 		<text id="preparestep_chickensalad_lettuce" name="Tvätta sallad" />
+		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
 		<text id="preparestep_chickensalad_onion" name="Hacka lök" />
 		<text id="preparestep_chickensalad_tomato" name="Skär upp tomater" />
 		<text id="preparestep_chickensoup_bacon" name="Stek bacon" />
+		<text id="preparestep_ramen_chili" name="Make it spicy" />
+		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
+		<text id="preparestep_corncake_butter" name="Melt butter" />
 		<text id="preparestep_chickensoup_chicken" name="Grilla kyckling" />
 		<text id="preparestep_chickensoup_onion" name="Hacka lök" />
 		<text id="preparestep_chickensoup_pasta" name="Beräkna pasta" />
+		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
 		<text id="preparestep_chiliconcarne_bacon" name="Skär upp bacon" />
 		<text id="preparestep_chiliconcarne_beans" name="Tvätta bönor" />
+		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
 		<text id="preparestep_chiliconcarne_mincemeat" name="Krydda köttfärs" />
 		<text id="preparestep_chiliconcarne_onion" name="Hacka lök" />
+		<text id="preparestep_feijoada_coriander" name="Add coriander" />
 		<text id="preparestep_chiliconcarne_tomato" name="Skär upp tomater" />
 		<text id="preparestep_chocmousse_chocolate" name="Hacka choklad" />
 		<text id="preparestep_chocmousse_cream" name="Vispa grädde" />
@@ -1152,6 +1167,7 @@
 		<text id="preparestep_steakkidneypie_flour" name="Sikta mjöl" />
 		<text id="preparestep_steakkidneypie_kidney" name="Skär upp njurar" />
 		<text id="preparestep_steakkidneypie_meat" name="Skär upp kött" />
+		<text id="preparestep_pizza_sausages" name="Slice sausages" />
 		<text id="preparestep_steakkidneypie_onion" name="Hacka lök" />
 		<text id="preparestep_steak_butter" name="Häll smör" />
 		<text id="preparestep_steak_lettuce" name="Tvätta sallad" />
@@ -1242,25 +1258,25 @@
 		<text id="preparestep_spanishomelette_onion" name="Hacka lök" />
 		<text id="preparestep_spanishomelette_eggs" name="Kläck ägg på spanska" />
 		<text id="preparestep_sausagepasta_pasta" name="Koka pasta" />
-       	<text id="preparestep_sausagepasta_sausages" name="Skär upp korv" />
-        <text id="preparestep_sausagepasta_tomato" name="Blanda tomater" />
-		<text id="preparestep_applepie_cream" name="Vispa grädde"  />
-        <text id="preparestep_applepie_eggs" name="Elegant kläck ägg"  />    
-        <text id="preparestep_applepie_flour" name="Sikta mjöl"  />
-        <text id="preparestep_applepie_apple" name="Grubbla över äppelekonomin"  />
-        <text id="preparestep_ramen_pasta" name="Koka pasta"  />
-		<text id="preparestep_ramen_eggs" name="Koka ägg"  />
-		<text id="preparestep_ramen_bacon" name="Hacka bacon"  />
-		<text id="preparestep_corncake_corn" name="Gör cornflakes"  />
-		<text id="preparestep_corncake_cream" name="Vispa grädde"  />
-		<text id="preparestep_corncake_eggs" name="Blanda ägg"  />
-		<text id="preparestep_corncake_milk" name="Häll mjölk"  />
-		<text id="preparestep_corncake_sugar" name="Tillsätt socker i degen"  />
-		<text id="preparestep_feijoada_beans" name="Koka bönor"  />
-		<text id="preparestep_feijoada_bacon" name="Hacka bacon"  />
-		<text id="preparestep_feijoada_sausage" name="Skär upp korv"  />
-		<text id="preparestep_feijoada_onion" name="Hacka lök"  />
-		<text id="preparestep_feijoada_garlic" name="Kasta i vitlök"  />
+		<text id="preparestep_sausagepasta_sausages" name="Skär upp korv" />
+		<text id="preparestep_sausagepasta_tomato" name="Blanda tomater" />
+		<text id="preparestep_applepie_cream" name="Vispa grädde" />
+		<text id="preparestep_applepie_eggs" name="Elegant kläck ägg" />
+		<text id="preparestep_applepie_flour" name="Sikta mjöl" />
+		<text id="preparestep_applepie_apple" name="Grubbla över äppelekonomin" />
+		<text id="preparestep_ramen_pasta" name="Koka pasta" />
+		<text id="preparestep_ramen_eggs" name="Koka ägg" />
+		<text id="preparestep_ramen_bacon" name="Hacka bacon" />
+		<text id="preparestep_corncake_corn" name="Gör cornflakes" />
+		<text id="preparestep_corncake_cream" name="Vispa grädde" />
+		<text id="preparestep_corncake_eggs" name="Blanda ägg" />
+		<text id="preparestep_corncake_milk" name="Häll mjölk" />
+		<text id="preparestep_corncake_sugar" name="Tillsätt socker i degen" />
+		<text id="preparestep_feijoada_beans" name="Koka bönor" />
+		<text id="preparestep_feijoada_bacon" name="Hacka bacon" />
+		<text id="preparestep_feijoada_sausage" name="Skär upp korv" />
+		<text id="preparestep_feijoada_onion" name="Hacka lök" />
+		<text id="preparestep_feijoada_garlic" name="Kasta i vitlök" />
 	</preparestep>
 	<preparestep_fancy>
 		<text id="preparestep_bananasplit_vanilla" name="Skrapa vanilj" />
@@ -1347,10 +1363,10 @@
 		<text id="preparestep_chocolatewaffles_vanilla" name="Skrapa vanilj" />
 		<text id="preparestep_spanishomelette_parsley" name="Hacka persilja" />
 		<text id="preparestep_sausagepasta_coriander" name="Hacka koriander" />
-		<text id="preparestep_applepie_cinnamon" name="Strö kanel"  />
-		<text id="preparestep_ramen_chili" name="Krydda till"  />
-		<text id="preparestep_corncake_cinnamon" name="Strö kanel"  />
-		<text id="preparestep_feijoada_coriander" name="Hacka koriander"  />
+		<text id="preparestep_applepie_cinnamon" name="Strö kanel" />
+		<text id="preparestep_ramen_chili" name="Krydda till" />
+		<text id="preparestep_corncake_cinnamon" name="Strö kanel" />
+		<text id="preparestep_feijoada_coriander" name="Hacka koriander" />
 	</preparestep_fancy>
 	<recipe>
 		<text id="recipe_bananasplit" name="Bananasplit" />
@@ -1374,10 +1390,10 @@
 		<text id="recipe_cookieplate" name="Kakfat" />
 		<text id="recipe_cornonthecob" name="Majskolv" />
 		<text id="recipe_curry" name="Curry" />
-		<text id="recipe_duckalorange" name="Anka à l'Orange" />
+		<text id="recipe_duckalorange" name="Anka à l&apos;Orange" />
 		<text id="recipe_easterdish" name="Påskmiddag" />
 		<text id="recipe_englishbreakfast" name="Engelsk frukost" />
-		<text id="recipe_fishandchips" name="Fish'n'Chips" />
+		<text id="recipe_fishandchips" name="Fish&apos;n&apos;Chips" />
 		<text id="recipe_friedpotatoes" name="Stekt potatis" />
 		<text id="recipe_fruitpudding" name="Frukttårta" />
 		<text id="recipe_fruitsalad" name="Fruktsallad" />
@@ -1387,7 +1403,7 @@
 		<text id="recipe_hotcherrywaffles" name="Körsbärsvåfflor" />
 		<text id="recipe_jamspongepudding" name="Syltsockerkaka" />
 		<text id="recipe_lasagne" name="Lasagne" />
-		<text id="recipe_macncheese" name="Mac'n'Cheese" />
+		<text id="recipe_macncheese" name="Mac&apos;n&apos;Cheese" />
 		<text id="recipe_maplepancakes" name="Pannkakor med lönnsirap" />
 		<text id="recipe_marblecake" name="Marmorkaka" />
 		<text id="recipe_mexicansalad" name="Mexikansk Sallad" />
@@ -1619,12 +1635,12 @@
 		<text id="tt_Social_Achievement_Friendscount" name="Antal inbjudna vänner" />
 	</tooltips>
 	<tutorial>
-		<text id="tut_buymissingingredient_copy" name="'0'-tecknet bredvid kylen indikerar att du har slut på lök i ditt lager.\nUnder kan du se priset.\nKöp en lök!" />
+		<text id="tut_buymissingingredient_copy" name="&apos;0&apos;-tecknet bredvid kylen indikerar att du har slut på lök i ditt lager.\nUnder kan du se priset.\nKöp en lök!" />
 		<text id="tut_cafeopen_copy" name="Bra! Nu kommer du inte behöva vänta länge innan dina första gäster kommer.\nNu kan du grunderna i att driva ett kafé. Kolla in resten på egen hand.\n\nHa det så roligt!" />
 		<text id="tut_cookmeal_copy" name="Låt oss börja!" />
 		<text id="tut_cookopenshop_copy" name="Här hittar du de behövda ingredienserna, koktid och fördelarna med varje recept.\nOh nej! Du har slut på lök, men du kan köpa nya!" />
 		<text id="tut_cookpreparecook_copy" name="Viktigast av allt; maten. Låt oss tillaga en trädgårdssallad. Klicka på spisen!" />
-		<text id="tut_instantcook2_copy" name="Använd 'Omedelbar tillagning'.\nDetta kostar Guld, men är mycket användbart." />
+		<text id="tut_instantcook2_copy" name="Använd &apos;Omedelbar tillagning&apos;.\nDetta kostar Guld, men är mycket användbart." />
 		<text id="tut_instantcook_copy" name="Vanligen behöver en trädgårdssallad 3 minuter för att bli klar... men vi har möjligheten att snabba på saker en aning." />
 		<text id="tut_preparesteps_copy" name="Klicka några gånger på spisen för att slutföra de olika förberedelserna." />
 		<text id="tut_servedish_copy" name="Bra gjort!\nNu måste rätten bara serveras.\nDe 10 portionerna kommer inte räcka långt, så se till att laga mer mat åt dina hungriga kunder!" />
