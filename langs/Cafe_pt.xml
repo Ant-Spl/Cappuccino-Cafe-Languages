@@ -185,6 +185,20 @@ Se você estocá-la, as porções existentes serão perdidas!" />
 		<text id="cookstep_corncake2" name="Assando bolos" />
 		<text id="cookstep_feijoada1" name="Preparando cortes suínos" />
 		<text id="cookstep_feijoada2" name="Materializando laranjas" />
+		<text id="cookstep_pinapjuice1" name="Squeezing pineapples" />
+		<text id="cookstep_pinapjuice2" name="Blending juice" />
+		<text id="cookstep_orangejuice1" name="Squeezing oranges" />
+		<text id="cookstep_orangejuice2" name="Blending juice" />
+		<text id="cookstep_discodrinks1" name="Mixing fruits" />
+		<text id="cookstep_discodrinks2" name="Pouring drinks" />
+		<text id="cookstep_applejuice1" name="Squeezing apples" />
+		<text id="cookstep_applejuice2" name="Blending juice" />
+		<text id="cookstep_rjuice1" name="Squeezing rhubarb" />
+		<text id="cookstep_rjuice2" name="Blending juice" />
+		<text id="cookstep_cherryjuice1" name="Pitting cherries" />
+		<text id="cookstep_cherryjuice2" name="Blending juice" />
+		<text id="cookstep_strawberryjuice1" name="Mashing strawberries" />
+		<text id="cookstep_strawberryjuice2" name="Blending juice" />
 		<text id="cookstep_blackforestcherrycake1" name="Misturando ingredientes" />
 		<text id="cookstep_blackforestcherrycake2" name="Assando bolo" />
 		<text id="cookstep_cheeseburger1" name="Fritando carne moída" />
@@ -1021,6 +1035,29 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_corncake_butter" name="Derreter manteiga" />
 		<text id="preparestep_corncake_eggs" name="Bater ovos" />
 		<text id="preparestep_corncake_milk" name="Adicionar leite" />
+		<text id="preparestep_pinapjuice_pinapple" name="Chop pineapple" />
+		<text id="preparestep_pinapjuice_vanilla" name="Add vanilla" />
+		<text id="preparestep_orangejuice_orange" name="Slice oranges" />
+		<text id="preparestep_orangejuice_sugar" name="Add sugar" />
+		<text id="preparestep_orangejuice_vanilla" name="Add vanilla" />
+		<text id="preparestep_discodrinks_cream" name="Whip cream" />
+		<text id="preparestep_discodrinks_pinapple" name="Chop pineapple" />
+		<text id="preparestep_discodrinks_apple" name="Slice apples" />
+		<text id="preparestep_discodrinks_sugar" name="Add sugar" />
+		<text id="preparestep_discodrinks_milk" name="Pour milk" />
+		<text id="preparestep_discodrinks_vanilla" name="Add vanilla" />
+		<text id="preparestep_applejuice_apple" name="Slice apples" />
+		<text id="preparestep_applejuice_sugar" name="Add sugar" />
+		<text id="preparestep_applejuice_vanilla" name="Add vanilla" />
+		<text id="preparestep_rjuice_rhubarb" name="Chop rhubarb" />
+		<text id="preparestep_rjuice_sugar" name="Add sugar" />
+		<text id="preparestep_rjuice_vanilla" name="Add vanilla" />
+		<text id="preparestep_cherryjuice_cherries" name="Wash cherries" />
+		<text id="preparestep_cherryjuice_sugar" name="Add sugar" />
+		<text id="preparestep_cherryjuice_vanilla" name="Add vanilla" />
+		<text id="preparestep_strawberryjuice_strawberry" name="Wash strawberries" />
+		<text id="preparestep_strawberryjuice_sugar" name="Add sugar" />
+		<text id="preparestep_strawberryjuice_vanilla" name="Add vanilla" />
 		<text id="preparestep_corncake_sugar" name="Adoçar a massa" />
 		<text id="preparestep_corncake_cinnamon" name="Moer canela" />
 		<text id="preparestep_feijoada_beans" name="Cozinhar feijões" />
@@ -1392,6 +1429,13 @@ Apenas disponível por tempo limitado!" />
 		<text id="recipe_ramen" name="Ramen" />
 		<text id="recipe_corncake" name="Bolo de Milho" />
 		<text id="recipe_feijoada" name="Feijoada" />
+		<text id="recipe_pinapjuice" name="Pineapple Juice" />
+		<text id="recipe_orangejuice" name="Orange Juice" />
+		<text id="recipe_discodrinks" name="Disco Drinks" />
+		<text id="recipe_applejuice" name="Apple Juice" />
+		<text id="recipe_rjuice" name="Rhubarb Juice" />
+		<text id="recipe_cherryjuice" name="Cherry Juice" />
+		<text id="recipe_strawberryjuice" name="Strawberry Juice" />
 		<text id="recipe_beefstew" name="Carne Ensopada" />
 		<text id="recipe_blackforestcherrycake" name="Bolo Floresta Negra" />
 		<text id="recipe_cheeseburger" name="X-Burger" />

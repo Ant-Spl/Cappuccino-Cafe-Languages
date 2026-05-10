@@ -183,6 +183,20 @@
 		<text id="cookstep_corncake2" name="Baking cakes" />
 		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
 		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
+		<text id="cookstep_pinapjuice1" name="Squeezing pineapples" />
+		<text id="cookstep_pinapjuice2" name="Blending juice" />
+		<text id="cookstep_orangejuice1" name="Squeezing oranges" />
+		<text id="cookstep_orangejuice2" name="Blending juice" />
+		<text id="cookstep_discodrinks1" name="Mixing fruits" />
+		<text id="cookstep_discodrinks2" name="Pouring drinks" />
+		<text id="cookstep_applejuice1" name="Squeezing apples" />
+		<text id="cookstep_applejuice2" name="Blending juice" />
+		<text id="cookstep_rjuice1" name="Squeezing rhubarb" />
+		<text id="cookstep_rjuice2" name="Blending juice" />
+		<text id="cookstep_cherryjuice1" name="Pitting cherries" />
+		<text id="cookstep_cherryjuice2" name="Blending juice" />
+		<text id="cookstep_strawberryjuice1" name="Mashing strawberries" />
+		<text id="cookstep_strawberryjuice2" name="Blending juice" />
 		<text id="cookstep_cheeseburger1" name="przypiec mięso mielone" />
 		<text id="cookstep_cheeseburger2" name="dodać składniki do burgera" />
 		<text id="cookstep_cheesedish1" name="przyrządźić ser" />
@@ -996,6 +1010,29 @@
 		<text id="preparestep_feijoada_onion" name="Chop onions" />
 		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
 		<text id="preparestep_feijoada_coriander" name="Add coriander" />
+		<text id="preparestep_pinapjuice_pinapple" name="Chop pineapple" />
+		<text id="preparestep_pinapjuice_vanilla" name="Add vanilla" />
+		<text id="preparestep_orangejuice_orange" name="Slice oranges" />
+		<text id="preparestep_orangejuice_sugar" name="Add sugar" />
+		<text id="preparestep_orangejuice_vanilla" name="Add vanilla" />
+		<text id="preparestep_discodrinks_cream" name="Whip cream" />
+		<text id="preparestep_discodrinks_pinapple" name="Chop pineapple" />
+		<text id="preparestep_discodrinks_apple" name="Slice apples" />
+		<text id="preparestep_discodrinks_sugar" name="Add sugar" />
+		<text id="preparestep_discodrinks_milk" name="Pour milk" />
+		<text id="preparestep_discodrinks_vanilla" name="Add vanilla" />
+		<text id="preparestep_applejuice_apple" name="Slice apples" />
+		<text id="preparestep_applejuice_sugar" name="Add sugar" />
+		<text id="preparestep_applejuice_vanilla" name="Add vanilla" />
+		<text id="preparestep_rjuice_rhubarb" name="Chop rhubarb" />
+		<text id="preparestep_rjuice_sugar" name="Add sugar" />
+		<text id="preparestep_rjuice_vanilla" name="Add vanilla" />
+		<text id="preparestep_cherryjuice_cherries" name="Wash cherries" />
+		<text id="preparestep_cherryjuice_sugar" name="Add sugar" />
+		<text id="preparestep_cherryjuice_vanilla" name="Add vanilla" />
+		<text id="preparestep_strawberryjuice_strawberry" name="Wash strawberries" />
+		<text id="preparestep_strawberryjuice_sugar" name="Add sugar" />
+		<text id="preparestep_strawberryjuice_vanilla" name="Add vanilla" />
 		<text id="preparestep_blackforestcherrycake_flour" name="przesiać mąkę" />
 		<text id="preparestep_cheeseburger_cheese" name="pokroić ser" />
 		<text id="preparestep_cheeseburger_flour" name="przesiać mąkę" />
@@ -1366,6 +1403,13 @@
 		<text id="recipe_ramen" name="Ramen" />
 		<text id="recipe_corncake" name="Corn Cake" />
 		<text id="recipe_feijoada" name="Feijoada" />
+		<text id="recipe_pinapjuice" name="Pineapple Juice" />
+		<text id="recipe_orangejuice" name="Orange Juice" />
+		<text id="recipe_discodrinks" name="Disco Drinks" />
+		<text id="recipe_applejuice" name="Apple Juice" />
+		<text id="recipe_rjuice" name="Rhubarb Juice" />
+		<text id="recipe_cherryjuice" name="Cherry Juice" />
+		<text id="recipe_strawberryjuice" name="Strawberry Juice" />
 		<text id="recipe_blackforestcherrycake" name="Wiśniowy tort ze Schwarzwaldu" />
 		<text id="recipe_cheeseburger" name="Cheeseburger" />
 		<text id="recipe_cheesedish" name="Talerz serów" />
