@@ -201,6 +201,8 @@ If you put it into storage, you will lose the remaining portions!"  />
 			<text id="cookstep_cherryjuice2" name="Blending juice" />
 			<text id="cookstep_strawberryjuice1" name="Mashing strawberries" />
 			<text id="cookstep_strawberryjuice2" name="Blending juice" />
+			<text id="cookstep_cappuccino1" name="Brewing espresso" />
+			<text id="cookstep_cappuccino2" name="Frothing milk" />
 			<text id="cookstep_blackforestcherrycake1" name="Mixing ingredients"  />
 			<text id="cookstep_blackforestcherrycake2" name="Baking cake"  />
 			<text id="cookstep_cheeseburger1" name="Searing minced meat"  />
@@ -1091,6 +1093,9 @@ Available for limited time only!"  />
 			<text id="preparestep_strawberryjuice_sugar" name="Add sugar" />
 			<text id="preparestep_strawberryjuice_vanilla" name="Add vanilla" />
 
+			<text id="preparestep_cappuccino_cookfest" name="Think about next Cookfest" />
+			<text id="preparestep_cappuccino_cinnamon" name="Sprinkle cinnamon" />
+
 			<text id="preparestep_bananasplit_cream" name="Whip cream"  />
 			<text id="preparestep_bananasplit_milk" name="Measure milk"  />
 			<text id="preparestep_bananasplit_sugar" name="Measure sugar"  />
@@ -1484,6 +1489,7 @@ Available for limited time only!"  />
 			<text id="recipe_rjuice" name="Rhubarb Juice" />
 			<text id="recipe_cherryjuice" name="Cherry Juice" />
 			<text id="recipe_strawberryjuice" name="Strawberry Juice" />
+			<text id="recipe_cappuccino" name="Cappuccino" />
 			<text id="recipe_beefstew" name="Stew"  />
 			<text id="recipe_blackforestcherrycake" name="Black Forest Cake"  />
 			<text id="recipe_cheeseburger" name="Cheeseburger"  />
