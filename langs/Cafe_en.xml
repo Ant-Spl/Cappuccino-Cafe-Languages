@@ -1006,8 +1006,7 @@ Available for limited time only!"  />
 		</ingame_tooltips>
 		<ingredients>
 			<text id="ingredient_cookfest" name="Event Ingredients"  />
-			<text id="ingredient_citrus" name="Citrus"  />	
-			<text id="ingredient_limelemon" name="Scrapped old citrus name"  />			
+			<text id="ingredient_citrus" name="Citrus"  />			
 			<text id="ingredient_apple" name="Apples"  />
 			<text id="ingredient_bacon" name="Bacon"  />
 			<text id="ingredient_bakingmix" name="Dough Mix"  />
