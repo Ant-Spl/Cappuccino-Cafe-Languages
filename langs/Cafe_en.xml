@@ -523,8 +523,8 @@ If you put it into storage, you will lose the remaining portions!"  />
 			<text id="coop_desc_short_30" name="Don't let anyone see it!" />
 			<text id="coop_desc_long_30" name="A mouse was spotted in your Café and it wants fancy food to be served or it will ruin your business! Why does this feel familiar?" />
 
-			<text id="coop_title_32" name="BRAZIL AND PORTUGAL"
-			<text id="coop_desc_short_32" name="Shorten the distance with food!"
+			<text id="coop_title_32" name="BRAZIL AND PORTUGAL" />
+			<text id="coop_desc_short_32" name="Shorten the distance with food!" />
 			<text id="coop_desc_long_32" name="An international event is happening but Brazilian and Portugese visitors are homesick. Make traditional food to make them happy!" />
 
 			<text id="coop_title_33" name="DEV'S CHOICE!" />
@@ -1670,7 +1670,7 @@ Available for limited time only!"  />
 			<text id="preparestep_pridecupcakes_vanilla" name="Scrape out vanilla" />
 			<text id="preparestep_ratatouille_rosemary" name="Chop rosemary" />
 			<text id="preparestep_hotcherryricepudding_cinnamon" name="Sprinkle cinnamon" />
-			<text id="preparestep_fancy_coconutcake_vanilla" name="Scrape out vanilla" />
+			<text id="preparestep_coconutcake_vanilla" name="Scrape out vanilla" />
 			<text id="preparestep_paodequeijo_rosemary" name="Add rosemary" />
 			<text id="preparestep_baiaodedois_coriander" name="Chop coriander" />
 			<text id="preparestep_bakedalaska_vanilla" name="Add vanilla" />
