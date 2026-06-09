@@ -727,6 +727,7 @@
 <wod id="2255" n="Basic" g="Dish" t="Veganplate" events="0" xp="2712" incomePerServing="1" servings="2086" duration="979" level="39" dishcategory="4" requirements="1338+1#1320+1#1309+1#1327+1#1324+1#1406+1" />
 
 <wod id="2234" n="Basic" g="Dish" t="Strawberryjuice" events="0" xp="27" incomePerServing="10" servings="235" duration="6" level="40" dishcategory="0" requirements="1328+5#1325+1#1408+1" />
+<wod id="2257" n="Basic" g="Dish" t="Strawberrycheesecake" events="0" xp="2304" incomePerServing="1" servings="1690" duration="780" level="40" dishcategory="0" requirements="1308+1#1330+1#1331+1#1332+1#1328+1#1408+1" />
 
 <wod id="1234" n="Basic" g="Dish" t="Porkroastwithcrackling" events="0" xp="6605" incomePerServing="3" servings="3000" duration="2880" level="41" dishcategory="1" requirements="1315+2#1338+4#1318+1#1313+2#1407+1" />
 
