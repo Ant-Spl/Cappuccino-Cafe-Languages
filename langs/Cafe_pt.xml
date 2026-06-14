@@ -510,15 +510,15 @@ Se você estocá-la, as porções existentes serão perdidas!" />
 		<text id="coop_title_36" name="PRECISAMOS DE MUITOS OVOS!" />
 		<text id="coop_desc_short_36" name="Eles realmente vieram primeiro?" />
 		<text id="coop_desc_long_36" name="O Chef Myleeek está estudando quem veio primeiro: o ovo ou a galinha? Cozinhe pratos com ovos para descobrir!" />
-		<text id="coop_title_37" name="A GRATE MISTAKE!" />
-		<text id="coop_desc_short_37" name="The cheese rules all!" />
-		<text id="coop_desc_long_37" name="Chef Cupcakekittycat8 was hired to provide dishes for the birthday of a famous Mouse. Sadly, she used tofu instead of cheese and the mice are furious! Can you make food with cheese to help?" />
-		<text id="coop_title_38" name="BURGER FESTIVAL" />
-		<text id="coop_desc_short_38" name="A classic taste for a gathering1" />
-		<text id="coop_desc_long_38" name="Chef Franskmayn is going to serve burgers at the Marketplace. Provide some portions to get a share of the revenue!" />
-		<text id="coop_title_39" name="SWEET LIKE A STRAWBERRY!" />
-		<text id="coop_desc_short_39" name="A bountiful harvest!" />
-		<text id="coop_desc_long_39" name="The strawberry harvest was excellent and chef Gabriel wants to share the sweetness with everyone. Let&apos;s make some berry-licious dishes!" />
+		<text id="coop_title_37" name="UM ERRO QUEIJÍSSIMO!" />
+		<text id="coop_desc_short_37" name="O queijo domina tudo!" />
+		<text id="coop_desc_long_37" name="A Chef Cupcakekittycat8 foi contratada para providenciar comidas para o aniversário de um rato muito famoso. Infelizmente, ela fez os pratos com tofu e os ratos estão furiosos! Você pode ajudar ela?" />
+		<text id="coop_title_38" name="FESTIVAL DO HAMBÚRGER" />
+		<text id="coop_desc_short_38" name="Um sabor clássico para uma reunião!" />
+		<text id="coop_desc_long_38" name="Chef Franskmayn vai servir hambúrger no Mercado. Ajude e participe dos lucros!" />
+		<text id="coop_title_39" name="DOCE COMO UM MORANGO!" />
+		<text id="coop_desc_short_39" name="Uma grande colheita!" />
+		<text id="coop_desc_long_39" name="A colheita de morangos foi excelente e o Chef Gabriel quer compartilhar a doçura. Vamos servir comidas moran-vilhosas!" />
 	</coopmission>
 	<dialogs>
 		<text id="dialogwin_achievement_title" name="Conquistas" />
