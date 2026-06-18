@@ -1112,7 +1112,7 @@
 		<text id="preparestep_spanishomelette_potato" name="Obieranie ziemniaków" />
 		<text id="preparestep_spanishomelette_onion" name="Krojenie cebuli" />
 		<text id="preparestep_spanishomelette_eggs" name="Rozbijanie jajek" />
-		<text id="preparestep_spanishomelette_parsley" name="Krojenie pietruszki" />
+		<text id="preparestep_spanishomelette_parsley" name="Siekanie pietruszki" />
 		<text id="preparestep_sausagepasta_pasta" name="Gotowanie makaronu" />
 		<text id="preparestep_sausagepasta_sausages" name="Krojenie kiełbaski" />
 		<text id="preparestep_sausagepasta_tomato" name="Tworzenie sosu z pomidorów" />
@@ -1552,78 +1552,78 @@
 		<text id="preparestep_coxinha_onion" name="Krojenie cebuli" />
 		<text id="preparestep_coxinha_cream" name="Make cream cheese" />
 		<text id="preparestep_coxinha_oil" name="Podgrzewanie oleju" />
-		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
+		<text id="preparestep_coxinha_coriander" name="Siekanie kolendry" />
 	</preparestep>
 	<preparestep_fancy>
-		<text id="preparestep_duckalcitrus_cinnamon" name="Sprinkle cinnamon" />
-		<text id="preparestep_ducktatters_parsley" name="Chop parsley" />
-		<text id="preparestep_langos_parsley" name="Chop parsley" />
-		<text id="preparestep_nasilemak_chili" name="Chop chili" />
-		<text id="preparestep_citrusjuice_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_carrotcake_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_carrotjuice_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_francesinha_chili" name="Chop chili" />
-		<text id="preparestep_dorayaki_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_tiramisu_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_pridecupcakes_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_ratatouille_rosemary" name="Chop rosemary" />
-		<text id="preparestep_hotcherryricepudding_cinnamon" name="Sprinkle cinnamon" />
-		<text id="preparestep_coconutcake_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_fancy_coconutcake_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_paodequeijo_rosemary" name="Add rosemary" />
-		<text id="preparestep_baiaodedois_coriander" name="Chop coriander" />
-		<text id="preparestep_bakedalaska_vanilla" name="Add vanilla" />
-		<text id="preparestep_butterchicken_coriander" name="Chop coriander" />
-		<text id="preparestep_chickenbiryani_coriander" name="Add coriander" />
-		<text id="preparestep_cuzcuzcomovo_parsley" name="Chop parsley" />
-		<text id="preparestep_malaichickennaan_coriander" name="Chop coriander" />
-		<text id="preparestep_veganplate_parsley" name="Chop parsley" />
-		<text id="preparestep_neapolitancake_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_strawberrycheesecake_vanilla" name="Add Vanilla" />
-		<text id="preparestep_combomeal_chili" name="Make spicy sauce packets" />
-		<text id="preparestep_cottagepotatoes_parsley" name="Chop parsley" />
-		<text id="preparestep_bananasplit_vanilla" name="Rozcieranie wanilii" />
+		<text id="preparestep_duckalcitrus_cinnamon" name="Posypywanie cynamonem" />
+		<text id="preparestep_ducktatters_parsley" name="Siekanie pietruszki" />
+		<text id="preparestep_langos_parsley" name="Siekanie pietruszki" />
+		<text id="preparestep_nasilemak_chili" name="Krojenie chili" />
+		<text id="preparestep_citrusjuice_vanilla" name="Skrobanie wanilii" />
+		<text id="preparestep_carrotcake_vanilla" name="Skrobanie wanilii" />
+		<text id="preparestep_carrotjuice_vanilla" name="Skrobanie wanilii" />
+		<text id="preparestep_francesinha_chili" name="Krojenie chili" />
+		<text id="preparestep_dorayaki_vanilla" name="Skrobanie wanilii" />
+		<text id="preparestep_tiramisu_vanilla" name="Skrobanie wanilii" />
+		<text id="preparestep_pridecupcakes_vanilla" name="Skrobanie wanilii" />
+		<text id="preparestep_ratatouille_rosemary" name="Siekanie rozmarynu" />
+		<text id="preparestep_hotcherryricepudding_cinnamon" name="Posypywanie cynamonem" />
+		<text id="preparestep_coconutcake_vanilla" name="Skrobanie wanilii" />
+		<text id="preparestep_fancy_coconutcake_vanilla" name="Skrobanie wanilii" />
+		<text id="preparestep_paodequeijo_rosemary" name="Dodawanie rozmarynu" />
+		<text id="preparestep_baiaodedois_coriander" name="Siekanie kolendry" />
+		<text id="preparestep_bakedalaska_vanilla" name="Dodawanie wanilii" />
+		<text id="preparestep_butterchicken_coriander" name="Siekanie kolendry" />
+		<text id="preparestep_chickenbiryani_coriander" name="Dodawanie kolendry" />
+		<text id="preparestep_cuzcuzcomovo_parsley" name="Siekanie pietruszki" />
+		<text id="preparestep_malaichickennaan_coriander" name="Siekanie kolendry" />
+		<text id="preparestep_veganplate_parsley" name="Siekanie pietruszki" />
+		<text id="preparestep_neapolitancake_vanilla" name="Skrobanie wanilii" />
+		<text id="preparestep_strawberrycheesecake_vanilla" name="Dodawanie wanilii" />
+		<text id="preparestep_combomeal_chili" name="Robienie saszetek z ostrym sosem" />
+		<text id="preparestep_cottagepotatoes_parsley" name="Siekanie pietruszki" />
+		<text id="preparestep_bananasplit_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_blackforestcherrycake_vanilla" name="Skrobanie wanilii" />
-		<text id="preparestep_pizzasalad_chili" name="Chop chili" />
+		<text id="preparestep_pizzasalad_chili" name="Krojenie chili" />
 		<text id="preparestep_cheeseburger_chili" name="Krojenie chili" />
 		<text id="preparestep_cheesedish_parsley" name="Siekanie pietruszki" />
 		<text id="preparestep_cheesefondue_chili" name="Krojenie chili" />
 		<text id="preparestep_cherriecake_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_cherrycompote_vanilla" name="Skrobanie wanilii" />
-		<text id="preparestep_chickenburger_chili" name="posiekać chili" />
+		<text id="preparestep_chickenburger_chili" name="Siekanie chili" />
 		<text id="preparestep_chickensalad_chili" name="Krojenie chili" />
 		<text id="preparestep_chickensoup_parsley" name="Siekanie pietruszki" />
-		<text id="preparestep_chiliconcarne_chili" name="posiekać chili" />
-		<text id="preparestep_chocmousse_vanilla" name="Rozcieranie wanilii" />
-		<text id="preparestep_chocolatecake_vanilla" name="Rozcieranie wanilii" />
+		<text id="preparestep_chiliconcarne_chili" name="Siekanie chili" />
+		<text id="preparestep_chocmousse_vanilla" name="Skrobanie wanilii" />
+		<text id="preparestep_chocolatecake_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_chocolatecheesecake_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_chocolatefondue_cinnamon" name="rozpylić cynamon" />
 		<text id="preparestep_christmasturkey_rosemary" name="Siekanie rozmarynu" />
 		<text id="preparestep_cookieplate_cinnamon" name="Mielenie cynamonu" />
 		<text id="preparestep_cornonthecob_parsley" name="Siekanie pietruszki" />
-		<text id="preparestep_curry_coriander" name="posiekać kolendrę" />
+		<text id="preparestep_curry_coriander" name="Siekanie kolendry" />
 		<text id="preparestep_duckalorange_cinnamon" name="Mielenie cynamonu" />
 		<text id="preparestep_easterdish_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_englishbreakfast_chili" name="Krojenie chili" />
 		<text id="preparestep_fishandchips_parsley" name="Siekanie pietruszki" />
 		<text id="preparestep_friedpotatoes_rosemary" name="Siekanie rozmarynu" />
-		<text id="preparestep_fruitpudding_cinnamon" name="Zemleć cynamon" />
-		<text id="preparestep_fruitsalad_vanilla" name="Rozcieranie wanilii" />
+		<text id="preparestep_fruitpudding_cinnamon" name="Mielenie cynamonu" />
+		<text id="preparestep_fruitsalad_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_gardensalad_parsley" name="Siekanie pietruszki" />
 		<text id="preparestep_greensalad_parsley" name="Siekanie pietruszki" />
 		<text id="preparestep_gumbo_chili" name="Krojenie chili" />
 		<text id="preparestep_hamburger_chili" name="Krojenie chili" />
-		<text id="preparestep_hotcherrywaffles_vanilla" name="Rozcieranie wanilii" />
-		<text id="preparestep_jamspongepudding_vanilla" name="Rozcieranie wanilii" />
+		<text id="preparestep_hotcherrywaffles_vanilla" name="Skrobanie wanilii" />
+		<text id="preparestep_jamspongepudding_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_lasagne_basil" name="Zrywanie listków bazylii" />
 		<text id="preparestep_macncheese_nutmeg" name="zetrzeć gałkę muszkatołową" />
-		<text id="preparestep_maplepancakes_vanilla" name="Rozcieranie wanilii" />
+		<text id="preparestep_maplepancakes_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_marblecake_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_mexicansalad_chili" name="Krojenie chili" />
 		<text id="preparestep_minestrone_basil" name="Zrywanie listków bazylii" />
 		<text id="preparestep_mixedsalad_parsley" name="Siekanie pietruszki" />
 		<text id="preparestep_nasigoreng_chili" name="Krojenie chili" />
-		<text id="preparestep_newyorkcheesecake_vanilla" name="Rozcieranie wanilii" />
+		<text id="preparestep_newyorkcheesecake_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_noodlesalad_parsley" name="Siekanie pietruszki" />
 		<text id="preparestep_omelette_chili" name="Krojenie chili" />
 		<text id="preparestep_onionsoup_chili" name="Krojenie chili" />
@@ -1642,18 +1642,18 @@
 		<text id="preparestep_spareribs_chili" name="Krojenie chili" />
 		<text id="preparestep_steakkidneypie_parsley" name="Siekanie pietruszki" />
 		<text id="preparestep_steak_parsley" name="Siekanie pietruszki" />
-		<text id="preparestep_stewedrhubarb_vanilla" name="Rozcieranie wanilii" />
+		<text id="preparestep_stewedrhubarb_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_stew_chili" name="Krojenie chili" />
-		<text id="preparestep_strawberrycake_vanilla" name="Rozcieranie wanilii" />
+		<text id="preparestep_strawberrycake_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_strawberrymousse_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_stuffedpeppers_parsley" name="Siekanie pietruszki" />
 		<text id="preparestep_sundayfeast_rosemary" name="Siekanie rozmarynu" />
 		<text id="preparestep_sushi_horseradish" name="Tarcie chrzanu" />
 		<text id="preparestep_toadinhole_rosemary" name="Siekanie rozmarynu" />
 		<text id="preparestep_toast_chili" name="Krojenie chili" />
-		<text id="preparestep_tofuburger_chili" name="posiekać chili" />
+		<text id="preparestep_tofuburger_chili" name="Siekanie chili" />
 		<text id="preparestep_tomatosoup_basil" name="Zrywanie listków bazylii" />
-		<text id="preparestep_trifle_vanilla" name="Rozcieranie wanilii" />
+		<text id="preparestep_trifle_vanilla" name="Skrobanie wanilii" />
 		<text id="preparestep_veganstirfry_chili" name="Krojenie chili" />
 		<text id="preparestep_vegetablesoup_basil" name="Zrywanie listków bazylii" />
 		<text id="preparestep_veggiecurry_coriander" name="Siekanie kolendry" />
