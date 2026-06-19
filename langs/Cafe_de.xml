@@ -135,7 +135,7 @@
 		<text id="alert_workinghero_title" name="Warte!" />
 	</alerts>
 	<commons>
-		<text id="addgold" name="mehr Gold" />
+		<text id="addgold" name="Mehr Gold" />
 		<text id="buy" name="Kaufen" />
 		<text id="cash" name="Cafédollar" />
 		<text id="comingsoon" name="*Coming Soon*" />
@@ -154,7 +154,7 @@
 		<text id="second" name="Sekunde" />
 		<text id="seconds" name="Sekunden" />
 		<text id="sell" name="Verkaufen" />
-		<text id="usable_character" name="usable character" />
+		<text id="usable_character" name="Brauchbarer Character" />
 		<text id="XofY" name="{0} von {1}" />
 		<text id="xp" name="XP" />
 	</commons>
