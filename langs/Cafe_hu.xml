@@ -161,106 +161,106 @@
 	<cookstep>
 		<text id="cookstep_bananasplit1" name="Fagylaltot hűteni" />
 		<text id="cookstep_bananasplit2" name="Banánt felvágni" />
-		<text id="cookstep_brigadeiro1" name="Melting chocolate" />
-		<text id="cookstep_brigadeiro2" name="Shaping brigadeiros" />
+		<text id="cookstep_brigadeiro1" name="Csokoládét olvasztani" />
+		<text id="cookstep_brigadeiro2" name="Brigadeirokat formázni" />
 		<text id="cookstep_blackforestcherrycake1" name="Hozzávalókat összekeverni" />
 		<text id="cookstep_blackforestcherrycake2" name="Sütit sütni" />
-		<text id="cookstep_pizzasalad1" name="Making pizzas" />
-		<text id="cookstep_pizzasalad2" name="Making salads" />
-		<text id="cookstep_tripleomelette1" name="Mixing eggs strongly" />
-		<text id="cookstep_tripleomelette2" name="Folding everything" />
-		<text id="cookstep_chocolatewaffles1" name="Melting chocolate" />
-		<text id="cookstep_chocolatewaffles2" name="Covering waffles" />
-		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
-		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
-		<text id="cookstep_sausagepasta1" name="Boiling pasta" />
-		<text id="cookstep_sausagepasta2" name="Frying sausages" />
-		<text id="cookstep_applepie1" name="Building pies" />
-		<text id="cookstep_applepie2" name="Baking pies" />
-		<text id="cookstep_ramen1" name="Boiling pasta" />
-		<text id="cookstep_ramen2" name="Adding spices" />
-		<text id="cookstep_corncake1" name="Mixing ingredients" />
-		<text id="cookstep_corncake2" name="Baking cakes" />
-		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
-		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
-		<text id="cookstep_pinapjuice1" name="Squeezing pineapples" />
-		<text id="cookstep_pinapjuice2" name="Blending juice" />
-		<text id="cookstep_orangejuice1" name="Squeezing oranges" />
-		<text id="cookstep_orangejuice2" name="Blending juice" />
-		<text id="cookstep_discodrinks1" name="Mixing fruits" />
-		<text id="cookstep_discodrinks2" name="Pouring drinks" />
-		<text id="cookstep_applejuice1" name="Squeezing apples" />
-		<text id="cookstep_applejuice2" name="Blending juice" />
-		<text id="cookstep_rjuice1" name="Squeezing rhubarb" />
-		<text id="cookstep_rjuice2" name="Blending juice" />
-		<text id="cookstep_cherryjuice1" name="Pitting cherries" />
-		<text id="cookstep_cherryjuice2" name="Blending juice" />
-		<text id="cookstep_strawberryjuice1" name="Mashing strawberries" />
-		<text id="cookstep_strawberryjuice2" name="Blending juice" />
-		<text id="cookstep_cappuccino1" name="Brewing espresso" />
-		<text id="cookstep_cappuccino2" name="Frothing milk" />
-		<text id="cookstep_duckalcitrus1" name="Roasting duck" />
-		<text id="cookstep_duckalcitrus2" name="Adding citrus glaze" />
-		<text id="cookstep_ducktatters1" name="Frying ingredients" />
-		<text id="cookstep_ducktatters2" name="Mixing dish" />
-		<text id="cookstep_langos1" name="Making sauce" />
-		<text id="cookstep_langos2" name="Cooling sauce" />
-		<text id="cookstep_nasilemak1" name="Cooking rice" />
-		<text id="cookstep_nasilemak2" name="Plating dish" />
-		<text id="cookstep_citrusjuice1" name="Squeezing citrus" />
-		<text id="cookstep_citrusjuice2" name="Blending juice" />
-		<text id="cookstep_carrotcake1" name="Mixing batter" />
-		<text id="cookstep_carrotcake2" name="Baking cake" />
-		<text id="cookstep_carrotjuice1" name="Blending carrots" />
-		<text id="cookstep_carrotjuice2" name="Pouring juice" />
-		<text id="cookstep_francesinha1" name="Building sandwich" />
-		<text id="cookstep_francesinha2" name="Melting cheese" />
-		<text id="cookstep_dorayaki1" name="Prepping filling" />
-		<text id="cookstep_dorayaki2" name="Letting it cool" />
-		<text id="cookstep_tiramisu1" name="Layering dessert" />
-		<text id="cookstep_tiramisu2" name="Chilling tiramisu" />
-		<text id="cookstep_pridecupcakes1" name="Mixing batter" />
-		<text id="cookstep_pridecupcakes2" name="Decorating" />
-		<text id="cookstep_ratatouille1" name="Prepping vegetables" />
-		<text id="cookstep_ratatouille2" name="Stacking" />
-		<text id="cookstep_hotcherryricepudding1" name="Cooking rice" />
-		<text id="cookstep_hotcherryricepudding2" name="Adding cherries" />
-		<text id="cookstep_coconutcake1" name="Mixing ingredients" />
-		<text id="cookstep_coconutcake2" name="Baking cake" />
-		<text id="cookstep_paodequeijo1" name="Shaping dough" />
-		<text id="cookstep_paodequeijo2" name="Baking bread" />
-		<text id="cookstep_baiaodedois1" name="Mixing rice and beans" />
-		<text id="cookstep_baiaodedois2" name="Adding crispy bacon" />
-		<text id="cookstep_bakedalaska1" name="Cooling cream" />
-		<text id="cookstep_bakedalaska2" name="Browning meringue" />
-		<text id="cookstep_butterchicken1" name="Boiling sauce" />
-		<text id="cookstep_butterchicken2" name="Simmering curry sauce" />
-		<text id="cookstep_chickenbiryani1" name="Mixing spices" />
-		<text id="cookstep_chickenbiryani2" name="Spicing rice" />
-		<text id="cookstep_cottagepotatoes1" name="Preparing potatoes" />
-		<text id="cookstep_cottagepotatoes2" name="Spreading cottage" />
-		<text id="cookstep_cuzcuzcomovo1" name="Steaming cornmeal" />
-		<text id="cookstep_cuzcuzcomovo2" name="Frying eggs" />
-		<text id="cookstep_malaichickennaan1" name="Prepping batter" />
-		<text id="cookstep_malaichickennaan2" name="Folding naan" />
-		<text id="cookstep_veganplate1" name="Cooking rice" />
-		<text id="cookstep_veganplate2" name="Spreading rice" />
-		<text id="cookstep_neapolitancake1" name="Melting ingredients" />
-		<text id="cookstep_neapolitancake2" name="Baking cake" />
-		<text id="cookstep_strawberrycheesecake1" name="Mixing ingredients" />
-		<text id="cookstep_strawberrycheesecake2" name="Baking cake" />
-		<text id="cookstep_combomeal1" name="Frying burger meat" />
-		<text id="cookstep_combomeal2" name="Frying fries somehow" />
-		<text id="cookstep_zcordonbleu1" name="Preparing chicken" />
-		<text id="cookstep_zcordonbleu2" name="Adding lemon slices" />
-		<text id="cookstep_brazilianpastel1" name="Frying pastels" />
-		<text id="cookstep_brazilianpastel2" name="Almost there" />
-		<text id="cookstep_lechonkawali1" name="Preparing pork belly" />
-		<text id="cookstep_lechonkawali2" name="Frying until crispy" />
-		<text id="cookstep_sweetpizza1" name="Spreading chocolate" />
-		<text id="cookstep_sweetpizza2" name="Baking sweet pizza" />
-		<text id="cookstep_shakshuka1" name="Melting tomatoes" />
-		<text id="cookstep_shakshuka2" name="Simmering sauce" />
+		<text id="cookstep_pizzasalad1" name="Pizzaszeleteket készíteni" />
+		<text id="cookstep_pizzasalad2" name="Salátát készíteni" />
+		<text id="cookstep_tripleomelette1" name="Tojásokat felverni" />
+		<text id="cookstep_tripleomelette2" name="Összekeverni mindent" />
+		<text id="cookstep_chocolatewaffles1" name="Csokoládét olvasztani" />
+		<text id="cookstep_chocolatewaffles2" name="Gofrikat leönteni" />
+		<text id="cookstep_spanishomelette1" name="Huevost készíteni" />
+		<text id="cookstep_spanishomelette2" name="Omlettet készíteni" />
+		<text id="cookstep_sausagepasta1" name="Tésztát főzni" />
+		<text id="cookstep_sausagepasta2" name="Kolbászt pirítani" />
+		<text id="cookstep_applepie1" name="Pitét készíteni" />
+		<text id="cookstep_applepie2" name="Pitét sütni" />
+		<text id="cookstep_ramen1" name="Tésztát főzni" />
+		<text id="cookstep_ramen2" name="Fűszerezni" />
+		<text id="cookstep_corncake1" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_corncake2" name="Sütit sütni" />
+		<text id="cookstep_feijoada1" name="Sertéshúst aprítani" />
+		<text id="cookstep_feijoada2" name="Narancsszeleteket manifesztálni" />
+		<text id="cookstep_pinapjuice1" name="Ananászt facsarni" />
+		<text id="cookstep_pinapjuice2" name="Levet kikeverni" />
+		<text id="cookstep_orangejuice1" name="Narancsot facsarni" />
+		<text id="cookstep_orangejuice2" name="Levet kikeverni" />
+		<text id="cookstep_discodrinks1" name="Gyümölcsöket összekeverni" />
+		<text id="cookstep_discodrinks2" name="Üdítőket kiönteni" />
+		<text id="cookstep_applejuice1" name="Almát facsarni" />
+		<text id="cookstep_applejuice2" name="Levet kikeverni" />
+		<text id="cookstep_rjuice1" name="Rebarbarát facsarni" />
+		<text id="cookstep_rjuice2" name="Levet kikeverni" />
+		<text id="cookstep_cherryjuice1" name="Cseresznyét magozni" />
+		<text id="cookstep_cherryjuice2" name="Levet kikeverni" />
+		<text id="cookstep_strawberryjuice1" name="Epret összenyomni" />
+		<text id="cookstep_strawberryjuice2" name="Levet kikeverni" />
+		<text id="cookstep_cappuccino1" name="Espressot főzni" />
+		<text id="cookstep_cappuccino2" name="Tejet habosítani" />
+		<text id="cookstep_duckalcitrus1" name="Kacsát pirítani" />
+		<text id="cookstep_duckalcitrus2" name="Citrust hozzáadni" />
+		<text id="cookstep_ducktatters1" name="Hozzávalók pirítása" />
+		<text id="cookstep_ducktatters2" name="Étel kikeverése" />
+		<text id="cookstep_langos1" name="Szósz készítése" />
+		<text id="cookstep_langos2" name="Szósz hűtése" />
+		<text id="cookstep_nasilemak1" name="Rizst főzni" />
+		<text id="cookstep_nasilemak2" name="Tányérra szedni az ételt" />
+		<text id="cookstep_citrusjuice1" name="Citrust facsarni" />
+		<text id="cookstep_citrusjuice2" name="Levet kikeverni" />
+		<text id="cookstep_carrotcake1" name="Vajat keverni" />
+		<text id="cookstep_carrotcake2" name="Tortát sütni" />
+		<text id="cookstep_carrotjuice1" name="Répát mixelni" />
+		<text id="cookstep_carrotjuice2" name="Levet kiönteni" />
+		<text id="cookstep_francesinha1" name="Szendvicset készíteni" />
+		<text id="cookstep_francesinha2" name="Sajtot olvasztani" />
+		<text id="cookstep_dorayaki1" name="Tölteléket előkészíteni" />
+		<text id="cookstep_dorayaki2" name="Hűlni hagyni" />
+		<text id="cookstep_tiramisu1" name="Desszert rétegzése" />
+		<text id="cookstep_tiramisu2" name="Tiramisut hűteni" />
+		<text id="cookstep_pridecupcakes1" name="Vajat keverni" />
+		<text id="cookstep_pridecupcakes2" name="Dekorálni" />
+		<text id="cookstep_ratatouille1" name="Zöldségeket előkészíteni" />
+		<text id="cookstep_ratatouille2" name="Tornyozni" />
+		<text id="cookstep_hotcherryricepudding1" name="Rizst főzni" />
+		<text id="cookstep_hotcherryricepudding2" name="Cseresznyét hozzáadni" />
+		<text id="cookstep_coconutcake1" name="Hozzávalók összekeverése" />
+		<text id="cookstep_coconutcake2" name="Tortát sütni" />
+		<text id="cookstep_paodequeijo1" name="Tésztát formázni" />
+		<text id="cookstep_paodequeijo2" name="Kenyeret sütni" />
+		<text id="cookstep_baiaodedois1" name="Rizst és babot keverni" />
+		<text id="cookstep_baiaodedois2" name="Szalonnát hozzáadni" />
+		<text id="cookstep_bakedalaska1" name="Krémet hűlni hagyni" />
+		<text id="cookstep_bakedalaska2" name="Habcsókot barnulni hagyni" />
+		<text id="cookstep_butterchicken1" name="Szószt főzni" />
+		<text id="cookstep_butterchicken2" name="Curry-t főzni" />
+		<text id="cookstep_chickenbiryani1" name="Fűszerezni" />
+		<text id="cookstep_chickenbiryani2" name="Rizst ízesíteni" />
+		<text id="cookstep_cottagepotatoes1" name="Krumplit előkészíteni" />
+		<text id="cookstep_cottagepotatoes2" name="Hozzávalót megkenni" />
+		<text id="cookstep_cuzcuzcomovo1" name="Kukoricalisztet gőzölni" />
+		<text id="cookstep_cuzcuzcomovo2" name="Tojást pirítani" />
+		<text id="cookstep_malaichickennaan1" name="Vajat előkészíteni" />
+		<text id="cookstep_malaichickennaan2" name="Naan-t összehajtani" />
+		<text id="cookstep_veganplate1" name="Rizst főzni" />
+		<text id="cookstep_veganplate2" name="Rizst szétteríteni" />
+		<text id="cookstep_neapolitancake1" name="Hozzávalókat olvasztani" />
+		<text id="cookstep_neapolitancake2" name="Tortát sütni" />
+		<text id="cookstep_strawberrycheesecake1" name="Hozzávalókat összekeverni" />
+		<text id="cookstep_strawberrycheesecake2" name="Tortát sütni" />
+		<text id="cookstep_combomeal1" name="Hamburger húst pirítani" />
+		<text id="cookstep_combomeal2" name="Hasábburgonyát pirítani" />
+		<text id="cookstep_zcordonbleu1" name="Csirkét előkészíteni" />
+		<text id="cookstep_zcordonbleu2" name="Citromszeleteket hozzáadni" />
+		<text id="cookstep_brazilianpastel1" name="Pasteleket pirítani" />
+		<text id="cookstep_brazilianpastel2" name="Majdnem megvagyunk!" />
+		<text id="cookstep_lechonkawali1" name="Sertéshúst előkészíteni" />
+		<text id="cookstep_lechonkawali2" name="Pirítani amíg ropogós" />
+		<text id="cookstep_sweetpizza1" name="Csokoládét szétteríteni" />
+		<text id="cookstep_sweetpizza2" name="Édes pizzát sütni" />
+		<text id="cookstep_shakshuka1" name="Paradicsomot melegíteni" />
+		<text id="cookstep_shakshuka2" name="Szószt főzni" />
 		<text id="cookstep_cheeseburger1" name="Darált húst sütni" />
 		<text id="cookstep_cheeseburger2" name="Hamburgert összeállítani" />
 		<text id="cookstep_cheesedish1" name="Sajtot tálalni" />
@@ -270,7 +270,7 @@
 		<text id="cookstep_cherriecake1" name="Hozzávalókat összekeverni" />
 		<text id="cookstep_cherriecake2" name="Sütit sütni" />
 		<text id="cookstep_cherrycompote1" name="Cseresznyét főzni" />
-		<text id="cookstep_cherrycompote2" name="lehűteni" />
+		<text id="cookstep_cherrycompote2" name="Lehűteni" />
 		<text id="cookstep_chickenburger1" name="Csirkét megsütni" />
 		<text id="cookstep_chickenburger2" name="Hamburgert összállítani" />
 		<text id="cookstep_chickensalad1" name="Csirkét kisütni" />
@@ -326,7 +326,7 @@
 		<text id="cookstep_maplepancakes1" name="Tésztát kikeverni" />
 		<text id="cookstep_maplepancakes2" name="Palacsintát kisütni" />
 		<text id="cookstep_marblecake1" name="Formát megtölteni" />
-		<text id="cookstep_marblecake2" name="sütni" />
+		<text id="cookstep_marblecake2" name="Sütni" />
 		<text id="cookstep_mexicansalad1" name="Babot főzni" />
 		<text id="cookstep_mexicansalad2" name="Hozzávalókat összekeverni" />
 		<text id="cookstep_minestrone1" name="Zöldséget párolni" />
@@ -410,7 +410,7 @@
 		<text id="cookstep_whitechocmousse1" name="Csokoládét olvasztani" />
 		<text id="cookstep_whitechocmousse2" name="Krémet hűlni hagyni" />
 		<text id="cookstep_coxinha1" name="Mixing ingredients" />
-		<text id="cookstep_coxinha2" name="Frying coxinhas" />
+		<text id="cookstep_coxinha2" name="Coxinha-t kisütni" />
 	</cookstep>
 	<coopmission>
 		<text id="coop_desc_long_1" name="Tartunk egy főzőtanfolyamot, hogy az ételeidet tökéletesíthesd. Részt veszel rajta?" />
@@ -458,48 +458,48 @@
 		<text id="coop_title_7" name="Iskolai étkezés elmaradt" />
 		<text id="coop_title_8" name="Születésnapi buli" />
 		<text id="coop_title_9" name="Olasz büfé" />
-		<text id="coop_title_16" name="MORNING RUSH!" />
-		<text id="coop_desc_short_16" name="Start the day right!" />
-		<text id="coop_desc_long_16" name="Chef cupcakekittycat8 will host a big breakfast at the Marketplace. Can you provide some of what will be served?" />
-		<text id="coop_title_17" name="POST-LUNCH DESSERTS" />
-		<text id="coop_desc_short_17" name="Craving sweets are we?" />
-		<text id="coop_desc_long_17" name="Chef Gabriel served a salty lunch and the costumers are craving many sweets! Help out and sweeten the day!" />
-		<text id="coop_title_18" name="FOOD CRITIC VISIT!" />
-		<text id="coop_desc_short_18" name="Cook to impress!" />
-		<text id="coop_desc_long_18" name="Chef cupcakekittycat8 invited a food critic to visit your Café and he has a refined taste! It is time to cook!" />
+		<text id="coop_title_16" name="REGGELI TÖMEG!" />
+		<text id="coop_desc_short_16" name="Induljon jól a reggel!" />
+		<text id="coop_desc_long_16" name="Séf cupcakekittycat8 nagy reggelit fog tartani a piacon. Tudsz segíteni neki?" />
+		<text id="coop_title_17" name="EBÉD-UTÁNI DESSZERT!" />
+		<text id="coop_desc_short_17" name="Édességre vágyunk?" />
+		<text id="coop_desc_long_17" name="Séf Gabriel nagy ebédet szolgált fel, és a vendégek desszertet akarnak! Segíts, és édesítsd meg a napot!" />
+		<text id="coop_title_18" name="ÉTELKRITIKUS JÖN!" />
+		<text id="coop_desc_short_18" name="Főzz, hogy lenyűgözd!" />
+		<text id="coop_desc_long_18" name="Séf cupcakekittycat8 ételkritikust hívott a kávézódba akinek kényes ízlése van! Főzz valami finomat!" />
 		<text id="coop_title_19" name="LAN PARTY!" />
-		<text id="coop_desc_short_19" name="Fast food for fast games!" />
-		<text id="coop_desc_long_19" name="Chef Surfguiger5 decided to join a LAN party and was tasked with bringing the food. The attendees want a lot, though! Help out!" />
-		<text id="coop_title_20" name="LATE NIGHT DRIVE THRU" />
-		<text id="coop_desc_short_20" name="A quick dinner for a long day!" />
-		<text id="coop_desc_long_20" name="Chef Patawka opened a drive-thru and is willing to share profits with anyone that helps provide food for it. Participate!" />
-		<text id="coop_title_21" name="FIT FOOD ONLY!" />
-		<text id="coop_desc_short_21" name="It&apos;s time to eat well!" />
-		<text id="coop_desc_long_21" name="Chef Surfguiger5 learned about the craze of Triple Omelettes and is concerned about weight gain. Cook healthy food to prove that your Café is healthy too!" />
-		<text id="coop_title_22" name="HOTEL BRUNCH" />
-		<text id="coop_desc_short_22" name="Want a quick bite?" />
-		<text id="coop_desc_long_22" name="Chef Surfguiger5 was asked by the local hotel to provide food for a brunch. However, the stoves broke and it&apos;s up to you to help! Profits will be shared." />
-		<text id="coop_title_23" name="BRAZILIAN WAY" />
-		<text id="coop_desc_short_23" name="Enjoy what Brazil has to offer!" />
-		<text id="coop_desc_long_23" name="Chef Surfguiger5 wants everyone to taste Brazilian food. Cook it!" />
-		<text id="coop_title_24" name="THE CARB COUNTER" />
-		<text id="coop_desc_short_24" name="An energy refill!" />
-		<text id="coop_desc_long_24" name="The local gym asked chef Artemis to supply dishes rich in carbs to keep the clients energized. Help out to earn your share too!" />
-		<text id="coop_title_25" name="WEDDING TASTING" />
-		<text id="coop_desc_short_25" name="A marriage is coming!" />
-		<text id="coop_desc_long_25" name="Chef Kvmxl said that the Café Lady and the Muffin Man are getting married! It was said that they will pay nicely for any Café that has their favorite food. Are the rumors true?" />
+		<text id="coop_desc_short_19" name="Gyorskaja a gyors játékra!" />
+		<text id="coop_desc_long_19" name="Séf Surfguiger5 LAN partyra ment és meglett bízva azzal hogy ételt hozzon. A látogatók viszont sokat akarnak! Segíts!" />
+		<text id="coop_title_20" name="KÉSŐ ÉJSZAKAI KAJA" />
+		<text id="coop_desc_short_20" name="Egy gyors vacsi a hosszú nap után!" />
+		<text id="coop_desc_long_20" name="Séf Patawka Drive-thru-t nyitott és szívesen osztozkodna a profiton ha besegítesz. Vegyél részt!" />
+		<text id="coop_title_21" name="CSAK SPORTKAJA!" />
+		<text id="coop_desc_short_21" name="Itt az idő a helyes táplálkozásra!" />
+		<text id="coop_desc_long_21" name="Séf Surfguiger5 rájött a tripla omlett szörnyű és egészségtelen igazságára. Főzz valami egészségeset!" />
+		<text id="coop_title_22" name="HOTEL VILLÁSREGGELI" />
+		<text id="coop_desc_short_22" name="Szeretnél egy falatot?" />
+		<text id="coop_desc_long_22" name="Séf Surfguiger5-t megkérték egy hotelből hogy villásreggelit készítsen. Viszont a tűzhelyek elromlottak, szóval rajtad áll a sor! Profitot elosszátok." />
+		<text id="coop_title_23" name="BRAZIL ÉLET" />
+		<text id="coop_desc_short_23" name="Élvezd a Brazil életet!" />
+		<text id="coop_desc_long_23" name="Séf Surfguiger5 szeretné ha kipróbáld a Brazil ételeket. Irány főzni!" />
+		<text id="coop_title_24" name="A KALÓRIAMÉRŐ" />
+		<text id="coop_desc_short_24" name="Energia újratöltve!" />
+		<text id="coop_desc_long_24" name="Séf Artemis-t megkérték a közeli fitnesszteremből, hogy hozzon magas kalóriájú átelt. Segíts hogy te is kapj!" />
+		<text id="coop_title_25" name="ESKÜVŐI KÓSTOLÁS" />
+		<text id="coop_desc_short_25" name="Kézkérés lesz!" />
+		<text id="coop_desc_long_25" name="Séf Kvmxl azt mondta, hogy a kis kávézós hölgy és a muffin úr összeházasodnak! Azt mondják, hogy aki megfőzi a kedvenc ételeiket dúsan gazdagodnak. Igazak ezek a pletykák?" />
 		<text id="coop_title_26" name="DINNER BUFFET" />
-		<text id="coop_desc_short_26" name="Eat up!" />
-		<text id="coop_desc_long_26" name="Chef Cupcakekittycat8 wants a dinner with plenty of food. Help out!" />
-		<text id="coop_title_27" name="OISH-SOME" />
-		<text id="coop_desc_short_27" name="So great!" />
-		<text id="coop_desc_long_27" name="Chef Nao wants to serve food for an anime convention happening at the Café next door. Give a hand!" />
-		<text id="coop_title_28" name="COCOANFESSION" />
-		<text id="coop_desc_short_28" name="The true love is Chocolate!" />
-		<text id="coop_desc_long_28" name="Chef Nao wants to popularize chocolate dishes around the neighborhood and will pay for it. Why not participate?" />
-		<text id="coop_title_31" name="CURRY FESTIVAL" />
-		<text id="coop_desc_short_31" name="There&apos;s an option for everyone!" />
-		<text id="coop_desc_long_31" name="A local Indian festival wants to hand out as much curry as possible to guests. Can you help?" />
+		<text id="coop_desc_short_26" name="EGYÉ MÁ!" />
+		<text id="coop_desc_long_26" name="sÉF Cupcakekittycat8 nagy vacsorát szeretne. Segíts neki!" />
+		<text id="coop_title_27" name="OISHI! DE FINOM!" />
+		<text id="coop_desc_short_27" name="Annyira jó!" />
+		<text id="coop_desc_long_27" name="Séf Nao anime conra szeretne ételt felszolgálni. Segíts neki!" />
+		<text id="coop_title_28" name="CSOKI-SZERELEM!" />
+		<text id="coop_desc_short_28" name="Igaz szerelem egy kocka csokiban!" />
+		<text id="coop_desc_long_28" name="Séf Nao szeretne több csokis édességet eladni. Segítesz neki?" />
+		<text id="coop_title_31" name="CURRY FESZTIVÁL" />
+		<text id="coop_desc_short_31" name="Mindenkinek jut valami!" />
+		<text id="coop_desc_long_31" name="Egy indiai étterem szeretne curryt adni mindenkinek. Tudsz segíteni?" />
 		<text id="coop_title_29" name="CURRY FESTIVAL" />
 		<text id="coop_desc_short_29" name="There&apos;s an option for everyone!" />
 		<text id="coop_desc_long_29" name="A local Indian festival wants to hand out as much curry as possible to guests. Can you help?" />
