@@ -1096,218 +1096,218 @@
 		<text id="panelwin_social_writeable" name="Nur registrierte Spieler ab Level 1 dürfen den Chat benutzen." />
 	</panels>
 	<preparestep>
-		<text id="preparestep_bananasplit_banana" name="Banane schälen" />
+<text id="preparestep_bananasplit_banana" name="Banane schälen" />
 		<text id="preparestep_bananasplit_chocolate" name="Schokolade hacken" />
-		<text id="preparestep_brigadeiro_chocolate" name="Cut chocolate" />
-		<text id="preparestep_brigadeiro_cream" name="Mix cream" />
-		<text id="preparestep_brigadeiro_vanilla" name="Shave vanilla" />
+		<text id="preparestep_brigadeiro_chocolate" name="Schokolade hacken" />
+		<text id="preparestep_brigadeiro_cream" name="Sahne unterrühren" />
+		<text id="preparestep_brigadeiro_vanilla" name="Vanille ausschaben" />
 		<text id="preparestep_bananasplit_cream" name="Sahne schlagen" />
 		<text id="preparestep_bananasplit_milk" name="Milch abmessen" />
 		<text id="preparestep_bananasplit_sugar" name="Zucker abwiegen" />
 		<text id="preparestep_blackforestcherrycake_chocolate" name="Schokolade raspeln" />
 		<text id="preparestep_blackforestcherrycake_cocktailcherry" name="Kirschen putzen" />
 		<text id="preparestep_blackforestcherrycake_cream" name="Sahne schlagen" />
-		<text id="preparestep_pizzasalad_tomato" name="Cut tomatoes" />
-		<text id="preparestep_pizzasalad_onion" name="Cut onions" />
-		<text id="preparestep_pizzasalad_lettuce" name="Wash lettuce" />
-		<text id="preparestep_pizzasalad_cheese" name="Grate cheese" />
-		<text id="preparestep_pizzasalad_flour" name="Sift flour" />
-		<text id="preparestep_tripleomelette_eggs" name="Crack eggs strongly" />
-		<text id="preparestep_tripleomelette_chili" name="Make it spicy" />
-		<text id="preparestep_chocolatewaffles_flour" name="Measure flour" />
-		<text id="preparestep_chocolatewaffles_cream" name="Whip cream" />
-		<text id="preparestep_chocolatewaffles_eggs" name="Crack eggs softly" />
-		<text id="preparestep_chocolatewaffles_chocolate" name="Melt chocolate" />
-		<text id="preparestep_chocolatewaffles_vanilla" name="Add vanilla extract" />
-		<text id="preparestep_spanishomelette_potato" name="Peel potatoes" />
-		<text id="preparestep_spanishomelette_onion" name="Chop onions" />
-		<text id="preparestep_spanishomelette_eggs" name="Crack eggs in Spanish" />
-		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
-		<text id="preparestep_sausagepasta_pasta" name="Boil pasta" />
-		<text id="preparestep_sausagepasta_sausages" name="Chop sausages" />
-		<text id="preparestep_sausagepasta_tomato" name="Make tomato sauce" />
-		<text id="preparestep_sausagepasta_coriander" name="Chop coriander" />
-		<text id="preparestep_applepie_cream" name="Whip cream" />
-		<text id="preparestep_applepie_eggs" name="Crack eggs elegantly" />
-		<text id="preparestep_applepie_flour" name="Measure flour" />
-		<text id="preparestep_applepie_apple" name="Think about apple economy" />
-		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
-		<text id="preparestep_ramen_pasta" name="Boil pasta" />
-		<text id="preparestep_ramen_eggs" name="Boil eggs" />
-		<text id="preparestep_ramen_bacon" name="Chop bacon" />
-		<text id="preparestep_ramen_chili" name="Make it spicy" />
-		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
-		<text id="preparestep_corncake_butter" name="Melt butter" />
-		<text id="preparestep_corncake_eggs" name="Mix eggs" />
-		<text id="preparestep_corncake_milk" name="Add milk" />
-		<text id="preparestep_corncake_sugar" name="Mix sugar in the dough" />
-		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
-		<text id="preparestep_feijoada_beans" name="Boil beans" />
-		<text id="preparestep_feijoada_bacon" name="Chop bacon chunks" />
-		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
-		<text id="preparestep_feijoada_onion" name="Chop onions" />
-		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
-		<text id="preparestep_feijoada_coriander" name="Add coriander" />
-		<text id="preparestep_pinapjuice_pinapple" name="Chop pineapple" />
-		<text id="preparestep_pinapjuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_orangejuice_orange" name="Slice oranges" />
-		<text id="preparestep_orangejuice_sugar" name="Add sugar" />
-		<text id="preparestep_orangejuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_discodrinks_cream" name="Whip cream" />
-		<text id="preparestep_discodrinks_pinapple" name="Chop pineapple" />
-		<text id="preparestep_discodrinks_apple" name="Slice apples" />
-		<text id="preparestep_discodrinks_sugar" name="Add sugar" />
-		<text id="preparestep_discodrinks_milk" name="Pour milk" />
-		<text id="preparestep_discodrinks_vanilla" name="Add vanilla" />
-		<text id="preparestep_applejuice_apple" name="Slice apples" />
-		<text id="preparestep_applejuice_sugar" name="Add sugar" />
-		<text id="preparestep_applejuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_rjuice_rhubarb" name="Chop rhubarb" />
-		<text id="preparestep_rjuice_sugar" name="Add sugar" />
-		<text id="preparestep_rjuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_cherryjuice_cherries" name="Wash cherries" />
-		<text id="preparestep_cherryjuice_sugar" name="Add sugar" />
-		<text id="preparestep_cherryjuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_strawberryjuice_strawberry" name="Wash strawberries" />
-		<text id="preparestep_strawberryjuice_sugar" name="Add sugar" />
-		<text id="preparestep_strawberryjuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_cappuccino_cookfest" name="Think about next Cookfest" />
-		<text id="preparestep_cappuccino_cinnamon" name="Sprinkle cinnamon" />
-		<text id="preparestep_duckalcitrus_duck" name="Prepare duck" />
-		<text id="preparestep_duckalcitrus_butter" name="Melt butter" />
-		<text id="preparestep_duckalcitrus_onion" name="Chop onions" />
-		<text id="preparestep_duckalcitrus_citrus" name="Squeeze citrus" />
-		<text id="preparestep_ducktatters_duck" name="Prepare duck" />
-		<text id="preparestep_ducktatters_potato" name="Chop potatoes" />
-		<text id="preparestep_ducktatters_pasta" name="Boil pasta" />
-		<text id="preparestep_ducktatters_oil" name="Heat oil" />
-		<text id="preparestep_langos_flour" name="Sift flour" />
-		<text id="preparestep_langos_eggs" name="Crack eggs" />
-		<text id="preparestep_langos_cream" name="Whip cream" />
-		<text id="preparestep_langos_garlic" name="Press garlic" />
-		<text id="preparestep_langos_cheese" name="Grate cheese" />
-		<text id="preparestep_nasilemak_rice" name="Wash rice" />
-		<text id="preparestep_nasilemak_eggs" name="Boil eggs" />
-		<text id="preparestep_nasilemak_onion" name="Chop onions" />
-		<text id="preparestep_nasilemak_beans" name="Cook beans" />
-		<text id="preparestep_nasilemak_cucumber" name="Slice cucumbers" />
-		<text id="preparestep_citrusjuice_citrus" name="Squeeze citrus" />
-		<text id="preparestep_citrusjuice_sugar" name="Measure sugar" />
-		<text id="preparestep_carrotcake_carrots" name="Grate carrots" />
-		<text id="preparestep_carrotcake_flour" name="Sift flour" />
-		<text id="preparestep_carrotcake_whitechocolat" name="Chop white chocolate" />
-		<text id="preparestep_carrotcake_chocolate" name="Melt chocolate" />
-		<text id="preparestep_carrotcake_milk" name="Measure milk" />
-		<text id="preparestep_carrotjuice_carrots" name="Peel carrots" />
-		<text id="preparestep_carrotjuice_sugar" name="Measure sugar" />
-		<text id="preparestep_francesinha_cheese" name="Slice cheese" />
-		<text id="preparestep_francesinha_eggs" name="Fry eggs" />
-		<text id="preparestep_francesinha_mincemeat" name="Cook meat" />
-		<text id="preparestep_francesinha_sausages" name="Slice sausages" />
-		<text id="preparestep_francesinha_onion" name="Chop onions" />
-		<text id="preparestep_dorayaki_flour" name="Sift flour" />
-		<text id="preparestep_dorayaki_eggs" name="Crack eggs" />
-		<text id="preparestep_dorayaki_beans" name="Mash beans" />
-		<text id="preparestep_dorayaki_sugar" name="Measure sugar" />
-		<text id="preparestep_tiramisu_chocolate" name="Grate chocolate" />
-		<text id="preparestep_tiramisu_cookies" name="Soak cookies" />
-		<text id="preparestep_tiramisu_quark" name="Whip quark" />
-		<text id="preparestep_tiramisu_eggs" name="Separate eggs" />
-		<text id="preparestep_pridecupcakes_flour" name="Sift flour" />
-		<text id="preparestep_pridecupcakes_eggs" name="Crack eggs" />
-		<text id="preparestep_pridecupcakes_coconut" name="Shave coconut" />
-		<text id="preparestep_pridecupcakes_sugar" name="Measure sugar" />
-		<text id="preparestep_pridecupcakes_milk" name="Measure milk" />
-		<text id="preparestep_ratatouille_tomato" name="Cut tomatoes" />
-		<text id="preparestep_ratatouille_eggplant" name="Slice eggplant" />
-		<text id="preparestep_ratatouille_onion" name="Chop onions" />
-		<text id="preparestep_ratatouille_cream" name="Mix cream" />
-		<text id="preparestep_ratatouille_oil" name="Measure oil" />
-		<text id="preparestep_hotcherryricepudding_rice" name="Weigh rice" />
-		<text id="preparestep_hotcherryricepudding_cherries" name="Pit cherries" />
-		<text id="preparestep_hotcherryricepudding_sugar" name="Measure sugar" />
-		<text id="preparestep_hotcherryricepudding_milk" name="Measure milk" />
-		<text id="preparestep_coconutcake_flour" name="Sift flour" />
-		<text id="preparestep_coconutcake_eggs" name="Crack eggs" />
-		<text id="preparestep_coconutcake_milk" name="Pour milk" />
-		<text id="preparestep_coconutcake_coconut" name="Grate coconut" />
-		<text id="preparestep_coconutcake_sugar" name="Measure sugar" />
-		<text id="preparestep_paodequeijo_eggs" name="Crack eggs" />
-		<text id="preparestep_paodequeijo_cheese" name="Grate cheese" />
-		<text id="preparestep_paodequeijo_flour" name="Sift flour" />
-		<text id="preparestep_paodequeijo_oil" name="Measure oil" />
-		<text id="preparestep_baiaodedois_rice" name="Weigh rice" />
-		<text id="preparestep_baiaodedois_beans" name="Rinse beans" />
-		<text id="preparestep_baiaodedois_cheese" name="Cube cheese" />
-		<text id="preparestep_baiaodedois_bacon" name="Cube bacon" />
-		<text id="preparestep_baiaodedois_onion" name="Chop onion" />
-		<text id="preparestep_bakedalaska_cream" name="Whip cream" />
-		<text id="preparestep_bakedalaska_eggs" name="Separate eggs" />
-		<text id="preparestep_bakedalaska_sugar" name="Measure sugar" />
-		<text id="preparestep_butterchicken_tomato" name="Blend tomatoes" />
-		<text id="preparestep_butterchicken_chicken" name="Cut chicken" />
-		<text id="preparestep_butterchicken_cream" name="Measure cream" />
-		<text id="preparestep_butterchicken_butter" name="Melt butter" />
-		<text id="preparestep_butterchicken_curryspice" name="Add curry" />
-		<text id="preparestep_chickenbiryani_tomato" name="Chop tomatoes" />
-		<text id="preparestep_chickenbiryani_onion" name="Chop onions" />
-		<text id="preparestep_chickenbiryani_rice" name="Cook rice" />
-		<text id="preparestep_chickenbiryani_chicken" name="Sauté chicken" />
-		<text id="preparestep_chickenbiryani_potato" name="Cube potatoes" />
-		<text id="preparestep_cottagepotatoes_cream" name="Mix cream" />
-		<text id="preparestep_cottagepotatoes_onion" name="Chop onions" />
-		<text id="preparestep_cottagepotatoes_quark" name="Whip quark" />
-		<text id="preparestep_cottagepotatoes_butter" name="Add butter" />
-		<text id="preparestep_cottagepotatoes_potato" name="Boil potatoes" />
-		<text id="preparestep_cuzcuzcomovo_sweetcorn" name="Prepare cornmeal" />
-		<text id="preparestep_cuzcuzcomovo_eggs" name="Crack eggs" />
-		<text id="preparestep_cuzcuzcomovo_butter" name="Melt butter" />
-		<text id="preparestep_malaichickennaan_chicken" name="Cut chicken" />
-		<text id="preparestep_malaichickennaan_cream" name="Whip cream" />
-		<text id="preparestep_malaichickennaan_garlic" name="Press garlic" />
-		<text id="preparestep_malaichickennaan_oil" name="Heat oil" />
-		<text id="preparestep_malaichickennaan_flour" name="Sift flour" />
-		<text id="preparestep_veganplate_carrots" name="Peel carrots" />
-		<text id="preparestep_veganplate_peas" name="Cook peas" />
-		<text id="preparestep_veganplate_cucumber" name="Slice cucumber" />
-		<text id="preparestep_veganplate_tomato" name="Cut tomatoes" />
-		<text id="preparestep_veganplate_rice" name="Cook rice" />
-		<text id="preparestep_neapolitancake_whitechocolat" name="Melt white chocolate" />
-		<text id="preparestep_neapolitancake_chocolate" name="Melt chocolate" />
-		<text id="preparestep_neapolitancake_strawberry" name="Mash strawberries" />
-		<text id="preparestep_neapolitancake_flour" name="Sift flour" />
-		<text id="preparestep_neapolitancake_milk" name="Pour milk" />
-		<text id="preparestep_strawberrycheesecake_cream" name="Add Cream" />
-		<text id="preparestep_strawberrycheesecake_milk" name="Add Milk" />
-		<text id="preparestep_strawberrycheesecake_cookies" name="Crumble Cookies" />
-		<text id="preparestep_strawberrycheesecake_quark" name="Add Quark" />
-		<text id="preparestep_strawberrycheesecake_strawberry" name="Add Strawberries" />
-		<text id="preparestep_combomeal_flour" name="Make instant bread" />
-		<text id="preparestep_combomeal_mincemeat" name="Make patties" />
-		<text id="preparestep_combomeal_cheese" name="Slice cheese" />
-		<text id="preparestep_combomeal_potato" name="Cut fries" />
-		<text id="preparestep_combomeal_oil" name="Add lots of oil" />
-		<text id="preparestep_zcordonbleu_chicken" name="Flatten chicken" />
-		<text id="preparestep_zcordonbleu_flour" name="Sift flour" />
-		<text id="preparestep_zcordonbleu_cheese" name="Slice cheese" />
-		<text id="preparestep_zcordonbleu_oil" name="Heat oil" />
-		<text id="preparestep_zcordonbleu_eggs" name="Beat eggs" />
-		<text id="preparestep_brazilianpastel_flour" name="Make pastel dough" />
-		<text id="preparestep_brazilianpastel_cheese" name="Grate cheese" />
-		<text id="preparestep_brazilianpastel_oil" name="Heat oil" />
-		<text id="preparestep_brazilianpastel_sugar" name="Make sugarcane drink" />
-		<text id="preparestep_lechonkawali_bacon" name="Slice bacon" />
-		<text id="preparestep_lechonkawali_cucumber" name="Slice cucumber" />
-		<text id="preparestep_lechonkawali_garlic" name="Crush garlic" />
-		<text id="preparestep_lechonkawali_oil" name="Heat oil" />
-		<text id="preparestep_sweetpizza_flour" name="Prepare pizza dough" />
-		<text id="preparestep_sweetpizza_chocolate" name="Melt chocolate" />
-		<text id="preparestep_sweetpizza_strawberry" name="Slice strawberries" />
-		<text id="preparestep_sweetpizza_cookfest" name="Find fruits" />
-		<text id="preparestep_shakshuka_onion" name="Chop onions" />
-		<text id="preparestep_shakshuka_garlic" name="Crush garlic" />
-		<text id="preparestep_shakshuka_tomato" name="Chop tomatoes" />
-		<text id="preparestep_shakshuka_eggs" name="Crack eggs" />
+		<text id="preparestep_pizzasalad_tomato" name="Tomaten schneiden" />
+		<text id="preparestep_pizzasalad_onion" name="Zwiebeln schneiden" />
+		<text id="preparestep_pizzasalad_lettuce" name="Salat waschen" />
+		<text id="preparestep_pizzasalad_cheese" name="Käse reiben" />
+		<text id="preparestep_pizzasalad_flour" name="Mehl sieben" />
+		<text id="preparestep_tripleomelette_eggs" name="Eier mit Schwung aufschlagen" />
+		<text id="preparestep_tripleomelette_chili" name="Scharf abschmecken" />
+		<text id="preparestep_chocolatewaffles_flour" name="Mehl abmessen" />
+		<text id="preparestep_chocolatewaffles_cream" name="Sahne schlagen" />
+		<text id="preparestep_chocolatewaffles_eggs" name="Eier vorsichtig aufschlagen" />
+		<text id="preparestep_chocolatewaffles_chocolate" name="Schokolade schmelzen" />
+		<text id="preparestep_chocolatewaffles_vanilla" name="Vanilleextrakt hinzufügen" />
+		<text id="preparestep_spanishomelette_potato" name="Kartoffeln schälen" />
+		<text id="preparestep_spanishomelette_onion" name="Zwiebeln hacken" />
+		<text id="preparestep_spanishomelette_eggs" name="Eier auf Spanisch aufschlagen" />
+		<text id="preparestep_spanishomelette_parsley" name="Petersilie hacken" />
+		<text id="preparestep_sausagepasta_pasta" name="Nudeln kochen" />
+		<text id="preparestep_sausagepasta_sausages" name="Würstchen schneiden" />
+		<text id="preparestep_sausagepasta_tomato" name="Tomatensauce zubereiten" />
+		<text id="preparestep_sausagepasta_coriander" name="Koriander hacken" />
+		<text id="preparestep_applepie_cream" name="Sahne schlagen" />
+		<text id="preparestep_applepie_eggs" name="Eier elegant aufschlagen" />
+		<text id="preparestep_applepie_flour" name="Mehl abmessen" />
+		<text id="preparestep_applepie_apple" name="Über die Apfel-Wirtschaft nachdenken" />
+		<text id="preparestep_applepie_cinnamon" name="Zimt hinzufügen" />
+		<text id="preparestep_ramen_pasta" name="Nudeln kochen" />
+		<text id="preparestep_ramen_eggs" name="Eier kochen" />
+		<text id="preparestep_ramen_bacon" name="Speck schneiden" />
+		<text id="preparestep_ramen_chili" name="Scharf abschmecken" />
+		<text id="preparestep_corncake_sweetcorn" name="Cornflakes machen" />
+		<text id="preparestep_corncake_butter" name="Butter schmelzen" />
+		<text id="preparestep_corncake_eggs" name="Eier verquirlen" />
+		<text id="preparestep_corncake_milk" name="Milch hinzufügen" />
+		<text id="preparestep_corncake_sugar" name="Zucker unter den Teig rühren" />
+		<text id="preparestep_corncake_cinnamon" name="Zimt hinzufügen" />
+		<text id="preparestep_feijoada_beans" name="Bohnen kochen" />
+		<text id="preparestep_feijoada_bacon" name="Speckwürfel schneiden" />
+		<text id="preparestep_feijoada_sausages" name="Würstchen schneiden" />
+		<text id="preparestep_feijoada_onion" name="Zwiebeln hacken" />
+		<text id="preparestep_feijoada_garlic" name="Knoblauch dazugeben" />
+		<text id="preparestep_feijoada_coriander" name="Koriander hinzufügen" />
+		<text id="preparestep_pinapjuice_pinapple" name="Ananas schneiden" />
+		<text id="preparestep_pinapjuice_vanilla" name="Vanille hinzufügen" />
+		<text id="preparestep_orangejuice_orange" name="Orangen in Scheiben schneiden" />
+		<text id="preparestep_orangejuice_sugar" name="Zucker hinzufügen" />
+		<text id="preparestep_orangejuice_vanilla" name="Vanille hinzufügen" />
+		<text id="preparestep_discodrinks_cream" name="Sahne schlagen" />
+		<text id="preparestep_discodrinks_pinapple" name="Ananas schneiden" />
+		<text id="preparestep_discodrinks_apple" name="Äpfel in Scheiben schneiden" />
+		<text id="preparestep_discodrinks_sugar" name="Zucker hinzufügen" />
+		<text id="preparestep_discodrinks_milk" name="Milch dazugießen" />
+		<text id="preparestep_discodrinks_vanilla" name="Vanille hinzufügen" />
+		<text id="preparestep_applejuice_apple" name="Äpfel in Scheiben schneiden" />
+		<text id="preparestep_applejuice_sugar" name="Zucker hinzufügen" />
+		<text id="preparestep_applejuice_vanilla" name="Vanille hinzufügen" />
+		<text id="preparestep_rjuice_rhubarb" name="Rhabarber schneiden" />
+		<text id="preparestep_rjuice_sugar" name="Zucker hinzufügen" />
+		<text id="preparestep_rjuice_vanilla" name="Vanille hinzufügen" />
+		<text id="preparestep_cherryjuice_cherries" name="Kirschen waschen" />
+		<text id="preparestep_cherryjuice_sugar" name="Zucker hinzufügen" />
+		<text id="preparestep_cherryjuice_vanilla" name="Vanille hinzufügen" />
+		<text id="preparestep_strawberryjuice_strawberry" name="Erdbeeren waschen" />
+		<text id="preparestep_strawberryjuice_sugar" name="Zucker hinzufügen" />
+		<text id="preparestep_strawberryjuice_vanilla" name="Vanille hinzufügen" />
+<text id="preparestep_cappuccino_cookfest" name="Über das nächste Cookfest nachdenken" />
+		<text id="preparestep_cappuccino_cinnamon" name="Zimt aufstreuen" />
+		<text id="preparestep_duckalcitrus_duck" name="Ente vorbereiten" />
+		<text id="preparestep_duckalcitrus_butter" name="Butter schmelzen" />
+		<text id="preparestep_duckalcitrus_onion" name="Zwiebeln hacken" />
+		<text id="preparestep_duckalcitrus_citrus" name="Zitrusfrüchte auspressen" />
+		<text id="preparestep_ducktatters_duck" name="Ente vorbereiten" />
+		<text id="preparestep_ducktatters_potato" name="Kartoffeln schneiden" />
+		<text id="preparestep_ducktatters_pasta" name="Nudeln kochen" />
+		<text id="preparestep_ducktatters_oil" name="Öl erhitzen" />
+		<text id="preparestep_langos_flour" name="Mehl sieben" />
+		<text id="preparestep_langos_eggs" name="Eier aufschlagen" />
+		<text id="preparestep_langos_cream" name="Sahne schlagen" />
+		<text id="preparestep_langos_garlic" name="Knoblauch pressen" />
+		<text id="preparestep_langos_cheese" name="Käse reiben" />
+		<text id="preparestep_nasilemak_rice" name="Reis waschen" />
+		<text id="preparestep_nasilemak_eggs" name="Eier kochen" />
+		<text id="preparestep_nasilemak_onion" name="Zwiebeln hacken" />
+		<text id="preparestep_nasilemak_beans" name="Bohnen kochen" />
+		<text id="preparestep_nasilemak_cucumber" name="Gurken in Scheiben schneiden" />
+		<text id="preparestep_citrusjuice_citrus" name="Zitrusfrüchte auspressen" />
+		<text id="preparestep_citrusjuice_sugar" name="Zucker abmessen" />
+		<text id="preparestep_carrotcake_carrots" name="Karotten raspeln" />
+		<text id="preparestep_carrotcake_flour" name="Mehl sieben" />
+		<text id="preparestep_carrotcake_whitechocolat" name="Weiße Schokolade hacken" />
+		<text id="preparestep_carrotcake_chocolate" name="Schokolade schmelzen" />
+		<text id="preparestep_carrotcake_milk" name="Milch abmessen" />
+		<text id="preparestep_carrotjuice_carrots" name="Karotten schälen" />
+		<text id="preparestep_carrotjuice_sugar" name="Zucker abmessen" />
+		<text id="preparestep_francesinha_cheese" name="Käse in Scheiben schneiden" />
+		<text id="preparestep_francesinha_eggs" name="Eier braten" />
+		<text id="preparestep_francesinha_mincemeat" name="Fleisch anbraten" />
+		<text id="preparestep_francesinha_sausages" name="Würstchen in Scheiben schneiden" />
+		<text id="preparestep_francesinha_onion" name="Zwiebeln hacken" />
+		<text id="preparestep_dorayaki_flour" name="Mehl sieben" />
+		<text id="preparestep_dorayaki_eggs" name="Eier aufschlagen" />
+		<text id="preparestep_dorayaki_beans" name="Bohnen zerstampfen" />
+		<text id="preparestep_dorayaki_sugar" name="Zucker abmessen" />
+		<text id="preparestep_tiramisu_chocolate" name="Schokolade raspeln" />
+		<text id="preparestep_tiramisu_cookies" name="Löffelbiskuits tränken" />
+		<text id="preparestep_tiramisu_quark" name="Quark glattrühren" />
+		<text id="preparestep_tiramisu_eggs" name="Eier trennen" />
+		<text id="preparestep_pridecupcakes_flour" name="Mehl sieben" />
+		<text id="preparestep_pridecupcakes_eggs" name="Eier aufschlagen" />
+		<text id="preparestep_pridecupcakes_coconut" name="Kokosnuss raspeln" />
+		<text id="preparestep_pridecupcakes_sugar" name="Zucker abmessen" />
+		<text id="preparestep_pridecupcakes_milk" name="Milch abmessen" />
+		<text id="preparestep_ratatouille_tomato" name="Tomaten schneiden" />
+		<text id="preparestep_ratatouille_eggplant" name="Auberginen in Scheiben schneiden" />
+		<text id="preparestep_ratatouille_onion" name="Zwiebeln hacken" />
+		<text id="preparestep_ratatouille_cream" name="Sahne unterrühren" />
+		<text id="preparestep_ratatouille_oil" name="Öl abmessen" />
+		<text id="preparestep_hotcherryricepudding_rice" name="Reis abwiegen" />
+		<text id="preparestep_hotcherryricepudding_cherries" name="Kirschen entsteinen" />
+		<text id="preparestep_hotcherryricepudding_sugar" name="Zucker abmessen" />
+		<text id="preparestep_hotcherryricepudding_milk" name="Milch abmessen" />
+		<text id="preparestep_coconutcake_flour" name="Mehl sieben" />
+		<text id="preparestep_coconutcake_eggs" name="Eier aufschlagen" />
+		<text id="preparestep_coconutcake_milk" name="Milch dazugießen" />
+		<text id="preparestep_coconutcake_coconut" name="Kokosnuss raspeln" />
+		<text id="coconutcake_sugar" name="Zucker abmessen" />
+		<text id="preparestep_paodequeijo_eggs" name="Eier aufschlagen" />
+		<text id="preparestep_paodequeijo_cheese" name="Käse reiben" />
+		<text id="preparestep_paodequeijo_flour" name="Mehl sieben" />
+		<text id="preparestep_paodequeijo_oil" name="Öl abmessen" />
+		<text id="preparestep_baiaodedois_rice" name="Reis abwiegen" />
+		<text id="preparestep_baiaodedois_beans" name="Bohnen abspülen" />
+		<text id="preparestep_baiaodedois_cheese" name="Käse würfeln" />
+		<text id="preparestep_baiaodedois_bacon" name="Speck würfeln" />
+		<text id="preparestep_baiaodedois_onion" name="Zwiebel hacken" />
+		<text id="preparestep_bakedalaska_cream" name="Sahne schlagen" />
+		<text id="preparestep_bakedalaska_eggs" name="Eier trennen" />
+		<text id="preparestep_bakedalaska_sugar" name="Zucker abmessen" />
+<text id="preparestep_butterchicken_tomato" name="Tomaten pürieren" />
+		<text id="preparestep_butterchicken_chicken" name="Hähnchen schneiden" />
+		<text id="preparestep_butterchicken_cream" name="Sahne abmessen" />
+		<text id="preparestep_butterchicken_butter" name="Butter schmelzen" />
+		<text id="preparestep_butterchicken_curryspice" name="Curry hinzufügen" />
+		<text id="preparestep_chickenbiryani_tomato" name="Tomaten hacken" />
+		<text id="preparestep_chickenbiryani_onion" name="Zwiebeln hacken" />
+		<text id="preparestep_chickenbiryani_rice" name="Reis kochen" />
+		<text id="preparestep_chickenbiryani_chicken" name="Hähnchen anbraten" />
+		<text id="preparestep_chickenbiryani_potato" name="Kartoffeln würfeln" />
+		<text id="preparestep_cottagepotatoes_cream" name="Sahne unterrühren" />
+		<text id="preparestep_cottagepotatoes_onion" name="Zwiebeln hacken" />
+		<text id="preparestep_cottagepotatoes_quark" name="Quark glattrühren" />
+		<text id="preparestep_cottagepotatoes_butter" name="Butter hinzufügen" />
+		<text id="preparestep_cottagepotatoes_potato" name="Kartoffeln kochen" />
+		<text id="preparestep_cuzcuzcomovo_sweetcorn" name="Maismehl vorbereiten" />
+		<text id="preparestep_cuzcuzcomovo_eggs" name="Eier aufschlagen" />
+		<text id="preparestep_cuzcuzcomovo_butter" name="Butter schmelzen" />
+		<text id="preparestep_malaichickennaan_chicken" name="Hähnchen schneiden" />
+		<text id="preparestep_malaichickennaan_cream" name="Sahne schlagen" />
+		<text id="preparestep_malaichickennaan_garlic" name="Knoblauch pressen" />
+		<text id="preparestep_malaichickennaan_oil" name="Öl erhitzen" />
+		<text id="preparestep_malaichickennaan_flour" name="Mehl sieben" />
+		<text id="preparestep_veganplate_carrots" name="Karotten schälen" />
+		<text id="preparestep_veganplate_peas" name="Erbsen kochen" />
+		<text id="preparestep_veganplate_cucumber" name="Gurke in Scheiben schneiden" />
+		<text id="preparestep_veganplate_tomato" name="Tomaten schneiden" />
+		<text id="preparestep_veganplate_rice" name="Reis kochen" />
+		<text id="preparestep_neapolitancake_whitechocolat" name="Weiße Schokolade schmelzen" />
+		<text id="preparestep_neapolitancake_chocolate" name="Schokolade schmelzen" />
+		<text id="preparestep_neapolitancake_strawberry" name="Erdbeeren zerdrücken" />
+		<text id="preparestep_neapolitancake_flour" name="Mehl sieben" />
+		<text id="preparestep_neapolitancake_milk" name="Milch dazugießen" />
+		<text id="preparestep_strawberrycheesecake_cream" name="Sahne hinzufügen" />
+		<text id="preparestep_strawberrycheesecake_milk" name="Milch hinzufügen" />
+		<text id="preparestep_strawberrycheesecake_cookies" name="Kekse zerbröseln" />
+		<text id="preparestep_strawberrycheesecake_quark" name="Quark hinzufügen" />
+		<text id="preparestep_strawberrycheesecake_strawberry" name="Erdbeeren hinzufügen" />
+		<text id="preparestep_combomeal_flour" name="Blitzbrot backen" />
+		<text id="preparestep_combomeal_mincemeat" name="Patties formen" />
+		<text id="preparestep_combomeal_cheese" name="Käse in Scheiben schneiden" />
+		<text id="preparestep_combomeal_potato" name="Pommes schneiden" />
+		<text id="preparestep_combomeal_oil" name="Reichlich Öl hinzufügen" />
+		<text id="preparestep_zcordonbleu_chicken" name="Hähnchen flachklopfen" />
+		<text id="preparestep_zcordonbleu_flour" name="Mehl sieben" />
+		<text id="preparestep_zcordonbleu_cheese" name="Käse in Scheiben schneiden" />
+		<text id="preparestep_zcordonbleu_oil" name="Öl erhitzen" />
+		<text id="preparestep_zcordonbleu_eggs" name="Eier verquirlen" />
+		<text id="preparestep_brazilianpastel_flour" name="Pastel-Teig zubereiten" />
+		<text id="preparestep_brazilianpastel_cheese" name="Käse reiben" />
+		<text id="preparestep_brazilianpastel_oil" name="Öl erhitzen" />
+		<text id="preparestep_brazilianpastel_sugar" name="Zuckerrohrsaft machen" />
+		<text id="preparestep_lechonkawali_bacon" name="Schweinebauch in Scheiben schneiden" />
+		<text id="preparestep_lechonkawali_cucumber" name="Gurke in Scheiben schneiden" />
+		<text id="preparestep_lechonkawali_garlic" name="Knoblauch zerdrücken" />
+		<text id="preparestep_lechonkawali_oil" name="Öl erhitzen" />
+		<text id="preparestep_sweetpizza_flour" name="Pizzateig vorbereiten" />
+		<text id="preparestep_sweetpizza_chocolate" name="Schokolade schmelzen" />
+		<text id="preparestep_sweetpizza_strawberry" name="Erdbeeren in Scheiben schneiden" />
+		<text id="preparestep_sweetpizza_cookfest" name="Früchte finden" />
+		<text id="preparestep_shakshuka_onion" name="Zwiebeln hacken" />
+		<text id="preparestep_shakshuka_garlic" name="Knoblauch zerdrücken" />
+		<text id="preparestep_shakshuka_tomato" name="Tomaten hacken" />
+		<text id="preparestep_shakshuka_eggs" name="Eier aufschlagen" />
 		<text id="preparestep_blackforestcherrycake_flour" name="Mehl sieben" />
 		<text id="preparestep_cheeseburger_cheese" name="Käse schneiden" />
 		<text id="preparestep_cheeseburger_flour" name="Mehl sieben" />
@@ -1578,12 +1578,12 @@
 		<text id="preparestep_whitechocmousse_cream" name="Sahne schlagen" />
 		<text id="preparestep_whitechocmousse_eggs" name="Eier trennen" />
 		<text id="preparestep_whitechocmousse_whitechocolat" name="Schokolade schmelzen" />
-		<text id="preparestep_coxinha_flour" name="Spread flour" />
-		<text id="preparestep_coxinha_chicken" name="Shred chicken" />
-		<text id="preparestep_coxinha_onion" name="Chop onions" />
-		<text id="preparestep_coxinha_cream" name="Make cream cheese" />
-		<text id="preparestep_coxinha_oil" name="Heat oil" />
-		<text id="preparestep_coxinha_coriander" name="Chop coriander" />
+		<text id="preparestep_coxinha_flour" name="Mehl ausstreuen" />
+		<text id="preparestep_coxinha_chicken" name="Hähnchen zerzupfen" />
+		<text id="preparestep_coxinha_onion" name="Zwiebeln hacken" />
+		<text id="preparestep_coxinha_cream" name="Frischkäse zubereiten" />
+		<text id="preparestep_coxinha_oil" name="Öl erhitzen" />
+		<text id="preparestep_coxinha_coriander" name="Koriander hacken" />
 	</preparestep>
 	<preparestep_fancy>
 		<text id="preparestep_duckalcitrus_cinnamon" name="Sprinkle cinnamon" />
