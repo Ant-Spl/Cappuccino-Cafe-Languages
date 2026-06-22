@@ -873,6 +873,7 @@ function bindInputs() {
 
 function handleMyDexInputChange() {
   userData.level = clampNumber(Number(document.getElementById('playerLevel').value || 1), 0, 999);
+  userData.xpNeeded = Math.max(0, Number(document.getElementById('xpNeeded').value || 0));
   userData.availableStoves = Math.max(1, Number(document.getElementById('stoveCount').value || 1));
   saveUserData();
   syncProfileInputs(false);
@@ -1599,6 +1600,7 @@ function normalizeUserData(raw) {
     version: 1,
     chefName: typeof data.chefName === 'string' ? data.chefName : '',
     level: clampNumber(Number(data.level || 1), 0, 999),
+    xpNeeded: Math.max(0, Number(data.xpNeeded ?? 1000)),
     availableStoves: Number(data.availableStoves || 0),
     masteries: normalizeMasteries(data.masteries)
   };
@@ -1617,6 +1619,9 @@ function normalizeMasteries(rawMasteries) {
 
 function ensureUserDefaults() {
   if (!Number.isFinite(Number(userData.level))) userData.level = 1;
+  if (!Number.isFinite(Number(userData.xpNeeded)) || Number(userData.xpNeeded) < 0) {
+    userData.xpNeeded = 1000;
+  }
   if (!Number.isFinite(Number(userData.availableStoves)) || Number(userData.availableStoves) <= 0) {
     userData.availableStoves = getDefaultStovesForLevel(userData.level);
   }
@@ -1648,6 +1653,7 @@ function syncProfileInputs(clearStatus = true) {
 
 function syncMyDexInputs(updateStoves = true) {
   document.getElementById('playerLevel').value = Number(userData.level || 1);
+  document.getElementById('xpNeeded').value = Math.max(0, Number(userData.xpNeeded ?? 1000));
   if (updateStoves) {
     document.getElementById('stoveCount').value = Number(userData.availableStoves || getDefaultStovesForLevel(userData.level));
   }
@@ -1670,11 +1676,13 @@ function exportUserData() {
         version: 1,
         chefName: userData.chefName.trim(),
         level: Number(userData.level || 1),
+        xpNeeded: Math.max(0, Number(userData.xpNeeded ?? 1000)),
         availableStoves: Number(userData.availableStoves || getDefaultStovesForLevel(userData.level)),
         masteries: userData.masteries || {}
       }
     : {
         version: 1,
+        xpNeeded: Math.max(0, Number(userData.xpNeeded ?? 1000)),
         masteries: userData.masteries || {}
       };
 
@@ -1703,6 +1711,9 @@ function importUserData(file) {
       if (!parsed || typeof parsed !== 'object') throw new Error('Invalid JSON');
 
       userData.masteries = normalizeMasteries(parsed.masteries);
+      if ('xpNeeded' in parsed) {
+        userData.xpNeeded = Math.max(0, Number(parsed.xpNeeded || 0));
+      }
 
       if ('chefName' in parsed || 'level' in parsed || 'availableStoves' in parsed) {
         userData.chefName = typeof parsed.chefName === 'string' ? parsed.chefName : userData.chefName;
