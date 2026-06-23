@@ -410,7 +410,7 @@
 		<text id="cookstep_whitechocmousse1" name="Шоколад плавится" />
 		<text id="cookstep_whitechocmousse2" name="Мусс охлаждается" />
 		<text id="cookstep_coxinha1" name="Ингридиенты смешиваются" />
-		<text id="cookstep_coxinha2" name="Кохинья жарится" />
+		<text id="cookstep_coxinha2" name="Кошинья жарится" />
 	</cookstep>
 	<coopmission>
 		<text id="coop_desc_long_1" name="Мы начинаем кулинарный урок, чтобы отточить мастерство приготовления основных блюд. Хотите присоединиться?" />
@@ -1712,13 +1712,13 @@
 		<text id="recipe_feijoada" name="Фейжоада" />
 		<text id="recipe_pinapjuice" name="Ананасовый сок" />
 		<text id="recipe_orangejuice" name="Апельсиновый сок" />
-		<text id="recipe_discodrinks" name="Диско-напитки" />
+		<text id="recipe_discodrinks" name="Напитки из Диско" />
 		<text id="recipe_applejuice" name="Яблочный сок" />
 		<text id="recipe_rjuice" name="Сок из ревеня" />
 		<text id="recipe_cherryjuice" name="Вишневый сок" />
 		<text id="recipe_strawberryjuice" name="Клубничный сок" />
 		<text id="recipe_cappuccino" name="Cappuccino" />
-		<text id="recipe_duckalcitrus" name="Утка а ля оранж" />
+		<text id="recipe_duckalcitrus" name="Утка а ля Цитрус" />
 		<text id="recipe_ducktatters" name="Утка с пастой и картофелем" />
 		<text id="recipe_langos" name="Лангош" />
 		<text id="recipe_nasilemak" name="Наси лемак" />
@@ -1767,7 +1767,7 @@
 		<text id="recipe_cookieplate" name="Поднос с печеньем" />
 		<text id="recipe_cornonthecob" name="Початок кукурузы" />
 		<text id="recipe_curry" name="Карри" />
-		<text id="recipe_duckalorange" name="Утка а ля Ораж" />
+		<text id="recipe_duckalorange" name="Утка а ля Оранж" />
 		<text id="recipe_easterdish" name="Пасхальное лукошко" />
 		<text id="recipe_englishbreakfast" name="Английский завтрак" />
 		<text id="recipe_fishandchips" name="Рыба с картошкой-фри" />
@@ -1832,10 +1832,10 @@
 		<text id="recipe_smoothiemaker_soymilk" name="Соевое молоко" />
 		<text id="recipe_smoothiemaker_icedcoffee" name="Айс Кофе" />
 		<text id="recipe_smoothiemaker_kiba" name="Вишнёвый закат" />
-		<text id="recipe_smoothiemaker_cola" name="Cappu-Cola" />
-		<text id="recipe_smoothiemaker_acai" name="Açaí Smoothie" />
-		<text id="recipe_smoothiemaker_orangesoda" name="Funta" />
-		<text id="recipe_smoothiemaker_guarana" name="Brazilian Guaraná" />
+		<text id="recipe_smoothiemaker_cola" name="Cappu-Кола" />
+		<text id="recipe_smoothiemaker_acai" name="Açaí Смузи" />
+		<text id="recipe_smoothiemaker_orangesoda" name="Фунта" />
+		<text id="recipe_smoothiemaker_guarana" name="Бразильская Гуарана" />
 		<text id="recipe_smoothiemaker_pinacolada" name="Девичий поцелуй" />
 		<text id="recipe_smoothiemaker_tomatojuice" name="Томатный сок" />
 	</recipes_fastfood>
