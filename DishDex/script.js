@@ -1,5 +1,30 @@
 // DishDex/script.js
 
+
+function buildLanguageFilePaths() {
+  const entries = {};
+  ['cs', 'da', 'de', 'el', 'en', 'es', 'fi', 'fr', 'hu', 'it', 'ja', 'ko', 'nl', 'pl', 'pt', 'ru', 'sv', 'tr', 'zh_CN', 'zh_TW'].forEach(code => {
+    entries[code] = [
+      `../langs/Cafe_${code}.xml`,
+      `../langs/cafe_${code}.xml`,
+      `../Cafe_${code}.xml`,
+      `../cafe_${code}.xml`
+    ];
+  });
+  return entries;
+}
+
+function buildUiLanguageFilePaths() {
+  const entries = {};
+  ['cs', 'da', 'de', 'el', 'en', 'es', 'fi', 'fr', 'hu', 'it', 'ja', 'ko', 'nl', 'pl', 'pt', 'ru', 'sv', 'tr', 'zh_CN', 'zh_TW'].forEach(code => {
+    entries[code] = [
+      `./dishdexlangs/dishdex_${code}.xml`,
+      `dishdexlangs/dishdex_${code}.xml`
+    ];
+  });
+  return entries;
+}
+
 const PATHS = {
   cafeItems: '../CafeItems.xml',
   levelLimits: [
@@ -7,25 +32,10 @@ const PATHS = {
     '../CafeLevelXP.xml',
     '../CafeLevelXp.XML'
   ],
-  languageFiles: {
-    en: [
-      '../langs/Cafe_en.xml',
-      '../langs/cafe_en.xml',
-      '../Cafe_en.xml'
-    ],
-    pt: [
-      '../langs/Cafe_pt.xml',
-      '../langs/cafe_pt.xml',
-      '../Cafe_pt.xml'
-    ]
-  },
+  languageFiles: buildLanguageFilePaths(),
   imageBase: '../dishimages/',
   coopIconBase: './coopicons/',
-  uiLanguageFiles: {
-    en: ['./dishdexlangs/dishdex_en.xml'],
-    pt: ['./dishdexlangs/dishdex_pt.xml'],
-    it: ['./dishdexlangs/dishdex_it.xml']
-  }
+  uiLanguageFiles: buildUiLanguageFilePaths()
 };
 
 const STORAGE_KEY = 'dishDexUserDataV1';
@@ -84,6 +94,13 @@ const CATEGORY_NAMES = {
     '5': 'Lanche'
   }
 };
+
+
+const SUPPORTED_LANGUAGE_CODES = [
+  'cs', 'da', 'de', 'el', 'en', 'es', 'fi', 'fr', 'hu', 'it', 'ja', 'ko', 'nl', 'pl', 'pt', 'ru', 'sv', 'tr', 'zh_CN', 'zh_TW'
+];
+
+const CAFE_LANGUAGE_CODES = new Set(SUPPORTED_LANGUAGE_CODES);
 
 const I18N = {
   en: {
@@ -857,24 +874,35 @@ function setupLanguage() {
 }
 
 function detectBrowserLanguage() {
-  const language = String(navigator.language || navigator.userLanguage || '').toLowerCase();
-  if (language.startsWith('pt')) return 'pt';
-  if (language.startsWith('it')) return 'it';
-  return 'en';
+  const language = String(navigator.language || navigator.userLanguage || '').replace('-', '_');
+  const lower = language.toLowerCase();
+  if (lower.startsWith('zh_cn') || lower === 'zh') return 'zh_CN';
+  if (lower.startsWith('zh_tw') || lower.startsWith('zh_hk')) return 'zh_TW';
+  const shortCode = lower.slice(0, 2);
+  const matched = SUPPORTED_LANGUAGE_CODES.find(code => code.toLowerCase() === shortCode);
+  return matched || 'en';
 }
 
 function normalizeUiLanguage(languageCode) {
-  return ['en', 'pt', 'it'].includes(languageCode) ? languageCode : 'en';
+  const code = String(languageCode || 'en');
+  if (SUPPORTED_LANGUAGE_CODES.includes(code)) return code;
+  const normalized = code.replace('-', '_');
+  if (SUPPORTED_LANGUAGE_CODES.includes(normalized)) return normalized;
+  const shortCode = normalized.toLowerCase().slice(0, 2);
+  return SUPPORTED_LANGUAGE_CODES.find(candidate => candidate.toLowerCase() === shortCode) || 'en';
 }
 
 function getCafeLanguageCode(languageCode = currentLanguage) {
-  return languageCode === 'pt' ? 'pt' : 'en';
+  const normalizedLanguage = normalizeUiLanguage(languageCode);
+  return CAFE_LANGUAGE_CODES.has(normalizedLanguage) ? normalizedLanguage : 'en';
 }
 
 function getHtmlLanguageCode(languageCode = currentLanguage) {
-  if (languageCode === 'pt') return 'pt-BR';
-  if (languageCode === 'it') return 'it';
-  return 'en';
+  const normalizedLanguage = normalizeUiLanguage(languageCode);
+  if (normalizedLanguage === 'pt') return 'pt-BR';
+  if (normalizedLanguage === 'zh_CN') return 'zh-CN';
+  if (normalizedLanguage === 'zh_TW') return 'zh-TW';
+  return normalizedLanguage.replace('_', '-');
 }
 
 const SCREEN_HASHES = {
@@ -1331,8 +1359,11 @@ function handleMyDexInputChange() {
   userData.xpNeeded = Math.max(0, Number(document.getElementById('xpNeeded').value || 0));
   userData.availableStoves = Math.max(1, Number(document.getElementById('stoveCount').value || 1));
   userData.showIngredients = Boolean(document.getElementById('showIngredientsToggle')?.checked);
+  userData.myTime = normalizeMyTimeSettings(userData.myTime, userData.level);
+  userData.myTime.playerLevel = userData.level;
   saveUserData();
   syncProfileInputs(false);
+  syncMyTimeInputs(false);
   renderMyDex();
   renderMyTime();
   renderCoopPlanner();
@@ -1342,9 +1373,12 @@ function handleProfileLevelChange() {
   const level = clampNumber(Number(document.getElementById('profileLevel').value || 1), 0, 999);
   userData.level = level;
   userData.availableStoves = getDefaultStovesForLevel(level);
+  userData.myTime = normalizeMyTimeSettings(userData.myTime, level);
+  userData.myTime.playerLevel = level;
   saveUserData();
   syncProfileInputs(false);
   syncMyDexInputs(false);
+  syncMyTimeInputs(false);
   setProfileStatus(t('profileSaved'));
   renderMyDex();
   renderMyTime();
@@ -1357,10 +1391,14 @@ function handleProfileInputChange() {
   userData.chefName = document.getElementById('profileChefName').value.trim();
   userData.level = clampNumber(Number(document.getElementById('profileLevel').value || 1), 0, 999);
   userData.availableStoves = Math.max(1, Number(document.getElementById('profileStoves').value || 1));
+  userData.myTime = normalizeMyTimeSettings(userData.myTime, userData.level);
+  userData.myTime.playerLevel = userData.level;
   saveUserData();
   syncMyDexInputs(false);
+  syncMyTimeInputs(false);
   setProfileStatus(t('profileSaved'));
   renderMyDex();
+  renderMyTime();
   renderCoopTeamEditor();
   renderCoopPlanner();
 }
@@ -3860,6 +3898,8 @@ function importUserData(file) {
         userData.selectedCoopNumber = Math.max(0, Math.floor(Number(parsed.selectedCoopNumber || 0)));
       }
 
+      userData.myTime = normalizeMyTimeSettings(userData.myTime, userData.level);
+      userData.myTime.playerLevel = userData.level;
       ensureUserDefaults();
       ensureCoopTeamDefaults();
       saveUserData();
