@@ -38,9 +38,9 @@
   <text id="assignmentCopied" name="Assegnazione copiata!" />
   <text id="assignmentCopyFailed" name="Non è stato possibile copiare l&apos;assegnazione." />
   <text id="assignmentPlanTitle" name="Assegnazione piatti" />
-  <text id="auto" name="Automatico" />
+  <text id="auto" name="Mod. Automatica" />
   <text id="availableDishDex" name="DishDex disponibile" />
-  <text id="availableDishDexNote" name="Lista dei piatti - completa di XP, profitti, porzioni, tempi, categoria e requisiti." />
+  <text id="availableDishDexNote" name="Lista dei piatti - completa di XP, profitti, porzioni, tempi, categorie e requisiti." />
   <text id="availableStoves" name="Fornelli disponibili" />
   <text id="backButton" name="← Indietro" />
   <text id="baseRewards" name="Ricompense di base" />
@@ -51,10 +51,10 @@
   <text id="bestProfitTitle" name="Piatti migliori (Profitti)" />
   <text id="bestSummaryPortionMin" name="Migliore per porzioni/min" />
   <text id="bestSummaryProfitMin" name="Migliore per profitti/min" />
-  <text id="bestSummaryRawPortion" name="Migliore per porzioni pure" />
-  <text id="bestSummaryRawProfit" name="Migliore per profitti puri" />
-  <text id="bestSummaryRawXp" name="Migliore per XP puri" />
-  <text id="bestSummaryTitle" name="Riassunto dei migliori" />
+  <text id="bestSummaryRawPortion" name="Migliore per porzioni totali" />
+  <text id="bestSummaryRawProfit" name="Migliore per profitti totali" />
+  <text id="bestSummaryRawXp" name="Migliore per XP totali" />
+  <text id="bestSummaryTitle" name="Riassunto dei piatti migliori" />
   <text id="bestSummaryXpMin" name="Migliore per XP/min" />
 
   <text id="bestXpTitle" name="Piatti migliori (XP)" />
@@ -81,7 +81,7 @@
   <text id="coopListTitle" name="Pianificatore Co-Op" />
   <text id="coopNumber" name="Co-Op" />
   <text id="coopPlannerDescription" name="Ricerca e pianifica i tuoi prossimi Co-Op." />
-  <text id="coopPlannerEyebrow" name="Cucinando in team" />
+  <text id="coopPlannerEyebrow" name="Tutti per uno, uno per tutti!" />
   <text id="coopPlannerTitle" name="Pianificatore Co-Op" />
   <text id="coopRequirements" name="Piatti richiesti" />
   <text id="coopSearch" name="Cerca Co-Op" />
@@ -105,7 +105,7 @@
   <text id="dish" name="Piatto" />
   <text id="dishesNeeded" name="Piatti da cucinare" />
   <text id="dishesReady" name="piatti" />
-  <text id="dishesRequired" name="piatti cucinati" />
+  <text id="dishesRequired" name="piatti da cucinare" />
   <text id="downloadData" name="Scarica dati" />
   <text id="duration" name="Durata" />
   <text id="editGoldMasteries" name="Modifica le stelle d&apos;oro" />
@@ -126,7 +126,7 @@
   <text id="holiday" name="Festa" />
   <text id="holidayActive" name="Festa: attiva" />
   <text id="holidayDishes" name="Piatti festivi" />
-  <text id="holidayDishesNote" name="I piatti festivi hanno una sezione a sè. La modalità Automatica considera il periodo Natalizio e quello Pasquale." />
+  <text id="holidayDishesNote" name="I piatti festivi hanno una sezione a sé. La modalità Automatica considera il periodo Natalizio e quello Pasquale." />
   <text id="holidayInactive" name="Festa: non attiva" />
   <text id="holidayMode" name="Includi piatti festivi?" />
   <text id="hoursShort" name="h" />
@@ -171,7 +171,7 @@
   <text id="myDexHint" name="Inserisci i tuoi dati per raccomandazioni personalizzate." />
   <text id="myDexSettings" name="Impostazioni MyDex" />
   <text id="myMasteriesActive" name="Usando le mie stelle per lo Chef 1" />
-  <text id="myMasteriesDescription" name="Memorizza le tue stelle ottenute ed applicale al tuo MyDex." />
+  <text id="myMasteriesDescription" name="Memorizza le tue stelle ottenute ed applicale al MyDex." />
   <text id="myMasteriesTitle" name="Le mie stelle" />
   <text id="myProfileDescription" name="Memorizza il tuo nome, livello e numero di fornelli." />
   <text id="myProfileTitle" name="Profilo" />
@@ -226,7 +226,7 @@
   <text id="predictedStatus" name="Stato previsto" />
   <text id="previousPage" name="← Indietro" />
   <text id="profileSaved" name="Profilo salvato in locale." />
-  <text id="profileSettingsNote" name="Il tuo livello permette al DishDex di impostare automaticamente il numero di fornelli disponibili. Questo potrai successivamente cambiarlo nel MyDex." />
+  <text id="profileSettingsNote" name="Il tuo livello permette al DishDex di impostare automaticamente il numero di fornelli disponibili. Questo potrai anche cambiarlo nel MyDex." />
   <text id="profileSettingsTitle" name="Profilo Chef" />
   <text id="profit" name="Profitti" />
   <text id="profitLower" name="profitti" />
@@ -278,7 +278,7 @@
 
   <text id="special" name="Speciale" />
   <text id="specialDishes" name="Piatti speciali" />
-  <text id="specialDishesNote" name="I piatti speciali hanno una sezione a sè." />
+  <text id="specialDishesNote" name="I piatti speciali hanno una sezione a sé." />
   <text id="stoves" name="Fornelli" />
   <text id="targetShort" name="Obiettivo" />
   <text id="targetTime" name="Obiettivo di tempo" />
@@ -298,12 +298,12 @@
   <text id="workloadEqual" name="Nella media" />
   <text id="workloadHigh" name="Alto" />
   <text id="workloadLow" name="Basso" />
-  <text id="workloadManual" name="Imposta manuale" />
+  <text id="workloadManual" name="A scelta" />
   <text id="workloadMinimum" name="Minimo" />
   <text id="workloadVeryHigh" name="Molto alto" />
   <text id="xpEach" name="XP Cadauno" />
   <text id="xpNeeded" name="XP Richiesto" />
   <text id="xpPlansNote" name="Il piano migliore per incrementare di livello, in base ai tuoi bisogni e alle tue disponibilità." />
-  <text id="xpPlansTitle" name="Pianificazione per XP richiesti" />
+  <text id="xpPlansTitle" name="Pianificazione basata sugli XP richiesti" />
   <text id="xpUpper" name="XP" />
 </dishdex>
